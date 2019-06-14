@@ -1,0 +1,20 @@
+<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_14" attribute="Q_FARE" value="Person" />
+  <concept id="3" span="word_15..word_17" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_18..word_19" attribute="CONV_FORM" value="HELLO" />
+  <concept id="5" span="word_20..word_22" attribute="ACTION_REQUIRED" value="Repeat" />
+  <concept id="6" span="word_23..word_29" attribute="Q_FARE" value="Person" />
+  <concept id="7" span="word_34" attribute="PERSON" value="Student" />
+  <concept id="8" span="word_38" attribute="TIME_REL" value="Now" />
+  <concept id="9" span="word_48" attribute="FARE" value="Discount" />
+  <concept id="10" span="word_49" attribute="PERSON" value="Student" />
+  <concept id="11" span="word_50..word_57" attribute="Q_FARE" value="Student" />
+  <concept id="12" span="word_58" attribute="REACTION" value="Negation" />
+  <concept id="13" span="word_63..word_65" attribute="PERSON" value="ForeignStudent" />
+  <concept id="14" span="word_66" attribute="PERSON" value="ForeignStudent" />
+  <concept id="15" span="word_67..word_102" attribute="INFORMATION" value="FARE_ForeignStudents" />
+  <concept id="16" span="word_103..word_105" attribute="Q_CONF" value="RepeatInformation" />
+  <concept id="17" span="word_107" attribute="REACTION" value="Negation" />
+  <concept id="18" span="word_110..word_114" attribute="Q_CONF" value="OtherInformation" />
+</concepts>

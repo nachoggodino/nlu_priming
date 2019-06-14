@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="20075_in;20075_out" version="3" version_date="080718">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="72.512" topic="to1">
+<Turn startTime="0" endTime="0.655">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.655" endTime="8.307">
+<Sync time="0.655"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ kim jest osoba ubiegająca się o zniżkę
+</Turn>
+<Turn speaker="spk2" startTime="8.307" endTime="26.036">
+<Sync time="8.307"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mój ojciec i ma sześćdziesiąt osiemdziesiąt osiem lat 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="26.036" endTime="26.515">
+<Sync time="26.036"/>
+<Who nb="1"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+przepraszam
+</Turn>
+<Turn speaker="spk1" startTime="26.515" endTime="27.432">
+<Sync time="26.515"/>
+nie zrozumiałam
+</Turn>
+<Turn speaker="spk2" startTime="27.432" endTime="37.46">
+<Sync time="27.432"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mój ojciec ma sześćdziesiąt osiem lat 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ no cóż nam na mnie to nie działa
+</Turn>
+<Turn speaker="spk1" startTime="37.46" endTime="40.681">
+<Sync time="37.460"/>
+kim jest osoba ubiegająca się o zniżkę
+</Turn>
+<Turn speaker="spk2" startTime="40.681" endTime="48.13">
+<Sync time="40.681"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ ojciec nie 
+<Event desc="*" type="pronounce" extent="begin"/>
+wiem
+<Event desc="*" type="pronounce" extent="end"/>
+ tata emeryt tak w ten sposób no
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="48.13" endTime="50.656">
+<Sync time="48.13"/>
+<Who nb="1"/>
+użył pan tego słowa jest
+<Who nb="2"/>
+emerytem do przejazdów ze zniżką
+</Turn>
+<Turn speaker="spk1" startTime="50.656" endTime="68.048">
+<Sync time="50.656"/>
+czterdzieści osiem procent uprawnieni są emeryci i renciści do ukończenia siedemdziesiątego roku życia na podstawie dokumentu tożsamości i imiennej legitymacji potwierdzającej status emeryta albo rencisty lub w przypadku jej braku na podstawie aktualnego odcinka emerytury lub renty czy udzielić jeszcze innych informacji
+</Turn>
+<Turn speaker="spk2" startTime="68.048" endTime="69.619">
+<Sync time="68.048"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ nie
+</Turn>
+<Turn speaker="spk1" startTime="69.619" endTime="72.298">
+<Sync time="69.619"/>
+dziękuję za rozmowę do usłyszenia
+</Turn>
+<Turn startTime="72.298" endTime="72.512">
+<Sync time="72.298"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

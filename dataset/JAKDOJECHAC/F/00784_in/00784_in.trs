@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00784_in;00784_out" version="4" version_date="080722">
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="126.112" topic="to1">
+<Turn startTime="0" endTime="0.586">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.586" endTime="4.373">
+<Sync time="0.586"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji
+</Turn>
+<Turn speaker="spk1 spk2" startTime="4.373" endTime="5.27582746007">
+<Sync time="4.373"/>
+<Who nb="1"/>
+telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ pod mostem
+</Turn>
+<Turn speaker="spk1" startTime="5.27582746007" endTime="16.983077785">
+<Sync time="5.27582746007"/>
+powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje
+</Turn>
+<Turn speaker="spk2" startTime="16.983077785" endTime="23.059">
+<Sync time="16.983077785"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ on tutaj na tym inaczej jedzie 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="23.059" endTime="23.095">
+<Sync time="23.059"/>
+<Who nb="1"/>
+przepraszam
+<Who nb="2"/>
+na 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.095" endTime="38.501">
+<Sync time="23.095"/>
+nie zrozumiałam umiem rozpoznawać tylko sugerowane przeze mnie opcje powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje
+</Turn>
+<Turn speaker="spk2" startTime="38.501" endTime="45.070">
+<Sync time="38.501"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ chodzi o wysz
+<Event desc="~" type="lexical" extent="begin"/>
+ukanie
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ o trasę dojazdu 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="45.070" endTime="46.749">
+<Sync time="45.070"/>
+<Who nb="1"/>
+wyszukanie trasy
+<Who nb="2"/>
+podaj punkt początkowy
+</Turn>
+<Turn speaker="spk1" startTime="46.749" endTime="47.275">
+<Sync time="46.749"/>
+trasy
+</Turn>
+<Turn speaker="spk2" startTime="47.275" endTime="51.328">
+<Sync time="47.275"/>
+Plac 
+<Event desc="en" type="language" extent="begin"/>
+Wilson
+<Event desc="en" type="language" extent="end"/>
+a w kierunku Wybrzeża Gdańskiego
+</Turn>
+<Turn speaker="spk1" startTime="51.328" endTime="53.359">
+<Sync time="51.328"/>
+podaj punkt końcowy trasy
+</Turn>
+<Turn speaker="spk2" startTime="53.359" endTime="60.437">
+<Sync time="53.359"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jejku most 
+<Event desc="*" type="pronounce" extent="begin"/>
+Wybrzeże
+<Event desc="*" type="pronounce" extent="end"/>
+ Gdańskie Aleja Armii 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="60.437" endTime="60.858">
+<Sync time="60.437"/>
+<Who nb="1"/>
+ Krajowej
+<Who nb="2"/>
+łączę
+</Turn>
+<Turn speaker="spk1" startTime="60.858" endTime="61.587">
+<Sync time="60.858"/>
+z operatorem
+</Turn>
+<Turn speaker="spk3" startTime="61.587" endTime="125.172">
+<Sync time="61.587"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+
+
+</Turn>
+<Turn startTime="125.172" endTime="126.112">
+<Sync time="125.172"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

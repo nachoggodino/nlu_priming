@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00625_in;00625_out" version="2" version_date="080625">
+<Topics>
+<Topic id="to1" desc="female user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="104.576" topic="to1">
+<Turn startTime="0" endTime="0.538">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.538" endTime="29.029">
+<Sync time="0.538"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek
+</Turn>
+<Turn speaker="spk1 spk2" startTime="29.029" endTime="30.041">
+<Sync time="29.029"/>
+<Who nb="1"/>
+zagubiony
+<Who nb="2"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ czasy odjazdów 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.041" endTime="37.703">
+<Sync time="30.041"/>
+bagaż czasy odjazdów aby uzyskać informacje o odjazdach trzeba odpowiedzieć na cztery pytania podaj numer linii
+</Turn>
+<Turn speaker="spk2" startTime="37.703" endTime="40.031">
+<Sync time="37.703"/>
+nie wiem jaka linia
+</Turn>
+<Turn speaker="spk1" startTime="40.031" endTime="49.832">
+<Sync time="40.031"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ przepraszam nie zrozumiałam umiem rozpoznawać tylko sugerowane przeze mnie opcje podaj numer linii
+</Turn>
+<Turn speaker="spk2" startTime="49.832" endTime="53.856">
+<Sync time="49.832"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ linia Pruszków Warszawa 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="53.856" endTime="57.642">
+<Sync time="53.856"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ podaj nazwę przystanku
+</Turn>
+<Turn speaker="spk2" startTime="57.642" endTime="59.769">
+<Sync time="57.642"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ przystanek Pruszków 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="59.769" endTime="61.666">
+<Sync time="59.769"/>
+podaj kierunek trasy
+</Turn>
+<Turn speaker="spk2" startTime="61.666" endTime="63.559">
+<Sync time="61.666"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ Pruszków Warszawa 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="63.559" endTime="66.749">
+<Sync time="63.559"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ około której godziny chcesz jechać
+</Turn>
+<Turn speaker="spk2" startTime="66.749" endTime="68.071">
+<Sync time="66.749"/>
+piąta rano
+</Turn>
+<Turn speaker="spk1" startTime="68.071" endTime="70.256">
+<Sync time="68.071"/>
+łączę z operatorem
+</Turn>
+<Turn speaker="spk3" startTime="70.256" endTime="101.644">
+<Sync time="70.256"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+ 
+</Turn>
+<Turn startTime="101.644" endTime="104.576">
+<Sync time="101.644"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

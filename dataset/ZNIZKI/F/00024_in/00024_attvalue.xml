@@ -1,0 +1,28 @@
+<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_11" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="3" span="word_12..word_13" attribute="OPTION" value="DepartureTime" />
+  <concept id="4" span="word_14..word_15" attribute="OPTION" value="Route" />
+  <concept id="5" span="word_16..word_17" attribute="OPTION" value="Complaint" />
+  <concept id="6" span="word_18..word_20" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="7" span="word_21..word_22" attribute="OPTION" value="LostLuggage" />
+  <concept id="8" span="word_23..word_29" attribute="INFORMATION" value="OPERATOR" />
+  <concept id="9" span="word_30..word_32" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="10" span="word_33..word_35" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="11" span="word_36..word_45" attribute="Q_FARE" value="Age 70" />
+  <concept id="12" span="word_46..word_50" attribute="AGE" value="Above26" />
+  <concept id="13" span="word_51..word_64" attribute="ACTION_REQUIRED" value="Repeat" />
+  <concept id="14" span="word_65..word_68" attribute="AGE" value="Above26" />
+  <concept id="15" span="word_69..word_78" attribute="Q_FARE" value="Age 70" />
+  <concept id="16" span="word_79..word_80" attribute="REACTION" value="Negation" />
+  <concept id="17" span="word_81..word_94" attribute="Q_FARE" value="Person" />
+  <concept id="18" span="word_95..word_96" attribute="PERSON" value="OtherPerson" />
+  <concept id="19" span="word_97..word_102" attribute="Q_FARE" value="Person" />
+  <concept id="20" span="word_103" attribute="PERSON" value="Disabled" />
+  <concept id="21" span="word_104..word_167" attribute="INFORMATION" value="FARE_Disabled" />
+  <concept id="22" span="word_169..word_173" attribute="Q_CONF" value="OtherInformation" />
+  <concept id="23" span="word_174..word_177" attribute="PERSON" value="SlightlyDisabled" />
+  <concept id="24" span="word_180" attribute="FARE" value="Discount" />
+  <concept id="25" span="word_181..word_183" attribute="ACTION_PLANNED" value="Connect" />
+  <concept id="26" span="word_184..word_185" attribute="ACTION_REQUIRED" value="Wait" />
+</concepts>

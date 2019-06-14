@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00045_in;00045_out" version="2" version_date="080625">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="154.272" topic="to1">
+<Turn startTime="0" endTime="0.582">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.582" endTime="32.2048420636">
+<Sync time="0.582"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż zawsze możesz powiedzieć połącz mnie z operatorem 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ przepraszam ale nie zrozumiałam mów proszę tylko słowa kluczowe to będę lepiej cię rozumieć
+</Turn>
+<Turn speaker="spk1 spk2" startTime="32.2048420636" endTime="33.008">
+<Sync time="32.2048420636"/>
+<Who nb="1"/>
+powiedz
+<Who nb="2"/>
+i
+</Turn>
+<Turn speaker="spk1" startTime="33.008" endTime="34.328">
+<Sync time="33.008"/>
+jedną z opcji
+</Turn>
+<Turn speaker="spk1 spk2" startTime="34.328" endTime="37.231">
+<Sync time="34.328"/>
+<Who nb="1"/>
+czasy odjazdów wyszukanie trasy
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czasy odjazdów potrzebuję
+</Turn>
+<Turn speaker="spk1" startTime="37.231" endTime="38.839">
+<Sync time="37.231"/>
+zgło
+<Event desc="~" type="lexical" extent="begin"/>
+szenie
+<Event desc="~" type="lexical" extent="end"/>
+ czasy odjazdów
+</Turn>
+<Turn speaker="spk1 spk2" startTime="38.839" endTime="40.822">
+<Sync time="38.839"/>
+<Who nb="1"/>
+zadam teraz kilka pytań a na
+<Who nb="2"/>
+czasy odjazdów czasy odjazdów
+</Turn>
+<Turn speaker="spk1" startTime="40.822" endTime="47.264">
+<Sync time="40.822"/>
+końcu postaram się udzielić dokładnej informacji dotyczącej czasu odjazdu interesującego cię autobusu lub tramwaju 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="47.264" endTime="48.673">
+<Sync time="47.264"/>
+<Who nb="1"/>
+podaj numer linii
+<Who nb="2"/>
+sto pięćdziesiąt jeden
+</Turn>
+<Turn speaker="spk2" startTime="48.673" endTime="52.422">
+<Sync time="48.673"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ sto pięćdziesiąt jeden
+</Turn>
+<Turn speaker="spk1" startTime="52.422" endTime="54.307">
+<Sync time="52.422"/>
+podaj nazwę przystanku
+</Turn>
+<Turn speaker="spk2" startTime="54.307" endTime="60.720">
+<Sync time="54.307"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Plac 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie Plac ulica Grzybowska przy 
+<Event desc="fr" type="language" extent="begin"/>
+Mercur
+<Event desc="fr" type="language" extent="end"/>
+ym
+</Turn>
+<Turn speaker="spk2 spk1" startTime="60.720" endTime="61.472">
+<Sync time="60.720"/>
+<Who nb="1"/>
+przy przy
+<Who nb="2"/>
+podaj kierunek
+</Turn>
+<Turn speaker="spk1" startTime="61.472" endTime="62.005">
+<Sync time="61.472"/>
+trasy
+</Turn>
+<Turn speaker="spk2" startTime="62.005" endTime="68.962">
+<Sync time="62.005"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w stronę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w stronę w stronę tego 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no żesz 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w stronę no Łazienek
+</Turn>
+<Turn speaker="spk1" startTime="68.962" endTime="71.177">
+<Sync time="68.962"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ około której godziny
+</Turn>
+<Turn speaker="spk1 spk2" startTime="71.177" endTime="71.941">
+<Sync time="71.177"/>
+<Who nb="1"/>
+chcesz jechać
+<Who nb="2"/>
+teraz teraz 
+</Turn>
+<Turn speaker="spk2" startTime="71.941" endTime="73.668">
+<Sync time="71.941"/>
+nie wiem która teraz jest godzina
+</Turn>
+<Turn speaker="spk2 spk1" startTime="73.668" endTime="74.267">
+<Sync time="73.668"/>
+<Who nb="1"/>
+jest 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+łączę
+</Turn>
+<Turn speaker="spk1" startTime="74.267" endTime="74.997">
+<Sync time="74.267"/>
+z operatorem
+</Turn>
+<Turn speaker="spk1 spk2" startTime="74.997" endTime="75.824">
+<Sync time="74.997"/>
+<Who nb="1"/>
+proszę
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="75.824" endTime="76.518">
+<Sync time="75.824"/>
+czekać
+</Turn>
+<Turn speaker="spk3" startTime="76.518" endTime="147.242">
+<Sync time="76.518"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+ 
+</Turn>
+<Turn startTime="147.242" endTime="154.272">
+<Sync time="147.242"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

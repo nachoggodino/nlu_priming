@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="10021_in;10021_out" version="2" version_date="080724">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="94.112" topic="to1">
+<Turn startTime="0" endTime="0.624">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.624" endTime="8.4">
+<Sync time="0.624"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ kim jest osoba ubiegająca się o zniżkę
+</Turn>
+<Turn speaker="spk2" startTime="8.4" endTime="11.328">
+<Sync time="8.4"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ nie mam do roboty
+</Turn>
+<Turn speaker="spk1" startTime="11.328" endTime="15.6">
+<Sync time="11.328"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ przepraszam nie zrozumiałam
+</Turn>
+<Turn speaker="spk2" startTime="15.6" endTime="17.643">
+<Sync time="15.6"/>
+no nie pracuję
+</Turn>
+<Turn speaker="spk1" startTime="17.643" endTime="40.972">
+<Sync time="17.643"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ bezrobotny do bezpłatnych przejazdów uprawnieni są bezrobotni uczestniczący w programie szansa na pracę oraz bezrobotni zarejestrowani w urzędzie pracy miasta Warszawy bez przysługującego prawa do zasiłku na podstawie zaświadczenia wydanego przez urząd pracy wraz z dokumentem tożsamości ze zdjęciem czy powtórzyć informacje
+</Turn>
+<Turn speaker="spk2" startTime="40.972" endTime="44.313">
+<Sync time="40.972"/>
+to znaczy jeszcze muszę jakieś zaświadczenia przynieść
+</Turn>
+<Turn speaker="spk1" startTime="44.313" endTime="49.095">
+<Sync time="44.313"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ przepraszam nie zrozumiałam czy powtórzyć informacje
+</Turn>
+<Turn speaker="spk2" startTime="49.095" endTime="51.27">
+<Sync time="49.095"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ no powtórz
+</Turn>
+<Turn speaker="spk1" startTime="51.27" endTime="70.171">
+<Sync time="51.27"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ do bezpłatnych przejazdów uprawnieni są bezrobotni uczestniczący w programie szansa na pracę oraz bezrobotni zarejestrowani w urzędzie pracy miasta Warszawy bez przysługującego prawa do zasiłku na podstawie zaświadczenia wydanego przez urząd pracy wraz z dokumentem tożsamości ze zdjęciem czy powtórzyć informacje
+</Turn>
+<Turn speaker="spk2" startTime="70.171" endTime="71.981">
+<Sync time="70.171"/>
+i ile wtedy zniżki jest
+</Turn>
+<Turn speaker="spk1" startTime="71.981" endTime="77.342">
+<Sync time="71.981"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ znów nie zrozumiałam czy powtórzyć informacje
+</Turn>
+<Turn speaker="spk2" startTime="77.342" endTime="83.825">
+<Sync time="77.342"/>
+no nie 
+<Event desc="~" type="lexical" extent="begin"/>
+wi
+<Event desc="~" type="lexical" extent="end"/>
+em czy mi się opłaca taką zniżkę mieć musisz mi powiedzieć ile będę miała zniżki
+</Turn>
+<Turn speaker="spk1" startTime="83.825" endTime="87.811">
+<Sync time="83.825"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ czy udzielić jeszcze innych informacji
+</Turn>
+<Turn speaker="spk2" startTime="87.811" endTime="91.249">
+<Sync time="87.811"/>
+no przecież o nie proszę no ale nie bo nie umiesz 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="91.249" endTime="92.042">
+<Sync time="91.249"/>
+<Who nb="1"/>
+odpowiedzieć
+<Who nb="2"/>
+dziękuję za
+</Turn>
+<Turn speaker="spk1" startTime="92.042" endTime="92.617">
+<Sync time="92.042"/>
+rozmowę
+</Turn>
+<Turn speaker="spk1" startTime="92.617" endTime="93.796">
+<Sync time="92.617"/>
+do usłyszenia
+</Turn>
+<Turn startTime="93.796" endTime="94.112">
+<Sync time="93.796"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

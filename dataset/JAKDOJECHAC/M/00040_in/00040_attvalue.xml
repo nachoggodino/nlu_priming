@@ -1,0 +1,41 @@
+<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_11" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="3" span="word_12..word_13" attribute="OPTION" value="DepartureTime" />
+  <concept id="4" span="word_14..word_15" attribute="OPTION" value="Route" />
+  <concept id="5" span="word_16..word_17" attribute="OPTION" value="Complaint" />
+  <concept id="6" span="word_18..word_20" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="7" span="word_21..word_22" attribute="OPTION" value="LostLuggage" />
+  <concept id="8" span="word_23..word_29" attribute="INFORMATION" value="OPERATOR" />
+  <concept id="9" span="word_30..word_31" attribute="OPTION" value="Route" />
+  <concept id="10" span="word_32..word_33" attribute="OPTION" value="Route" />
+  <concept id="11" span="word_34..word_38" attribute="COMMAND_GIVE" value="SOURCE" />
+  <concept id="12" span="word_39..word_48" attribute="INFORMATION" value="SOURCE_SEARCH" />
+  <concept id="13" span="word_49..word_56" attribute="INFORMATION" value="GOAL/SOURCE_SEARCH" />
+  <concept id="14" span="word_57..word_64" attribute="INFORMATION" value="GOAL/SOURCE_SEARCH" />
+  <concept id="15" span="word_65" attribute="OPTION_ROUTE" value="Street" />
+  <concept id="16" span="word_66..word_69" attribute="OPTION_ROUTE" value="Street" />
+  <concept id="17" span="word_70..word_77" attribute="COMMAND_GIVE" value="SOURCE_STREET" />
+  <concept id="18" span="word_78" attribute="STREET" value="Nocznickiego" />
+  <concept id="19" span="word_79..word_83" attribute="COMMAND_GIVE" value="STREET_NUMBER" />
+  <concept id="20" span="word_84" attribute="STREET_NUMB" value="siedemnaście" />
+  <concept id="21" span="word_85..word_89" attribute="COMMAND_GIVE" value="GOAL" />
+  <concept id="22" span="word_90..word_98" attribute="INFORMATION" value="GOAL_SEARCH" />
+  <concept id="23" span="word_99..word_106" attribute="INFORMATION" value="GOAL/SOURCE_SEARCH" />
+  <concept id="24" span="word_107..word_114" attribute="INFORMATION" value="GOAL/SOURCE_SEARCH" />
+  <concept id="25" span="word_115" attribute="OPTION_ROUTE" value="Street" />
+  <concept id="26" span="word_116..word_119" attribute="OPTION_ROUTE" value="Street" />
+  <concept id="27" span="word_120..word_127" attribute="COMMAND_GIVE" value="GOAL_STREET" />
+  <concept id="28" span="word_128" attribute="STREET" value="Kłobucka" />
+  <concept id="29" span="word_129..word_133" attribute="COMMAND_GIVE" value="STREET_NUMBER" />
+  <concept id="30" span="word_134..word_135" attribute="STREET_NUMB" value="dwadzieścia trzy" />
+  <concept id="31" span="word_136..word_140" attribute="COMMAND_GIVE" value="DEPARTURE_TIME" />
+  <concept id="32" span="word_141..word_144" attribute="Q_DEPARTURE" value="Nearest" />
+  <concept id="33" span="word_145..word_149" attribute="Q_DEPARTURE" value="AtHour" />
+  <concept id="34" span="word_150" attribute="ACTION" value="Request" />
+  <concept id="35" span="word_151..word_152" attribute="OPTION_DEPARTURE" value="AtHour" />
+  <concept id="36" span="word_153..word_156" attribute="COMMAND_GIVE" value="DEPARTURE_TIME" />
+  <concept id="37" span="word_157" attribute="AT_HOUR" value="13 : 00" />
+  <concept id="38" span="word_158..word_160" attribute="ACTION_PLANNED" value="Connect" />
+  <concept id="39" span="word_161..word_162" attribute="ACTION_REQUIRED" value="Wait" />
+</concepts>

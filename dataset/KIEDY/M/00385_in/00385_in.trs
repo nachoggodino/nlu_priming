@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00385_in;00385_out" version="2" version_date="080625">
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="81.472" topic="to1">
+<Turn startTime="0" endTime="0.42">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.42" endTime="17.0153019444">
+<Sync time="0.42"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje 
+</Turn>
+<Turn speaker="spk2" startTime="17.0153019444" endTime="19.734">
+<Sync time="17.0153019444"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ czasy odjazdów
+</Turn>
+<Turn speaker="spk1" startTime="19.734" endTime="26.826">
+<Sync time="19.734"/>
+czasy odjazdów aby uzyskać informacje o odjazdach trzeba odpowiedzieć na cztery pytania podaj numer linii
+</Turn>
+<Turn speaker="spk2" startTime="26.826" endTime="32.455">
+<Sync time="26.826"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ jakie pytania 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="32.455" endTime="33.015">
+<Sync time="32.455"/>
+<Who nb="1"/>
+halo
+<Who nb="2"/>
+przepraszam
+</Turn>
+<Turn speaker="spk1" startTime="33.015" endTime="38.497">
+<Sync time="33.015"/>
+nie zrozumiałam umiem rozpoznawać tylko sugerowane przeze mnie opcje podaj numer linii
+</Turn>
+<Turn speaker="spk2" startTime="38.497" endTime="39.855">
+<Sync time="38.497"/>
+dziesiątka
+</Turn>
+<Turn speaker="spk1" startTime="39.855" endTime="41.654">
+<Sync time="39.855"/>
+podaj nazwę przystanku
+</Turn>
+<Turn speaker="spk2" startTime="41.654" endTime="44.421">
+<Sync time="41.654"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ Bemowo Ratusz
+</Turn>
+<Turn speaker="spk1" startTime="44.421" endTime="46.271">
+<Sync time="44.421"/>
+podaj kierunek trasy
+</Turn>
+<Turn speaker="spk2" startTime="46.271" endTime="47.205">
+<Sync time="46.271"/>
+Służewiec
+</Turn>
+<Turn speaker="spk1" startTime="47.205" endTime="49.666">
+<Sync time="47.205"/>
+około której godziny chcesz jechać
+</Turn>
+<Turn speaker="spk2" startTime="49.666" endTime="51.856">
+<Sync time="49.666"/>
+o tak wiesz piąta trzydzieści
+</Turn>
+<Turn speaker="spk1" startTime="51.856" endTime="53.382">
+<Sync time="51.856"/>
+łączę z operatorem 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="53.382" endTime="54.183">
+<Sync time="53.382"/>
+<Who nb="1"/>
+proszę
+<Who nb="2"/>
+dobra
+</Turn>
+<Turn speaker="spk1" startTime="54.183" endTime="54.756">
+<Sync time="54.183"/>
+czekać
+</Turn>
+<Turn speaker="spk2" startTime="54.756" endTime="77.0265046078">
+<Sync time="54.756"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+ 
+</Turn>
+<Turn startTime="77.0265046078" endTime="81.472">
+<Sync time="77.0265046078"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

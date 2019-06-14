@@ -1,0 +1,17 @@
+<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_14" attribute="Q_FARE" value="Person" />
+  <concept id="3" span="word_15..word_16" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_18..word_20" attribute="ACTION_REQUIRED" value="Repeat" />
+  <concept id="5" span="word_21..word_27" attribute="Q_FARE" value="Person" />
+  <concept id="6" span="word_29..word_32" attribute="PERSON" value="Veteran" />
+  <concept id="7" span="word_34" attribute="ACTION" value="Request" />
+  <concept id="8" span="word_38" attribute="TIME_REL" value="Now" />
+  <concept id="9" span="word_40" attribute="ACTION" value="Go" />
+  <concept id="10" span="word_43" attribute="PERSON" value="Veteran" />
+  <concept id="11" span="word_44..word_54" attribute="INFORMATION" value="FARE_Veteran" />
+  <concept id="12" span="word_56" attribute="NUMB" value="pięćdziesiąt" />
+  <concept id="13" span="word_72" attribute="TOWN" value="Warszawa" />
+  <concept id="14" span="word_73" attribute="FARE" value="Discount" />
+  <concept id="15" span="word_87..word_88" attribute="CONV_FORM" value="BYE" />
+</concepts>

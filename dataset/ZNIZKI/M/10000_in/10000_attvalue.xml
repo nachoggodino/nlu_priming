@@ -1,0 +1,15 @@
+<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_14" attribute="Q_FARE" value="Person" />
+  <concept id="3" span="word_17" attribute="PERSON" value="Student" />
+  <concept id="4" span="word_18" attribute="PERSON" value="Student" />
+  <concept id="5" span="word_19..word_26" attribute="Q_FARE" value="Student" />
+  <concept id="6" span="word_28..word_31" attribute="PERSON" value="PolishStudent" />
+  <concept id="7" span="word_32" attribute="PERSON" value="PolishStudent" />
+  <concept id="8" span="word_33..word_56" attribute="INFORMATION" value="FARE_PolishStudents" />
+  <concept id="9" span="word_57..word_59" attribute="Q_CONF" value="RepeatInformation" />
+  <concept id="10" span="word_60" attribute="REACTION" value="Negation" />
+  <concept id="11" span="word_64..word_68" attribute="Q_CONF" value="OtherInformation" />
+  <concept id="12" span="word_69" attribute="REACTION" value="Negation" />
+  <concept id="13" span="word_75..word_76" attribute="CONV_FORM" value="BYE" />
+</concepts>

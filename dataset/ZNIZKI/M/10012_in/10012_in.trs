@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="10012_in;10012_out" version="3" version_date="080728">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="59.872" topic="to1">
+<Turn startTime="0" endTime="0.552">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.552" endTime="8.328">
+<Sync time="0.552"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ kim jest osoba ubiegająca się o zniżkę
+</Turn>
+<Turn speaker="spk2" startTime="8.328" endTime="12.576">
+<Sync time="8.328"/>
+dzień dobry pani 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ dzień dobry
+</Turn>
+<Turn speaker="spk1" startTime="12.576" endTime="18.384">
+<Sync time="12.576"/>
+przepraszam nie zrozumiałam kim jest osoba ubiegająca się o zniżkę
+</Turn>
+<Turn speaker="spk2" startTime="18.384" endTime="27.816">
+<Sync time="18.384"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja proszę pani ja studiuję w 
+<Event desc="en" type="language" extent="begin"/>
+Cambridge
+<Event desc="en" type="language" extent="end"/>
+ ale teraz przyjechałem na wakacje do rodziny 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to to jaką mam zniżkę
+</Turn>
+<Turn speaker="spk1" startTime="27.816" endTime="32.6117050041">
+<Sync time="27.816"/>
+studentem czy osoba jest studentem uczelni polskiej czy zagranicznej
+</Turn>
+<Turn speaker="spk2" startTime="32.6117050041" endTime="34.939">
+<Sync time="32.6117050041"/>
+nie no mówiłem że ja w 
+<Event desc="en" type="language" extent="begin"/>
+Cambridge
+<Event desc="en" type="language" extent="end"/>
+ studiuję
+</Turn>
+<Turn speaker="spk1" startTime="34.939" endTime="52.911">
+<Sync time="34.939"/>
+zagranicznej do przejazdów ze zniżką czterdzieści osiem procent uprawnieni są studenci i uczniowie zagranicznych szkół wyższych i średnich nie dłużej niż do ukończenia dwudziestego szóstego roku życia na podstawie ważnej na dany rok kalendarzowy międzynarodowej legitymacji ISIC czy powtórzyć 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="52.911" endTime="53.634">
+<Sync time="52.911"/>
+<Who nb="1"/>
+informacje
+<Who nb="2"/>
+o nie
+</Turn>
+<Turn speaker="spk2" startTime="53.634" endTime="55.141">
+<Sync time="53.634"/>
+już dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="55.141" endTime="58.13">
+<Sync time="55.141"/>
+czy udzielić jeszcze innych informacji
+</Turn>
+<Turn startTime="58.13" endTime="59.872">
+<Sync time="58.13"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

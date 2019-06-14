@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00200_in;00200_out" version="3" version_date="080724">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="206.880" topic="to1">
+<Turn startTime="0" endTime="0.501">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.501" endTime="30.2627097591">
+<Sync time="0.501"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje
+</Turn>
+<Turn speaker="spk2" startTime="30.2627097591" endTime="33.818">
+<Sync time="30.2627097591"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ zasady 
+<Event desc="noise" type="noise" extent="begin"/>
+ przyznawania 
+<Event desc="noise" type="noise" extent="end"/>
+ zniżek
+</Turn>
+<Turn speaker="spk1" startTime="33.818" endTime="41.745">
+<Sync time="33.818"/>
+zasady przyznawania zniżek czy osoba ubiegająca się o zniżkę ma ukończone siedemdziesiąt lat powiedz tak lub nie
+</Turn>
+<Turn speaker="spk2" startTime="41.745" endTime="42.352">
+<Sync time="41.745"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ nie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="42.352" endTime="50.104">
+<Sync time="42.352"/>
+nie ma kim jest osoba ubiegająca się o zniżkę studentem emerytem rencistą uczniem czy inną osobą
+</Turn>
+<Turn speaker="spk2 spk1" startTime="50.104" endTime="52.9706314811">
+<Sync time="50.104"/>
+<Who nb="1"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ inną studentem
+<Who nb="2"/>
+inną 
+</Turn>
+<Turn speaker="spk1" startTime="52.9706314811" endTime="68.164">
+<Sync time="52.9706314811"/>
+osobą czy osoba jest dzieckiem niepełnosprawnym opie
+<Event desc="~" type="lexical" extent="begin"/>
+kunka
+<Event desc="~" type="lexical" extent="end"/>
+ inną osobą czy osoba jest dawcą krwi funkcjonariuszem kombatantem czy doktorantem jeśli chcesz sprawdzić poprzednie opcje powiedz poprzednie opcje
+</Turn>
+<Turn speaker="spk2" startTime="68.164" endTime="69.957">
+<Sync time="68.164"/>
+poprzednie opcje
+</Turn>
+<Turn speaker="spk1" startTime="69.957" endTime="78.429">
+<Sync time="69.957"/>
+poprzednie opcje kim jest osoba ubiegająca się o zniżkę studentem emerytem rencistą uczniem czy inną osobą
+</Turn>
+<Turn speaker="spk2" startTime="78.429" endTime="80.269">
+<Sync time="78.429"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ studentem
+</Turn>
+<Turn speaker="spk1" startTime="80.269" endTime="85.343">
+<Sync time="80.269"/>
+studentem czy osoba jest studentem uczelni polskiej czy zagranicznej
+</Turn>
+<Turn speaker="spk2" startTime="85.343" endTime="87.181">
+<Sync time="85.343"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ polskiej
+</Turn>
+<Turn speaker="spk1" startTime="87.181" endTime="100.423">
+<Sync time="87.181"/>
+polskiej do przejazdów ze zniżką pięćdziesiąt procent uprawnieni są bez ograniczeń wiekowych studenci uczelni polskich i uczestnicy studiów doktoranckich na podstawie ważnej legitymacji czy powtórzyć informacje
+</Turn>
+<Turn speaker="spk2" startTime="100.423" endTime="102.912">
+<Sync time="100.423"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ nie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="102.912" endTime="106.53">
+<Sync time="102.912"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ czy udzielić jeszcze innych informacji
+</Turn>
+<Turn speaker="spk2" startTime="106.53" endTime="106.797">
+<Sync time="106.53"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="106.797" endTime="111.33">
+<Sync time="106.797"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ łączę z operatorem proszę czekać
+</Turn>
+<Turn speaker="spk3" startTime="111.33" endTime="205.709">
+<Sync time="111.33"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="205.709" endTime="206.880">
+<Sync time="205.709"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00104_out" version="3" version_date="080723">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="102.752" topic="to1">
+<Turn startTime="0" endTime="0.576">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.576" endTime="16.944">
+<Sync time="0.576"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje 
+</Turn>
+<Turn speaker="spk2" startTime="16.944" endTime="17.664">
+<Sync time="16.944"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.664" endTime="22.685">
+<Sync time="17.664"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ powiedz jedną z opcji czasy odjazdów
+</Turn>
+<Turn speaker="spk1 spk2" startTime="22.685" endTime="23.7040390988">
+<Sync time="22.685"/>
+<Who nb="1"/>
+wyszukanie
+<Who nb="2"/>
+czasy odjazdów
+</Turn>
+<Turn speaker="spk1" startTime="23.7040390988" endTime="31.831">
+<Sync time="23.7040390988"/>
+trasy zgłosze
+<Event desc="~" type="lexical" extent="begin"/>
+nie
+<Event desc="~" type="lexical" extent="end"/>
+ czasy odjazdów aby uzyskać informacje o odjazdach trzeba odpowiedzieć na cztery pytania podaj numer linii
+</Turn>
+<Turn speaker="spk2" startTime="31.831" endTime="35.895">
+<Sync time="31.831"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ z Sulejówka Miłosnej do Warszawy
+</Turn>
+<Turn speaker="spk1" startTime="35.895" endTime="43.239">
+<Sync time="35.895"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ przepraszam nie zrozumiałam umiem rozpoznawać tylko sugerowane przeze mnie opcje podaj numer linii
+</Turn>
+<Turn speaker="spk2" startTime="43.239" endTime="47.559">
+<Sync time="43.239"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ Sulejówek Miłosna do Warszawy
+</Turn>
+<Turn speaker="spk1" startTime="47.559" endTime="51.994">
+<Sync time="47.559"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ łączę z operatorem proszę czekać
+</Turn>
+<Turn speaker="spk3" startTime="51.994" endTime="93.488">
+<Sync time="51.994"/>
+łączę z operatorem proszę czekać
+</Turn>
+<Turn startTime="93.488" endTime="102.752">
+<Sync time="93.488"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

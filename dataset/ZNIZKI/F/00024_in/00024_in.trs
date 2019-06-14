@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00024_out;00024_in" version="4" version_date="080724">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="235.872" topic="to1">
+<Turn startTime="0" endTime="0.53">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.53" endTime="18.984">
+<Sync time="0.53"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż zawsze możesz powiedzieć połącz mnie z operatorem
+</Turn>
+<Turn speaker="spk2" startTime="18.984" endTime="20.784">
+<Sync time="18.984"/>
+zasady przyznawania zniżek
+</Turn>
+<Turn speaker="spk1" startTime="20.784" endTime="27.029">
+<Sync time="20.784"/>
+zasady przyznawania zniżek czy osoba ubiegająca się o zniżkę ma ukończone siedemdziesiąt lat
+</Turn>
+<Turn speaker="spk2" startTime="27.029" endTime="29.2034976">
+<Sync time="27.029"/>
+
+<Event desc="int" type="noise" extent="instantaneous"/>
+ dwadzieścia sześć lat ma ukończone
+</Turn>
+<Turn speaker="spk1" startTime="29.2034976" endTime="33.927">
+<Sync time="29.2034976"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ przepraszam ale nie zrozumiałam mów proszę tylko słowa kluczowe
+</Turn>
+<Turn speaker="spk1 spk2" startTime="33.927" endTime="35.9356196354">
+<Sync time="33.927"/>
+<Who nb="1"/>
+ to będę lepiej cię rozumieć 
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dwadzieścia sześć lat ukończone
+</Turn>
+<Turn speaker="spk1" startTime="35.9356196354" endTime="47.355">
+<Sync time="35.9356196354"/>
+czy osoba ubiegająca się o zniżkę ma ukończone siedemdziesiąt lat nie ma kim jest osoba ubiegająca się o zniżkę studentem emerytem rencistą uczniem czy inną osobą
+</Turn>
+<Turn speaker="spk2" startTime="47.355" endTime="49.159">
+<Sync time="47.355"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ inną osobą
+</Turn>
+<Turn speaker="spk1" startTime="49.159" endTime="53.875">
+<Sync time="49.159"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ czy osoba jest dzieckiem
+</Turn>
+<Turn speaker="spk1 spk2" startTime="53.875" endTime="55.773">
+<Sync time="53.875"/>
+<Who nb="1"/>
+niepełnosprawnym opiekunem
+<Who nb="2"/>
+niepełnosprawnym
+</Turn>
+<Turn speaker="spk1" startTime="55.773" endTime="87.1611086268">
+<Sync time="55.773"/>
+do bezpłatnych przejazdów uprawnione są dzieci i młodzież dotknięta inwalidztwem lub niepełnosprawnością wraz z opiekunem nie dłużej niż do ukończenia dwudziestego szóstego roku życia osoby uznane za całkowicie niezdolne do pracy i samodzielnej egzystencji ociemniali wraz ze wskazanym przez nich przewodnikiem upośledzeni umysłowo wraz z opiekunem inwalidzi wojenni wraz z opiekunem zniżki są udzielane na podstawie ważnej legitymacji wydanej przez właściwy organ dokumentujący niepełnosprawność
+</Turn>
+<Turn speaker="spk2" startTime="87.1611086268" endTime="90.5322465306">
+<Sync time="87.1611086268"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ halo
+</Turn>
+<Turn speaker="spk1" startTime="90.5322465306" endTime="92.279">
+<Sync time="90.5322465306"/>
+czy udzielić jeszcze innych 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="92.279" endTime="93.011">
+<Sync time="92.279"/>
+<Who nb="1"/>
+informacji
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="93.011" endTime="97.092">
+<Sync time="93.011"/>
+osoba umiarkowany stopień niepełnosprawności ile ma ulgi
+</Turn>
+<Turn speaker="spk1" startTime="97.092" endTime="100.116">
+<Sync time="97.092"/>
+łączę z operatorem proszę czekać
+</Turn>
+<Turn speaker="spk3" startTime="100.116" endTime="230.562">
+<Sync time="100.116"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="230.562" endTime="235.872">
+<Sync time="230.562"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00239_in;00239_out" version="3" version_date="080728">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="147.904" topic="to1">
+<Turn startTime="0" endTime="0.499">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.499" endTime="24.3469084165">
+<Sync time="0.499"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie
+</Turn>
+<Turn speaker="spk1 spk2" startTime="24.3469084165" endTime="26.292">
+<Sync time="24.3469084165"/>
+<Who nb="1"/>
+trasy zgłoszenie skargi
+<Who nb="2"/>
+czasy odjazdów
+</Turn>
+<Turn speaker="spk1" startTime="26.292" endTime="28.667">
+<Sync time="26.292"/>
+zasady 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ czasy odjazdów
+</Turn>
+<Turn speaker="spk1 spk2" startTime="28.667" endTime="29.4610798542">
+<Sync time="28.667"/>
+<Who nb="1"/>
+aby uzyskać
+<Who nb="2"/>
+czasy odjazdów
+</Turn>
+<Turn speaker="spk1" startTime="29.4610798542" endTime="33.973">
+<Sync time="29.4610798542"/>
+aby uzyskać informacje o odjazdach trzeba odpowiedzieć na cztery pytania podaj numer linii
+</Turn>
+<Turn speaker="spk2" startTime="33.973" endTime="38.693">
+<Sync time="33.973"/>
+mój 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ siedemset piętnaście
+</Turn>
+<Turn speaker="spk1" startTime="38.693" endTime="41.314">
+<Sync time="38.693"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ podaj nazwę przystanku
+</Turn>
+<Turn speaker="spk2" startTime="41.314" endTime="43.083">
+<Sync time="41.314"/>
+Metro Stokłosy
+</Turn>
+<Turn speaker="spk1" startTime="43.083" endTime="45.082">
+<Sync time="43.083"/>
+podaj kierunek trasy
+</Turn>
+<Turn speaker="spk2" startTime="45.082" endTime="47.191">
+<Sync time="45.082"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ kierunek Okęcie
+</Turn>
+<Turn speaker="spk1" startTime="47.191" endTime="50.08">
+<Sync time="47.191"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ około której godziny chcesz jechać
+</Turn>
+<Turn speaker="spk2" startTime="50.08" endTime="52.018">
+<Sync time="50.08"/>
+od rana do wieczora
+</Turn>
+<Turn speaker="spk1" startTime="52.018" endTime="55.385">
+<Sync time="52.018"/>
+łączę z operatorem proszę czekać
+</Turn>
+<Turn speaker="spk3" startTime="55.385" endTime="145.771">
+<Sync time="55.385"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="145.771" endTime="147.904">
+<Sync time="145.771"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

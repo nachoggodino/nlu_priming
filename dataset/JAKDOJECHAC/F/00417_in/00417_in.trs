@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00417_in;00417_out" version="2" version_date="080615">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="134.528" topic="to1">
+<Turn startTime="0" endTime="0.572">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.572" endTime="32.938">
+<Sync time="0.572"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje
+</Turn>
+<Turn speaker="spk2" startTime="32.938" endTime="37.022">
+<Sync time="32.938"/>
+wyszu
+<Event desc="~" type="lexical" extent="begin"/>
+kanie
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ trasy mnie chodzi o trasę
+</Turn>
+<Turn speaker="spk1" startTime="37.022" endTime="39.141">
+<Sync time="37.022"/>
+wyszukanie trasy 
+</Turn>
+<Turn speaker="spk2" startTime="39.141" endTime="39.601">
+<Sync time="39.141"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="39.601" endTime="41.242">
+<Sync time="39.601"/>
+podaj punkt początkowy trasy
+</Turn>
+<Turn speaker="spk2" startTime="41.242" endTime="44.202">
+<Sync time="41.242"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ więc Wiatraczna
+</Turn>
+<Turn speaker="spk2 spk1" startTime="44.202" endTime="45.943">
+<Sync time="44.202"/>
+<Who nb="1"/>
+z 
+<Event desc="*" type="pronounce" extent="begin"/>
+Wiatracznej
+<Event desc="*" type="pronounce" extent="end"/>
+ chciałabym się dostać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+podaj punkt końcowy trasy
+</Turn>
+<Turn speaker="spk2" startTime="45.943" endTime="47.139">
+<Sync time="45.943"/>
+do Waliców 
+</Turn>
+<Turn speaker="spk1" startTime="47.139" endTime="49.058">
+<Sync time="47.139"/>
+łączę z operatorem 
+</Turn>
+<Turn speaker="spk3" startTime="49.058" endTime="132.697">
+<Sync time="49.058"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+
+
+</Turn>
+<Turn startTime="132.697" endTime="134.528">
+<Sync time="132.697"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,55 @@
+<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_11" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="3" span="word_12..word_13" attribute="OPTION" value="DepartureTime" />
+  <concept id="4" span="word_14..word_15" attribute="OPTION" value="Route" />
+  <concept id="5" span="word_16..word_17" attribute="OPTION" value="Complaint" />
+  <concept id="6" span="word_18..word_20" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="7" span="word_21..word_22" attribute="OPTION" value="LostLuggage" />
+  <concept id="8" span="word_23..word_29" attribute="INFORMATION" value="OPERATOR" />
+  <concept id="9" span="word_30..word_32" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="10" span="word_33..word_35" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="11" span="word_36..word_45" attribute="Q_FARE" value="Age 70" />
+  <concept id="12" span="word_46" attribute="REACTION" value="Negation" />
+  <concept id="13" span="word_47..word_48" attribute="REACTION" value="Negation" />
+  <concept id="14" span="word_49..word_62" attribute="Q_FARE" value="Person" />
+  <concept id="15" span="word_63..word_64" attribute="PERSON" value="OtherPerson" />
+  <concept id="16" span="word_65..word_66" attribute="PERSON" value="OtherPerson" />
+  <concept id="17" span="word_67..word_73" attribute="Q_FARE" value="Person" />
+  <concept id="18" span="word_74" attribute="PERSON" value="Disabled" />
+  <concept id="19" span="word_78" attribute="PERSON" value="Disabled" />
+  <concept id="20" span="word_79..word_142" attribute="INFORMATION" value="FARE_Disabled" />
+  <concept id="21" span="word_143..word_147" attribute="Q_CONF" value="OtherInformation" />
+  <concept id="22" span="word_148" attribute="REACTION" value="Confirmation" />
+  <concept id="23" span="word_149..word_152" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="24" span="word_153..word_154" attribute="OPTION" value="DepartureTime" />
+  <concept id="25" span="word_155..word_156" attribute="OPTION" value="Route" />
+  <concept id="26" span="word_157..word_158" attribute="OPTION" value="Complaint" />
+  <concept id="27" span="word_159..word_161" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="28" span="word_162..word_163" attribute="OPTION" value="LostLuggage" />
+  <concept id="29" span="word_164..word_166" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="30" span="word_169..word_171" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="31" span="word_172..word_181" attribute="Q_FARE" value="Age 70" />
+  <concept id="32" span="word_182" attribute="REACTION" value="Negation" />
+  <concept id="33" span="word_183..word_184" attribute="REACTION" value="Negation" />
+  <concept id="34" span="word_185..word_198" attribute="Q_FARE" value="Person" />
+  <concept id="35" span="word_199..word_200" attribute="PERSON" value="OtherPerson" />
+  <concept id="36" span="word_201..word_202" attribute="PERSON" value="OtherPerson" />
+  <concept id="37" span="word_206" attribute="PERSON" value="Child" />
+  <concept id="38" span="word_207" attribute="PERSON" value="Disabled" />
+  <concept id="39" span="word_208" attribute="PERSON" value="Disabled" />
+  <concept id="40" span="word_209" attribute="PERSON" value="Disabled" />
+  <concept id="41" span="word_210..word_273" attribute="INFORMATION" value="FARE_Disabled" />
+  <concept id="42" span="word_274..word_278" attribute="Q_CONF" value="OtherInformation" />
+  <concept id="43" span="word_279" attribute="REACTION" value="Confirmation" />
+  <concept id="44" span="word_280..word_283" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="45" span="word_284..word_285" attribute="OPTION" value="DepartureTime" />
+  <concept id="46" span="word_286..word_287" attribute="OPTION" value="Route" />
+  <concept id="47" span="word_288..word_289" attribute="OPTION" value="Complaint" />
+  <concept id="48" span="word_290..word_292" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="49" span="word_293..word_294" attribute="OPTION" value="LostLuggage" />
+  <concept id="50" span="word_295..word_301" attribute="INFORMATION" value="OPERATOR" />
+  <concept id="51" span="word_302..word_305" attribute="ACTION_REQUIRED" value="Connect" />
+  <concept id="52" span="word_306..word_308" attribute="ACTION_PLANNED" value="Connect" />
+  <concept id="53" span="word_309..word_310" attribute="ACTION_REQUIRED" value="Wait" />
+</concepts>

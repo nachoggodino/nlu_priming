@@ -1,0 +1,36 @@
+<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_11" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="3" span="word_12..word_13" attribute="OPTION" value="DepartureTime" />
+  <concept id="4" span="word_14..word_15" attribute="OPTION" value="Route" />
+  <concept id="5" span="word_16..word_17" attribute="OPTION" value="Complaint" />
+  <concept id="6" span="word_18..word_20" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="7" span="word_21..word_22" attribute="OPTION" value="LostLuggage" />
+  <concept id="8" span="word_23..word_29" attribute="INFORMATION" value="OPERATOR" />
+  <concept id="9" span="word_30..word_43" attribute="ACTION_REQUIRED" value="Repeat" />
+  <concept id="10" span="word_49..word_50" attribute="OPTION" value="DepartureTime" />
+  <concept id="11" span="word_51..word_52" attribute="OPTION" value="Route" />
+  <concept id="12" span="word_53..word_54" attribute="OPTION" value="DepartureTime" />
+  <concept id="13" span="word_57..word_58" attribute="OPTION" value="DepartureTime" />
+  <concept id="14" span="word_60" attribute="TIME_REL" value="Now" />
+  <concept id="15" span="word_65..word_66" attribute="OPTION" value="DepartureTime" />
+  <concept id="16" span="word_67..word_68" attribute="OPTION" value="DepartureTime" />
+  <concept id="17" span="word_80" attribute="BUS" value="General" />
+  <concept id="18" span="word_81" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="19" span="word_82" attribute="TRAM" value="General" />
+  <concept id="20" span="word_83..word_85" attribute="COMMAND_GIVE" value="LINE_NUMBER" />
+  <concept id="21" span="word_86..word_88" attribute="BUS" value="151" />
+  <concept id="22" span="word_89..word_91" attribute="BUS" value="151" />
+  <concept id="23" span="word_92..word_94" attribute="COMMAND_GIVE" value="STOP_NAME" />
+  <concept id="24" span="word_96" attribute="REACTION" value="Negation" />
+  <concept id="25" span="word_98..word_99" attribute="STREET" value="Grzybowska" />
+  <concept id="26" span="word_100..word_101" attribute="LOCATION_BLD" value="Mercury" />
+  <concept id="27" span="word_104..word_106" attribute="COMMAND_GIVE" value="DIRECTION" />
+  <concept id="28" span="word_116..word_119" attribute="GOAL_DIRECTION_AREA" value="Łazienki" />
+  <concept id="29" span="word_120..word_124" attribute="COMMAND_GIVE" value="HOUR" />
+  <concept id="30" span="word_125" attribute="TIME_REL" value="Now" />
+  <concept id="31" span="word_126" attribute="TIME_REL" value="Now" />
+  <concept id="32" span="word_127" attribute="REACTION" value="Negation" />
+  <concept id="33" span="word_130" attribute="TIME_REL" value="Now" />
+  <concept id="34" span="word_134..word_136" attribute="ACTION_PLANNED" value="Connect" />
+</concepts>
