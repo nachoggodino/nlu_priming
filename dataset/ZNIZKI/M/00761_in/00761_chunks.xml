@@ -100,7 +100,7 @@
   <chunk id="99" span="word_126" cat="VP" main="word_126" />
   <chunk id="100" span="word_127" cat="ADJP" />
   <chunk id="101" span="word_128" cat="PP" />
-  <chunk id="102" span="word_129" cat="NP" main="word_129" />
+  <chunk id="102" span="word_129..132" cat="NP" main="word_129" />
   <chunk id="103" span="word_133" cat="PP" />
   <chunk id="104" span="word_134..word_136" cat="NP" main="word_135" />
   <chunk id="105" span="word_137" cat="NP" main="word_137" />

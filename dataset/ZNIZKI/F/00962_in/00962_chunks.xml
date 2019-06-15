@@ -108,7 +108,7 @@
   <chunk id="107" span="word_143" cat="VP" main="word_143" />
   <chunk id="108" span="word_144" cat="ADJP" />
   <chunk id="109" span="word_145" cat="PP" />
-  <chunk id="110" span="word_146" cat="NP" main="word_146" />
+  <chunk id="110" span="word_146..149" cat="NP" main="word_146" />
   <chunk id="111" span="word_150" cat="PP" />
   <chunk id="112" span="word_151..word_153" cat="NP" main="word_152" />
   <chunk id="113" span="word_154" cat="NP" main="word_154" />
@@ -146,7 +146,7 @@
   <chunk id="145" span="word_191" cat="VP" main="word_191" />
   <chunk id="146" span="word_192" cat="ADJP" />
   <chunk id="147" span="word_193" cat="PP" />
-  <chunk id="148" span="word_194" cat="NP" main="word_194" />
+  <chunk id="148" span="word_194..197" cat="NP" main="word_194" />
   <chunk id="149" span="word_198" cat="PP" />
   <chunk id="150" span="word_199..word_201" cat="NP" main="word_200" />
   <chunk id="151" span="word_202" cat="NP" main="word_202" />

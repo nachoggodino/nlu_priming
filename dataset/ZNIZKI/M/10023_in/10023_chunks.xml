@@ -52,7 +52,7 @@
   <chunk id="51" span="word_66" cat="NP_PRON" />
   <chunk id="52" span="word_67" cat="NP" main="word_67" />
   <chunk id="53" span="word_68" cat="PP" />
-  <chunk id="54" span="word_69" cat="NP" main="word_69" />
+  <chunk id="54" span="word_69..72" cat="NP" main="word_69" />
   <chunk id="55" span="word_73" cat="CC" />
   <chunk id="56" span="word_74" cat="NP" main="word_74" />
   <chunk id="57" span="word_75" cat="PART" />
@@ -94,9 +94,9 @@
   <chunk id="93" span="word_122..word_123" cat="NP" main="word_122" />
   <chunk id="94" span="word_124" cat="VP" main="word_124" />
   <chunk id="95" span="word_125" cat="PP" />
-  <chunk id="96" span="word_126" cat="NP" main="word_126" />
+  <chunk id="96" span="word_126..128" cat="NP" main="word_126" />
   <chunk id="97" span="word_129" cat="PP" />
-  <chunk id="98" span="word_130" cat="NP" main="word_130" />
+  <chunk id="98" span="word_130..133" cat="NP" main="word_130" />
   <chunk id="99" span="word_134" cat="PART" />
   <chunk id="100" span="word_135" cat="PP" />
   <chunk id="101" span="word_136..word_137" cat="NP" main="word_136" />

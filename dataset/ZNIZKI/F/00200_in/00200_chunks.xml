@@ -115,7 +115,7 @@
   <chunk id="114" span="word_152" cat="CC" />
   <chunk id="115" span="word_153..word_155" cat="NP" main="word_153" />
   <chunk id="116" span="word_156" cat="PP" />
-  <chunk id="117" span="word_157" cat="NP" main="word_157" />
+  <chunk id="117" span="word_157..159" cat="NP" main="word_157" />
   <chunk id="118" span="word_160" cat="PART" />
   <chunk id="119" span="word_161" cat="VP_INF" />
   <chunk id="120" span="word_162" cat="NP" main="word_162" />

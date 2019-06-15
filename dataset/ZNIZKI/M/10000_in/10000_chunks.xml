@@ -41,7 +41,7 @@
   <chunk id="40" span="word_50" cat="PP" />
   <chunk id="41" span="word_51..word_52" cat="NP" main="word_51" />
   <chunk id="42" span="word_53" cat="PP" />
-  <chunk id="43" span="word_54" cat="NP" main="word_54" />
+  <chunk id="43" span="word_54..56" cat="NP" main="word_54" />
   <chunk id="44" span="word_57" cat="PART" />
   <chunk id="45" span="word_58" cat="VP_INF" />
   <chunk id="46" span="word_59" cat="NP" main="word_59" />

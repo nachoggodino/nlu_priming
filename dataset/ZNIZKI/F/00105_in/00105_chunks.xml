@@ -70,7 +70,7 @@
   <chunk id="69" span="word_89" cat="PP" />
   <chunk id="70" span="word_90..word_91" cat="NP" main="word_90" />
   <chunk id="71" span="word_92" cat="PP" />
-  <chunk id="72" span="word_93" cat="NP" main="word_93" />
+  <chunk id="72" span="word_93..95" cat="NP" main="word_93" />
   <chunk id="73" span="word_96" cat="PART" />
   <chunk id="74" span="word_97" cat="VP_INF" />
   <chunk id="75" span="word_98" cat="NP" main="word_98" />
@@ -92,7 +92,7 @@
   <chunk id="91" span="word_117" cat="PP" />
   <chunk id="92" span="word_118..word_119" cat="NP" main="word_118" />
   <chunk id="93" span="word_120" cat="PP" />
-  <chunk id="94" span="word_121" cat="NP" main="word_121" />
+  <chunk id="94" span="word_121..123" cat="NP" main="word_121" />
   <chunk id="95" span="word_124" cat="PART" />
   <chunk id="96" span="word_125" cat="VP_INF" />
   <chunk id="97" span="word_126" cat="NP" main="word_126" />

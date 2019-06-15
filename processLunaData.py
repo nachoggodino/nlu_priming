@@ -15,12 +15,15 @@ def xml_to_df(path):
 if __name__ == '__main__':
     directories = ['JAKDOJECHAC', 'KIEDY', 'ZNIZKI']
     f_m = ['F', 'M']
+    resulting_array = []
     for directory in directories:
+        print('Exploring {}...'.format(directory))
         for folder in f_m:
+            print('    Subdirectory {}...'.format(folder))
             for name in os.listdir('./dataset/{}/{}/'.format(directory, folder)):
                 data_path = './dataset/{}/{}/{}/'.format(directory, folder, name)
-                print('----------------- Processing {} ------------------'.format(data_path))
                 data_code = name[:6]
+                print('        Folder with code {}'.format(data_code[:5]))
                 words_file = data_code + 'words.xml'
                 turns_file = data_code + 'turns.xml'
                 chunks_file = data_code + 'chunks.xml'
@@ -90,14 +93,31 @@ if __name__ == '__main__':
                 turns_df['word_array'] = words_in_turns_array
                 turns_df['tags_array'] = tags_in_turns_array
 
-                print(turns_df['tags_array'])
-                print(turns_df['word_array'])
+                resulting_array.append(pd.DataFrame({'sentence': words_in_turns_array, 'tags': tags_in_turns_array}))
+
+    resulting_df = pd.concat(resulting_array, ignore_index=True)
+    with open('./output.json', 'w', encoding='utf-8') as file:
+        resulting_df.to_json(file, orient='index', force_ascii=False)
 
 # Han hecho falta las siguientes ediciones de los datos, por erratas:
 #     - JAKDOJECHAC/F/00961: La última palabra se ha quitado por no estar tenida en cuenta en los demás ficheros.
 #     - ZNIZKI/F/20057: Las palabras 48 a 50 se han agrupado puesto que no aparecían la 49 y 50 en chunks.
-#     - ZNIZKI/F/20057: Las palabras 52 a 55 se han agrupado puesto que no aparecían la 53, 54 y 55 en chunks.
-#     - ZNIZKI/F/00693: Las palabras 116 a 119 se han agrupado puesto que no aparecían la 117, 118 y 119 en chunks.
+#     - ZNIZKI/F/20057: Las palabras 52 a 55 se han agrupado.
+#     - ZNIZKI/F/00693: Las palabras 116 a 119 se han agrupado.
+#     - ZNIZKI/F/00962: Las palabras 194 a 197 se han agrupado.
+#     - ZNIZKI/F/00962: Las palabras 146 a 149 se han agrupado.
+#     - ZNIZKI/F/00200: Las palabras 157 a 159 se han agrupado.
+#     - ZNIZKI/F/00024: Las palabras 159 a 162 se han agrupado.
+#     - ZNIZKI/F/20075: Las palabras 98 a 101 se han agrupado.
+#     - ZNIZKI/F/00021: Las palabras 265 a 268 y 134 a 137 se han agrupado.
+#     - ZNIZKI/F/00105: Las palabras 93 a 95 y 121 a 123 se han agrupado.
+#     - ZNIZKI/M/00761: Las palabras 129 a 132 se han agrupado.
+#     - ZNIZKI/M/10003: Las palabras 88 a 91 se han agrupado.
+#     - ZNIZKI/M/10014: Las palabras 70 a 72 se han agrupado.
+#     - ZNIZKI/M/20037: Las palabras 59 a 62 se han agrupado.
+#     - ZNIZKI/M/10023: Las palabras 130 a 133, 126 a 128 y 69 a 72 se han agrupado.
+#     - ZNIZKI/M/20021: Las palabras 50 a 52, 54 a 57, 110 a 113 y 106 a 108 se han agrupado.
+#     - ZNIZKI/M/10000: Las palabras 54 a 56 se han agrupado.
 
 
 
