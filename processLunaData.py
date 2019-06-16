@@ -27,14 +27,18 @@ if __name__ == '__main__':
                 words_file = data_code + 'words.xml'
                 turns_file = data_code + 'turns.xml'
                 chunks_file = data_code + 'chunks.xml'
+                att_file = data_code + 'attvalue.xml'
 
                 words_df = xml_to_df(data_path + words_file)
                 turns_df = xml_to_df(data_path + turns_file)
                 chunks_df = xml_to_df(data_path + chunks_file)
+                att_df = xml_to_df(data_path + att_file)
 
                 turns_df['words'] = [[subwords.split('_')[-1] for subwords in word.split('..')] for word in turns_df['words']]
                 chunks_df['span'] = [[subwords.split('_')[-1] for subwords in word.split('..')] for word in chunks_df['span']]
+                att_df['span'] = [[subwords.split('_')[-1] for subwords in word.split('..')] for word in att_df['span']]
 
+                # Phase 1. Add to the words DF a field with the turn they belong to.
                 turns_for_words_array = []
                 for index in range(0, len(words_df.index) + 1):
                     gotcha = False
@@ -56,34 +60,41 @@ if __name__ == '__main__':
 
                 words_df['turn'] = turns_for_words_array
 
+                # Phase 2. Add to the words DF two fields, the chunk (or attribute) they belong to and its BIO tag.
                 chunks_for_words_array = []
                 BIO_tags_array = []
                 next_chunk = 1
+                tag = 'attribute'  # Tag for BIO tags.
+
                 for index in range(1, len(words_df.index) + 1):
                     gotcha = False
-                    for chunk in chunks_df.index:
+                    for chunk in att_df.index:
                         if gotcha:
                             continue
-                        start = int(chunks_df['span'][chunk][0])
-                        if len(chunks_df['span'][chunk]) < 2:
-                            end = int(chunks_df['span'][chunk][0]) + 1
+                        start = int(att_df['span'][chunk][0])
+                        if len(att_df['span'][chunk]) < 2:
+                            end = int(att_df['span'][chunk][0]) + 1
                         else:
-                            end = int(chunks_df['span'][chunk][1]) + 1
+                            end = int(att_df['span'][chunk][1]) + 1
 
                         my_range = range(start, end)
 
                         if index in my_range:
                             chunks_for_words_array.append(chunk + 1)
                             if chunk + 1 == next_chunk:
-                                BIO_tags_array.append('B-' + chunks_df['cat'][next_chunk - 1])
+                                BIO_tags_array.append('B-' + att_df[tag][next_chunk - 1])
                                 next_chunk += 1
                             else:
-                                BIO_tags_array.append('I-' + chunks_df['cat'][next_chunk - 2])
+                                BIO_tags_array.append('I-' + att_df[tag][next_chunk - 2])
                             gotcha = True
+                    if not gotcha:
+                        BIO_tags_array.append('O')
+                        chunks_for_words_array.append(0)
 
                 words_df['chunk'] = chunks_for_words_array
                 words_df['BIO_tag'] = BIO_tags_array
 
+                # Phase 3. Add two fields to the turns DF, array of belonging words and array of related tags.
                 words_in_turns_array = []
                 tags_in_turns_array = []
                 for turn in turns_df.index + 1:
@@ -93,13 +104,14 @@ if __name__ == '__main__':
                 turns_df['word_array'] = words_in_turns_array
                 turns_df['tags_array'] = tags_in_turns_array
 
-                resulting_array.append(pd.DataFrame({'sentence': words_in_turns_array, 'tags': tags_in_turns_array}))
+                # Phase 4. Create an array and append the sentences, containing array of words and array of tags.
+                resulting_array.append(pd.DataFrame({'text': words_in_turns_array, 'labels': tags_in_turns_array}))
 
     resulting_df = pd.concat(resulting_array, ignore_index=True)
     with open('./output.json', 'w', encoding='utf-8') as file:
         resulting_df.to_json(file, orient='index', force_ascii=False)
 
-# Han hecho falta las siguientes ediciones de los datos, por erratas:
+# Han hecho falta las siguientes ediciones de los datos, por erratas, en los archivos chunks.xml:
 #     - JAKDOJECHAC/F/00961: La última palabra se ha quitado por no estar tenida en cuenta en los demás ficheros.
 #     - ZNIZKI/F/20057: Las palabras 48 a 50 se han agrupado puesto que no aparecían la 49 y 50 en chunks.
 #     - ZNIZKI/F/20057: Las palabras 52 a 55 se han agrupado.
