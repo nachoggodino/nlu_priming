@@ -115,6 +115,8 @@ if __name__ == '__main__':
                             print("                Turning {} into {}".format(tags_in_turns_array[index][0], 'B' + tags_in_turns_array[index][0][1:]))
                             tags_in_turns_array[index][0] = 'B' + tags_in_turns_array[index][0][1:]
 
+
+
     resulting_df = pd.concat(resulting_array, ignore_index=True)
     with open('./output.json', 'w', encoding='utf-8') as file:
         print(resulting_df)
