@@ -1,0 +1,42 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="ACTION" value="Need" />
+  <concept id="5" span="word_9" attribute="ACTION" value="Get" />
+  <concept id="6" span="word_12..word_14" attribute="CONNECTION_F" value="Shortest" />
+  <concept id="7" span="word_15..word_20" attribute="SOURCE_STP" value="Metro Wałbrzyska" />
+  <concept id="8" span="word_21" attribute="TOWN_DISTRICT" value="Służew" />
+  <concept id="9" span="word_22" attribute="REACTION" value="Confirmation" />
+  <concept id="10" span="word_23" attribute="TOWN_DISTRICT" value="Służew" />
+  <concept id="11" span="word_24..word_25" attribute="LOCATION_STR" value="Wałbrzyska" />
+  <concept id="12" span="word_26..word_27" attribute="GOAL_STR" value="Pileckiego" />
+  <concept id="13" span="word_28..word_29" attribute="LOCATION_REL" value="SamePlace" />
+  <concept id="14" span="word_30..word_31" attribute="BUILDING" value="Centrum Onkologii" />
+  <concept id="15" span="word_33" attribute="ACTION" value="Know" />
+  <concept id="16" span="word_36" attribute="METRO" value="General" />
+  <concept id="17" span="word_38..word_40" attribute="GOAL_STP" value="Metro Stokłosy" />
+  <concept id="18" span="word_42" attribute="SOURCE_REL" value="FromThere" />
+  <concept id="19" span="word_43..word_45" attribute="BUS" value="195" />
+  <concept id="20" span="word_46" attribute="REACTION" value="Confirmation" />
+  <concept id="21" span="word_47" attribute="NUM_BUS_PART" value="100" />
+  <concept id="22" span="word_50" attribute="ACTION" value="Concern" />
+  <concept id="23" span="word_52..word_53" attribute="BUILDING" value="Centrum Onkologii" />
+  <concept id="24" span="word_55" attribute="ACTION" value="ToBe" />
+  <concept id="25" span="word_57" attribute="CONNECTION_F" value="Best" />
+  <concept id="26" span="word_58" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="27" span="word_59" attribute="ACTION" value="ToHave" />
+  <concept id="28" span="word_61..word_62" attribute="LOCATION_STR" value="Roentgena" />
+  <concept id="29" span="word_63" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="30" span="word_64..word_65" attribute="LOCATION_BLD" value="Centrum Onkologii" />
+  <concept id="31" span="word_66" attribute="REACTION" value="Confirmation" />
+  <concept id="32" span="word_67" attribute="REACTION" value="Confirmation" />
+  <concept id="33" span="word_68..word_70" attribute="BUS" value="195" />
+  <concept id="34" span="word_73..word_75" attribute="BUS" value="195" />
+  <concept id="35" span="word_76..word_79" attribute="Q_WHERE" value="TripStartPoint" />
+  <concept id="36" span="word_80" attribute="ACTION" value="Leave" />
+  <concept id="37" span="word_82" attribute="ACTION" value="Check" />
+  <concept id="38" span="word_83..word_86" attribute="STOP_DESCRIPTION" value="Metro Stokłosy 03" />
+  <concept id="39" span="word_87..word_89" attribute="LOCATION_STR" value="Aleja KEN" />
+  <concept id="40" span="word_90..word_92" attribute="GOAL_DIRECTION_STR" value="Ciszewskiego" />
+</concepts>

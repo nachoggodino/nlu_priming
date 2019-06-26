@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_19_49_43" version="7" version_date="070907">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="131.492" topic="to1">
+<Turn startTime="0" endTime="0.728">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.728" endTime="1.873">
+<Sync time="0.728"/>
+xxx dobry wieczór
+</Turn>
+<Turn speaker="spk2" startTime="1.873" endTime="14.995">
+<Sync time="1.873"/>
+<Event desc="noise" type="noise" extent="begin"/> dobry wieczór proszę pana linia sto osiemdziesiąt sześć mnie interesuje i sto siedemdziesiąt dwa <Event desc="filler" type="lexical" extent="instantaneous"/> na przystanku Banacha zero dwa w kierunku Mokotowa <Event desc="int" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/> <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="14.995" endTime="16.305">
+<Sync time="14.995"/>
+a w jakich godzinach <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="16.305" endTime="19.073">
+<Sync time="16.305"/>
+<Event desc="noise" type="noise" extent="begin"/> dwudziesta pierwsza trzydzieści dwudziesta druga <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="19.073" endTime="20.122">
+<Sync time="19.073"/>
+aha na dzisiaj rozkła<Event desc="~" type="lexical" extent="begin"/>d<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="20.122" endTime="20.913">
+<Sync time="20.122"/>
+no no no no <Event desc="filler" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="20.913" endTime="24.284">
+<Sync time="20.913"/>
+linia sto osiemdziesiąt sześć jest dwudziesta pierwsza trzydzieści cztery
+</Turn>
+<Turn speaker="spk2" startTime="24.284" endTime="24.727">
+<Sync time="24.284"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="24.727" endTime="25.806">
+<Sync time="24.727"/>
+pięćdziesiąt cztery
+</Turn>
+<Turn speaker="spk2" startTime="25.806" endTime="26.251">
+<Sync time="25.806"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="26.251" endTime="28.543">
+<Sync time="26.251"/>
+po dwudziestej drugiej jest czternaście
+</Turn>
+<Turn speaker="spk2" startTime="28.543" endTime="36.362">
+<Sync time="28.543"/>
+<Event desc="noise" type="noise" extent="begin"/> dobra czternaście wystarczy a sto siedemdziesiąt dwa <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="int" type="noise" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/> 
+</Turn>
+<Turn speaker="spk1" startTime="36.362" endTime="38.033">
+<Sync time="36.362"/>
+dwudziesta pierwsza dwadzieścia dziewięć 
+</Turn>
+<Turn speaker="spk2" startTime="38.033" endTime="38.403">
+<Sync time="38.033"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="38.403" endTime="39.735">
+<Sync time="38.403"/>
+czterdzieści dziewięć
+</Turn>
+<Turn speaker="spk2" startTime="39.735" endTime="40.107">
+<Sync time="39.735"/>
+<Event desc="noise" type="noise" extent="begin"/> no <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="40.107" endTime="41.599">
+<Sync time="40.107"/>
+dwudziesta druga czternaście 
+</Turn>
+<Turn speaker="spk2" startTime="41.599" endTime="49.056">
+<Sync time="41.599"/>
+<Event desc="noise" type="noise" extent="begin"/> też dwudziesta druga czternaście proszę pana a sto pięćdziesiąt siedem jeszcze tylko że widzi pan Banacha Szpital <Event desc="sta" type="noise" extent="begin"/>chyba to jest przystanek <Event desc="sta" type="noise" extent="end"/> <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="49.056" endTime="51.694">
+<Sync time="49.056"/>
+ale w kierunku Centrum jak jedzie <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="51.694" endTime="53.498">
+<Sync time="51.694"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> w kierunku Szczęśliwi<Event desc="~" type="lexical" extent="begin"/>c<Event desc="~" type="lexical" extent="end"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="53.498" endTime="61.374">
+<Sync time="53.498"/>
+a na Szczęśliwice<Event desc="noise" type="noise" extent="previous"/> <Event desc="silence" type="noise" extent="instantaneous"/> ale zaraz bo pani tamte chciała w kierunku Woli <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="61.374" endTime="61.904">
+<Sync time="61.374"/>
+nie
+</Turn>
+<Turn speaker="spk1 spk2" startTime="61.904" endTime="63.034">
+<Sync time="61.904"/>
+<Who nb="1"/>
+Mokotowa
+<Who nb="2"/>
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/> Mokotowa
+</Turn>
+<Turn speaker="spk1" startTime="63.034" endTime="67.949">
+<Sync time="63.034"/>
+no to dobrze już podam <Event desc="filler" type="lexical" extent="instantaneous"/> dobrze czyli Banacha Szpital w kierunku Szczęśliwic w tych samych godzinach <Event desc="?" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="67.949" endTime="68.351">
+<Sync time="67.949"/>
+<Event desc="noise" type="noise" extent="begin"/> tak <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="68.351" endTime="70.561">
+<Sync time="68.351"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> dwudziesta pierwsza dwadzieścia osiem 
+</Turn>
+<Turn speaker="spk2" startTime="70.561" endTime="70.947">
+<Sync time="70.561"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="70.947" endTime="72.348">
+<Sync time="70.947"/>
+pięćdziesiąt sześć 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="72.348" endTime="72.828">
+<Sync time="72.348"/>
+<Who nb="1"/>
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+<Who nb="2"/>
+pięćdziesiąt
+</Turn>
+<Turn speaker="spk2" startTime="72.828" endTime="73.242">
+<Sync time="72.828"/>
+<Event desc="noise" type="noise" extent="begin"/> sześ<Event desc="~" type="lexical" extent="begin"/>ć<Event desc="~" type="lexical" extent="end"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="73.242" endTime="74.431">
+<Sync time="73.242"/>
+dwudziesta druga szesnaście
+</Turn>
+<Turn speaker="spk2" startTime="74.431" endTime="78.423">
+<Sync time="74.431"/>
+<Event desc="noise" type="noise" extent="begin"/> o <Event desc="*" type="pronounce" extent="begin"/>Jezu<Event desc="*" type="pronounce" extent="end"/> <Event desc="silence" type="noise" extent="instantaneous"/> straszne rozpiętości już się porobiły dobra <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="78.423" endTime="80.285">
+<Sync time="78.423"/>
+<Event desc="babble" type="noise" extent="begin"/> no to nie może <Event desc="babble" type="noise" extent="end"/> sto trzydzieści sześć jeszcze
+</Turn>
+<Turn speaker="spk2" startTime="80.285" endTime="81.287">
+<Sync time="80.285"/>
+a jest <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="81.287" endTime="86.825">
+<Sync time="81.287"/>
+<Event desc="int" type="noise" extent="instantaneous"/> <Event desc="~" type="lexical" extent="begin"/>z<Event desc="~" type="lexical" extent="end"/>araz <Event desc="int" type="noise" extent="next"/>zobaczę godziny tylko bo chodzi o dojazd do przystanku Banacha tak <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="int" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="86.825" endTime="94.054">
+<Sync time="86.825"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> nie dojazd proszę pana <Event desc="filler" type="lexical" extent="instantaneous"/> do <Event desc="filler" type="lexical" extent="instantaneous"/> Racławickiej <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="94.054" endTime="111.852">
+<Sync time="94.054"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="int" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="begin"/> do Racławickiej <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/> o do przystanku Rakowiec dojeżdża on ma przystanek <Event desc="filler" type="lexical" extent="instantaneous"/> Banacha zero siedem albo Banacha Szpital na Żwirki i Wigury i to w kierunku Ursynowa wtedy
+</Turn>
+<Turn speaker="spk2" startTime="111.852" endTime="112.693">
+<Sync time="111.852"/>
+<Event desc="noise" type="noise" extent="begin"/> tak tak tak <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="112.693" endTime="113.907">
+<Sync time="112.693"/>
+to od którego <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="113.907" endTime="115.582">
+<Sync time="113.907"/>
+<Event desc="noise" type="noise" extent="begin"/> też tak samo dwudziesta pierwsza trzy<Event desc="~" type="lexical" extent="begin"/>dzieści<Event desc="~" type="lexical" extent="end"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="115.582" endTime="117.178">
+<Sync time="115.582"/>
+ale Banacha czy Banacha Szpital przys<Event desc="~" type="lexical" extent="begin"/>tanek<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="117.178" endTime="122.194">
+<Sync time="117.178"/>
+<Event desc="babble" type="noise" extent="begin"/> Banacha <Event desc="babble" type="noise" extent="end"/> tutaj <Event desc="filler" type="lexical" extent="instantaneous"/> na <Event desc="noise" type="noise" extent="begin"/> wysokości tramwajowej pętli <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="122.194" endTime="125.437">
+<Sync time="122.194"/>
+dwudziesta pierwsza trzydzieści pięć dwudziesta druga zero zero
+</Turn>
+<Turn speaker="spk2" startTime="125.437" endTime="128.55">
+<Sync time="125.437"/>
+ dwudziesta druga zero zero to najlepszy będzie dobra dzięki
+</Turn>
+<Turn speaker="spk2 spk1" startTime="128.55" endTime="129.996">
+<Sync time="128.55"/>
+<Who nb="1"/>
+serdeczne dobranoc
+<Who nb="2"/>
+proszę bardzo dobranoc
+</Turn>
+<Turn startTime="129.996" endTime="131.492">
+<Sync time="129.996"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

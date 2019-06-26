@@ -1,0 +1,24 @@
+<Frames>
+  <Set id="1" subset="1" span="word_20" frame="SELF_MOTION" head="iść">
+    <Frame fe="1" span="word_16..word_18" concept_id="5" name="SELF_MOVER" />
+    <Frame fe="2" span="word_21..word_22" concept_id="7" name="PATH" />
+  </Set>
+  <Set id="2" subset="1" span="word_29" frame="SELF_MOTION" head="iść">
+    <Frame fe="1" span="word_27" concept_id="10" name="SOURCE" />
+    <Frame fe="2" span="word_28" concept_id="11" name="SELF_MOVER" />
+  </Set>
+  <Set id="3" subset="1" span="word_47" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_50" concept_id="17" name="TOPIC" />
+  </Set>
+  <Set id="4" subset="1" span="word_52" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_54..word_55" concept_id="19" name="LOCATION" />
+  </Set>
+  <Set id="5" subset="1" span="word_74" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_70..word_72" concept_id="27" name="THEME" />
+    <Frame fe="2" span="word_78..word_79" concept_id="29" name="DISTANCE" />
+    <Frame fe="3" span="word_81..word_82" concept_id="30" name="LOCATION" />
+  </Set>
+  <Set id="6" subset="1" span="word_85" frame="TRAVERSING" head="przejechać">
+    <Frame fe="1" span="word_86" concept_id="32" name="AREA" />
+  </Set>
+</Frames>

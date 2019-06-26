@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-04_12_16_10" version="3" version_date="071001">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="33.498" topic="to1">
+<Turn startTime="0" endTime="1.051">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.051" endTime="2.893">
+<Sync time="1.051"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.893" endTime="8.519">
+<Sync time="2.893"/>
+halo dzień dobry ja mam takie pytanie do ilu lat dziecko może jeździć bez biletu tramwajem <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="8.519" endTime="12.166">
+<Sync time="8.519"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> do czasu objęcia obowiązkiem szkolnym czyli do siódmego roku życia
+</Turn>
+<Turn speaker="spk2" startTime="12.166" endTime="17.41">
+<Sync time="12.166"/>
+no dobrze ale jak na przy<Event desc="~" type="lexical" extent="instantaneous"/> aha <Event desc="filler" type="lexical" extent="instantaneous"/> czy<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>i to chodzi o rok kalendarzowy <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="17.41" endTime="20.374">
+<Sync time="17.41"/>
+do pierwszego września roku w którym dziecko kończy siede<Event desc="~" type="lexical" extent="begin"/>m<Event desc="~" type="lexical" extent="end"/> 
+</Turn>
+<Turn speaker="spk2" startTime="20.374" endTime="24.546">
+<Sync time="20.374"/>
+<Event desc="babble" type="noise" extent="begin"/> ano właśnie <Event desc="babble" type="noise" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> no bo dziecko na <Event desc="*" type="pronounce" extent="begin"/>przykład<Event desc="*" type="pronounce" extent="end"/> kończy siedem lat teraz w kwietniu
+</Turn>
+<Turn speaker="spk1" startTime="24.546" endTime="27.185">
+<Sync time="24.546"/>
+ale przejazdy ma bezpłatne do czasu objęcia  obowiązkie<Event desc="~" type="lexical" extent="begin"/>m<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="27.185" endTime="29.41">
+<Sync time="27.185"/>
+<Who nb="1"/>
+aha czyli do momentu kiedy nie zacznie się chodzić
+<Who nb="2"/>
+szkolnym ma obowiązek a obowiązek szkolny zaczyna się
+</Turn>
+<Turn speaker="spk2" startTime="29.41" endTime="30.026">
+<Sync time="29.41"/>
+do szkoły tak <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="30.026" endTime="30.65">
+<Sync time="30.026"/>
+tak dokładnie
+</Turn>
+<Turn speaker="spk2" startTime="30.65" endTime="31.21">
+<Sync time="30.65"/>
+dziękuję panu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="31.21" endTime="31.942">
+<Sync time="31.21"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+bardzo proszę
+</Turn>
+<Turn startTime="31.942" endTime="33.498">
+<Sync time="31.942"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

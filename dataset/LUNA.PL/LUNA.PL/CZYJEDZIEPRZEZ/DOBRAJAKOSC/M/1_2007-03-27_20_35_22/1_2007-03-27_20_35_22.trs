@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-27_20_35_22" version="3" version_date="080104">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="61.996" topic="to1">
+<Turn startTime="0" endTime="0.725">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.725" endTime="2.843">
+<Sync time="0.725"/>
+dobry wieczór xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.843" endTime="9.668">
+<Sync time="2.843"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobry wieczór ja ja chcia
+<Event desc="~" type="lexical" extent="begin"/>
+łe
+<Event desc="~" type="lexical" extent="end"/>
+m zapytać pod 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Piasecznem jest takie a 
+<Event desc="*" type="pronounce" extent="begin"/>
+miejscowość
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+Zgorzała
+<Event desc="*" type="pronounce" extent="end"/>
+ coś takiego 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.668" endTime="11.027">
+<Sync time="9.668"/>
+jeszcze raz ja
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ ta miejscowość 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="11.027" endTime="12.995">
+<Sync time="11.027"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+Zgorzała
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.995" endTime="13.892">
+<Sync time="12.995"/>
+Zgorze 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="13.892" endTime="18.098">
+<Sync time="13.892"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ Zgorzel 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ gdzieś koło Dawidów tu pod Piasecznem 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.098" endTime="19.97">
+<Sync time="18.098"/>
+to może 
+<Event desc="noise" type="noise" extent="begin"/>
+ Zgorzała 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="19.97" endTime="21.567">
+<Sync time="19.97"/>
+ Zgorzała no chyba tak
+</Turn>
+<Turn speaker="spk1" startTime="21.567" endTime="23.968">
+<Sync time="21.567"/>
+to 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak 
+<Event desc="noise" type="noise" extent="begin"/>
+ jest taka miejscowość 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="23.968" endTime="25.091">
+<Sync time="23.968"/>
+przy Puławskiej tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.091" endTime="26.62">
+<Sync time="25.091"/>
+tak tak 
+<Event desc="babble" type="noise" extent="begin"/>
+ niedaleko 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.62" endTime="29.188">
+<Sync time="26.62"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ i tam jakieś autobusy dojeżdżają 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.188" endTime="34.554">
+<Sync time="29.188"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Zgorzałej proszę pana już mówię 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ siedemset piętnaście
+</Turn>
+<Turn speaker="spk2" startTime="34.554" endTime="44.734">
+<Sync time="34.554"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ siedemset piętnaście tam gdzieś się zatrzymuje może gdzieś 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ koło ulicy pro
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Postępu 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="44.734" endTime="48.649">
+<Sync time="44.734"/>
+to znaczy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ siedemset piętnastka to jedzie wzdłuż ulicy Puławskiej 
+</Turn>
+<Turn speaker="spk2" startTime="48.649" endTime="49.9">
+<Sync time="48.649"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="49.9" endTime="54.382">
+<Sync time="49.9"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i dalej skręca w Karczunkowską i Karczunkowską już jedzie do Zgorzałej
+</Turn>
+<Turn speaker="spk2" startTime="54.382" endTime="58.114">
+<Sync time="54.382"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha a dobrze no to to już trafię dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="58.114" endTime="59.413">
+<Sync time="58.114"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="59.413" endTime="60.044">
+<Sync time="59.413"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="60.044" endTime="60.594">
+<Sync time="60.044"/>
+do widzenia
+</Turn>
+<Turn startTime="60.594" endTime="61.996">
+<Sync time="60.594"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,19 @@
+<Frames>
+  <Set id="1" subset="1" span="word_10" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_11..word_12" concept_id="5" name="VEHICLE" />
+    <Frame fe="2" span="word_13..word_15" concept_id="6" name="SOURCE" />
+  </Set>
+  <Set id="2" subset="1" span="word_17" frame="ESCAPING" head="wysiąść">
+    <Frame fe="1" span="word_18..word_20" concept_id="8" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_28" frame="NEEDING" head="chcieć">
+    <Frame fe="1" span="word_29..word_31,word_32..word_33" concept_id="11,12" name="PLACE" />
+  </Set>
+  <Set id="4" subset="1" span="word_62" frame="ARRIVING" head="wejść">
+    <Frame fe="1" span="word_58..word_59,word_60..word_61" concept_id="21,22" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_79" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_78" concept_id="28" name="PHENOMENON" />
+    <Frame fe="2" span="word_80..word_81" concept_id="30" name="CHARACTERIZATION" />
+  </Set>
+</Frames>

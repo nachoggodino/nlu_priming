@@ -1,0 +1,51 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_11" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_14" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="5" span="word_18" attribute="ACTION" value="Give" />
+  <concept id="6" span="word_19..word_20" attribute="TIMETABLE" value="General" />
+  <concept id="7" span="word_21..word_22" attribute="BUS" value="700" />
+  <concept id="8" span="word_23..word_26" attribute="DAYTIME_PERIOD_SPAN" value="9 : 00 - 1 : 00" />
+  <concept id="9" span="word_27..word_29" attribute="SOURCE_RS" value="Warszawa Centralna" />
+  <concept id="10" span="word_31" attribute="ACTION" value="Check" />
+  <concept id="11" span="word_33..word_35" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="12" span="word_37" attribute="ACTION" value="ToBe" />
+  <concept id="13" span="word_38..word_39" attribute="BUS_REL" value="ThisBus" />
+  <concept id="14" span="word_41..word_42" attribute="SOURCE_TOWN" value="Warszawa" />
+  <concept id="15" span="word_43..word_45" attribute="LOCATION_STP" value="STOCER" />
+  <concept id="16" span="word_46..word_47" attribute="LOCATION_TOWN" value="Konstancin Jeziorna" />
+  <concept id="17" span="word_48" attribute="STOP_DESCRIPTION" value="STOCER" />
+  <concept id="18" span="word_49" attribute="REACTION" value="Confirmation" />
+  <concept id="19" span="word_54..word_56" attribute="SOURCE_RS" value="Dworzec Centralny" />
+  <concept id="20" span="word_57" attribute="DEPARTURE" value="General" />
+  <concept id="21" span="word_58" attribute="ACTION" value="ToBe" />
+  <concept id="22" span="word_59..word_62" attribute="DAYTIME_PERIOD_BEG" value="9 : 01" />
+  <concept id="23" span="word_65..word_67" attribute="AT_HOUR" value="9 : 01" />
+  <concept id="24" span="word_68" attribute="REACTION" value="Confirmation" />
+  <concept id="25" span="word_69..word_71" attribute="AT_HOUR" value="10 : 21" />
+  <concept id="26" span="word_72" attribute="REACTION" value="Confirmation" />
+  <concept id="27" span="word_73..word_75" attribute="AT_HOUR" value="11 : 36" />
+  <concept id="28" span="word_76..word_78" attribute="AT_HOUR" value="12 : 51" />
+  <concept id="29" span="word_81" attribute="REACTION" value="Confirmation" />
+  <concept id="30" span="word_82..word_83" attribute="LOCATION_STP" value="STOCER" />
+  <concept id="31" span="word_84..word_85" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="32" span="word_86" attribute="ACTION" value="ToBe" />
+  <concept id="33" span="word_90" attribute="ACTION" value="Count" />
+  <concept id="34" span="word_92..word_93" attribute="RIDE_DURATION_M" value="50" />
+  <concept id="35" span="word_95" attribute="REACTION" value="Confirmation" />
+  <concept id="36" span="word_96" attribute="REACTION" value="Confirmation" />
+  <concept id="37" span="word_98..word_99" attribute="SOURCE_STP" value="STOCER" />
+  <concept id="38" span="word_100..word_101" attribute="GOAL_TOWN" value="Warszawa" />
+  <concept id="39" span="word_103" attribute="REACTION" value="Confirmation" />
+  <concept id="40" span="word_106..word_109" attribute="DAYTIME_PERIOD_SPAN" value="12 : 00 - 2 : 00" />
+  <concept id="41" span="word_110" attribute="REACTION" value="Confirmation" />
+  <concept id="42" span="word_114" attribute="ACTION" value="ToBe" />
+  <concept id="43" span="word_116..word_118" attribute="AT_HOUR" value="11 : 46" />
+  <concept id="44" span="word_119" attribute="REACTION" value="Confirmation" />
+  <concept id="45" span="word_120..word_122" attribute="AT_HOUR" value="13 : 01" />
+  <concept id="46" span="word_123" attribute="REACTION" value="Confirmation" />
+  <concept id="47" span="word_124..word_125" attribute="AT_HOUR" value="14 : 16" />
+  <concept id="48" span="word_133..word_134" attribute="CONV_FORM" value="BYE" />
+  <concept id="49" span="word_135..word_136" attribute="CONV_FORM" value="BYE" />
+</concepts>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-28_17_09_27" version="3" version_date="070907">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="49.497" topic="to1">
+<Turn startTime="0" endTime="0.427">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.427" endTime="1.506">
+<Sync time="0.427"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.506" endTime="13.917">
+<Sync time="1.506"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dob<Event desc="~" type="lexical" extent="begin"/>r<Event desc="~" type="lexical" extent="end"/>y <Event desc="noise" type="noise" extent="end"/> proszę pana ja mam takie pytanie ja jestem nauczycielką i dosta<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>am taką legitymację <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="*" type="pronounce" extent="begin"/>która<Event desc="*" type="pronounce" extent="end"/> uprawnia mnie również ponoć do jakichś zniżek w <Event desc="*" type="pronounce" extent="begin"/><Event desc="SPELLED" type="pronounce" extent="begin"/>M Z A<Event desc="SPELLED" type="pronounce" extent="end"/><Event desc="*" type="pronounce" extent="end"/> jeżeli pan by mi mógł powiedzieć <Event desc="*" type="pronounce" extent="begin"/>poinformować<Event desc="*" type="pronounce" extent="end"/> jakie <Event desc="babble" type="noise" extent="begin"/> to są <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="13.917" endTime="14.925">
+<Sync time="13.917"/>
+chodzi o nauczycieli
+</Turn>
+<Turn speaker="spk2" startTime="14.925" endTime="15.341">
+<Sync time="14.925"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="15.341" endTime="17.742">
+<Sync time="15.341"/>
+to nie ma zniżek w komunikacji miejskiej
+</Turn>
+<Turn speaker="spk2" startTime="17.742" endTime="19.084">
+<Sync time="17.742"/>
+aha nie ma
+</Turn>
+<Turn speaker="spk1" startTime="19.084" endTime="20.276">
+<Sync time="19.084"/>
+<Event desc="noise" type="noise" extent="begin"/> nie ma <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="20.276" endTime="23.825">
+<Sync time="20.276"/>
+no bo tak wed<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>ug tamtej ustawy to to tak <Event desc="filler" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="23.825" endTime="27.421">
+<Sync time="23.825"/>
+w komunikacji miejskiej nauczyciele nie mają zniżek <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="27.421" endTime="33.948">
+<Sync time="27.421"/>
+aha <Event desc="silence" type="noise" extent="instantaneous"/> no w<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>aśnie <Event desc="*" type="pronounce" extent="begin"/>więc<Event desc="*" type="pronounce" extent="end"/> w<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>aśnie dlatego dzwonię żeby się <Event desc="filler" type="lexical" extent="instantaneous"/> bo tam jest jakaś zniżka trzydzieści siedem procent
+</Turn>
+<Turn speaker="spk1" startTime="33.948" endTime="37.917">
+<Sync time="33.948"/>
+<Event desc="babble" type="noise" extent="begin"/> a to na <Event desc="babble" type="noise" extent="end"/> pewno nie u nas to <Event desc="*" type="pronounce" extent="begin"/>jest<Event desc="*" type="pronounce" extent="end"/> już to chodzi <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> o <Event desc="SPELLED" type="pronounce" extent="begin"/>P K S<Event desc="SPELLED" type="pronounce" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="37.917" endTime="39.223">
+<Sync time="37.917"/>
+aha w ten spos<Event desc="~" type="lexical" extent="begin"/>ób<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="39.223" endTime="40.909">
+<Sync time="39.223"/>
+u nas nie ma takiej zniżki nawet
+</Turn>
+<Turn speaker="spk2" startTime="40.909" endTime="45.272">
+<Sync time="40.909"/>
+<Event desc="noise" type="noise" extent="begin"/> no właśnie <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> no dobrze dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="45.272" endTime="45.786">
+<Sync time="45.272"/>
+proszę bar<Event desc="~" type="lexical" extent="begin"/>dzo<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn startTime="45.786" endTime="49.497">
+<Sync time="45.786"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

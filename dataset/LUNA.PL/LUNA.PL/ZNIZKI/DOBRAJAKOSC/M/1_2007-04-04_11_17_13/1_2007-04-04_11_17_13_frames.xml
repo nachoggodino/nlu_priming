@@ -1,0 +1,17 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_15" concept_id="5" name="TOPIC" />
+    <Frame fe="2" span="word_17..word_22" concept_id="6" name="EXPLANATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_26" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_27" concept_id="9" name="PRIVILEGE" />
+    <Frame fe="2" span="word_28..word_29" concept_id="10" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="3" subset="1" span="word_37" frame="ARRIVING" head="przyjechać">
+    <Frame fe="1" span="word_38..word_39" concept_id="14" name="SOURCE" />
+  </Set>
+  <Set id="4" subset="1" span="word_50" frame="BECOMING" head="ukończyć">
+    <Frame fe="1" span="word_48" concept_id="15" name="ENTITY" />
+    <Frame fe="2" span="word_51..word_53" concept_id="17" name="FINAL_CATEGORY" />
+  </Set>
+</Frames>

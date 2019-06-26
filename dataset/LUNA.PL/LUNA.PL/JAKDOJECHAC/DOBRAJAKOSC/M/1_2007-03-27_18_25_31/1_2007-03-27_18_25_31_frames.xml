@@ -1,0 +1,30 @@
+<Frames>
+  <Set id="1" subset="1" span="word_25" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_18..word_19,word_20..word_22" concept_id="7,8" name="GOAL" />
+    <Frame fe="2" span="word_23,word_24" concept_id="9,10" name="MANNER" />
+  </Set>
+  <Set id="2" subset="1" span="word_45" frame="BOARD_VEHICLE" head="wejść">
+    <Frame fe="1" span="word_47..word_50" concept_id="18" name="VEHICLE" />
+  </Set>
+  <Set id="3" subset="1" span="word_52" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_53..word_54" concept_id="21" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="2" span="word_55..word_58" concept_id="22" name="GOAL" />
+  </Set>
+  <Set id="4" subset="1" span="word_64" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_62" concept_id="24" name="TIME" />
+  </Set>
+  <Set id="5" subset="1" span="word_91" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_89" concept_id="33" name="LOCATION" />
+    <Frame fe="2" span="word_92" concept_id="35" name="DISTANCE" />
+  </Set>
+  <Set id="6" subset="1" span="word_99" frame="MOTION" head="podjechać">
+    <Frame fe="1" span="word_96..word_98" concept_id="36" name="MEANS" />
+    <Frame fe="2" span="word_100..word_101" concept_id="38" name="DISTANCE" />
+    <Frame fe="3" span="word_102..word_104" concept_id="39" name="GOAL" />
+  </Set>
+  <Set id="7" subset="1" span="word_110" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_106" concept_id="40" name="LOCATION" />
+    <Frame fe="2" span="word_108" concept_id="41" name="DISTANCE" />
+    <Frame fe="3" span="word_111..word_112" concept_id="43" name="THEME" />
+  </Set>
+</Frames>

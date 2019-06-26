@@ -1,0 +1,75 @@
+<Frames>
+  <Set id="1" subset="1" span="word_19" frame="MOTION" head="kursować">
+    <Frame fe="1" span="word_12..word_14" concept_id="6" name="THEME" />
+    <Frame fe="2" span="word_16..word_18" concept_id="7" name="THEME" />
+    <Frame fe="3" span="word_29..word_30" concept_id="9" name="SOURCE" />
+    <Frame fe="4" span="word_31..word_32" concept_id="10" name="PATH" />
+  </Set>
+  <Set id="2" subset="1" span="word_35" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_34" concept_id="11" name="TIME" />
+    <Frame fe="2" span="word_36..word_38" concept_id="13" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_41" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_39" concept_id="14" name="THEME" />
+    <Frame fe="2" span="word_42..word_44" concept_id="17" name="GOAL" />
+  </Set>
+  <Set id="4" subset="1" span="word_46" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_45" concept_id="18" name="PATH" />
+  </Set>
+  <Set id="5" subset="1" span="word_52" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_49..word_51" concept_id="20" name="GOAL" />
+  </Set>
+  <Set id="6" subset="1" span="word_65" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_62..word_63" concept_id="27" name="THEME" />
+    <Frame fe="2" span="word_68" concept_id="29" name="LOCATION" />
+  </Set>
+  <Set id="7" subset="1" span="word_71" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_70" concept_id="30" name="LOCATION" />
+  </Set>
+  <Set id="8" subset="1" span="word_95" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_94" concept_id="39" name="THEME" />
+    <Frame fe="2" span="word_96..word_98" concept_id="41" name="SOURCE" />
+    <Frame fe="3" span="word_99..word_101" concept_id="42" name="GOAL" />
+  </Set>
+  <Set id="9" subset="1" span="word_105" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_103" concept_id="43" name="DISTANCE" />
+    <Frame fe="2" span="word_104" concept_id="44" name="THEME" />
+  </Set>
+  <Set id="10" subset="2" span="word_108" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_109" concept_id="47" name="LOCATION" />
+    <Frame fe="2" span="word_110..word_111" concept_id="48" name="THEME" />
+    <Frame fe="3" span="word_113..word_116" concept_id="49" name="PLACE" />
+  </Set>
+  <Set id="11" subset="1" span="word_120" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_119" concept_id="50" name="THEME" />
+    <Frame fe="2" span="word_122..word_123,word_124..word_126" concept_id="52,53" name="LOCATION" />
+  </Set>
+  <Set id="12" subset="1" span="word_150" frame="REFFERING_BY_NAME" head="nazywać">
+    <Frame fe="1" span="word_147" concept_id="63" name="NAME" />
+    <Frame fe="2" span="word_148" concept_id="64" name="ENTITY" />
+  </Set>
+  <Set id="13" subset="2" span="word_152" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_153..word_157" concept_id="67" name="ENTITY" />
+  </Set>
+  <Set id="14" subset="1" span="word_162" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_160" concept_id="68" name="ENTITY" />
+  </Set>
+  <Set id="15" subset="1" span="word_170" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_168" concept_id="72" name="ENTITY" />
+    <Frame fe="2" span="word_171" concept_id="74" name="PLACE" />
+  </Set>
+  <Set id="16" subset="1" span="word_178" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_176" concept_id="76" name="THEME" />
+    <Frame fe="2" span="word_181..word_182" concept_id="78" name="LOCATION" />
+  </Set>
+  <Set id="17" subset="1" span="word_202" frame="CHANGE_DIRECTION" head="zakręcić">
+    <Frame fe="1" span="word_201" concept_id="82" name="THEME" />
+  </Set>
+  <Set id="18" subset="1" span="word_248" frame="CHANGE_DIRECTION" head="skręcić">
+    <Frame fe="1" span="word_241..word_243" concept_id="91" name="SOURCE" />
+    <Frame fe="2" span="word_244..word_246" concept_id="92" name="GOAL" />
+  </Set>
+  <Set id="19" subset="1" span="word_250" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_251" concept_id="95" name="THEME" />
+  </Set>
+</Frames>

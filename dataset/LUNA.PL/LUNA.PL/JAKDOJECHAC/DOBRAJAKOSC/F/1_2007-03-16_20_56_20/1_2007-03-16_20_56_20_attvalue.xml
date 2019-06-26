@@ -1,0 +1,67 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_7..word_8" attribute="CONV_FORM" value="HELLO" />
+  <concept id="5" span="word_12" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_16..word_17" attribute="SOURCE_TD" value="Praga" />
+  <concept id="7" span="word_18" attribute="LOCATION_REL" value="There" />
+  <concept id="8" span="word_19..word_20" attribute="LOCATION_AREA" value="ZOO" />
+  <concept id="9" span="word_21" attribute="LOCATION_REL" value="There" />
+  <concept id="10" span="word_22" attribute="ACTION" value="Know" />
+  <concept id="11" span="word_24..word_25" attribute="SOURCE_STR" value="Targowa" />
+  <concept id="12" span="word_26" attribute="REACTION" value="Confirmation" />
+  <concept id="13" span="word_27" attribute="Q_HOW_TO" value="Reach" />
+  <concept id="14" span="word_28" attribute="ACTION" value="Approach" />
+  <concept id="15" span="word_31" attribute="CONNECTION_F" value="Simplest" />
+  <concept id="16" span="word_32..word_35" attribute="GOAL_STR" value="Powstańców Śląskich" />
+  <concept id="17" span="word_36" attribute="LOCATION_REL" value="There" />
+  <concept id="18" span="word_39..word_40" attribute="GOAL_BLD" value="Carrefour" />
+  <concept id="19" span="word_41" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="20" span="word_42" attribute="TRAM" value="General" />
+  <concept id="21" span="word_43" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="22" span="word_44" attribute="ACTION" value="ToBe" />
+  <concept id="23" span="word_45" attribute="LOCATION_REL" value="There" />
+  <concept id="24" span="word_46..word_48" attribute="CONNECTION_F" value="Direct" />
+  <concept id="25" span="word_57" attribute="ACTION" value="Wait" />
+  <concept id="26" span="word_60..word_61" attribute="TRAM" value="13" />
+  <concept id="27" span="word_62" attribute="ACTION" value="Approach" />
+  <concept id="28" span="word_66..word_68" attribute="GOAL_BLD" value="Carrefour" />
+  <concept id="29" span="word_70" attribute="REACTION" value="Confirmation" />
+  <concept id="30" span="word_71..word_72" attribute="TRAM" value="13" />
+  <concept id="31" span="word_73" attribute="REACTION" value="Confirmation" />
+  <concept id="32" span="word_76" attribute="LOCATION_REL" value="There" />
+  <concept id="33" span="word_79..word_80" attribute="SOURCE_AREA" value="ZOO" />
+  <concept id="34" span="word_81" attribute="Q_CONF" value="IsIt" />
+  <concept id="35" span="word_83" attribute="REACTION" value="Confirmation" />
+  <concept id="36" span="word_84" attribute="ACTION" value="Go" />
+  <concept id="37" span="word_85..word_86" attribute="SOURCE_AREA" value="ZOO" />
+  <concept id="38" span="word_87" attribute="TRAM" value="13" />
+  <concept id="39" span="word_88" attribute="REACTION" value="Confirmation" />
+  <concept id="40" span="word_92" attribute="LOCATION_REL" value="There" />
+  <concept id="41" span="word_94..word_95" attribute="GOAL_STP" value="LAST" />
+  <concept id="42" span="word_96" attribute="Q_CONF" value="IsIt" />
+  <concept id="43" span="word_99" attribute="ACTION" value="ToBe" />
+  <concept id="44" span="word_100..word_101" attribute="LOCATION_AFTER_BLD" value="Tesco" />
+  <concept id="45" span="word_105" attribute="REACTION" value="Negation" />
+  <concept id="46" span="word_106" attribute="ACTION" value="Know" />
+  <concept id="47" span="word_111" attribute="ACTION" value="ToBe" />
+  <concept id="48" span="word_112..word_114" attribute="LOCATION_STR" value="Powstańców Śląskich" />
+  <concept id="49" span="word_115" attribute="TRAM" value="General" />
+  <concept id="50" span="word_117" attribute="ACTION" value="Go" />
+  <concept id="51" span="word_118..word_119" attribute="PATH_STR" value="Powstańców Śląskich" />
+  <concept id="52" span="word_122" attribute="ACTION" value="ToPass" />
+  <concept id="53" span="word_123" attribute="BUILDING" value="Carrefour" />
+  <concept id="54" span="word_125" attribute="ACTION" value="ToPass" />
+  <concept id="55" span="word_126" attribute="BUILDING" value="Carrefour" />
+  <concept id="56" span="word_127" attribute="REACTION" value="Confirmation" />
+  <concept id="57" span="word_130..word_131" attribute="SOURCE_TD" value="Praga" />
+  <concept id="58" span="word_132" attribute="TRAM" value="13" />
+  <concept id="59" span="word_133..word_134" attribute="GOAL_REL" value="There" />
+  <concept id="60" span="word_135" attribute="ACTION" value="Approach" />
+  <concept id="61" span="word_136" attribute="REACTION" value="Confirmation" />
+  <concept id="62" span="word_138" attribute="TRSPM_CHANGE" value="General" />
+  <concept id="63" span="word_139" attribute="REACTION" value="Confirmation" />
+  <concept id="64" span="word_142" attribute="CONV_FORM" value="BYE" />
+  <concept id="65" span="word_145" attribute="CONV_FORM" value="BYE" />
+</concepts>

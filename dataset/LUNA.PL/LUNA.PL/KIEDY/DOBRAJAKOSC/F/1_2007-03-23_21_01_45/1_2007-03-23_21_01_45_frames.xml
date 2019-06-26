@@ -1,0 +1,17 @@
+<Frames>
+  <Set id="1" subset="4" span="word_40" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_39" concept_id="16" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_41..word_42" concept_id="18" name="PHENOMENON" />
+  </Set>
+  <Set id="2" subset="3" span="word_45" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_44" concept_id="19" name="PHENOMENON" />
+    <Frame fe="2" span="word_46..word_48" concept_id="21" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="3" subset="1" span="word_55" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_56..word_57" concept_id="25" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="4" subset="1" span="word_62" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_58..word_59" concept_id="26" name="PHENOMENON" />
+    <Frame fe="2" span="word_63" concept_id="29" name="CHARACTERIZATION" />
+  </Set>
+</Frames>

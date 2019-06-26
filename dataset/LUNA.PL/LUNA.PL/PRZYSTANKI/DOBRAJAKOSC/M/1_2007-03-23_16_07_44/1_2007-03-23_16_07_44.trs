@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_16_07_44SKM" version="7" version_date="070701">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="31.498" topic="to1">
+<Turn startTime="0" endTime="0.44">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.44" endTime="1.615">
+<Sync time="0.44"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.615" endTime="17.448">
+<Sync time="1.615"/>
+<Event desc="sta" type="noise" extent="begin"/><Event desc="filler" type="lexical" extent="instantaneous"/> dzień <Event desc="*" type="pronounce" extent="begin"/> dobry <Event desc="*" type="pronounce" extent="end"/> proszę pana mam takie pytanie <Event desc="filler" type="lexical" extent="instantaneous"/> chodzi mi o kursowanie tej linii <Event desc="SPELLED" type="pronounce" extent="begin"/>S K M<Event desc="SPELLED" type="pronounce" extent="end"/> w stronę Rembertowa <Event desc="filler" type="lexical" extent="instantaneous"/> z tutaj tu Warszawa Ochota <Event desc="filler" type="lexical" extent="instantaneous"/> ponieważ mam takie <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> <Event desc="~" type="lexical" extent="begin"/>s<Event desc="~" type="lexical" extent="end"/>przeczne informacje że nie <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> się zatrzymuje na <Event desc="filler" type="lexical" extent="instantaneous"/> Ochocie <Event desc="*" type="pronounce" extent="begin"/>drudzy<Event desc="*" type="pronounce" extent="end"/> że na Centralnym właśnie teraz w tej chwili już nie wiem <Event desc="sta" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="17.448" endTime="21.064">
+<Sync time="17.448"/>
+<Event desc="babble" type="noise" extent="begin"/> nie na <Event desc="babble" type="noise" extent="end"/>Centralnym się już nie zatrzymuje on się zatrzymywał jak był remont Tunelu 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="21.064" endTime="24.048">
+<Sync time="21.064"/>
+<Who nb="1"/>
+Średnicowego na Śródmieściu się zatrzymuje
+<Who nb="2"/>
+no właśnie to się skończyło
+</Turn>
+<Turn speaker="spk2" startTime="24.048" endTime="26.05">
+<Sync time="24.048"/>
+<Event desc="sta" type="noise" extent="begin"/> <Event desc="*" type="pronounce" extent="begin"/> czyli <Event desc="*" type="pronounce" extent="end"/> na Śródmieściu a na Ochocie też się zatrzymuje <Event desc="sta" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="26.05" endTime="26.597">
+<Sync time="26.05"/>
+też
+</Turn>
+<Turn speaker="spk2" startTime="26.597" endTime="27.954">
+<Sync time="26.597"/>
+<Event desc="sta" type="noise" extent="begin"/>aha to wobec tego dziękuję <Event desc="sta" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="27.954" endTime="29.033">
+<Sync time="27.954"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="29.033" endTime="29.484">
+<Sync time="29.033"/>
+do <Event desc="*" type="pronounce" extent="begin"/> widzenia <Event desc="*" type="pronounce" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="29.484" endTime="29.967">
+<Sync time="29.484"/>
+<Event desc="sta" type="noise" extent="begin"/> do widzenia <Event desc="sta" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="29.967" endTime="31.498">
+<Sync time="29.967"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

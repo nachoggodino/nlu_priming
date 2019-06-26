@@ -1,0 +1,14 @@
+<Frames>
+  <Set id="1" subset="1" span="word_31" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_29" concept_id="14" name="PHENOMENON" />
+    <Frame fe="2" span="word_32" concept_id="16" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_55" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_57..word_58" concept_id="25" name="TIME" />
+    <Frame fe="2" span="word_59..word_61" concept_id="26" name="TIME" />
+  </Set>
+  <Set id="3" subset="1" span="word_72" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_71" concept_id="31" name="ENTITY" />
+    <Frame fe="2" span="word_73" concept_id="33" name="TIME" />
+  </Set>
+</Frames>

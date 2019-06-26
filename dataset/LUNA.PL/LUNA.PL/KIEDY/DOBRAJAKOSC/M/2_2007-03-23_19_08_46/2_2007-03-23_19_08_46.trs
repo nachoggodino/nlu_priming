@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_19_08_46" version="2" version_date="070926">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="38.498" topic="to1">
+<Turn startTime="0" endTime="0.813">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.813" endTime="2.971">
+<Sync time="0.813"/>
+wieczór xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.971" endTime="3.608">
+<Sync time="2.971"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobry
+<Event desc="int" type="noise" extent="previous"/>
+ wieczór 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3.608" endTime="4.196">
+<Sync time="3.608"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobry wieczór 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="4.196" endTime="12.866">
+<Sync time="4.196"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+ch
+<Event desc="~" type="lexical" extent="end"/>
+ciałem się o 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ będzie pięćset dwadzieścia jeden z 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Placu Zawiszy do 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Falenicy 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.866" endTime="14.58">
+<Sync time="12.866"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+dobrze dzisiaj 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="14.58" endTime="15.012">
+<Sync time="14.58"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.012" endTime="15.896">
+<Sync time="15.012"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze proszę 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="15.896" endTime="16.548">
+<Sync time="15.896"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+teraz
+</Turn>
+<Turn speaker="spk1" startTime="16.548" endTime="32.876">
+<Sync time="16.548"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ już podaję do Falenicy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana to mamy tak dziewiętnasta jedenaście dwadzieścia cztery trzydzieści siedem i pięćdziesiąt dwie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="32.876" endTime="34.824">
+<Sync time="32.876"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dwadzieścia cztery trzydzieści siedem 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="34.824" endTime="35.74">
+<Sync time="34.824"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ dziękuję
+<Who nb="2"/>
+tak tak
+</Turn>
+<Turn speaker="spk2" startTime="35.74" endTime="35.986">
+<Sync time="35.74"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ pani 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="35.986" endTime="37.324">
+<Sync time="35.986"/>
+<Who nb="1"/>
+uprzejmie
+<Who nb="2"/>
+dziękuję 
+<Event desc="~" type="lexical" extent="begin"/>
+wi
+<Event desc="~" type="lexical" extent="end"/>
+dzenia
+</Turn>
+<Turn startTime="37.324" endTime="38.498">
+<Sync time="37.324"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,58 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_6..word_8" attribute="LOCATION_STR" value="Plac Wilsona" />
+  <concept id="4" span="word_9..word_11" attribute="Q_WHERE" value="LOCATION" />
+  <concept id="5" span="word_12" attribute="ACTION" value="ToBe" />
+  <concept id="6" span="word_13..word_15" attribute="STOP_DESCRIPTION" value="linii 110" />
+  <concept id="7" span="word_16..word_18" attribute="GOAL_DIRECTION_AREA" value="cmentarz" />
+  <concept id="8" span="word_20" attribute="ACTION" value="Check" />
+  <concept id="9" span="word_30..word_31" attribute="STOP_DESCRIPTION" value="RelThatOne" />
+  <concept id="10" span="word_32..word_33" attribute="STOP_DESCRIPTION" value="LAST" />
+  <concept id="11" span="word_35" attribute="STOP_DESCRIPTION" value="LAST" />
+  <concept id="12" span="word_36" attribute="ACTION" value="ToBe" />
+  <concept id="13" span="word_37..word_38" attribute="LOCATION_STR" value="Krasińskiego" />
+  <concept id="14" span="word_42..word_43" attribute="LOCATION_STR" value="Krasińskiego" />
+  <concept id="15" span="word_45" attribute="LOCATION_REL" value="There" />
+  <concept id="16" span="word_46" attribute="REACTION" value="Negation" />
+  <concept id="17" span="word_49" attribute="ACTION" value="GetIn" />
+  <concept id="18" span="word_51" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="19" span="word_52" attribute="ACTION" value="Approach" />
+  <concept id="20" span="word_53..word_55" attribute="GOAL_BLD" value="Centrum Olimpijskie" />
+  <concept id="21" span="word_57" attribute="ACTION" value="Turn" />
+  <concept id="22" span="word_60" attribute="ACTION" value="ToStop" />
+  <concept id="23" span="word_61..word_63" attribute="LOCATION_STR" value="Słowackiego" />
+  <concept id="24" span="word_67..word_68" attribute="SOURCE_STP" value="MetroStationGeneral" />
+  <concept id="25" span="word_69" attribute="ACTION" value="ToStart" />
+  <concept id="26" span="word_75" attribute="ACTION" value="ToStart" />
+  <concept id="27" span="word_76..word_77" attribute="SOURCE_STP" value="MetroStationGeneral" />
+  <concept id="28" span="word_78" attribute="REACTION" value="Confirmation" />
+  <concept id="29" span="word_79..word_81" attribute="GOAL_STR" value="Słowackiego" />
+  <concept id="30" span="word_84..word_86" attribute="LOCATION_STR" value="Słowackiego" />
+  <concept id="31" span="word_87..word_92" attribute="GOAL_DIRECTION_BLD" value="Hala Marymoncka" />
+  <concept id="32" span="word_93" attribute="ACTION" value="Know" />
+  <concept id="33" span="word_95..word_98" attribute="GOAL_DIRECTION_BLD" value="Hala Marymoncka" />
+  <concept id="34" span="word_99" attribute="REACTION" value="Confirmation" />
+  <concept id="35" span="word_100" attribute="Q_CONF" value="IsIt" />
+  <concept id="36" span="word_102" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="37" span="word_103" attribute="ACTION" value="ToStop" />
+  <concept id="38" span="word_104..word_105" attribute="LOCATION_STR" value="Słowackiego" />
+  <concept id="39" span="word_108" attribute="ACTION" value="Tell" />
+  <concept id="40" span="word_110" attribute="REACTION" value="Confirmation" />
+  <concept id="41" span="word_111..word_112" attribute="LOCATION_STR" value="Słowackiego" />
+  <concept id="42" span="word_113" attribute="REACTION" value="Confirmation" />
+  <concept id="43" span="word_114..word_115" attribute="BUILDING" value="Hala Marymoncka" />
+  <concept id="44" span="word_116" attribute="REACTION" value="Confirmation" />
+  <concept id="45" span="word_119" attribute="ACTION" value="GetOut" />
+  <concept id="46" span="word_121" attribute="METRO" value="General" />
+  <concept id="47" span="word_122" attribute="REACTION" value="Confirmation" />
+  <concept id="48" span="word_123" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="49" span="word_125" attribute="ACTION" value="ToBe" />
+  <concept id="50" span="word_126..word_129" attribute="STOP_DESCRIPTION" value="Plac Wilsona 02" />
+  <concept id="51" span="word_130..word_131" attribute="LOCATION_STR" value="Słowackiego" />
+  <concept id="52" span="word_133..word_137" attribute="STOP_DESCRIPTION" value="Plac Wilsona 02" />
+  <concept id="53" span="word_138" attribute="STREET" value="Plac" />
+  <concept id="54" span="word_140..word_144" attribute="STOP_DESCRIPTION" value="Plac Wilsona 02" />
+  <concept id="55" span="word_145" attribute="REACTION" value="Confirmation" />
+  <concept id="56" span="word_148" attribute="REACTION" value="Confirmation" />
+</concepts>

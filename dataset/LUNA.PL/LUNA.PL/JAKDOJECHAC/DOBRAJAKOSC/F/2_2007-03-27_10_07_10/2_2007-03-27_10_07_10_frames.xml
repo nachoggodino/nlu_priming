@@ -1,0 +1,28 @@
+<Frames>
+  <Set id="1" subset="1" span="word_14" frame="GET" head="dostać">
+    <Frame fe="1" span="word_10..word_11" concept_id="6" name="MEANS" />
+    <Frame fe="2" span="word_20..word_22" concept_id="9" name="SOURCE" />
+    <Frame fe="3" span="word_23..word_25" concept_id="10" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_28" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_29..word_30,word_31,word_32..word_33" concept_id="12,13,14" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_47" frame="BOARD_VEHICLE" head="wsiąść">
+    <Frame fe="1" span="word_49..word_51" concept_id="20" name="VEHICLE" />
+  </Set>
+  <Set id="4" subset="2" span="word_52" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_54..word_57" concept_id="22" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_82" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_79..word_81" concept_id="32" name="TIME" />
+    <Frame fe="2" span="word_83,word_84" concept_id="34,35" name="ENTITY" />
+  </Set>
+  <Set id="6" subset="1" span="word_88" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_86..word_87" concept_id="36" name="SELF_MOVER" />
+    <Frame fe="2" span="word_89..word_90,word_91,word_92..word_93" concept_id="38,39,40" name="PATH" />
+  </Set>
+  <Set id="7" subset="1" span="word_100" frame="SELF_MOTION" head="podejść">
+    <Frame fe="1" span="word_98" concept_id="42" name="AREA" />
+    <Frame fe="2" span="word_99" concept_id="43" name="DISTANCE" />
+  </Set>
+</Frames>

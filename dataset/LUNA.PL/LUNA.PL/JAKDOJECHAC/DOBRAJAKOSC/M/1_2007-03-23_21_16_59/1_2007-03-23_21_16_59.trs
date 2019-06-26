@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_21_16_59" version="5" version_date="071227">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="137.991" topic="to1">
+<Turn startTime="0" endTime="0.773">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.773" endTime="2.025">
+<Sync time="0.773"/>
+xxx dobry wieczór
+</Turn>
+<Turn speaker="spk2" startTime="2.025" endTime="9.131">
+<Sync time="2.025"/>
+dobry wieczór 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+momencik
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+proszę pana chciałbym się dowiedzieć 
+<Event desc="babble" type="noise" extent="begin"/>
+ jak dojechać z ulicy Ćmielowskiej 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.131" endTime="9.917">
+<Sync time="9.131"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="9.917" endTime="16.982">
+<Sync time="9.917"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na ulica to jest ulica Wolność Wolność siedem 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.982" endTime="19.611">
+<Sync time="16.982"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ulica Wolność siedem 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="19.611" endTime="22.809">
+<Sync time="19.611"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ siedem 
+<Event desc="babble" type="noise" extent="begin"/>
+ to jest niedaleko 
+<Event desc="babble" type="noise" extent="end"/>
+Okopowej gdzieś 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="22.809" endTime="27.233">
+<Sync time="22.809"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę pana 
+<Event desc="babble" type="noise" extent="begin"/>
+ czyli tak pięćset 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ dziesięć do Ronda Radosława 
+</Turn>
+<Turn speaker="spk2" startTime="27.233" endTime="28.184">
+<Sync time="27.233"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ pięćset dziesię
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.184" endTime="29.792">
+<Sync time="28.184"/>
+tam przy Arkadii ten przystanek 
+</Turn>
+<Turn speaker="spk2" startTime="29.792" endTime="30.38">
+<Sync time="29.792"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.38" endTime="43.37">
+<Sync time="30.38"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i przesiądzie się pan na tramwaj tam będzie linia 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dwadzieścia dwa lub 
+<Event desc="babble" type="noise" extent="begin"/>
+ jedynka i dojedzie pan zaraz momencik sprawdzę który jeszcze przystanek najbliżej Wolność będzie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="43.37" endTime="50.317">
+<Sync time="43.37"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="50.317" endTime="54.353">
+<Sync time="50.317"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ musi pan wysiąść na przystanku Żytnia 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="54.353" endTime="57.18">
+<Sync time="54.353"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ wysiąść na przystanku Żytnia ten z tym tramwajem tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="57.18" endTime="58.945">
+<Sync time="57.18"/>
+ tak dokładnie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="58.945" endTime="59.614">
+<Sync time="58.945"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="59.614" endTime="63.085">
+<Sync time="59.614"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jedynką bądź dwadzieścia dwa tutaj od Ronda Radosława 
+</Turn>
+<Turn speaker="spk2" startTime="63.085" endTime="67.797">
+<Sync time="63.085"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ i tylko w ten sposób można najlepiej dojechać 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="67.797" endTime="72.045">
+<Sync time="67.797"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ można też tym pięćset dziesięć pojechać dalej do kina Femina 
+</Turn>
+<Turn speaker="spk2" startTime="72.045" endTime="72.635">
+<Sync time="72.045"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="72.635" endTime="96.693">
+<Sync time="72.635"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i stamtąd z Alei Solidarności po Alejach Solidarności każdy tramwaj w kierunku Woli dojedzie pan sobie wtedy do przystanku który się nazywa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Wola Ratusz 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ wejdzie pan w prawo w Żelazną potem w lewo w Żytnią i ona będzie potem od Żytniej tak w prawo ulica Bellottiego odchodziła i się wychodzi prosto na Wolność
+</Turn>
+<Turn speaker="spk2" startTime="96.693" endTime="99.014">
+<Sync time="96.693"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to trochę kombinacji jakiś tutaj 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="99.014" endTime="104.545">
+<Sync time="99.014"/>
+no i tak trzeba dojść od jednego i od drugiego 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ czy od tej strony czy od tej to trzeba dojść do niej 
+</Turn>
+<Turn speaker="spk2" startTime="104.545" endTime="105.217">
+<Sync time="104.545"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+czyli
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="105.217" endTime="107.24">
+<Sync time="105.217"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ona jest taka 
+<Event desc="babble" type="noise" extent="end"/>
+ w osiedlu ta uliczka
+</Turn>
+<Turn speaker="spk2" startTime="107.24" endTime="111.161">
+<Sync time="107.24"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czyli wysiąść na przystanku Żytnia powiedzmy tym tramwajem na 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="111.161" endTime="113.473">
+<Sync time="111.161"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak o i 
+<Event desc="babble" type="noise" extent="end"/>
+cofnąć się kawałek 
+</Turn>
+<Turn speaker="spk2" startTime="113.473" endTime="113.816">
+<Sync time="113.473"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="113.816" endTime="124.383">
+<Sync time="113.816"/>
+i przejść na lewo na drugą na drugą stronę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak 
+<Event desc="*" type="pronounce" extent="begin"/>
+jak
+<Event desc="*" type="pronounce" extent="end"/>
+ jechało się do kierunku jazdy na lewo to od razu na Okop
+<Event desc="~" type="lexical" extent="begin"/>
+ową
+<Event desc="~" type="lexical" extent="end"/>
+ na drugą stronę Okopowej przejść czyli po lewej stronie ona będzie
+</Turn>
+<Turn speaker="spk2" startTime="124.383" endTime="126.226">
+<Sync time="124.383"/>
+ przejść na drugą stronę Okopowej
+</Turn>
+<Turn speaker="spk1" startTime="126.226" endTime="128.604">
+<Sync time="126.226"/>
+tak na lewo i cofnąć się wtedy 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="128.604" endTime="135.35">
+<Sync time="128.604"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ dobrze dobrze to dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="135.35" endTime="136.058">
+<Sync time="135.35"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2 spk1" startTime="136.058" endTime="136.389">
+<Sync time="136.058"/>
+<Who nb="1"/>
+do widzenia
+<Who nb="2"/>
+do
+</Turn>
+<Turn speaker="spk1" startTime="136.389" endTime="136.731">
+<Sync time="136.389"/>
+widzenia
+</Turn>
+<Turn startTime="136.731" endTime="137.991">
+<Sync time="136.731"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

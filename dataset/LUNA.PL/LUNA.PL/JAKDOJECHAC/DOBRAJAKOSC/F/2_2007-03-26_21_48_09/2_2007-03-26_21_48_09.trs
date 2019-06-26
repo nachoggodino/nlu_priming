@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-26_21_48_09" version="6" version_date="071221">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="75.495" topic="to1">
+<Turn startTime="0" endTime="0.723">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.723" endTime="2.364">
+<Sync time="0.723"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.364" endTime="14.131">
+<Sync time="2.364"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobry wieczór 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana ja dzwonię do pana 
+<Event desc="*" type="pronounce" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="end"/>
+ żeby pan mi pomógł dobrać najlepsze połączenie z ulicy Stępińska 
+<Event desc="noise" type="noise" extent="end"/>
+ róg Gagarina na 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Dworzec Stadion
+</Turn>
+<Turn speaker="spk1" startTime="14.131" endTime="24.461">
+<Sync time="14.131"/>
+Stępińska róg Gagarina 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę wsiąść 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ od Gagarina róg Spacerowej
+</Turn>
+<Turn speaker="spk2" startTime="24.461" endTime="25.161">
+<Sync time="24.461"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.161" endTime="41.471">
+<Sync time="25.161"/>
+w autobus sto sześćdziesiąt sześć 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ i tym autobusem dojedzie pani do do przystanku albo jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+P K P
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ Stadion i tam trzeba byłoby przejść pod torami i dojść do dworca albo przy Teatrze Powszechnym to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ przystanek Aleja 
+<Event desc="babble" type="noise" extent="begin"/>
+ Zieleniecka i 
+<Event desc="babble" type="noise" extent="end"/>
+ tam do dworca dojś
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="41.471" endTime="45.894">
+<Sync time="41.471"/>
+a to jest ze Spacerowej a bliżej Stępińskiej żeby coś było 
+</Turn>
+<Turn speaker="spk1" startTime="45.894" endTime="51.63">
+<Sync time="45.894"/>
+bliżej Stępińskiej 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tylko z 
+<Event desc="noise" type="noise" extent="begin"/>
+ przesiadkami 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="51.63" endTime="54.077">
+<Sync time="51.63"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+tylko
+<Event desc="*" type="pronounce" extent="end"/>
+ al
+<Event desc="~" type="lexical" extent="begin"/>
+e
+<Event desc="~" type="lexical" extent="end"/>
+ to może być 
+<Event desc="noise" type="noise" extent="begin"/>
+ i z przesiadką 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="54.077" endTime="61.452">
+<Sync time="54.077"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to mogę pani zaproponować taki dojazd 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto osiemdziesiąt 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Foksal
+</Turn>
+<Turn speaker="spk2" startTime="61.452" endTime="62.119">
+<Sync time="61.452"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="62.119" endTime="67.048">
+<Sync time="62.119"/>
+i tutaj tramwaje siódemka ósemka dwadzieścia pięć do Alei Zielenieckiej
+</Turn>
+<Turn speaker="spk2" startTime="67.048" endTime="69.17">
+<Sync time="67.048"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze to dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="69.17" endTime="70.918">
+<Sync time="69.17"/>
+<Who nb="1"/>
+panu bardzo dobranoc
+<Who nb="2"/>
+dziękuję dobranoc
+</Turn>
+<Turn speaker="spk1" startTime="70.918" endTime="71.534">
+<Sync time="70.918"/>
+dobranoc
+</Turn>
+<Turn startTime="71.534" endTime="75.495">
+<Sync time="71.534"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,37 @@
+<Frames>
+  <Set id="1" subset="1" span="word_21" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_22" concept_id="8" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_25" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_26" concept_id="11" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="3" subset="1" span="word_30" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_32..word_34" concept_id="13" name="TITLE" />
+  </Set>
+  <Set id="4" subset="1" span="word_69" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_71,word_72..word_73,word_74..word_75" concept_id="22,23,24" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="5" subset="1" span="word_78" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_81" concept_id="26" name="TOPIC" />
+    <Frame fe="2" span="word_83" concept_id="27" name="TOPIC" />
+  </Set>
+  <Set id="6" subset="1" span="word_90" frame="BECOMING" head="ukończyć">
+    <Frame fe="1" span="word_88..word_89" concept_id="29" name="ENTITY" />
+    <Frame fe="2" span="word_91..word_94" concept_id="31" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="7" subset="1" span="word_108" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_105..word_106" concept_id="35" name="PRIVILEGE" />
+  </Set>
+  <Set id="8" subset="1" span="word_111" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_112" concept_id="39" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="9" subset="1" span="word_115" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_116" concept_id="43" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="10" subset="1" span="word_120" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_121..word_122" concept_id="46" name="POSSESSION" />
+  </Set>
+  <Set id="11" subset="1" span="word_137" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_135" concept_id="52" name="ENTITY" />
+  </Set>
+</Frames>

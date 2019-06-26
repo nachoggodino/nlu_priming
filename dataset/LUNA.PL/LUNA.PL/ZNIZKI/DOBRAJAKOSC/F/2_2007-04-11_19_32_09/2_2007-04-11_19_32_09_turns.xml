@@ -1,0 +1,24 @@
+<Turns>
+  <Turn id="1" speaker="spk1" startTime="1.04" endTime="3.788" words="word_1..word_8" />
+  <Turn id="2" speaker="spk2" startTime="3.788" endTime="17.901" words="word_9..word_28" />
+  <Turn id="3" speaker="spk1" startTime="17.901" endTime="21.52" words="word_29..word_34" />
+  <Turn id="4" speaker="spk2" startTime="21.52" endTime="25.461" words="word_35..word_40" />
+  <Turn id="5" speaker="spk1" startTime="25.461" endTime="34.48" words="word_41..word_60" />
+  <Turn id="6" speaker="spk2" startTime="34.48" endTime="42.021" words="word_61..word_76" />
+  <Turn id="7" speaker="spk1" startTime="42.021" endTime="45.845" words="word_77..word_86" />
+  <Turn id="8" speaker="spk2" startTime="45.845" endTime="50.724" words="word_87..word_106" />
+  <Turn id="9" speaker="spk1" startTime="50.724" endTime="52.324" words="word_107..word_114" />
+  <Turn id="10" speaker="spk2" startTime="52.324" endTime="52.608" words="word_115" />
+  <Turn id="11" speaker="spk1" startTime="52.608" endTime="59.028" words="word_116..word_127" />
+  <Turn id="12" speaker="spk2" startTime="59.028" endTime="61.07" words="word_128..word_134" />
+  <Turn id="13" speaker="spk1" startTime="61.07" endTime="65.800" words="word_135..word_145" />
+  <Turn id="14" speaker="spk2" startTime="65.800" endTime="68.846" words="word_146..word_150" />
+  <Turn id="15" speaker="spk1" startTime="68.846" endTime="69.639" words="word_151" />
+  <Turn id="16" speaker="spk2" startTime="69.639" endTime="105.219" words="empty" />
+  <Turn id="17" speaker="spk2" startTime="105.219" endTime="109.171" words="word_152..word_161" />
+  <Turn id="18" speaker="spk2" startTime="109.171" endTime="109.532" words="word_162" />
+  <Turn id="19" speaker="spk1" startTime="109.171" endTime="109.532" words="word_163" />
+  <Turn id="20" speaker="spk1" startTime="109.532" endTime="110.375" words="word_164" />
+  <Turn id="21" speaker="spk2" startTime="110.375" endTime="111.652" words="word_165..word_167" />
+  <Turn id="22" speaker="spk1" startTime="111.652" endTime="112.409" words="word_168..word_169" />
+</Turns>

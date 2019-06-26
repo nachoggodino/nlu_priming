@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-26_08_06_50" version="3" version_date="070907">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="67.496" topic="to1">
+<Turn startTime="0" endTime="0.665">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="0.665" endTime="2.723">
+<Sync time="0.665"/>
+dzień dobry xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="2.723" endTime="7.178">
+<Sync time="2.723"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pana <Event desc="noise" type="noise" extent="begin"/> około godziny <Event desc="noise" type="noise" extent="end"/> dziewiątej
+</Turn>
+<Turn speaker="spk2" startTime="7.178" endTime="7.589">
+<Sync time="7.178"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="7.589" endTime="13.165">
+<Sync time="7.589"/>
+z przystanku Muranów <Event desc="noise" type="noise" extent="begin"/> w stronę Mokotowa osiemnastka lub trzydzieści sześć <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="13.165" endTime="15.147">
+<Sync time="13.165"/>
+<Event desc="noise" type="noise" extent="begin"/> już sprawdzam około dziewiątej tak <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="15.147" endTime="19.207">
+<Sync time="15.147"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="19.207" endTime="25.5">
+<Sync time="19.207"/>
+proszę pana osiemnastka będzie tak ósma trzydzieści dwie to będzie zjazdowy na Mokotów do <Event desc="babble" type="noise" extent="begin"/> Woronicza <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="25.5" endTime="28.893">
+<Sync time="25.5"/>
+nie to później mnie interesuje tak <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> rzeczywiście dziewiąta
+</Turn>
+<Turn speaker="spk2" startTime="28.893" endTime="30.027">
+<Sync time="28.893"/>
+aha dobrze 
+</Turn>
+<Turn speaker="spk1" startTime="30.027" endTime="31.2848789855">
+<Sync time="30.027"/>
+<Event desc="babble" type="noise" extent="begin"/> i bardzo blisko <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="31.2848789855" endTime="32.926">
+<Sync time="31.2848789855"/>
+
+<Sync time="32.51"/>
+dobrze ósma pięćdziesiąt pięć
+</Turn>
+<Turn speaker="spk1" startTime="32.926" endTime="34.81">
+<Sync time="32.926"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> pięćdziesiąt pięć
+</Turn>
+<Turn speaker="spk2" startTime="34.81" endTime="36.836">
+<Sync time="34.81"/>
+<Event desc="babble" type="noise" extent="begin"/> tak <Event desc="babble" type="noise" extent="end"/> dziewiąta dziesięć
+</Turn>
+<Turn speaker="spk1" startTime="36.836" endTime="38.115">
+<Sync time="36.836"/>
+dobrze a ten drugi
+</Turn>
+<Turn speaker="spk2" startTime="38.115" endTime="48.001">
+<Sync time="38.115"/>
+<Event desc="noise" type="noise" extent="begin"/> trzydzieści sześć <Event desc="babble" type="noise" extent="begin"/> już zerkam <Event desc="babble" type="noise" extent="end"/> <Event desc="noise" type="noise" extent="end"/> proszę pana ósma pięćdziesiąt trzy
+</Turn>
+<Turn speaker="spk1" startTime="48.001" endTime="48.808">
+<Sync time="48.001"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> tak
+</Turn>
+<Turn speaker="spk2" startTime="48.808" endTime="50.308">
+<Sync time="48.808"/>
+ósma pięćdziesiąt osiem
+</Turn>
+<Turn speaker="spk1" startTime="50.308" endTime="52.617">
+<Sync time="50.308"/>
+o ósma tak często <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="52.617" endTime="56.248">
+<Sync time="52.617"/>
+no tutaj jeszcze tak <Event desc="babble" type="noise" extent="begin"/> później <Event desc="babble" type="noise" extent="end"/> troszeczkę o dziewiątej będzie przerzedzenia
+</Turn>
+<Turn speaker="spk1" startTime="56.248" endTime="58.246">
+<Sync time="56.248"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="*" type="pronounce" extent="begin"/>czyli<Event desc="*" type="pronounce" extent="end"/> pięćdziesiąt <Event desc="noise" type="noise" extent="end"/> osiem
+</Turn>
+<Turn speaker="spk2" startTime="58.246" endTime="58.556">
+<Sync time="58.246"/>
+<Event desc="babble" type="noise" extent="begin"/> tak <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="58.556" endTime="59.355">
+<Sync time="58.556"/>
+ i następne <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="59.355" endTime="60.682">
+<Sync time="59.355"/>
+dziewiąta pięć
+</Turn>
+<Turn speaker="spk1" startTime="60.682" endTime="62.722">
+<Sync time="60.682"/>
+dobrze te mi wystarczą
+</Turn>
+<Turn speaker="spk2" startTime="62.722" endTime="63.411">
+<Sync time="62.722"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="63.411" endTime="64.342">
+<Sync time="63.411"/>
+dziękuję bardzo
+</Turn>
+<Turn speaker="spk2" startTime="64.342" endTime="64.593">
+<Sync time="64.342"/>
+proszę 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="64.593" endTime="65.327">
+<Sync time="64.593"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+do widzenia
+</Turn>
+<Turn speaker="spk2" startTime="65.327" endTime="65.802">
+<Sync time="65.327"/>
+do widzenia
+</Turn>
+<Turn startTime="65.802" endTime="67.496">
+<Sync time="65.802"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

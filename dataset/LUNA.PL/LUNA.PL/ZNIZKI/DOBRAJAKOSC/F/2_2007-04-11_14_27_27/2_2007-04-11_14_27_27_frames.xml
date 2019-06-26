@@ -1,0 +1,5 @@
+<Frames>
+  <Set id="1" subset="1" span="word_40" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_41" concept_id="10" name="PRIVILEGE" />
+  </Set>
+</Frames>

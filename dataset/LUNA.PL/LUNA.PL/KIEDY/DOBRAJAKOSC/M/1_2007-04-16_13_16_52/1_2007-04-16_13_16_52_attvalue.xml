@@ -1,0 +1,47 @@
+<concepts>
+  <concept id="1" span="word_2" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_6" attribute="ACTION" value="Request" />
+  <concept id="4" span="word_8" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="6" span="word_11..word_14" attribute="BUS" value="145" />
+  <concept id="7" span="word_15..word_17" attribute="SOURCE_STP" value="Bazyliańska" />
+  <concept id="8" span="word_18" attribute="BUS" value="niskopodłogowy" />
+  <concept id="9" span="word_19..word_21" attribute="GOAL_BLD" value="Szpital Bródnowski" />
+  <concept id="10" span="word_22..word_24" attribute="GOAL_BLD" value="Szpital Bródnowski" />
+  <concept id="11" span="word_25" attribute="REACTION" value="Confirmation" />
+  <concept id="12" span="word_29..word_30" attribute="SOURCE_STR" value="Bazyliańska" />
+  <concept id="13" span="word_32" attribute="ACTION" value="ToSee" />
+  <concept id="14" span="word_34" attribute="LOCATION_REL" value="There" />
+  <concept id="15" span="word_35" attribute="ACTION" value="ToHave" />
+  <concept id="16" span="word_36" attribute="BUS" value="niskopodłogowy" />
+  <concept id="17" span="word_39" attribute="ACTION" value="ToHave" />
+  <concept id="18" span="word_41..word_42" attribute="AT_HOUR" value="13 : 17" />
+  <concept id="19" span="word_46" attribute="ACTION" value="BeInTime" />
+  <concept id="20" span="word_48..word_49" attribute="AT_HOUR_MINPART" value="57" />
+  <concept id="21" span="word_51" attribute="REACTION" value="Negation" />
+  <concept id="22" span="word_53..word_54" attribute="BUS" value="112" />
+  <concept id="23" span="word_57..word_58" attribute="BUS" value="112" />
+  <concept id="24" span="word_67" attribute="ACTION" value="ToHave" />
+  <concept id="25" span="word_69..word_71" attribute="AT_HOUR" value="13 : 34" />
+  <concept id="26" span="word_72..word_73" attribute="AT_HOUR_MINPART" value="34" />
+  <concept id="27" span="word_74" attribute="REACTION" value="Confirmation" />
+  <concept id="28" span="word_76" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="29" span="word_77..word_78" attribute="AT_HOUR" value="14 : 10" />
+  <concept id="30" span="word_79" attribute="REACTION" value="Confirmation" />
+  <concept id="31" span="word_80..word_81" attribute="AT_HOUR_MINPART" value="34" />
+  <concept id="32" span="word_82..word_83" attribute="AT_HOUR" value="14 : 10" />
+  <concept id="33" span="word_84" attribute="REACTION" value="Confirmation" />
+  <concept id="34" span="word_86" attribute="REACTION" value="Confirmation" />
+  <concept id="35" span="word_87..word_89" attribute="BUS" value="156" />
+  <concept id="36" span="word_92..word_94" attribute="BUS" value="156" />
+  <concept id="37" span="word_98..word_100" attribute="BUS" value="156" />
+  <concept id="38" span="word_103" attribute="STOP_DESCRIPTION" value="Bazyliańska" />
+  <concept id="39" span="word_106" attribute="ACTION" value="ToHave" />
+  <concept id="40" span="word_108..word_110" attribute="AT_HOUR" value="13 : 23" />
+  <concept id="41" span="word_112" attribute="REACTION" value="Confirmation" />
+  <concept id="42" span="word_113..word_114" attribute="AT_HOUR" value="14 : 19" />
+  <concept id="43" span="word_116" attribute="REACTION" value="Confirmation" />
+  <concept id="44" span="word_121..word_122" attribute="CONV_FORM" value="BYE" />
+  <concept id="45" span="word_123..word_124" attribute="CONV_FORM" value="BYE" />
+</concepts>

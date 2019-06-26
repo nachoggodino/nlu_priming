@@ -1,0 +1,97 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_14" attribute="ACTION" value="Need" />
+  <concept id="5" span="word_16" attribute="ACTION" value="Get" />
+  <concept id="6" span="word_17..word_18" attribute="SOURCE_TD" value="Ursynów" />
+  <concept id="7" span="word_19..word_21" attribute="LOCATION_NEAR_STP" value="Metro Stokłosy" />
+  <concept id="8" span="word_22..word_23" attribute="LOCATION_NEAR_STP" value="MetroStationGeneral" />
+  <concept id="9" span="word_24" attribute="REACTION" value="Confirmation" />
+  <concept id="10" span="word_26..word_27" attribute="GOAL_TOWN" value="Wesoła" />
+  <concept id="11" span="word_28" attribute="Q_HOW_TO" value="Reach" />
+  <concept id="12" span="word_31" attribute="LOCATION_REL" value="There" />
+  <concept id="13" span="word_32" attribute="LOCATION_REL" value="There" />
+  <concept id="14" span="word_33" attribute="ACTION" value="Approach" />
+  <concept id="15" span="word_35..word_36" attribute="GOAL_TOWN" value="Wesoła" />
+  <concept id="16" span="word_38..word_41" attribute="Q_WHERE" value="LOCATION" />
+  <concept id="17" span="word_45..word_46" attribute="STREET" value="Praskiego Pułku" />
+  <concept id="18" span="word_47" attribute="REACTION" value="Confirmation" />
+  <concept id="19" span="word_51" attribute="CONNECTION_F" value="Best" />
+  <concept id="20" span="word_52" attribute="METRO" value="General" />
+  <concept id="21" span="word_53" attribute="ACTION" value="Approach" />
+  <concept id="22" span="word_54..word_56" attribute="GOAL_STP" value="Metro Politechnika" />
+  <concept id="23" span="word_60" attribute="REACTION" value="Confirmation" />
+  <concept id="24" span="word_61..word_62" attribute="GOAL_STP" value="MetroStationGeneral" />
+  <concept id="25" span="word_64" attribute="STOP_DESCRIPTION" value="Metro Politechnika" />
+  <concept id="26" span="word_65" attribute="STOP_DESCRIPTION" value="Metro Politechnika" />
+  <concept id="27" span="word_66" attribute="REACTION" value="Confirmation" />
+  <concept id="28" span="word_67" attribute="REACTION" value="Confirmation" />
+  <concept id="29" span="word_69" attribute="LOCATION_REL" value="There" />
+  <concept id="30" span="word_70..word_72" attribute="SOURCE_STR" value="Waryńskiego" />
+  <concept id="31" span="word_73..word_75" attribute="LOCATION_STP" value="Metro Politechnika" />
+  <concept id="32" span="word_76" attribute="ACTION" value="ToBe" />
+  <concept id="33" span="word_77..word_79" attribute="BUS" value="502" />
+  <concept id="34" span="word_80..word_81" attribute="BUS" value="502" />
+  <concept id="35" span="word_82" attribute="Q_CONF" value="IsIt" />
+  <concept id="36" span="word_84" attribute="REACTION" value="Confirmation" />
+  <concept id="37" span="word_86..word_87" attribute="SOURCE_STR" value="Waryńskiego" />
+  <concept id="38" span="word_89" attribute="ACTION" value="ToBe" />
+  <concept id="39" span="word_90" attribute="LOCATION_REL" value="There" />
+  <concept id="40" span="word_96" attribute="Q_CONF" value="IsIt" />
+  <concept id="41" span="word_101" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="42" span="word_103..word_104" attribute="BUILDING" value="przychodnia rentgenowska" />
+  <concept id="43" span="word_110" attribute="REACTION" value="Negation" />
+  <concept id="44" span="word_111" attribute="ACTION" value="Tell" />
+  <concept id="45" span="word_112" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="46" span="word_113" attribute="LOCATION_REL" value="There" />
+  <concept id="47" span="word_121..word_123" attribute="LOCATION_NEAR_STP" value="MetroStationGeneral" />
+  <concept id="48" span="word_124" attribute="REACTION" value="Confirmation" />
+  <concept id="49" span="word_125" attribute="REACTION" value="Confirmation" />
+  <concept id="50" span="word_127" attribute="ACTION" value="ToBe" />
+  <concept id="51" span="word_128..word_131" attribute="LOCATION_BEFORE_STR" value="Rondo Jazdy Polskiej" />
+  <concept id="52" span="word_132..word_133" attribute="STOP_DESCRIPTION" value="RelThatOne" />
+  <concept id="53" span="word_140" attribute="ACTION" value="Tell" />
+  <concept id="54" span="word_143..word_146" attribute="LOCATION_BEFORE_STR" value="Rondo Jazdy Polskiej" />
+  <concept id="55" span="word_147..word_149" attribute="LOCATION_BEFORE_STR" value="Rondo Jazdy Polskiej" />
+  <concept id="56" span="word_155" attribute="STREET" value="General" />
+  <concept id="57" span="word_156" attribute="STREET" value="Roundabout" />
+  <concept id="58" span="word_158" attribute="ACTION" value="Change" />
+  <concept id="59" span="word_161" attribute="REACTION" value="Confirmation" />
+  <concept id="60" span="word_166" attribute="NUM_BUS_PART" value="500" />
+  <concept id="61" span="word_167..word_168" attribute="BUS" value="502" />
+  <concept id="62" span="word_169" attribute="Q_CONF" value="IsIt" />
+  <concept id="63" span="word_171..word_172" attribute="BUS" value="502" />
+  <concept id="64" span="word_174..word_175" attribute="BUS_REL" value="ThisBus" />
+  <concept id="65" span="word_176" attribute="ACTION" value="Approach" />
+  <concept id="66" span="word_177..word_181" attribute="GOAL_STP" value="Pierwszego Praskiego Pułku" />
+  <concept id="67" span="word_182" attribute="Q_CONF" value="IsIt" />
+  <concept id="68" span="word_183" attribute="REACTION" value="Confirmation" />
+  <concept id="69" span="word_184..word_185" attribute="BUS" value="502" />
+  <concept id="70" span="word_189" attribute="ACTION" value="Tell" />
+  <concept id="71" span="word_190..word_196" attribute="Q_HOW_LONG" value="RideTime" />
+  <concept id="72" span="word_197" attribute="ACTION" value="Last" />
+  <concept id="73" span="word_199..word_201" attribute="SOURCE_STP" value="Metro Stokłosy" />
+  <concept id="74" span="word_205" attribute="REACTION" value="Negation" />
+  <concept id="75" span="word_207..word_209" attribute="Q_HOW_LONG" value="RideTime" />
+  <concept id="76" span="word_211" attribute="ACTION" value="Last" />
+  <concept id="77" span="word_213" attribute="ROUTE" value="PASSAGE" />
+  <concept id="78" span="word_216" attribute="METRO" value="General" />
+  <concept id="79" span="word_218" attribute="ACTION" value="ToBe" />
+  <concept id="80" span="word_219..word_220" attribute="RIDE_DURATION_M" value="12" />
+  <concept id="81" span="word_224" attribute="ACTION" value="Know" />
+  <concept id="82" span="word_226" attribute="METRO" value="General" />
+  <concept id="83" span="word_230..word_231" attribute="GOAL_STP" value="Metro Politechnika" />
+  <concept id="84" span="word_232" attribute="RIDE_DURATION_M" value="12" />
+  <concept id="85" span="word_234..word_236" attribute="BUS" value="502" />
+  <concept id="86" span="word_238" attribute="REACTION" value="Confirmation" />
+  <concept id="87" span="word_245" attribute="Q_HOW_LONG" value="RideTime" />
+  <concept id="88" span="word_247" attribute="ACTION" value="Go" />
+  <concept id="89" span="word_250..word_252" attribute="RIDE_DURATION_M" value="30" />
+  <concept id="90" span="word_253..word_255" attribute="RIDE_DURATION_M" value="30" />
+  <concept id="91" span="word_256" attribute="REACTION" value="Confirmation" />
+  <concept id="92" span="word_257" attribute="REACTION" value="Confirmation" />
+  <concept id="93" span="word_258" attribute="REACTION" value="Confirmation" />
+  <concept id="94" span="word_263..word_264" attribute="CONV_FORM" value="BYE" />
+  <concept id="95" span="word_265..word_266" attribute="CONV_FORM" value="BYE" />
+</concepts>

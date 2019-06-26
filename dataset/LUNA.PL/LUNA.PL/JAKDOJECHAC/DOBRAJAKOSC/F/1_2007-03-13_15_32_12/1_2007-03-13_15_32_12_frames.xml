@@ -1,0 +1,31 @@
+<Frames>
+  <Set id="1" subset="1" span="word_17" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_16" concept_id="5" name="MANNER" />
+    <Frame fe="2" span="word_19..word_20" concept_id="7" name="SOURCE" />
+    <Frame fe="3" span="word_21..word_22" concept_id="8" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_28" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_27" concept_id="12" name="MANNER" />
+    <Frame fe="2" span="word_29..word_31" concept_id="14" name="SOURCE" />
+    <Frame fe="3" span="word_32..word_33,word_34..word_35,word_36..word_37" concept_id="15,16,17" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_40" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_41" concept_id="19" name="DISTANCE" />
+  </Set>
+  <Set id="4" subset="1" span="word_51" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_46..word_48" concept_id="21" name="TIME" />
+  </Set>
+  <Set id="5" subset="1" span="word_60..word_61" frame="NEEDING" head="być">
+    <Frame fe="1" span="word_62,word_63..word_64" concept_id="25,26" name="REQUIREMENT" />
+    <Frame fe="2" span="word_65..word_66" concept_id="27" name="TIME" />
+  </Set>
+  <Set id="6" subset="1" span="word_69" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_70" concept_id="29" name="ENTITY" />
+    <Frame fe="2" span="word_71" concept_id="30" name="ENTITY" />
+    <Frame fe="3" span="word_72" concept_id="31" name="ENTITY" />
+  </Set>
+  <Set id="7" subset="1" span="word_117" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_110..word_111" concept_id="46" name="SOURCE" />
+    <Frame fe="2" span="word_112..word_113" concept_id="47" name="DURATION" />
+  </Set>
+</Frames>

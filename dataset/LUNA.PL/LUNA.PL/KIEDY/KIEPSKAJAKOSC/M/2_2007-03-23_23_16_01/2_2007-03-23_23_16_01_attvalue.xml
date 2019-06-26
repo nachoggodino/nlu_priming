@@ -1,0 +1,16 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_7..word_9" attribute="SOURCE_BLD" value="Centrum Optyki" />
+  <concept id="5" span="word_10..word_12" attribute="GOAL_DIRECTION_TOWN" value="Międzylesie" />
+  <concept id="6" span="word_13..word_15" attribute="BUS" value="525" />
+  <concept id="7" span="word_16..word_18" attribute="Q_WHERE" value="TripStartPoint" />
+  <concept id="8" span="word_20" attribute="REACTION" value="Negation" />
+  <concept id="9" span="word_22..word_24" attribute="SOURCE_BLD" value="Centrum Optyki" />
+  <concept id="10" span="word_25..word_27" attribute="GOAL_DIRECTION_TOWN" value="Międzylesie" />
+  <concept id="11" span="word_28..word_30" attribute="BUS" value="525" />
+  <concept id="12" span="word_33..word_34" attribute="BUS" value="610" />
+  <concept id="13" span="word_36..word_37" attribute="BUS" value="610" />
+  <concept id="14" span="word_38..word_41" attribute="AT_HOUR" value="23 : 38" />
+</concepts>

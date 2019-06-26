@@ -3,7 +3,7 @@ from collections import Counter
 import numpy as np
 import matplotlib.pyplot as plt
 
-data_df = pd.read_json('./correct-file.json', orient='index')
+data_df = pd.read_json('./json/correct-file.json', orient='index')
 
 data_df['length'] = [len(tweet) for tweet in data_df['labels']]
 

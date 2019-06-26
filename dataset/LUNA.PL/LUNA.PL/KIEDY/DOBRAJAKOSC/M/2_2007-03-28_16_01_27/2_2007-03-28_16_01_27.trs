@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-28_16_01_27" version="3" version_date="070907">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="57.996" topic="to1">
+<Turn startTime="0" endTime="0.951">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.951" endTime="2.815">
+<Sync time="0.951"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.815" endTime="5.056">
+<Sync time="2.815"/>
+dzień dobry mam pytanie <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> takie pytanie
+</Turn>
+<Turn speaker="spk1" startTime="5.056" endTime="5.459">
+<Sync time="5.056"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="5.459" endTime="11.914">
+<Sync time="5.459"/>
+o <Event desc="*" type="pronounce" extent="begin"/>kiedy<Event desc="*" type="pronounce" extent="end"/> będzie jutro <Event desc="noise" type="noise" extent="begin"/> siedemset dwanaście z <Event desc="*" type="pronounce" extent="begin"/>przystanku<Event desc="*" type="pronounce" extent="end"/> <Event desc="silence" type="noise" extent="instantaneous"/> spod Huty jechał w kierunku Górczewskiej <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="11.914" endTime="12.436">
+<Sync time="11.914"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="12.436" endTime="15.089">
+<Sync time="12.436"/>
+<Event desc="noise" type="noise" extent="begin"/> po <Event desc="*" type="pronounce" extent="begin"/>godzinach<Event desc="*" type="pronounce" extent="end"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> po godzinie piątej mnie interesuje <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="15.089" endTime="15.994">
+<Sync time="15.089"/>
+po piątej rano <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="15.994" endTime="16.51">
+<Sync time="15.994"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="16.51" endTime="21.777">
+<Sync time="16.51"/>
+dobrze z Huty to jest tak <Event desc="filler" type="lexical" extent="instantaneous"/> piąta dwadzieścia jeden 
+</Turn>
+<Turn speaker="spk2" startTime="21.777" endTime="22.254">
+<Sync time="21.777"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="22.254" endTime="24.482">
+<Sync time="22.254"/>
+i piąta pięćdziesiąt pięć
+</Turn>
+<Turn speaker="spk2" startTime="24.482" endTime="27.835">
+<Sync time="24.482"/>
+dziękuję a a je<Event desc="~" type="lexical" extent="begin"/>st<Event desc="~" type="lexical" extent="end"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> pierwszy tramwaj z Piasek do Huty
+</Turn>
+<Turn speaker="spk1" startTime="27.835" endTime="30.637">
+<Sync time="27.835"/>
+pierwszy z Piasek do Huty <Event desc="filler" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="30.637" endTime="31.763">
+<Sync time="30.637"/>
+<Event desc="noise" type="noise" extent="begin"/> przystanek Piaski <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="31.763" endTime="35.896">
+<Sync time="31.763"/>
+<Event desc="noise" type="noise" extent="begin"/> dobrze <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="35.896" endTime="39.816">
+<Sync time="35.896"/>
+<Event desc="noise" type="noise" extent="begin"/> tak żeby zdążyć na <Event desc="*" type="pronounce" extent="begin"/>tam<Event desc="*" type="pronounce" extent="end"/> tramwaj piąta dwadzieścia jeden mi chodzi <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="39.816" endTime="40.427">
+<Sync time="39.816"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="40.427" endTime="41.356">
+<Sync time="40.427"/>
+ <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> <Event desc="*" type="pronounce" extent="begin"/>autobus<Event desc="*" type="pronounce" extent="end"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="41.356" endTime="48.612">
+<Sync time="41.356"/>
+<Event desc="babble" type="noise" extent="begin"/> tak <Event desc="babble" type="noise" extent="end"/> tak zaraz zaraz zobaczę dokładnie który to byłby <Event desc="silence" type="noise" extent="instantaneous"/> piąta zero pięć jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> tramwaj dwadzieścia dwa
+</Turn>
+<Turn speaker="spk2" startTime="48.612" endTime="49.535">
+<Sync time="48.612"/>
+<Event desc="noise" type="noise" extent="begin"/> piąta zero pięć <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="49.535" endTime="50.659">
+<Sync time="49.535"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="50.659" endTime="51.524">
+<Sync time="50.659"/>
+<Event desc="noise" type="noise" extent="begin"/> aha dziękuję <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="51.524" endTime="52.247">
+<Sync time="51.524"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="52.247" endTime="53.136">
+<Sync time="52.247"/>
+to dzień powszedni <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="53.136" endTime="54.07">
+<Sync time="53.136"/>
+dzień powszedni tak
+</Turn>
+<Turn speaker="spk2" startTime="54.07" endTime="54.579">
+<Sync time="54.07"/>
+<Event desc="noise" type="noise" extent="begin"/> dziękuję <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="54.579" endTime="55.305">
+<Sync time="54.579"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="55.305" endTime="55.64">
+<Sync time="55.305"/>
+<Event desc="noise" type="noise" extent="begin"/> dobra <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="55.64" endTime="57.996">
+<Sync time="55.64"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

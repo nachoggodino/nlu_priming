@@ -1,0 +1,38 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_11" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="6" span="word_12..word_15" attribute="BUS" value="188" />
+  <concept id="7" span="word_16" attribute="ACTION" value="Go" />
+  <concept id="8" span="word_18..word_19" attribute="GOAL_BLD" value="lotnisko" />
+  <concept id="9" span="word_21" attribute="REACTION" value="Confirmation" />
+  <concept id="10" span="word_28" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="11" span="word_29" attribute="ACTION" value="GetIn" />
+  <concept id="12" span="word_32" attribute="ACTION" value="ToChange" />
+  <concept id="13" span="word_34" attribute="TRSPM_CHANGE" value="FROM" />
+  <concept id="14" span="word_35" attribute="METRO" value="General" />
+  <concept id="15" span="word_39..word_40" attribute="LOCATION_STP" value="MetroStationGeneral" />
+  <concept id="16" span="word_41..word_44" attribute="LOCATION_NEAR_STP" value="Metro Politechnika" />
+  <concept id="17" span="word_46" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_48" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="19" span="word_52" attribute="ACTION" value="Give" />
+  <concept id="20" span="word_57..word_60" attribute="DAYTIME_PERIOD_BEG" value="12 : 45" />
+  <concept id="21" span="word_61..word_63" attribute="DAYTIME_PERIOD_END" value="13 : 30" />
+  <concept id="22" span="word_64" attribute="DEPARTURE" value="General" />
+  <concept id="23" span="word_65..word_67" attribute="GOAL_DIRECTION_BLD" value="lotnisko" />
+  <concept id="24" span="word_69" attribute="TIME_REL" value="Today" />
+  <concept id="25" span="word_71" attribute="REACTION" value="Confirmation" />
+  <concept id="26" span="word_72" attribute="REACTION" value="Confirmation" />
+  <concept id="27" span="word_73..word_75" attribute="AT_HOUR" value="12 : 41" />
+  <concept id="28" span="word_76..word_77" attribute="AT_HOUR_MINPART" value="41" />
+  <concept id="29" span="word_78" attribute="REACTION" value="Confirmation" />
+  <concept id="30" span="word_79..word_81" attribute="TRANSPORT_RATE" value="20 min" />
+  <concept id="31" span="word_82..word_84" attribute="DAYTIME_PERIOD_END" value="15: 01" />
+  <concept id="32" span="word_85..word_87" attribute="TRANSPORT_RATE" value="20 min" />
+  <concept id="33" span="word_89" attribute="REACTION" value="Confirmation" />
+  <concept id="34" span="word_90" attribute="REACTION" value="Confirmation" />
+  <concept id="35" span="word_93..word_94" attribute="CONV_FORM" value="BYE" />
+  <concept id="36" span="word_97..word_98" attribute="CONV_FORM" value="BYE" />
+</concepts>

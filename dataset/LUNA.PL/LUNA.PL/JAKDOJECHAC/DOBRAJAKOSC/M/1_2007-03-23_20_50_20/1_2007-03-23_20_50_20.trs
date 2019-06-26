@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_20_50_20" version="8" version_date="071227">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="53.497" topic="to1">
+<Turn startTime="0" endTime="0.803">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.803" endTime="2.332">
+<Sync time="0.803"/>
+xxx dobry wieczór 
+</Turn>
+<Turn speaker="spk2" startTime="2.332" endTime="9.967">
+<Sync time="2.332"/>
+a dobry wieczór ja chciałem się dowiedzieć jak 
+<Event desc="noise+" type="noise" extent="instantaneous"/>
+mógłbym dojechać z okolic ulicy Racławickiej na ulicą Batumi albo 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ w okolicę ulicy
+</Turn>
+<Turn speaker="spk1" startTime="9.967" endTime="12.589">
+<Sync time="9.967"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a pan mi 
+<Event desc="babble" type="noise" extent="end"/>
+ powie Racławicka w którym miejscu pan jest 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="12.589" endTime="16.972">
+<Sync time="12.589"/>
+jestem na 
+<Event desc="*" type="pronounce" extent="begin"/>
+przy
+<Event desc="*" type="pronounce" extent="end"/>
+ Fortach Mokotowskich za Racławicka tam dziewięćdziesiąt dziewięć chyba
+<Event desc="noise" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.972" endTime="18.349">
+<Sync time="16.972"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+tutaj bliżej
+<Event desc="noise" type="noise" extent="end"/>
+ Wołoskiej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="18.349" endTime="20.959">
+<Sync time="18.349"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak chyba tak no no no no no no
+</Turn>
+<Turn speaker="spk1" startTime="20.959" endTime="23.730">
+<Sync time="20.959"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Batumi dobrze pan poczeka aż spraw
+<Event desc="~" type="lexical" extent="begin"/>
+dzę
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="23.730" endTime="33.441">
+<Sync time="23.730"/>
+dobra oczywiście 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="33.441" endTime="36.056">
+<Sync time="33.441"/>
+Racławicką jedzie sto siedemdziesiąt dwa
+</Turn>
+<Turn speaker="spk2" startTime="36.056" endTime="36.906">
+<Sync time="36.056"/>
+tak ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ tak
+</Turn>
+<Turn speaker="spk1" startTime="36.906" endTime="44.814">
+<Sync time="36.906"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ w kierunku 
+<Event desc="babble" type="noise" extent="end"/>
+ Wołoskiej właśnie w kierunku tam 
+<Event desc="babble" type="noise" extent="begin"/>
+ Puławskiej dalej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jak pan do 
+<Event desc="babble" type="noise" extent="end"/>
+ niego wsiądzie to trza dojechać do przystanku 
+<Event desc="noise" type="noise" extent="begin"/>
+ Świętego Bonifacego 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="44.814" endTime="46.201">
+<Sync time="44.814"/>
+Świętego Bonifacego 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="46.201" endTime="48.254">
+<Sync time="46.201"/>
+tak i stąd to można podejść do Batumi
+</Turn>
+<Turn speaker="spk2" startTime="48.254" endTime="49.847">
+<Sync time="48.254"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+aha
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze dobrze dziękuję bar
+<Event desc="~" type="lexical" extent="begin"/>
+dzo
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="49.847" endTime="50.248">
+<Sync time="49.847"/>
+proszę 
+</Turn>
+<Turn speaker="spk2" startTime="50.248" endTime="50.956">
+<Sync time="50.248"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ do widzenia 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="50.956" endTime="51.416">
+<Sync time="50.956"/>
+<Who nb="1"/>
+dobranoc
+<Who nb="2"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="51.416" endTime="51.864">
+<Sync time="51.416"/>
+dobranoc
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn startTime="51.864" endTime="53.497">
+<Sync time="51.864"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

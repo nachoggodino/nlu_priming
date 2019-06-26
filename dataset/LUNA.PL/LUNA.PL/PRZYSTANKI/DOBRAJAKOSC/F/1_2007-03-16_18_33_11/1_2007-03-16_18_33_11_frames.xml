@@ -1,0 +1,18 @@
+<Frames>
+  <Set id="1" subset="1" span="word_23" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_20" concept_id="8" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_22" concept_id="10" name="PHENOMENON" />
+  </Set>
+  <Set id="2" subset="1" span="word_26" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_24..word_25" concept_id="12" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_27" concept_id="14" name="PHENOMENON" />
+  </Set>
+  <Set id="3" subset="4" span="word_42" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_38..word_40" concept_id="17" name="PLACE" />
+    <Frame fe="2" span="word_43..word_45" concept_id="20" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_47" frame="HALT" head="zatrzymywać">
+    <Frame fe="1" span="word_49" concept_id="22" name="PLACE" />
+    <Frame fe="2" span="word_50..word_52" concept_id="23" name="THEME" />
+  </Set>
+</Frames>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-07_16_02_02" version="3" version_date="080112">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="33.498" topic="to1">
+<Turn startTime="0" endTime="1.173">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.173" endTime="2.699">
+<Sync time="1.173"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.699" endTime="11.471">
+<Sync time="2.699"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę pana chcia
+<Event desc="~" type="lexical" extent="begin"/>
+łabym
+<Event desc="~" type="lexical" extent="end"/>
+ się 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dowiedzieć wiem że z Dworca 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Centralnego gdzieś na w pobliżu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wyrusza autobus siedemset 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+to
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="11.471" endTime="11.747">
+<Sync time="11.471"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+taka
+</Turn>
+<Turn speaker="spk2" startTime="11.747" endTime="21.955">
+<Sync time="11.747"/>
+
+<Event desc="int" type="noise" extent="next"/>
+linia 
+<Event desc="noise" type="noise" extent="begin"/>
+ podmiejska 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Konstancina chyba ale 
+<Event desc="babble" type="noise" extent="begin"/>
+ nie wiem z której strony 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ się zatrzymuje czy od Emilii Plater 
+<Event desc="babble" type="noise" extent="end"/>
+ czy od 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ strony Złotych Tarasów czy
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+i tam gdzieś 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="21.955" endTime="26.888">
+<Sync time="21.955"/>
+to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ tak od właśnie od strony Złotych Tarasów nad na tej pętli pętli przy samej hali 
+<Event desc="babble" type="noise" extent="begin"/>
+ Dworca 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.888" endTime="27.661">
+<Sync time="26.888"/>
+samej hali Dwor
+<Event desc="~" type="lexical" extent="begin"/>
+ca
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="27.661" endTime="27.89">
+<Sync time="27.661"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="27.89" endTime="29.194">
+<Sync time="27.89"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ dobrze dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="29.194" endTime="30.042">
+<Sync time="29.194"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="30.042" endTime="30.568">
+<Sync time="30.042"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.568" endTime="31.102">
+<Sync time="30.568"/>
+do widzenia
+</Turn>
+<Turn startTime="31.102" endTime="33.498">
+<Sync time="31.102"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

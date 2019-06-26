@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00095_in;00095_out" version="2" version_date="080614">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="151.424" topic="to1">
+<Turn startTime="0" endTime="0.481">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.481" endTime="24.471">
+<Sync time="0.481"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy
+</Turn>
+<Turn speaker="spk1 spk2" startTime="24.471" endTime="26.063">
+<Sync time="24.471"/>
+<Who nb="1"/>
+zgłoszenie skargi
+<Who nb="2"/>
+wybór trasy
+</Turn>
+<Turn speaker="spk1" startTime="26.063" endTime="45.715">
+<Sync time="26.063"/>
+zasady przyznawania zniżek zagubiony ba
+<Event desc="~" type="lexical" extent="begin"/>
+gaż
+<Event desc="~" type="lexical" extent="end"/>
+ przepraszam nie zrozumiałam umiem rozpoznawać tylko sugerowane przeze mnie opcje powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje
+</Turn>
+<Turn speaker="spk2" startTime="45.715" endTime="46.994">
+<Sync time="45.715"/>
+wyszukanie trasy
+</Turn>
+<Turn speaker="spk1" startTime="46.994" endTime="51.682">
+<Sync time="46.994"/>
+wyszukanie trasy podaj punkt początkowy trasy
+</Turn>
+<Turn speaker="spk2" startTime="51.682" endTime="57.837">
+<Sync time="51.682"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Warszawa Marymont
+</Turn>
+<Turn speaker="spk1" startTime="57.837" endTime="61.587">
+<Sync time="57.837"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ podaj punkt końcowy trasy
+</Turn>
+<Turn speaker="spk2" startTime="61.587" endTime="68.354">
+<Sync time="61.587"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Kijowska ul
+<Event desc="~" type="lexical" extent="begin"/>
+ica
+<Event desc="~" type="lexical" extent="end"/>
+ ulica Kijowska
+</Turn>
+<Turn speaker="spk1" startTime="68.354" endTime="71.792">
+<Sync time="68.354"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ podaj przybliżony czas odjazdu
+</Turn>
+<Turn speaker="spk2" startTime="71.792" endTime="78.739">
+<Sync time="71.792"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ około godziny szesnastej
+</Turn>
+<Turn speaker="spk1" startTime="78.739" endTime="82.745">
+<Sync time="78.739"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ łączę z operatorem proszę czekać
+</Turn>
+<Turn speaker="spk3" startTime="82.745" endTime="147.121">
+<Sync time="82.745"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+
+
+</Turn>
+<Turn startTime="147.121" endTime="151.424">
+<Sync time="147.121"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

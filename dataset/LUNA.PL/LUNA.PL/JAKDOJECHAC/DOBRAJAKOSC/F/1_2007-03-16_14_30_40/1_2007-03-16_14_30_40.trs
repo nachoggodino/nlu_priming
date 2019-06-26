@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-16_14_30_40" version="3" version_date="071205">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="32.498" topic="to1">
+<Turn startTime="0" endTime="1.16">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.16" endTime="3.05">
+<Sync time="1.16"/>
+dzień dobry 
+<Event desc="babble" type="noise" extent="begin"/>
+ xxx słucham 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.05" endTime="10.921">
+<Sync time="3.05"/>
+dzień dobry proszę pana chciałam się dowiedzieć 
+<Event desc="babble" type="noise" extent="begin"/>
+ jak dojechać z Placu Zawiszy do Szpitala Praskiego tramwajem wiem że 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest jakiś
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ bezpośredni 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.921" endTime="12.643">
+<Sync time="10.921"/>
+tramwajem trzydzieści dwa dojedzie 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="12.643" endTime="13.107">
+<Sync time="12.643"/>
+<Who nb="1"/>
+pani 
+<Who nb="2"/>
+dobrze
+</Turn>
+<Turn speaker="spk2" startTime="13.107" endTime="24.509">
+<Sync time="13.107"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a powie mi pan o której teraz będzie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.509" endTime="26.991">
+<Sync time="24.509"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ najbliższy czternasta czterdzieści pięć 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.991" endTime="29.604">
+<Sync time="26.991"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ czternasta czterdzieści pięć bardzo dziękuję 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.604" endTime="30.41">
+<Sync time="29.604"/>
+bardzo proszę 
+</Turn>
+<Turn speaker="spk2" startTime="30.41" endTime="31.051">
+<Sync time="30.41"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="31.051" endTime="32.498">
+<Sync time="31.051"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

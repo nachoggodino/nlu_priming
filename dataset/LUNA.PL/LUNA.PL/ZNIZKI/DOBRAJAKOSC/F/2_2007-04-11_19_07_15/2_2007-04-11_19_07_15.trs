@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-11_19_07_15" version="6" version_date="080421">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="157.490" topic="to1">
+<Turn startTime="0" endTime="0.964">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.964" endTime="3.474">
+<Sync time="0.964"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.474" endTime="17.694">
+<Sync time="3.474"/>
+dzień dobry pani 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę 
+<Event desc="noise" type="noise" extent="end"/>
+ pani 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę mi odpowiedzieć na takie pytanie ja za kilka dni 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ kończę siedemdziesiąt lat 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy będę miała już prawo jeździć komunikacją miejską 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie płacąc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.694" endTime="20.457">
+<Sync time="17.694"/>
+tak od dnia siedemdziesiątych urodzin
+</Turn>
+<Turn speaker="spk2" startTime="20.457" endTime="22.501">
+<Sync time="20.457"/>
+od dnia siedemdziesiątych urodzin 
+</Turn>
+<Turn speaker="spk1" startTime="22.501" endTime="22.884">
+<Sync time="22.501"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="22.884" endTime="29.109">
+<Sync time="22.884"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pani a teraz proszę mi powiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w razie kontroli to co ja mam mieć przy sobie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.109" endTime="36.323">
+<Sync time="29.109"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dokument ze zdjęciem i datą 
+<Event desc="*" type="pronounce" extent="begin"/>
+urodzenia
+<Event desc="*" type="pronounce" extent="end"/>
+ najlepiej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="36.323" endTime="38.872">
+<Sync time="36.323"/>
+aha 
+<Event desc="babble" type="noise" extent="begin"/>
+ czyli dowód osobisty 
+<Event desc="babble" type="noise" extent="end"/>
+ może być
+</Turn>
+<Turn speaker="spk1" startTime="38.872" endTime="39.559">
+<Sync time="38.872"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="39.559" endTime="45.975">
+<Sync time="39.559"/>
+dobrze 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a teraz jeszcze 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę mi powiedzieć taką rzecz a jak ja wejdę do metra 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.975" endTime="55.123">
+<Sync time="45.975"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pani 
+<Event desc="*" type="pronounce" extent="begin"/>
+tutaj
+<Event desc="*" type="pronounce" extent="end"/>
+ są dwie możliwości albo może pani zjechać windą 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ albo pobrać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ takie bezpłatne wejściówki do metra
+</Turn>
+<Turn speaker="spk2" startTime="55.123" endTime="59.180">
+<Sync time="55.123"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a te wejściówki to proszę mi powiedzieć gdzie one są 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="59.180" endTime="64.191">
+<Sync time="59.180"/>
+no na 
+<Event desc="*" type="pronounce" extent="begin"/>
+przykład
+<Event desc="*" type="pronounce" extent="end"/>
+ na stacjach metra Świętokrzyska Ratusz lub Plac Wilsona
+</Turn>
+<Turn speaker="spk2" startTime="64.191" endTime="69.526">
+<Sync time="64.191"/>
+aha Świętokrzyska 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i ja tam się zgłaszam z dowodem okazuję że 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="69.526" endTime="69.934">
+<Sync time="69.526"/>
+<Who nb="1"/>
+mam
+<Who nb="2"/>
+nie
+</Turn>
+<Turn speaker="spk1" startTime="69.934" endTime="78.994">
+<Sync time="69.934"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie to 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ bez żadnego 
+<Event desc="babble" type="noise" extent="end"/>
+ bez żadnego dokumentu po prostu pani podejdzie do okienka i poprosi i to już powinni 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ pani dać bez żadnych formalnośc
+<Event desc="~" type="lexical" extent="begin"/>
+i
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="78.994" endTime="152.379">
+<Sync time="78.994"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="152.379" endTime="153.124">
+<Sync time="152.379"/>
+dziękuję pani bardzo
+</Turn>
+<Turn speaker="spk2 spk1" startTime="153.124" endTime="154.669">
+<Sync time="153.124"/>
+<Who nb="1"/>
+dobranoc
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="154.669" endTime="155.351">
+<Sync time="154.669"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="155.351" endTime="156.111">
+<Sync time="155.351"/>
+do usłyszenia
+</Turn>
+<Turn startTime="156.111" endTime="157.490">
+<Sync time="156.111"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

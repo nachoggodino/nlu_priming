@@ -1,0 +1,52 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_13" attribute="ACTION" value="ToBe" />
+  <concept id="5" span="word_14" attribute="PERSON" value="Disabled" />
+  <concept id="6" span="word_15..word_16" attribute="DISCOUNT_TITLE" value="SevereDisability" />
+  <concept id="7" span="word_17" attribute="ACTION" value="ToHave" />
+  <concept id="8" span="word_18..word_21" attribute="DOCUMENT_DISCOUNT_TITLE" value="MedCertificate" />
+  <concept id="9" span="word_23" attribute="ACTION" value="Concern" />
+  <concept id="10" span="word_28" attribute="ACTION" value="Succeed" />
+  <concept id="11" span="word_34" attribute="ACTION" value="Go" />
+  <concept id="12" span="word_35" attribute="BUS" value="General" />
+  <concept id="13" span="word_38..word_39" attribute="FARE" value="Free" />
+  <concept id="14" span="word_45..word_48" attribute="DOCUMENT_DISCOUNT_TITLE" value="MedCertificate" />
+  <concept id="15" span="word_49" attribute="ACTION" value="ToHave" />
+  <concept id="16" span="word_51..word_52" attribute="FARE" value="Free" />
+  <concept id="17" span="word_55" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_63" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="19" span="word_72..word_73" attribute="GOAL_STP" value="MetroStationGeneral" />
+  <concept id="20" span="word_74" attribute="ACTION" value="GoIn" />
+  <concept id="21" span="word_87..word_88" attribute="LOCATION_STR" value="Senatorska" />
+  <concept id="22" span="word_89..word_90" attribute="STREET_NUMB" value="37" />
+  <concept id="23" span="word_91" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="24" span="word_92..word_94" attribute="STOP_DESCRIPTION" value="Metro Ratusz" />
+  <concept id="25" span="word_95..word_96" attribute="STOP_DESCRIPTION" value="Metro Świętokrzyska" />
+  <concept id="26" span="word_98..word_101" attribute="STOP_DESCRIPTION" value="Metro Plac Wilsona" />
+  <concept id="27" span="word_102" attribute="LOCATION_REL" value="There" />
+  <concept id="28" span="word_103" attribute="ACTION" value="ToBe" />
+  <concept id="29" span="word_104..word_106" attribute="BUILDING" value="CustomerService" />
+  <concept id="30" span="word_110" attribute="ACTION" value="Receive" />
+  <concept id="31" span="word_111..word_114" attribute="TICKET" value="TICKET_METRO_ENTR" />
+  <concept id="32" span="word_118" attribute="ACTION" value="ToHave" />
+  <concept id="33" span="word_120" attribute="ACTION" value="ToHave" />
+  <concept id="34" span="word_125..word_126" attribute="PERSON" value="Carer" />
+  <concept id="35" span="word_129" attribute="LOCATION_REL" value="There" />
+  <concept id="36" span="word_139" attribute="PERSON" value="Carer" />
+  <concept id="37" span="word_141" attribute="ACTION" value="ToHave" />
+  <concept id="38" span="word_142..word_143" attribute="FARE" value="Free" />
+  <concept id="39" span="word_147" attribute="ACTION" value="Receive" />
+  <concept id="40" span="word_150" attribute="NUMB" value="2" />
+  <concept id="41" span="word_152" attribute="TICKET" value="TICKET_METRO_ENTR" />
+  <concept id="42" span="word_155" attribute="PERSON" value="Carer" />
+  <concept id="43" span="word_157" attribute="REACTION" value="Confirmation" />
+  <concept id="44" span="word_158" attribute="REACTION" value="Confirmation" />
+  <concept id="45" span="word_161..word_162" attribute="LOCATION_STR" value="Senatorska" />
+  <concept id="46" span="word_168" attribute="REACTION" value="Confirmation" />
+  <concept id="47" span="word_169..word_170" attribute="LOCATION_STR" value="Senatorska" />
+  <concept id="48" span="word_171" attribute="REACTION" value="Confirmation" />
+  <concept id="49" span="word_172" attribute="REACTION" value="Confirmation" />
+  <concept id="50" span="word_173" attribute="REACTION" value="Confirmation" />
+</concepts>

@@ -1,0 +1,99 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8..word_11" attribute="BUS" value="186" />
+  <concept id="5" span="word_13" attribute="ACTION" value="Concern" />
+  <concept id="6" span="word_15..word_17" attribute="BUS" value="172" />
+  <concept id="7" span="word_18..word_22" attribute="LOCATION_STP" value="Banacha 02" />
+  <concept id="8" span="word_23..word_25" attribute="GOAL_DIRECTION_TD" value="Mokotów" />
+  <concept id="9" span="word_27..word_29" attribute="Q_WHAT_TIME" value="Trip" />
+  <concept id="10" span="word_31..word_35" attribute="DAYTIME_PERIOD_SPAN" value="21 : 30 - 22 : 00" />
+  <concept id="11" span="word_36" attribute="REACTION" value="Confirmation" />
+  <concept id="12" span="word_38" attribute="TIME_REL" value="Today" />
+  <concept id="13" span="word_39" attribute="TIMETABLE" value="General" />
+  <concept id="14" span="word_44..word_47" attribute="BUS" value="186" />
+  <concept id="15" span="word_48" attribute="ACTION" value="ToBe" />
+  <concept id="16" span="word_49..word_52" attribute="AT_HOUR" value="21 : 34" />
+  <concept id="17" span="word_53" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_54..word_55" attribute="AT_HOUR_MINPART" value="54" />
+  <concept id="19" span="word_56" attribute="REACTION" value="Confirmation" />
+  <concept id="20" span="word_57..word_59" attribute="AFTER_HOUR" value="22 : 00" />
+  <concept id="21" span="word_60" attribute="ACTION" value="ToBe" />
+  <concept id="22" span="word_61" attribute="AT_HOUR_MINPART" value="14" />
+  <concept id="23" span="word_62" attribute="REACTION" value="Confirmation" />
+  <concept id="24" span="word_63" attribute="AT_HOUR_MINPART" value="14" />
+  <concept id="25" span="word_66..word_68" attribute="BUS" value="172" />
+  <concept id="26" span="word_70..word_73" attribute="AT_HOUR" value="21 : 29" />
+  <concept id="27" span="word_74" attribute="REACTION" value="Confirmation" />
+  <concept id="28" span="word_75..word_76" attribute="AT_HOUR_MINPART" value="49" />
+  <concept id="29" span="word_78..word_80" attribute="AT_HOUR" value="22 : 14" />
+  <concept id="30" span="word_82..word_84" attribute="AT_HOUR" value="22 : 14" />
+  <concept id="31" span="word_88..word_90" attribute="BUS" value="157" />
+  <concept id="32" span="word_94" attribute="ACTION" value="ToSee" />
+  <concept id="33" span="word_96..word_97" attribute="STOP_DESCRIPTION" value="Banacha Szpital" />
+  <concept id="34" span="word_100" attribute="ACTION" value="ToBe" />
+  <concept id="35" span="word_101" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="36" span="word_103..word_105" attribute="GOAL_DIRECTION_TD" value="Centrum" />
+  <concept id="37" span="word_106" attribute="Q_ROUTE" value="General" />
+  <concept id="38" span="word_107" attribute="ACTION" value="Go" />
+  <concept id="39" span="word_109..word_111" attribute="GOAL_DIRECTION_TD" value="Szczęśliwice" />
+  <concept id="40" span="word_113..word_114" attribute="GOAL_TD" value="Szczęśliwice" />
+  <concept id="41" span="word_120" attribute="ACTION" value="Request" />
+  <concept id="42" span="word_121..word_123" attribute="GOAL_DIRECTION_TD" value="Wola" />
+  <concept id="43" span="word_125" attribute="REACTION" value="Negation" />
+  <concept id="44" span="word_126" attribute="GOAL_DIRECTION_TD" value="Mokotów" />
+  <concept id="45" span="word_127" attribute="GOAL_DIRECTION_TD" value="Mokotów" />
+  <concept id="46" span="word_130" attribute="REACTION" value="Confirmation" />
+  <concept id="47" span="word_132" attribute="ACTION" value="Give" />
+  <concept id="48" span="word_133" attribute="REACTION" value="Confirmation" />
+  <concept id="49" span="word_135..word_136" attribute="STOP_DESCRIPTION" value="Banacha Szpital" />
+  <concept id="50" span="word_137..word_139" attribute="GOAL_DIRECTION_TD" value="Szczęśliwice" />
+  <concept id="51" span="word_140..word_143" attribute="TIME_REL" value="TheSame" />
+  <concept id="52" span="word_145" attribute="REACTION" value="Confirmation" />
+  <concept id="53" span="word_146..word_149" attribute="AT_HOUR" value="21 : 28" />
+  <concept id="54" span="word_150" attribute="REACTION" value="Confirmation" />
+  <concept id="55" span="word_151..word_152" attribute="AT_HOUR_MINPART" value="56" />
+  <concept id="56" span="word_153..word_154" attribute="AT_HOUR_MINPART" value="56" />
+  <concept id="57" span="word_155..word_157" attribute="AT_HOUR" value="22 : 16" />
+  <concept id="58" span="word_159" attribute="EXCLAMATION" value="General" />
+  <concept id="59" span="word_165" attribute="REACTION" value="Confirmation" />
+  <concept id="60" span="word_168" attribute="REACTION" value="Negation" />
+  <concept id="61" span="word_170..word_172" attribute="BUS" value="136" />
+  <concept id="62" span="word_182" attribute="ACTION" value="Request" />
+  <concept id="63" span="word_184" attribute="CONNECTION_F" value="General" />
+  <concept id="64" span="word_185..word_187" attribute="GOAL_STP" value="Banacha" />
+  <concept id="65" span="word_188" attribute="Q_CONF" value="IsIt" />
+  <concept id="66" span="word_190" attribute="REACTION" value="Negation" />
+  <concept id="67" span="word_191" attribute="CONNECTION_F" value="General" />
+  <concept id="68" span="word_194..word_195" attribute="GOAL_STR" value="Racławicka" />
+  <concept id="69" span="word_196..word_197" attribute="GOAL_STR" value="Racławicka" />
+  <concept id="70" span="word_199..word_201" attribute="GOAL_STP" value="Rakowiec" />
+  <concept id="71" span="word_202" attribute="ACTION" value="Approach" />
+  <concept id="72" span="word_203" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="73" span="word_204" attribute="ACTION" value="ToHave" />
+  <concept id="74" span="word_205..word_208" attribute="STOP_DESCRIPTION" value="Banacha 07" />
+  <concept id="75" span="word_209" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="76" span="word_210..word_211" attribute="STOP_DESCRIPTION" value="Banacha Szpital" />
+  <concept id="77" span="word_212..word_215" attribute="LOCATION_STR" value="Żwirki i Wigury" />
+  <concept id="78" span="word_218..word_220" attribute="GOAL_DIRECTION_TD" value="Ursynów" />
+  <concept id="79" span="word_222" attribute="REACTION" value="Confirmation" />
+  <concept id="80" span="word_223" attribute="REACTION" value="Confirmation" />
+  <concept id="81" span="word_224" attribute="REACTION" value="Confirmation" />
+  <concept id="82" span="word_230..word_231" attribute="TIME_REL" value="TheSame" />
+  <concept id="83" span="word_232..word_234" attribute="AT_HOUR" value="21 : 30" />
+  <concept id="84" span="word_236" attribute="STOP_DESCRIPTION" value="Banacha" />
+  <concept id="85" span="word_237" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="86" span="word_238..word_240" attribute="STOP_DESCRIPTION" value="Banacha Szpital" />
+  <concept id="87" span="word_241" attribute="STOP_DESCRIPTION" value="Banacha" />
+  <concept id="88" span="word_242" attribute="LOCATION_REL" value="There" />
+  <concept id="89" span="word_243..word_246" attribute="LOCATION_NEAR_STP" value="LAST Tram" />
+  <concept id="90" span="word_247..word_250" attribute="AT_HOUR" value="21 : 35" />
+  <concept id="91" span="word_251..word_254" attribute="AT_HOUR" value="22 : 00" />
+  <concept id="92" span="word_255..word_258" attribute="AT_HOUR" value="22 : 00" />
+  <concept id="93" span="word_260" attribute="CONNECTION_F" value="Best" />
+  <concept id="94" span="word_261" attribute="ACTION" value="ToBe" />
+  <concept id="95" span="word_262" attribute="REACTION" value="Confirmation" />
+  <concept id="96" span="word_265" attribute="CONV_FORM" value="BYE" />
+  <concept id="97" span="word_268" attribute="CONV_FORM" value="BYE" />
+</concepts>

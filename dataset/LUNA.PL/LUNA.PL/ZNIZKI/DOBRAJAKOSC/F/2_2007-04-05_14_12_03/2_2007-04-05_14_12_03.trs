@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-05_14_12_03" version="3" version_date="080113">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="32.498" topic="to1">
+<Turn startTime="0" endTime="1.544">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.544" endTime="3.199">
+<Sync time="1.544"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.199" endTime="7.083">
+<Sync time="3.199"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę pana ja mam takie pytanie 
+<Event desc="*" type="pronounce" extent="begin"/>
+nie wiem
+<Event desc="*" type="pronounce" extent="end"/>
+ czy 
+<Event desc="*" type="pronounce" extent="begin"/>
+pod
+<Event desc="*" type="pronounce" extent="end"/>
+ po
+<Event desc="~" type="lexical" extent="begin"/>
+d
+<Event desc="~" type="lexical" extent="end"/>
+ właściwy nume
+<Event desc="~" type="lexical" extent="begin"/>
+r 
+<Event desc="~" type="lexical" extent="end"/>
+ trafiłam
+</Turn>
+<Turn speaker="spk1" startTime="7.083" endTime="7.490">
+<Sync time="7.083"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+słucham
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="7.490" endTime="17.726">
+<Sync time="7.490"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ interesuje m
+<Event desc="~" type="lexical" extent="begin"/>
+n
+<Event desc="~" type="lexical" extent="end"/>
+ie tak osoby które są uprawnione do korzystania z bezpłatnych przejazdów 
+<Event desc="babble" type="noise" extent="begin"/>
+ ukończywszy lat siedemdziesiąt 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ czy to dotyczy komunikacji miejskiej zarówno i podmiejskiej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.726" endTime="21.581">
+<Sync time="17.726"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tej podmiejskiej która jes
+<Event desc="~" type="lexical" extent="begin"/>
+t 
+<Event desc="~" type="lexical" extent="end"/>
+ organizowana przez Zarząd Transportu
+</Turn>
+<Turn speaker="spk2" startTime="21.581" endTime="23.21">
+<Sync time="21.581"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to znaczy 
+<Event desc="babble" type="noise" extent="end"/>
+ podmiejskie jak się na
+</Turn>
+<Turn speaker="spk1" startTime="23.21" endTime="25.415">
+<Sync time="23.21"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ siedemsetki 
+<Event desc="babble" type="noise" extent="end"/>
+ i osiemsetki tak
+</Turn>
+<Turn speaker="spk2" startTime="25.415" endTime="26.366">
+<Sync time="25.415"/>
+aha tak
+</Turn>
+<Turn speaker="spk1" startTime="26.366" endTime="27.426">
+<Sync time="26.366"/>
+tak jak najbardziej
+</Turn>
+<Turn speaker="spk2" startTime="27.426" endTime="28.317">
+<Sync time="27.426"/>
+aha dziękuję panu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="28.317" endTime="29.248">
+<Sync time="28.317"/>
+<Who nb="1"/>
+uprzejmie
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="29.248" endTime="29.725">
+<Sync time="29.248"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.725" endTime="30.272">
+<Sync time="29.725"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+d
+<Event desc="~" type="lexical" extent="end"/>
+o 
+<Event desc="*" type="pronounce" extent="begin"/>
+usłyszenia
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="30.272" endTime="32.498">
+<Sync time="30.272"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

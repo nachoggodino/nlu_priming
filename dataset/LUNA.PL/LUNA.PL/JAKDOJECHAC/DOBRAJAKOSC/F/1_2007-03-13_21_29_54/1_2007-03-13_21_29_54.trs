@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-13_21_29_54" version="5" version_date="071204">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="157.990" topic="to1">
+<Turn startTime="0" endTime="1.119">
+<Sync time="0"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.119" endTime="3.055">
+<Sync time="1.119"/>
+
+<Event desc="int" type="noise" extent="next"/>
+dobry wieczór xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.055" endTime="24.913">
+<Sync time="3.055"/>
+dobry wieczór 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana czy ja uzyskam taką informację 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chciałabym się dowiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jakim autobusem czy autobusami bo na pewno nie jednym 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mogłabym dojechać z ulicy Korkowej do Makro w Ząbkach 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.913" endTime="27.875">
+<Sync time="24.913"/>
+a proszę powiedzieć w jakich godzinach chce pani jechać
+</Turn>
+<Turn speaker="spk2" startTime="27.875" endTime="29.559">
+<Sync time="27.875"/>
+w jakich godzinach chcę jechać 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="29.559" endTime="30.008">
+<Sync time="29.559"/>
+<Who nb="1"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="30.008" endTime="39.834">
+<Sync time="30.008"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no będą to chyba godziny takie między 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ trzynastą a piętnastą 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="39.834" endTime="44.813">
+<Sync time="39.834"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy proszę pani z Marysina jeździ taka linia trzysta czterdzieści pięć
+</Turn>
+<Turn speaker="spk2" startTime="44.813" endTime="45.22">
+<Sync time="44.813"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="45.22" endTime="47.812">
+<Sync time="45.22"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ czy
+<Event desc="~" type="lexical" extent="begin"/>
+li
+<Event desc="~" type="lexical" extent="end"/>
+ niestety 
+<Event desc="babble" type="noise" extent="end"/>
+ bezpośredniego dojazdu pani nie będzie miała
+</Turn>
+<Turn speaker="spk2" startTime="47.812" endTime="48.837">
+<Sync time="47.812"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="48.837" endTime="54.223">
+<Sync time="48.837"/>
+jak jeśli pani będzie jechała w godzinach szczytu to tak jak powiedziałem z Marysina jedzie taka linia trzysta czterdzieści pięć 
+</Turn>
+<Turn speaker="spk2" startTime="54.223" endTime="55.8687570764">
+<Sync time="54.223"/>
+a godziny szczytu to są od od
+</Turn>
+<Turn speaker="spk2 spk1" startTime="55.8687570764" endTime="56.185">
+<Sync time="55.8687570764"/>
+<Who nb="1"/>
+której 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+od
+</Turn>
+<Turn speaker="spk1" startTime="56.185" endTime="59.258">
+<Sync time="56.185"/>
+czternastej dziewiętnaście o czternastej dziewiętnaście jest pierwszy
+</Turn>
+<Turn speaker="spk2" startTime="59.258" endTime="62.44">
+<Sync time="59.258"/>
+aha już od 
+<Event desc="babble" type="noise" extent="begin"/>
+ czternastej dziewiętnaście są godziny 
+<Event desc="babble" type="noise" extent="end"/>
+ szczytu tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="62.44" endTime="66.965">
+<Sync time="62.44"/>
+nim musi pani dojechać do przystanku Młodzieńcza 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="66.965" endTime="69.925">
+<Sync time="66.965"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a to na jakiej ulicy to jest 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="69.925" endTime="72.514">
+<Sync time="69.925"/>
+na skrzyżowaniu Młodzieńczej i Radzymińskiej 
+</Turn>
+<Turn speaker="spk2" startTime="72.514" endTime="73.805">
+<Sync time="72.514"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="73.805" endTime="77.494">
+<Sync time="73.805"/>
+i tam przesiąść się w siedemset osiemnaście 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="77.494" endTime="79.456">
+<Sync time="77.494"/>
+tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="79.456" endTime="80.003">
+<Sync time="79.456"/>
+<Who nb="1"/>
+i tam się prze
+<Event desc="~" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+albo
+</Turn>
+<Turn speaker="spk1" startTime="80.003" endTime="84.539">
+<Sync time="80.003"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ osiemset 
+<Event desc="babble" type="noise" extent="end"/>
+ pięć i dojechać już bezpośrednio do Makro 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="84.539" endTime="85.395">
+<Sync time="84.539"/>
+<Who nb="1"/>
+ewentualnie gdyby
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a
+</Turn>
+<Turn speaker="spk1" startTime="85.395" endTime="98.786">
+<Sync time="85.395"/>
+pani poza tymi godzinami jechała to może pani dojechać tutaj do przystanku Okularowa autobusami pięćset dwadzieścia sto czterdzieści jeden 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ i stamtąd linią sto czterdzieści pięć 
+</Turn>
+<Turn speaker="spk2" startTime="98.786" endTime="99.745">
+<Sync time="98.786"/>
+do Okularowej 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="99.745" endTime="100.179">
+<Sync time="99.745"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+one tak
+</Turn>
+<Turn speaker="spk1" startTime="100.179" endTime="102.059">
+<Sync time="100.179"/>
+on też jedzie ulicą Chełmżyńską
+</Turn>
+<Turn speaker="spk2" startTime="102.059" endTime="105.349">
+<Sync time="102.059"/>
+a potem przesiąść się w sto czterdzieści pięć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="105.349" endTime="105.508">
+<Sync time="105.349"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="105.508" endTime="106.78">
+<Sync time="105.508"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ i wiem że on jedzie chyba 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="106.78" endTime="107.482">
+<Sync time="106.78"/>
+<Who nb="1"/>
+Chełmżyńską
+<Who nb="2"/>
+ale także
+</Turn>
+<Turn speaker="spk1" startTime="107.482" endTime="111.512">
+<Sync time="107.482"/>
+sto czterdzieści pięć także musi pani dojechać do Młodzieńczej i tam przesiąść
+<Event desc="int" type="noise" extent="previous"/>
+ się
+</Turn>
+<Turn speaker="spk2" startTime="111.512" endTime="111.829">
+<Sync time="111.512"/>
+w ten
+</Turn>
+<Turn speaker="spk1 spk2" startTime="111.829" endTime="114.343">
+<Sync time="111.829"/>
+<Who nb="1"/>
+w siedemset osiemnaście albo osiemset pięć
+<Who nb="2"/>
+siedemset osiemnaście osiemset pięć
+</Turn>
+<Turn speaker="spk2" startTime="114.343" endTime="114.727">
+<Sync time="114.343"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="114.727" endTime="115.394">
+<Sync time="114.727"/>
+tak tak tak
+</Turn>
+<Turn speaker="spk2" startTime="115.394" endTime="121.906">
+<Sync time="115.394"/>
+i 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ one jadą wtedy prosto jeszcze tam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tą 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w ulicą Piłsudskiego tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="121.906" endTime="124.872">
+<Sync time="121.906"/>
+tak tak mają przystanek 
+<Event desc="~" type="lexical" extent="begin"/>
+tu
+<Event desc="~" type="lexical" extent="end"/>
+taj pod Makro
+</Turn>
+<Turn speaker="spk2" startTime="124.872" endTime="138.685">
+<Sync time="124.872"/>
+no tak no no w
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+aściwie tam 
+<Event desc="*" type="pronounce" extent="begin"/>
+potrzebuję
+<Event desc="*" type="pronounce" extent="end"/>
+ jeden przystanek dalej ale już tak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ zapytałam się że Makro bo to taki punkt że i tam wszyscy wiedzą 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a ten trzysta czterdzieści pięć to jedzie z Korkowej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="138.685" endTime="140.401">
+<Sync time="138.685"/>
+tak on jedzie z pętli w Marysinie
+</Turn>
+<Turn speaker="spk2" startTime="140.401" endTime="142.628">
+<Sync time="140.401"/>
+a z pętli tu w Marysinie na Korkowej
+</Turn>
+<Turn speaker="spk2 spk1" startTime="142.628" endTime="142.9">
+<Sync time="142.628"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="142.9" endTime="144.13">
+<Sync time="142.9"/>
+tak jak powiedziałem pierwszy kurs
+</Turn>
+<Turn speaker="spk2" startTime="144.13" endTime="147.942">
+<Sync time="144.13"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ bo ja mieszkam w 
+<Event desc="babble" type="noise" extent="end"/>
+ Marysinie i wie pan i stąd moje pytanie
+</Turn>
+<Turn speaker="spk1" startTime="147.942" endTime="152.416">
+<Sync time="147.942"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ no rozumiem 
+<Event desc="babble" type="noise" extent="end"/>
+ dlatego dlatego pytałem się o te godziny bo tak jak mówię 
+<Event desc="babble" type="noise" extent="begin"/>
+ pierwszy kurs jest 
+<Event desc="babble" type="noise" extent="end"/>
+ po południu jest o czternastej 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="152.416" endTime="153.796">
+<Sync time="152.416"/>
+<Who nb="1"/>
+dziewiętnaście
+<Who nb="2"/>
+rozumiem
+</Turn>
+<Turn speaker="spk2" startTime="153.796" endTime="154.263">
+<Sync time="153.796"/>
+dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="154.263" endTime="155.549">
+<Sync time="154.263"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+bardzo proszę do
+</Turn>
+<Turn speaker="spk1" startTime="155.549" endTime="156.088">
+<Sync time="155.549"/>
+usłyszenia
+</Turn>
+<Turn startTime="156.088" endTime="157.990">
+<Sync time="156.088"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

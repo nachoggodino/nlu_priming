@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-28_20_10_06" version="4" version_date="100914">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="75.495" topic="to1">
+<Turn startTime="0" endTime="1.005">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.005" endTime="2.712">
+<Sync time="1.005"/>
+xxx 
+<Event desc="noise" type="noise" extent="begin"/>
+ dobry wieczór 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.712" endTime="14.749">
+<Sync time="2.712"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+dobry
+<Event desc="*" type="pronounce" extent="end"/>
+ wieczó
+<Event desc="~" type="lexical" extent="begin"/>
+r
+<Event desc="~" type="lexical" extent="end"/>
+ panu ja 
+<Event desc="noise" type="noise" extent="begin"/>
+ chciałam 
+<Event desc="noise" type="noise" extent="end"/>
+ zapytać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ o przebieg trasy stu pięćdziesięciu dziewięciu od 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Łazienko
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+skiej Rozbrat rozumiem ale tam Myśliwiecką ono nie jeździ bo
+</Turn>
+<Turn speaker="spk1" startTime="14.749" endTime="23.93">
+<Sync time="14.749"/>
+tak to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ właśnie taki objazd wprowadzony że 
+<Event desc="babble" type="noise" extent="begin"/>
+ on 
+<Event desc="babble" type="noise" extent="end"/>
+ jeździ 
+<Event desc="noise" type="noise" extent="begin"/>
+ przez 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+jedzie prosto do Trasy Łazienko
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+skiej i potem Trasą Łazienko
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+ską do Placu Na Rozdrożu
+</Turn>
+<Turn speaker="spk2" startTime="23.93" endTime="31.691">
+<Sync time="23.93"/>
+aha czyli czyli gdybym chciała 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pojechać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to muszę wejść na górę na Trasę tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.691" endTime="33.511">
+<Sync time="31.691"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to znaczy chwileczkę bo ja 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="33.511" endTime="34.161">
+<Sync time="33.511"/>
+<Who nb="1"/>
+ ja tutaj
+<Who nb="2"/>
+bo pewnie
+</Turn>
+<Turn speaker="spk2" startTime="34.161" endTime="34.388">
+<Sync time="34.161"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="34.388" endTime="35.133">
+<Sync time="34.388"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ sprawdzę 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="35.133" endTime="35.616">
+<Sync time="35.133"/>
+no na pew
+<Event desc="~" type="lexical" extent="begin"/>
+no
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="35.616" endTime="36.161">
+<Sync time="35.616"/>
+<Who nb="1"/>
+no jeżeli 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+pew
+<Event desc="~" type="lexical" extent="end"/>
+no
+</Turn>
+<Turn speaker="spk1" startTime="36.161" endTime="41.888">
+<Sync time="36.161"/>
+chce pani na Trasie wsiadać tak bo jeżeli 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ chce pani jeszcze tam na Wisłostradzie wsiąść to ja bym musiał spojrzeć 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="41.888" endTime="42.244">
+<Sync time="41.888"/>
+<Who nb="1"/>
+dokła
+<Event desc="~" type="lexical" extent="begin"/>
+dnie
+<Event desc="~" type="lexical" extent="end"/>
+
+<Who nb="2"/>
+a nie
+</Turn>
+<Turn speaker="spk2" startTime="42.244" endTime="48.335">
+<Sync time="42.244"/>
+nie nie nie nie tutaj na Trasie no bo jeśli ono jedzie to i 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie może inaczej jak powiedzmy sto pięćdziesiąt jeden 
+</Turn>
+<Turn speaker="spk1" startTime="48.335" endTime="50.662">
+<Sync time="48.335"/>
+to tak to 
+<Event desc="babble" type="noise" extent="begin"/>
+ dokładnie jest 
+<Event desc="babble" type="noise" extent="end"/>
+ ten przystanek tak
+</Turn>
+<Turn speaker="spk2" startTime="50.662" endTime="56.395">
+<Sync time="50.662"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i 
+<Event desc="babble" type="noise" extent="end"/>
+ ten przystanek a później ono 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ skręca w lewo w Piękną ma
+</Turn>
+<Turn speaker="spk1" startTime="56.395" endTime="64.237">
+<Sync time="56.395"/>
+nie jedzie 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ jak dojeżdża do Rozdroża to podjeżdża pod górę i tam skręci w prawo a potem zaraz skręci właśnie w Piękną w lewo
+</Turn>
+<Turn speaker="spk2" startTime="64.237" endTime="65.849">
+<Sync time="64.237"/>
+w Piękną w lewo tam przy Ambasadzie
+</Turn>
+<Turn speaker="spk1 spk2" startTime="65.849" endTime="67.499">
+<Sync time="65.849"/>
+<Who nb="1"/>
+ Amerykańskiej aha
+<Who nb="2"/>
+tak tak właśnie
+</Turn>
+<Turn speaker="spk2" startTime="67.499" endTime="70.465">
+<Sync time="67.499"/>
+dobra czyli można jechać z góry z Trasy Łazienkowskiej 
+</Turn>
+<Turn speaker="spk1" startTime="70.465" endTime="71.008">
+<Sync time="70.465"/>
+tak 
+</Turn>
+<Turn speaker="spk2" startTime="71.008" endTime="72.217">
+<Sync time="71.008"/>
+dobrze dziękuję bardzo
+</Turn>
+<Turn speaker="spk1 spk2" startTime="72.217" endTime="73.079">
+<Sync time="72.217"/>
+<Who nb="1"/>
+dziękuję
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn startTime="73.079" endTime="75.495">
+<Sync time="73.079"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

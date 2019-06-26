@@ -1,0 +1,13 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="TOPIC" head="dowiedzieć">
+    <Frame fe="1" span="word_15..word_17,word_18..word_19" concept_id="6,7" name="TOPIC" />
+    <Frame fe="2" span="word_22..word_26,word_27..word_29,word_30..word_33,word_34" concept_id="8,9,10,11" name="EXPLANATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_52" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_46..word_48,word_49..word_51" concept_id="18,19" name="TIME" />
+    <Frame fe="2" span="word_53..word_56" concept_id="21" name="TIME" />
+  </Set>
+  <Set id="3" subset="1" span="word_71" frame="ARRIVING" head="zdążyć">
+    <Frame fe="1" span="word_67..word_69" concept_id="25" name="TIME" />
+  </Set>
+</Frames>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_20_13_07" version="4" version_date="070907">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="38.998" topic="to1">
+<Turn startTime="0" endTime="0.823">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.823" endTime="3.162">
+<Sync time="0.823"/>
+dobry wieczór xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.162" endTime="15.376">
+<Sync time="3.162"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> dobry wieczór chcia<Event desc="~" type="lexical" extent="begin"/>łe<Event desc="~" type="lexical" extent="end"/>m się zapytać o autobus sto dziewięćdziesiąt jeden <Event desc="silence" type="noise" extent="instantaneous"/> w kierunku Ochoty z przystanku Berestecka o której teraz będzie <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="15.376" endTime="18.634">
+<Sync time="15.376"/>
+najb<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>iższy odjazd będzie o godzinie dwudziestej dwadzieścia pięć
+</Turn>
+<Turn speaker="spk2" startTime="18.634" endTime="32.583" >
+<Sync time="18.634"/>
+dwudziesta dwadzieścia pięć a sto trzydzieści sześć z pętli o której jedzie <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="int" type="noise" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="32.583" endTime="35.252">
+<Sync time="32.583"/>
+najb<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>iższy o dwudziestej trzydzieści pięć
+</Turn>
+<Turn speaker="spk2" startTime="35.252" endTime="35.826">
+<Sync time="35.252"/>
+dziękuję do
+</Turn>
+<Turn speaker="spk2 spk1" startTime="35.826" endTime="36.369">
+<Sync time="35.826"/>
+<Who nb="1"/>
+widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="36.369" endTime="36.895">
+<Sync time="36.369"/>
+do usłyszenia
+</Turn>
+<Turn startTime="36.895" endTime="38.998">
+<Sync time="36.895"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

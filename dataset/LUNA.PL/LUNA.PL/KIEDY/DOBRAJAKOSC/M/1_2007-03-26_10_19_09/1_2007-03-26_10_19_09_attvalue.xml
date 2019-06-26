@@ -1,0 +1,40 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_11" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_13" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_15..word_17" attribute="BUS" value="708" />
+  <concept id="7" span="word_19..word_21" attribute="BUS" value="726" />
+  <concept id="8" span="word_22..word_23" attribute="SOURCE_TOWN" value="Laski" />
+  <concept id="9" span="word_24..word_25" attribute="STREET" value="Pocztowa" />
+  <concept id="10" span="word_26..word_28" attribute="GOAL_DIRECTION_TOWN" value="Warszawa" />
+  <concept id="11" span="word_30" attribute="ACTION" value="Check" />
+  <concept id="12" span="word_33..word_34" attribute="BUS" value="708" />
+  <concept id="13" span="word_35" attribute="DEPARTURE" value="Nearest" />
+  <concept id="14" span="word_36" attribute="ACTION" value="ToBe" />
+  <concept id="15" span="word_37..word_39" attribute="AT_HOUR" value="10 : 37" />
+  <concept id="16" span="word_40" attribute="TIME_REL" value="Later" />
+  <concept id="17" span="word_41..word_42" attribute="AT_HOUR_MINPART" value="52" />
+  <concept id="18" span="word_43" attribute="REACTION" value="Confirmation" />
+  <concept id="19" span="word_45..word_47" attribute="BUS" value="726" />
+  <concept id="20" span="word_48" attribute="REACTION" value="Confirmation" />
+  <concept id="21" span="word_49" attribute="DEPARTURE" value="Nearest" />
+  <concept id="22" span="word_51..word_52" attribute="AT_HOUR" value="11 : 15" />
+  <concept id="23" span="word_53" attribute="REACTION" value="Confirmation" />
+  <concept id="24" span="word_57" attribute="ACTION" value="ToBe" />
+  <concept id="25" span="word_58..word_59" attribute="STOP_DESCRIPTION" value="Mościska" />
+  <concept id="26" span="word_61..word_62" attribute="LOCATION_BLD" value="School" />
+  <concept id="27" span="word_63..word_64" attribute="BUS" value="712" />
+  <concept id="28" span="word_65..word_67" attribute="GOAL_DIRECTION_TD" value="Wola" />
+  <concept id="29" span="word_68..word_70" attribute="GOAL_DIRECTION_TD" value="Wola" />
+  <concept id="30" span="word_71" attribute="REACTION" value="Confirmation" />
+  <concept id="31" span="word_75" attribute="ACTION" value="ToBe" />
+  <concept id="32" span="word_76..word_78" attribute="AT_HOUR" value="10 : 43" />
+  <concept id="33" span="word_79" attribute="REACTION" value="Confirmation" />
+  <concept id="34" span="word_81" attribute="DEPARTURE" value="Next" />
+  <concept id="35" span="word_82..word_84" attribute="AT_HOUR" value="11 : 36" />
+  <concept id="36" span="word_85..word_87" attribute="AT_HOUR" value="11 : 36" />
+  <concept id="37" span="word_88..word_89" attribute="REACTION" value="Confirmation" />
+  <concept id="38" span="word_90" attribute="REACTION" value="Confirmation" />
+</concepts>

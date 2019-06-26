@@ -1,0 +1,28 @@
+<Frames>
+  <Set id="1" subset="1" span="word_12" frame="DEPARTING" head="odjeżdżać">
+    <Frame fe="1" span="word_10..word_11" concept_id="6" name="TIME" />
+    <Frame fe="2" span="word_13..word_15" concept_id="8" name="THEME" />
+    <Frame fe="3" span="word_16..word_20" concept_id="9" name="SOURCE" />
+  </Set>
+  <Set id="2" subset="1" span="word_25" frame="REFFERING_BY_NAME" head="nazywać">
+    <Frame fe="1" span="word_23" concept_id="11" name="NAME" />
+  </Set>
+  <Set id="3" subset="1" span="word_32" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_31" concept_id="14" name="THEME" />
+    <Frame fe="2" span="word_35" concept_id="16" name="POSITION" />
+  </Set>
+  <Set id="4" subset="1" span="word_39" frame="DEPARTING" head="ruszać">
+    <Frame fe="1" span="word_36..word_37" concept_id="17" name="SOURCE" />
+  </Set>
+  <Set id="5" subset="1" span="word_41" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_40" concept_id="19" name="PLACE" />
+    <Frame fe="2" span="word_42..word_44,word_45..word_47" concept_id="21,22" name="PLACE" />
+  </Set>
+  <Set id="6" subset="2" span="word_56" frame="STATEMENT" head="mówić">
+    <Frame fe="1" span="word_52..word_53" concept_id="26" name="TOPIC" />
+  </Set>
+  <Set id="7" subset="1" span="word_64" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_65" concept_id="31" name="TIME" />
+    <Frame fe="2" span="word_66" concept_id="32" name="ENTITY" />
+  </Set>
+</Frames>

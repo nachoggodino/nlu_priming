@@ -1,0 +1,20 @@
+<Frames>
+  <Set id="1" subset="1" span="word_26" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_18..word_20" concept_id="5" name="TIME" />
+    <Frame fe="2" span="word_21..word_22,word_23..word_25" concept_id="6,7" name="PLACE" />
+    <Frame fe="3" span="word_27" concept_id="9" name="ENTITY" />
+  </Set>
+  <Set id="2" subset="1" span="word_44" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_46..word_48" concept_id="16" name="TOPIC" />
+  </Set>
+  <Set id="3" subset="1" span="word_51" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_53..word_55" concept_id="19" name="TOPIC" />
+  </Set>
+  <Set id="4" subset="1" span="word_62" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_63..word_66" concept_id="22" name="PLACE" />
+  </Set>
+  <Set id="5" subset="1" span="word_89" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_87..word_88" concept_id="30" name="THEME" />
+    <Frame fe="2" span="word_90..word_93" concept_id="32" name="LOCATION" />
+  </Set>
+</Frames>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-04_11_17_13" version="4" version_date="080113">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="25.870" topic="to1">
+<Turn startTime="0" endTime="1.123">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.123" endTime="3.41">
+<Sync time="1.123"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.41" endTime="11.807">
+<Sync time="3.41"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry p
+<Event desc="~" type="lexical" extent="begin"/>
+r
+<Event desc="~" type="lexical" extent="end"/>
+oszę pana mam taki dylema
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ na 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chodzi o przejaz
+<Event desc="~" type="lexical" extent="begin"/>
+d
+<Event desc="~" type="lexical" extent="end"/>
+ starszych osób po
+<Event desc="~" type="lexical" extent="begin"/>
+wy
+<Event desc="~" type="lexical" extent="end"/>
+żej 
+<Event desc="*" type="pronounce" extent="begin"/>
+siedemdziesiątego
+<Event desc="*" type="pronounce" extent="end"/>
+ piątego roku życia a 
+<Event desc="*" type="pronounce" extent="begin"/>
+wiem
+<Event desc="*" type="pronounce" extent="end"/>
+ to 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest
+<Event desc="*" type="pronounce" extent="end"/>
+ bezpłatne w Warszawie
+</Turn>
+<Turn speaker="spk1" startTime="11.807" endTime="12.022">
+<Sync time="11.807"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="12.022" endTime="14.832">
+<Sync time="12.022"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ale czy to dotyczy ludzi którzy przyjechali z Krakowa na przykład 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.832" endTime="21.503">
+<Sync time="14.832"/>
+proszę pana 
+<Event desc="*" type="pronounce" extent="begin"/>
+dotyczy
+<Event desc="*" type="pronounce" extent="end"/>
+ to każdej osoby która ukończyła siedemdziesiąty rok życia niezależnie od miejsca zamieszkania
+</Turn>
+<Turn speaker="spk2" startTime="21.503" endTime="22.907">
+<Sync time="21.503"/>
+rozumiem 
+<Event desc="*" type="pronounce" extent="begin"/>
+dziękuję
+<Event desc="*" type="pronounce" extent="end"/>
+ bardzo
+</Turn>
+<Turn speaker="spk1" startTime="22.907" endTime="23.653">
+<Sync time="22.907"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ bardzo proszę 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="23.653" endTime="25.870">
+<Sync time="23.653"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

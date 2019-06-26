@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_20_17_48" version="7" version_date="071220">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="44.997" topic="to1">
+<Turn startTime="0" endTime="0.632">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.632" endTime="1.847">
+<Sync time="0.632"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+do
+<Event desc="~" type="lexical" extent="end"/>
+bry 
+<Event desc="int" type="noise" extent="next"/>
+wieczór xxx 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1.847" endTime="2.372">
+<Sync time="1.847"/>
+<Who nb="1"/>
+słucham
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.372" endTime="8.361">
+<Sync time="2.372"/>
+proszę
+<Event desc="int" type="noise" extent="previous"/>
+ pani 
+<Event desc="int" type="noise" extent="next"/>
+ja 
+<Event desc="int" type="noise" extent="next"/>
+chciałam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Warszawa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Dworca Centralnego do Akademii Medycznej 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="8.361" endTime="11.505">
+<Sync time="8.361"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pani mamy autobus sto siedemdziesiąt pięć 
+</Turn>
+<Turn speaker="spk2" startTime="11.505" endTime="12.55">
+<Sync time="11.505"/>
+sto siedemdziesiąt 
+<Event desc="int" type="noise" extent="next"/>
+pięć 
+</Turn>
+<Turn speaker="spk1" startTime="12.55" endTime="14.710">
+<Sync time="12.55"/>
+tak 
+<Event desc="sta" type="noise" extent="begin"/>
+ bo to na Banacha ta Akademia Medyczna 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="14.710" endTime="15.183">
+<Sync time="14.710"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+to nie
+</Turn>
+<Turn speaker="spk2" startTime="15.183" endTime="20.812">
+<Sync time="15.183"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to nie na Banacha to jest tam na Księcia 
+<Event desc="*" type="pronounce" extent="begin"/>
+Trojdena
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ na Ochocie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.812" endTime="26.722">
+<Sync time="20.812"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ na Ochocie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ proszę pani bo sto siedemdziesiąt pięć też ma również przystanek 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Księcia Trojdena 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.722" endTime="27.753">
+<Sync time="26.722"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+Trojdena no właśnie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="27.753" endTime="28.425">
+<Sync time="27.753"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="28.425" endTime="32.031">
+<Sync time="28.425"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha no to tam blisko dobrze Trojdena 
+<Event desc="int" type="noise" extent="next"/>
+czyli sto siedemdziesiąt pięć 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="32.031" endTime="36.451">
+<Sync time="32.031"/>
+sto siedemdziesiąt
+<Event desc="int" type="noise" extent="previous"/>
+ pięć tak na proszę pani w Alejach Jerozolimskich jest przystanek
+</Turn>
+<Turn speaker="spk2" startTime="36.451" endTime="38.665">
+<Sync time="36.451"/>
+czyli na przy przy tym przy 
+<Event desc="noise" type="noise" extent="begin"/>
+ dworcu 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.665" endTime="39.768">
+<Sync time="38.665"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak przed dworcem 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="39.768" endTime="40.482">
+<Sync time="39.768"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+przed dworcem 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="40.482" endTime="42.916">
+<Sync time="40.482"/>
+<Who nb="1"/>
+dziękuję bardzo dziękuję
+<Who nb="2"/>
+tak dziękuję uprzejmie do widzenia
+</Turn>
+<Turn startTime="42.916" endTime="44.997">
+<Sync time="42.916"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,61 @@
+<Frames>
+  <Set id="1" subset="1" span="word_16" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_13" concept_id="6" name="BENEFICIARY" />
+    <Frame fe="2" span="word_15" concept_id="7" name="BENEFICIARY" />
+    <Frame fe="3" span="word_18" concept_id="9" name="PRIVILEGE" />
+    <Frame fe="4" span="word_20,word_21..word_22" concept_id="10,11" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="2" subset="1" span="word_30" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_27" concept_id="14" name="BENEFICIARY" />
+    <Frame fe="2" span="word_29" concept_id="15" name="BENEFICIARY" />
+    <Frame fe="3" span="word_31..word_37" concept_id="17" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="1" span="word_40" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_42..word_45" concept_id="19" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_54" frame="TOPIC" head="prosić">
+    <Frame fe="1" span="word_55" concept_id="22" name="TOPIC" />
+    <Frame fe="2" span="word_57..word_60" concept_id="23" name="EXPLANATION" />
+  </Set>
+  <Set id="5" subset="1" span="word_69" frame="POSSESSION" head="posiadać">
+    <Frame fe="1" span="word_67" concept_id="25" name="OWNER" />
+    <Frame fe="2" span="word_70..word_72" concept_id="27" name="POSSESSION" />
+  </Set>
+  <Set id="6" subset="1" span="word_77" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_79..word_81" concept_id="29" name="PHENOMENON" />
+    <Frame fe="2" span="word_83..word_86" concept_id="30" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="7" subset="1" span="word_97" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_98..word_99" concept_id="33" name="PRIVILEGE" />
+  </Set>
+  <Set id="8" subset="1" span="word_118" frame="GETTING" head="pobierać">
+    <Frame fe="1" span="word_117" concept_id="40" name="RECIPIENT" />
+    <Frame fe="2" span="word_119" concept_id="42" name="THEME" />
+  </Set>
+  <Set id="9" subset="1" span="word_129" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_132" concept_id="47" name="POSSESSION" />
+  </Set>
+  <Set id="10" subset="1" span="word_139" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_141..word_142" concept_id="51" name="PRIVILEGE" />
+  </Set>
+  <Set id="11" subset="1" span="word_157" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_153..word_156" concept_id="56" name="PHENOMENON" />
+    <Frame fe="2" span="word_159" concept_id="58" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="12" subset="1" span="word_164" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_160..word_162" concept_id="59" name="PHENOMENON" />
+  </Set>
+  <Set id="13" subset="1" span="word_170..word_171" frame="GETTING" head="być">
+    <Frame fe="1" span="word_168" concept_id="61" name="THEME" />
+    <Frame fe="2" span="word_169" concept_id="62" name="THEME" />
+  </Set>
+  <Set id="14" subset="1" span="word_173" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_174" concept_id="65" name="PRIVILEGE" />
+  </Set>
+  <Set id="15" subset="1" span="word_177..word_178" frame="GETTING" head="być">
+    <Frame fe="1" span="word_179" concept_id="68" name="THEME" />
+  </Set>
+  <Set id="16" subset="1" span="word_181" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_182" concept_id="71" name="PRIVILEGE" />
+  </Set>
+</Frames>

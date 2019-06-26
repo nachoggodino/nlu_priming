@@ -1,0 +1,15 @@
+<Frames>
+  <Set id="1" subset="1" span="word_17" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_18..word_19" concept_id="7" name="VEHICLE" />
+  </Set>
+  <Set id="2" subset="2" span="word_24" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_21..word_23" concept_id="9" name="BENEFICIARY" />
+    <Frame fe="2" span="word_25" concept_id="11" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="1" span="word_38" frame="GIVING" head="oddać">
+    <Frame fe="1" span="word_39..word_47" concept_id="15" name="THEME" />
+  </Set>
+  <Set id="4" subset="1" span="word_55" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_56..word_57" concept_id="18" name="PRIVILEGE" />
+  </Set>
+</Frames>

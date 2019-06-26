@@ -1,0 +1,37 @@
+<Frames>
+  <Set id="1" subset="1" span="word_19" frame="BECOMING" head="skończyć">
+    <Frame fe="1" span="word_17" concept_id="5" name="ENTITY" />
+    <Frame fe="2" span="word_20..word_21" concept_id="7" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="2" subset="1" span="word_31" frame="USING" head="korzystać">
+    <Frame fe="1" span="word_32" concept_id="10" name="MANNER" />
+    <Frame fe="2" span="word_34" concept_id="11" name="INSTRUMENT" />
+  </Set>
+  <Set id="3" subset="1" span="word_47" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_48" concept_id="18" name="POSSESSION" />
+  </Set>
+  <Set id="4" subset="1" span="word_59" frame="MOTION_DIRECTIONAL" head="zjechać">
+    <Frame fe="1" span="word_60" concept_id="21" name="CARRIER" />
+  </Set>
+  <Set id="5" subset="1" span="word_64" frame="GETTING" head="pobrać">
+    <Frame fe="1" span="word_66" concept_id="23" name="THEME" />
+  </Set>
+  <Set id="6" subset="1" span="word_72" frame="GETTING" head="pobierać">
+    <Frame fe="1" span="word_69" concept_id="24" name="THEME" />
+    <Frame fe="2" span="word_70" concept_id="25" name="SOURCE" />
+  </Set>
+  <Set id="7" subset="1" span="word_89" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_90..word_92" concept_id="33" name="LOCATION" />
+  </Set>
+  <Set id="8" subset="1" span="word_163" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_162" concept_id="53" name="LOCATION" />
+    <Frame fe="2" span="word_164..word_166" concept_id="55" name="THEME" />
+  </Set>
+  <Set id="9" subset="1" span="word_171" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_170" concept_id="58" name="LOCATION" />
+    <Frame fe="2" span="word_172" concept_id="60" name="THEME" />
+  </Set>
+  <Set id="10" subset="2" span="word_174" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_175,word_176..word_177" concept_id="62,63" name="ENTITY" />
+  </Set>
+</Frames>

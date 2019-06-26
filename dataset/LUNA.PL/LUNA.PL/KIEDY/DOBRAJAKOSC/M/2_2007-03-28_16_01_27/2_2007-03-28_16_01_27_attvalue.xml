@@ -1,0 +1,52 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_10" attribute="REACTION" value="Confirmation" />
+  <concept id="5" span="word_12" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="6" span="word_14" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="7" span="word_15..word_16" attribute="BUS" value="712" />
+  <concept id="8" span="word_17..word_18" attribute="SOURCE_STP" value="General" />
+  <concept id="9" span="word_19..word_20" attribute="SOURCE_BLD" value="Huta" />
+  <concept id="10" span="word_21" attribute="ACTION" value="Go" />
+  <concept id="11" span="word_22..word_24" attribute="GOAL_DIRECTION_STR" value="Górczewska" />
+  <concept id="12" span="word_27..word_29" attribute="AFTER_HOUR" value="5 : 00" />
+  <concept id="13" span="word_31" attribute="ACTION" value="Concern" />
+  <concept id="14" span="word_32..word_34" attribute="AFTER_HOUR" value="5 : 00 am" />
+  <concept id="15" span="word_36" attribute="REACTION" value="Confirmation" />
+  <concept id="16" span="word_37" attribute="REACTION" value="Confirmation" />
+  <concept id="17" span="word_38..word_39" attribute="SOURCE_BLD" value="Huta" />
+  <concept id="18" span="word_41" attribute="ACTION" value="ToBe" />
+  <concept id="19" span="word_43..word_45" attribute="AT_HOUR" value="5 : 21" />
+  <concept id="20" span="word_46" attribute="REACTION" value="Confirmation" />
+  <concept id="21" span="word_48..word_50" attribute="AT_HOUR" value="5 : 55" />
+  <concept id="22" span="word_54" attribute="ACTION" value="ToBe" />
+  <concept id="23" span="word_55..word_56" attribute="DEPARTURE" value="First Tram" />
+  <concept id="24" span="word_57..word_58" attribute="SOURCE_TD" value="Piaski" />
+  <concept id="25" span="word_59..word_60" attribute="GOAL_BLD" value="Huta" />
+  <concept id="26" span="word_61" attribute="DEPARTURE" value="First" />
+  <concept id="27" span="word_62..word_63" attribute="SOURCE_TD" value="Piaski" />
+  <concept id="28" span="word_64..word_65" attribute="GOAL_BLD" value="Huta" />
+  <concept id="29" span="word_66..word_67" attribute="STOP_DESCRIPTION" value="Piaski" />
+  <concept id="30" span="word_68" attribute="REACTION" value="Confirmation" />
+  <concept id="31" span="word_71" attribute="ACTION" value="BeInTime" />
+  <concept id="32" span="word_73" attribute="LOCATION_REL" value="There" />
+  <concept id="33" span="word_74" attribute="TRAM" value="General" />
+  <concept id="34" span="word_75..word_77" attribute="AT_HOUR" value="5 : 21" />
+  <concept id="35" span="word_79" attribute="ACTION" value="Concern" />
+  <concept id="36" span="word_80" attribute="BUS" value="General" />
+  <concept id="37" span="word_81" attribute="REACTION" value="Confirmation" />
+  <concept id="38" span="word_82" attribute="REACTION" value="Confirmation" />
+  <concept id="39" span="word_85" attribute="ACTION" value="Check" />
+  <concept id="40" span="word_87..word_88" attribute="Q_WHAT_TRM" value="General" />
+  <concept id="41" span="word_89" attribute="ACTION" value="ToBe" />
+  <concept id="42" span="word_90..word_92" attribute="AT_HOUR" value="5 : 05" />
+  <concept id="43" span="word_93" attribute="ACTION" value="ToBe" />
+  <concept id="44" span="word_94..word_96" attribute="TRAM" value="22" />
+  <concept id="45" span="word_97..word_99" attribute="AT_HOUR" value="5 : 05" />
+  <concept id="46" span="word_100" attribute="REACTION" value="Confirmation" />
+  <concept id="47" span="word_101" attribute="REACTION" value="Confirmation" />
+  <concept id="48" span="word_105..word_106" attribute="TIME_WEEKPERIOD" value="Weekday" />
+  <concept id="49" span="word_108..word_109" attribute="TIME_WEEKPERIOD" value="Weekday" />
+  <concept id="50" span="word_110" attribute="REACTION" value="Confirmation" />
+</concepts>

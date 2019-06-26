@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-13_16_15_38" version="4" version_date="071227">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="62.996" topic="to1">
+<Turn startTime="0" endTime="0.736">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.736" endTime="2.764">
+<Sync time="0.736"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.764" endTime="11.724">
+<Sync time="2.764"/>
+dzień dobry panie xxx ja chciałem się dowiedzieć jak z Centrum mogę dojechać najszybciej najwygodniej najbezpieczniej na Modlińską pięćdziesiąt jeden 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.724" endTime="31.182">
+<Sync time="11.724"/>
+proszę chwileczkę 
+<Event desc="noise" type="noise" extent="begin"/>
+ zaczekać 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ z Dworca Centralnego pięćset dziesięć
+</Turn>
+<Turn speaker="spk2" startTime="31.182" endTime="36.86">
+<Sync time="31.182"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze 
+<Event desc="babble" type="noise" extent="begin"/>
+ z Centralnego pięćset dziesięć a 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ co 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ takiego jak na przykład z Placu 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="en" type="language" extent="begin"/>
+Wilson
+<Event desc="en" type="language" extent="end"/>
+a bądź z Metra Świętokrzyska 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.86" endTime="39.35">
+<Sync time="36.86"/>
+Placu Wilsona pięćset osiem
+</Turn>
+<Turn speaker="spk2" startTime="39.35" endTime="42.5">
+<Sync time="39.35"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ pięćset osiem i tam 
+<Event desc="babble" type="noise" extent="begin"/>
+ dużo jest przystanków długo on jedzie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="42.5" endTime="45.876">
+<Sync time="42.5"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ do przystanku Płochocińska trza dojechać 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="45.876" endTime="49.59">
+<Sync time="45.876"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ Płochocińska 
+<Event desc="noise" type="noise" extent="end"/>
+ i długo on tam jedzie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="49.59" endTime="51.815">
+<Sync time="49.59"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ koło 
+<Event desc="babble" type="noise" extent="end"/>
+dwudziestu minut 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="51.815" endTime="54.311">
+<Sync time="51.815"/>
+a a jest taki autobus 
+<Event desc="*" type="pronounce" extent="begin"/>
+jak
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+E
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ cztery 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="54.311" endTime="57.038">
+<Sync time="54.311"/>
+ale 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+E
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ cztery nie zatrzymuje się na tym przystanku 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="57.038" endTime="59.949">
+<Sync time="57.038"/>
+aha no dobrze super dobrze 
+<Event desc="babble" type="noise" extent="begin"/>
+ dziękuję 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="59.949" endTime="60.318">
+<Sync time="59.949"/>
+<Who nb="1"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="60.318" endTime="60.787">
+<Sync time="60.318"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ bardzo 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="60.787" endTime="61.256">
+<Sync time="60.787"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ do 
+<Event desc="int" type="noise" extent="next"/>
+widzenia 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="61.256" endTime="61.858">
+<Sync time="61.256"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ do usłyszenia 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="61.858" endTime="62.397">
+<Sync time="61.858"/>
+do usły
+<Event desc="~" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="62.397" endTime="62.996">
+<Sync time="62.397"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="10003_in;10003_out" version="1" version_date="080513">
+<Topics>
+<Topic id="to1" desc="male user, good recording qualitz"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="62.88" topic="to1">
+<Turn startTime="0" endTime="0.6">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.6" endTime="8.328">
+<Sync time="0.6"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ kim jest osoba ubiegająca się o zniżkę
+</Turn>
+<Turn speaker="spk2" startTime="8.328" endTime="11.65">
+<Sync time="8.328"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to moja mama jest
+</Turn>
+<Turn speaker="spk1" startTime="11.65" endTime="15.0">
+<Sync time="11.65"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ kim jest osoba ubiegająca się o zniżkę
+</Turn>
+<Turn speaker="spk2" startTime="15.0" endTime="26.711">
+<Sync time="15.0"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ona ma problem bo nie może chodzić wie pani 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jak to się nazywa 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ niepełnosprawny
+</Turn>
+<Turn speaker="spk1" startTime="26.711" endTime="31.242">
+<Sync time="26.711"/>
+ile lat ma osoba ubiegająca się o zniżkę
+</Turn>
+<Turn speaker="spk2" startTime="31.242" endTime="33.959">
+<Sync time="31.242"/>
+no mama 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ma siedemdziesiąt lat
+</Turn>
+<Turn speaker="spk1" startTime="33.959" endTime="34.603">
+<Sync time="33.959"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ do przejazdów ze zniżką czterdzieści osiem procent uprawnione są osoby które ukończyły dwudziesty szósty rok życia i są uznane za niepełnosprawne w stopniu umiarkowanym lub uznane za całkowicie niezdolne do pracy zniżki są udzielane na podstawie ważnej legitymacji wydanej przez właściwy organ dokumentujący niepełnosprawność czy powtórzyć
+</Turn>
+<Turn speaker="spk1 spk2" startTime="34.603" endTime="55.396">
+<Sync time="34.603"/>
+<Who nb="1"/>
+informacje
+<Who nb="2"/>
+nie
+</Turn>
+<Turn speaker="spk2" startTime="55.396" endTime="58.297">
+<Sync time="55.396"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wszystko się wyjaśniło 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="58.297" endTime="60.473">
+<Sync time="58.297"/>
+czy udzielić jeszcze innych informacji
+</Turn>
+<Turn startTime="60.473" endTime="62.88">
+<Sync time="60.473"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

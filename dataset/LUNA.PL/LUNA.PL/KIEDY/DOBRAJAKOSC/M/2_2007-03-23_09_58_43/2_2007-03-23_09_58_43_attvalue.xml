@@ -1,0 +1,28 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_13..word_14" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="5" span="word_15..word_16" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="6" span="word_17" attribute="METRO" value="General" />
+  <concept id="7" span="word_18" attribute="ACTION" value="ToBegin" />
+  <concept id="8" span="word_19" attribute="ACTION" value="ToRun" />
+  <concept id="9" span="word_21..word_23" attribute="Q_WHERE" value="TripStartPoint" />
+  <concept id="10" span="word_25..word_27" attribute="SOURCE_STP" value="Metro Wilanowska" />
+  <concept id="11" span="word_28..word_30" attribute="GOAL_DIRECTION_TD" value="Śródmieście" />
+  <concept id="12" span="word_37" attribute="REACTION" value="Confirmation" />
+  <concept id="13" span="word_38..word_39" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="14" span="word_40..word_42" attribute="SOURCE_STP" value="Metro Wilanowska" />
+  <concept id="15" span="word_43..word_45" attribute="GOAL_DIRECTION_TD" value="Śródmieście" />
+  <concept id="16" span="word_46..word_49" attribute="AT_HOUR" value="5 : 02" />
+  <concept id="17" span="word_51" attribute="ACTION" value="ToBe" />
+  <concept id="18" span="word_52..word_53" attribute="DEPARTURE" value="First" />
+  <concept id="19" span="word_56" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="20" span="word_60" attribute="REACTION" value="Confirmation" />
+  <concept id="21" span="word_61" attribute="REACTION" value="Confirmation" />
+  <concept id="22" span="word_62" attribute="ACTION" value="ToBe" />
+  <concept id="23" span="word_64..word_65" attribute="TIMETABLE" value="Metro" />
+  <concept id="24" span="word_66..word_68" attribute="AT_HOUR" value="5 : 02" />
+  <concept id="25" span="word_69" attribute="REACTION" value="Confirmation" />
+  <concept id="26" span="word_71" attribute="REACTION" value="Confirmation" />
+</concepts>

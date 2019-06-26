@@ -1,0 +1,110 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="PERSON_NAME" value="xxx" />
+  <concept id="5" span="word_11" attribute="ACTION" value="ToBe" />
+  <concept id="6" span="word_14..word_17" attribute="BUS" value="127" />
+  <concept id="7" span="word_18" attribute="ACTION" value="Request" />
+  <concept id="8" span="word_19" attribute="ACTION" value="Go" />
+  <concept id="9" span="word_20..word_23" attribute="GOAL_DIRECTION_RS" value="Dworzec Zachodni" />
+  <concept id="10" span="word_24..word_28" attribute="LOCATION_NEAR_TD" value="Stare Miasto" />
+  <concept id="11" span="word_29" attribute="ACTION" value="Request" />
+  <concept id="12" span="word_31" attribute="ACTION" value="ToChange" />
+  <concept id="13" span="word_32..word_37" attribute="Q_WHAT_STP" value="General" />
+  <concept id="14" span="word_38..word_39" attribute="STOP_DESCRIPTION" value="Plac Bankowy" />
+  <concept id="15" span="word_43" attribute="TIME_REL" value="Earlier" />
+  <concept id="16" span="word_45" attribute="TIME_REL" value="Earlier" />
+  <concept id="17" span="word_47" attribute="ACTION" value="Tell" />
+  <concept id="18" span="word_49" attribute="STREET" value="Bonifraterska" />
+  <concept id="19" span="word_50" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="20" span="word_51" attribute="ACTION" value="Go" />
+  <concept id="21" span="word_52" attribute="LOCATION_REL" value="There" />
+  <concept id="22" span="word_54..word_55" attribute="STOP_DESCRIPTION" value="Świętojerska" />
+  <concept id="23" span="word_56..word_58" attribute="LOCATION_STR" value="Świętojerska" />
+  <concept id="24" span="word_59" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="25" span="word_61" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="26" span="word_62..word_63" attribute="STOP_DESCRIPTION" value="Muranowska" />
+  <concept id="27" span="word_64..word_65" attribute="LOCATION_STR" value="Bonifraterska" />
+  <concept id="28" span="word_66" attribute="REACTION" value="Confirmation" />
+  <concept id="29" span="word_67" attribute="REACTION" value="Confirmation" />
+  <concept id="30" span="word_69" attribute="STREET" value="Świętojerska" />
+  <concept id="31" span="word_70" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="32" span="word_71" attribute="TIME_REL" value="Later" />
+  <concept id="33" span="word_72" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="34" span="word_73" attribute="ACTION" value="Go" />
+  <concept id="35" span="word_75" attribute="PATH_STR" value="Andersa" />
+  <concept id="36" span="word_76" attribute="Q_CONF" value="IsIt" />
+  <concept id="37" span="word_80..word_81" attribute="SOURCE_STR" value="Bonifraterska" />
+  <concept id="38" span="word_82" attribute="ACTION" value="ToTurn" />
+  <concept id="39" span="word_83..word_84" attribute="DIRECTION" value="Right" />
+  <concept id="40" span="word_85..word_86" attribute="GOAL_STR" value="Świętojerska" />
+  <concept id="41" span="word_88..word_89" attribute="SOURCE_STR" value="Świętojerska" />
+  <concept id="42" span="word_91..word_92" attribute="DIRECTION" value="Left" />
+  <concept id="43" span="word_93..word_94" attribute="GOAL_STR" value="Andersa" />
+  <concept id="44" span="word_95" attribute="REACTION" value="Confirmation" />
+  <concept id="45" span="word_96" attribute="REACTION" value="Confirmation" />
+  <concept id="46" span="word_102" attribute="TIMETABLE" value="General" />
+  <concept id="47" span="word_105" attribute="ACTION" value="Find" />
+  <concept id="48" span="word_107..word_108" attribute="AFTER_HOUR" value="18 : 00" />
+  <concept id="49" span="word_111..word_112" attribute="SOURCE_STR" value="Świętojerska" />
+  <concept id="50" span="word_113..word_116" attribute="GOAL_DIRECTION_RS" value="Dworzec Zachodni" />
+  <concept id="51" span="word_117..word_118" attribute="AT_HOUR" value="18 : 01" />
+  <concept id="52" span="word_119" attribute="REACTION" value="Confirmation" />
+  <concept id="53" span="word_120" attribute="AT_HOUR_MINPART" value="16" />
+  <concept id="54" span="word_121" attribute="AT_HOUR_MINPART" value="16" />
+  <concept id="55" span="word_122..word_123" attribute="AT_HOUR_MINPART" value="31" />
+  <concept id="56" span="word_124" attribute="REACTION" value="Confirmation" />
+  <concept id="57" span="word_129" attribute="ACTION" value="ToAsk" />
+  <concept id="58" span="word_131" attribute="Q_HOW_TO" value="Reach" />
+  <concept id="59" span="word_132" attribute="ACTION" value="Go" />
+  <concept id="60" span="word_133..word_135" attribute="SOURCE_RS" value="Dworzec Zachodni" />
+  <concept id="61" span="word_136..word_138" attribute="GOAL_TD" value="Stare Miasto" />
+  <concept id="62" span="word_139" attribute="CONNECTION_F" value="Direct" />
+  <concept id="63" span="word_142..word_143" attribute="CONNECTION_F" value="No" />
+  <concept id="64" span="word_144" attribute="REACTION" value="Negation" />
+  <concept id="65" span="word_146" attribute="REACTION" value="Negation" />
+  <concept id="66" span="word_149" attribute="NUM_BUS_PART" value="100" />
+  <concept id="67" span="word_151..word_153" attribute="Q_WHERE" value="LOCATION" />
+  <concept id="68" span="word_154..word_156" attribute="GOAL_TD" value="Stare Miasto" />
+  <concept id="69" span="word_158" attribute="ACTION" value="Request" />
+  <concept id="70" span="word_162..word_163" attribute="GOAL_STR" value="Plac Zamkowy" />
+  <concept id="71" span="word_165..word_166" attribute="GOAL_STR" value="Plac" />
+  <concept id="72" span="word_167" attribute="REACTION" value="Confirmation" />
+  <concept id="73" span="word_168" attribute="REACTION" value="Confirmation" />
+  <concept id="74" span="word_169" attribute="LOCATION_REL" value="There" />
+  <concept id="75" span="word_173" attribute="ACTION" value="Go" />
+  <concept id="76" span="word_174..word_176" attribute="GOAL_STR" value="Plac Zawiszy" />
+  <concept id="77" span="word_179..word_181" attribute="BUS" value="127" />
+  <concept id="78" span="word_182" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="79" span="word_183..word_185" attribute="BUS" value="128" />
+  <concept id="80" span="word_186" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="81" span="word_187..word_188" attribute="BUS" value="130" />
+  <concept id="82" span="word_189" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="83" span="word_190..word_191" attribute="BUS" value="517" />
+  <concept id="84" span="word_193" attribute="LOCATION_REL" value="There" />
+  <concept id="85" span="word_194" attribute="ACTION" value="ToChange" />
+  <concept id="86" span="word_196" attribute="TRSPM_CHANGE" value="TO" />
+  <concept id="87" span="word_197..word_199" attribute="BUS" value="175" />
+  <concept id="88" span="word_200" attribute="NUM_BUS_PART" value="5" />
+  <concept id="89" span="word_201" attribute="REACTION" value="Confirmation" />
+  <concept id="90" span="word_202..word_204" attribute="LOCATION_STR" value="Plac Zawiszy" />
+  <concept id="91" span="word_207" attribute="ACTION" value="ToBe" />
+  <concept id="92" span="word_208..word_209" attribute="STOP_DESCRIPTION" value="Shared" />
+  <concept id="93" span="word_211..word_212" attribute="REACTION" value="Confirmation" />
+  <concept id="94" span="word_215" attribute="REACTION" value="Confirmation" />
+  <concept id="95" span="word_218" attribute="NUMB" value="3" />
+  <concept id="96" span="word_219..word_221" attribute="BUS" value="127" />
+  <concept id="97" span="word_222" attribute="NUM_BUS_PART" value="8" />
+  <concept id="98" span="word_223..word_224" attribute="NUM_BUS_PART" value="130" />
+  <concept id="99" span="word_225..word_227" attribute="BUS" value="134" />
+  <concept id="100" span="word_229..word_230" attribute="BUS" value="517" />
+  <concept id="101" span="word_232" attribute="TIME_REL" value="Later" />
+  <concept id="102" span="word_233..word_235" attribute="BUS" value="175" />
+  <concept id="103" span="word_236" attribute="REACTION" value="Confirmation" />
+  <concept id="104" span="word_238" attribute="REACTION" value="Confirmation" />
+  <concept id="105" span="word_242..word_243" attribute="LOCATION_STR" value="Kapitulna" />
+  <concept id="106" span="word_245" attribute="ACTION" value="GetOut" />
+  <concept id="107" span="word_246" attribute="REACTION" value="Confirmation" />
+  <concept id="108" span="word_249" attribute="REACTION" value="Confirmation" />
+</concepts>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-19_06_39_33" version="5" version_date="070927">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="77.995" topic="to1">
+<Turn startTime="0" endTime="1.56">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.56" endTime="3.366">
+<Sync time="1.56"/>
+dzień dobry xxx w czym mogę
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3.366" endTime="4.008">
+<Sync time="3.366"/>
+<Who nb="1"/>
+pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień
+</Turn>
+<Turn speaker="spk2" startTime="4.008" endTime="26.399">
+<Sync time="4.008"/>
+dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chciałbym zapytać bo 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ od dziewiętnastego jest zmiana trasy tramwajów 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na na Bielany tutaj Marymoncką 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ szóstka i piętnastka jadą inaczej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy ja z Placu Wilsona sto osiemdziesiąt jeden 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ autobusem dojadę do przystanku Bielany 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.399" endTime="27.232">
+<Sync time="26.399"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="27.232" endTime="32.598">
+<Sync time="27.232"/>
+ten 
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy w okolicę przystanku tego na Segiedyńską chciałem się dostać tam 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="32.598" endTime="36.334">
+<Sync time="32.598"/>
+nie nie 
+<Event desc="babble" type="noise" extent="begin"/>
+ nie 
+<Event desc="babble" type="noise" extent="end"/>
+ sto osiemdziesiąt jeden proszę pana to 
+<Event desc="int" type="noise" extent="next"/>
+Marymoncką jedzie
+</Turn>
+<Turn speaker="spk2" startTime="36.334" endTime="39.662">
+<Sync time="36.334"/>
+to Marymoncką Marymoncką 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="39.662" endTime="45.916">
+<Sync time="39.662"/>
+ale to tutaj przystanku Bielany na Marymonckiej nie ma przystanek Bielany to jest na rogu Zjednoczenia i Kasprowicza
+</Turn>
+<Turn speaker="spk2" startTime="45.916" endTime="47.393">
+<Sync time="45.916"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="47.393" endTime="50.11">
+<Sync time="47.393"/>
+to które pan miejsce do na tą Marymonc
+<Event desc="~" type="lexical" extent="begin"/>
+ką
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="50.11" endTime="54.49">
+<Sync time="50.11"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie bo ja mówię że jest 
+<Event desc="babble" type="noise" extent="end"/>
+ taki przystanek Bielany nie zaraz przepraszam
+</Turn>
+<Turn speaker="spk2 spk1" startTime="54.49" endTime="55.401">
+<Sync time="54.49"/>
+<Who nb="1"/>
+raczej 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+szpi
+<Event desc="~" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="55.401" endTime="56.886">
+<Sync time="55.401"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a Lasek Bielański 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="56.886" endTime="58.008">
+<Sync time="56.886"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+ Lasek Bielański
+</Turn>
+<Turn speaker="spk1" startTime="58.008" endTime="60.57">
+<Sync time="58.008"/>
+tak proszę pana dojedzie pan sto osiemdziesiąt jeden
+</Turn>
+<Turn speaker="spk2" startTime="60.57" endTime="62.016">
+<Sync time="60.57"/>
+do Lasku Bielańskiego ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="62.016" endTime="62.46">
+<Sync time="62.016"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="62.46" endTime="65.616">
+<Sync time="62.46"/>
+i to jest w okolicach przystanek tramwajowy i autobusowy są blisko 
+</Turn>
+<Turn speaker="spk1" startTime="65.616" endTime="69.914">
+<Sync time="65.616"/>
+tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ bardzo blisko 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ są obok siebie praktycznie
+</Turn>
+<Turn speaker="spk2" startTime="69.914" endTime="71.084">
+<Sync time="69.914"/>
+dobrze bardzo panu 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="71.084" endTime="72.017">
+<Sync time="71.084"/>
+<Who nb="1"/>
+dziękuję dobrego
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="72.017" endTime="74.257">
+<Sync time="72.017"/>
+dnia życzę do 
+<Event desc="int" type="noise" extent="next"/>
+widzenia
+</Turn>
+<Turn speaker="spk1" startTime="74.257" endTime="75.174">
+<Sync time="74.257"/>
+dziękuję do usłyszenia
+</Turn>
+<Turn startTime="75.174" endTime="77.995">
+<Sync time="75.174"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-16_18_33_11" version="8" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="42.997" topic="to1">
+<Turn startTime="0" endTime="1.219">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.219" endTime="2.943">
+<Sync time="1.219"/>
+dzień dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.943" endTime="11.702">
+<Sync time="2.943"/>
+dzień dobry proszę pana czy pan mi udzieli takiej informacji 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ przystanek przy szpital
+<Event desc="~" type="lexical" extent="begin"/>
+u
+<Event desc="~" type="lexical" extent="end"/>
+ na Niekłańskiej jakie tam autobusy są jaki to jest przystanek w ogóle 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.702" endTime="27.062">
+<Sync time="11.702"/>
+czy najbliższy przystanek Stacja Krwiodawstwa 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ bo bezpośrednio przy samym szpitalu nie ma przystanku 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ Stacja Krwiodawstwa i zatrzymują się tam autobusy sto jedenaście 
+</Turn>
+<Turn speaker="spk2" startTime="27.062" endTime="27.729">
+<Sync time="27.062"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="27.729" endTime="29.05">
+<Sync time="27.729"/>
+sto dwadzieścia trzy
+</Turn>
+<Turn speaker="spk2" startTime="29.05" endTime="29.607">
+<Sync time="29.05"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.607" endTime="30.942">
+<Sync time="29.607"/>
+sto pięćdziesiąt jeden
+</Turn>
+<Turn speaker="spk2" startTime="30.942" endTime="31.678">
+<Sync time="30.942"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.678" endTime="32.772">
+<Sync time="31.678"/>
+pięćset siedem
+</Turn>
+<Turn speaker="spk2" startTime="32.772" endTime="33.487">
+<Sync time="32.772"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="33.487" endTime="34.685">
+<Sync time="33.487"/>
+pięćset dziewięć
+</Turn>
+<Turn speaker="spk2" startTime="34.685" endTime="36.125">
+<Sync time="34.685"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ o pięćset dziewięć też 
+<Event desc="noise" type="noise" extent="end"/>
+ w
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+aśnie się
+</Turn>
+<Turn speaker="spk2 spk1" startTime="36.125" endTime="36.304">
+<Sync time="36.125"/>
+<Who nb="1"/>
+miałam
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="36.304" endTime="39.032">
+<Sync time="36.304"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ zapytać czy pięćset dziewięć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze to dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.032" endTime="40.967">
+<Sync time="39.032"/>
+<Who nb="1"/>
+ panu bardzo do widzenia
+<Who nb="2"/>
+bardzo proszę do usłyszenia
+</Turn>
+<Turn startTime="40.967" endTime="42.997">
+<Sync time="40.967"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

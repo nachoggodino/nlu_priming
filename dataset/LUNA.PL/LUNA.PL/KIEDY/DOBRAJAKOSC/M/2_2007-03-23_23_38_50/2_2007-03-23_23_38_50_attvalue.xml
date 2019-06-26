@@ -1,0 +1,40 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_9" attribute="ACTION" value="Tell" />
+  <concept id="5" span="word_11..word_12" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="6" span="word_13" attribute="ACTION" value="ToBe" />
+  <concept id="7" span="word_14" attribute="BUS" value="General" />
+  <concept id="8" span="word_15..word_18" attribute="BUS" value="125" />
+  <concept id="9" span="word_19..word_21" attribute="LOCATION_STR" value="Plac Zamkowy" />
+  <concept id="10" span="word_24..word_26" attribute="GOAL_DIRECTION_TD" value="Praga" />
+  <concept id="11" span="word_27..word_29" attribute="STOP_DESCRIPTION" value="Stare Miasto" />
+  <concept id="12" span="word_30..word_31" attribute="GOAL_DIRECTION_TOWN" value="Międzylesie" />
+  <concept id="13" span="word_34" attribute="TIME_REL" value="Today" />
+  <concept id="14" span="word_35" attribute="ACTION" value="ToBe" />
+  <concept id="15" span="word_37" attribute="REACTION" value="Confirmation" />
+  <concept id="16" span="word_40" attribute="LOCATION_REL" value="There" />
+  <concept id="17" span="word_42" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="18" span="word_45" attribute="STOP_DESCRIPTION" value="Płowiecka" />
+  <concept id="19" span="word_47" attribute="REACTION" value="Negation" />
+  <concept id="20" span="word_48..word_51" attribute="GOAL_STP" value="Dworzec Wileński" />
+  <concept id="21" span="word_52..word_54" attribute="BUS" value="125" />
+  <concept id="22" span="word_55" attribute="Q_CONF" value="IsIt" />
+  <concept id="23" span="word_57" attribute="REACTION" value="Confirmation" />
+  <concept id="24" span="word_58..word_61" attribute="AT_HOUR" value="23 : 52" />
+  <concept id="25" span="word_63" attribute="ACTION" value="ToBe" />
+  <concept id="26" span="word_64" attribute="DEPARTURE" value="Last" />
+  <concept id="27" span="word_66..word_67" attribute="GOAL_STR" value="Szwedzka" />
+  <concept id="28" span="word_69" attribute="ACTION" value="Return" />
+  <concept id="29" span="word_70..word_75" attribute="STOP_DESCRIPTION" value="LAST Dworzec Wileński" />
+  <concept id="30" span="word_76" attribute="REACTION" value="Confirmation" />
+  <concept id="31" span="word_81" attribute="REACTION" value="Negation" />
+  <concept id="32" span="word_82" attribute="REACTION" value="Negation" />
+  <concept id="33" span="word_83" attribute="ACTION" value="ToBe" />
+  <concept id="34" span="word_84" attribute="REACTION" value="Negation" />
+  <concept id="35" span="word_85" attribute="REACTION" value="Negation" />
+  <concept id="36" span="word_87" attribute="REACTION" value="Confirmation" />
+  <concept id="37" span="word_90..word_91" attribute="CONV_FORM" value="BYE" />
+  <concept id="38" span="word_93..word_94" attribute="CONV_FORM" value="BYE" />
+</concepts>

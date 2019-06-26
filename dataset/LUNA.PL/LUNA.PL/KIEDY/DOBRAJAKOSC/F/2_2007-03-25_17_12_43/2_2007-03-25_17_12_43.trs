@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-25_17_12_43" version="4" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="47.497" topic="to1">
+<Turn startTime="0" endTime="0.807">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.807" endTime="2.549">
+<Sync time="0.807"/>
+xxx dzień dobry 
+</Turn>
+<Turn speaker="spk2" startTime="2.549" endTime="11.241">
+<Sync time="2.549"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry mam pytanie o której będzie autobus siedemset na przystanku Polna w kierunku Warszawy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.241" endTime="21.185">
+<Sync time="11.241"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze już podaję 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ szesnasta szesnaście powinien być 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.185" endTime="23.607">
+<Sync time="21.185"/>
+a przypadkiem nie jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ już siedemnasta 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.607" endTime="27.315">
+<Sync time="23.607"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ och 
+<Event desc="fr" type="language" extent="begin"/>
+pardon
+<Event desc="fr" type="language" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ rzeczywiście 
+<Event desc="babble" type="noise" extent="end"/>
+ siedemnasta trzydzieści sześć
+</Turn>
+<Turn speaker="spk2" startTime="27.315" endTime="29.142">
+<Sync time="27.315"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze siedemnasta trzydzieści sześć a siedemset dwadzieścia cztery 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.142" endTime="37.633">
+<Sync time="29.142"/>
+siedemset dwadzieścia cztery 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ to najbliższy jest dopiero osiemnasta dwadzieścia
+</Turn>
+<Turn speaker="spk2" startTime="37.633" endTime="39.685">
+<Sync time="37.633"/>
+i jeszcze siedemset dziesięć
+</Turn>
+<Turn speaker="spk1" startTime="39.685" endTime="43.627">
+<Sync time="39.685"/>
+siedemset dziesięć
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ siedemnasta dziewiętnaście powinien być
+</Turn>
+<Turn speaker="spk2" startTime="43.627" endTime="44.905">
+<Sync time="43.627"/>
+dziękuję bardzo do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="44.905" endTime="45.446">
+<Sync time="44.905"/>
+do widzenia
+</Turn>
+<Turn startTime="45.446" endTime="47.497">
+<Sync time="45.446"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

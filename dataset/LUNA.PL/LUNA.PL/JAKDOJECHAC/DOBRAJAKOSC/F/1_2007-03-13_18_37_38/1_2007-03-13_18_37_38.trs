@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-13_18_37_38" version="4" version_date="071204">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="75.995" topic="to1">
+<Turn startTime="0" endTime="2.527">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2.527" endTime="3.847">
+<Sync time="2.527"/>
+mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.847" endTime="10.262">
+<Sync time="3.847"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę pana 
+<Event desc="*" type="pronounce" extent="end"/>
+ mój punkt 
+<Event desc="babble" type="noise" extent="begin"/>
+ wyjścia Kabaty mam się dostać na Wilczą sześćdziesiąt sześć 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.262" endTime="11.724">
+<Sync time="10.262"/>
+a skąd chce pani jechać 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="11.724" endTime="19.401">
+<Sync time="11.724"/>
+no wie pan co no jak 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ mieszkam na Kabatach to nie mam no metrem i 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="19.401" endTime="22.531">
+<Sync time="19.401"/>
+proszę pani najprościej będzie metrem do Politechniki 
+</Turn>
+<Turn speaker="spk2" startTime="22.531" endTime="26.634">
+<Sync time="22.531"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.634" endTime="30.586">
+<Sync time="26.634"/>
+i stąd już przejść kawałek do Wilczej 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="30.586" endTime="34.001">
+<Sync time="30.586"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ żadnym żadnym tramwajem 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="34.001" endTime="38.655">
+<Sync time="34.001"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy proszę pani ten numer sześćdziesiąt sześć to jest tak bliżej Emilii Plater już
+</Turn>
+<Turn speaker="spk1 spk2" startTime="38.655" endTime="39.463">
+<Sync time="38.655"/>
+<Who nb="1"/>
+ najlepiej
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="39.463" endTime="45.188">
+<Sync time="39.463"/>
+było po prostu dojść do Placu Politechniki i później ulicą Noakowskiego 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="45.188" endTime="45.609">
+<Sync time="45.188"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.609" endTime="52.691">
+<Sync time="45.609"/>
+tutaj nie będzie z żadnym tramwajem od tramwaju będzie prawie taka sama odległość co tutaj od Metra Politechnika 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="52.691" endTime="61.393">
+<Sync time="52.691"/>
+aha 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i jak wysiadam na 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Metro Politechnika to kieruję się 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w stronę 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ do wyjścia jakiego 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="61.393" endTime="64.715">
+<Sync time="61.393"/>
+w stronę tutaj Centrum to jest to wyjście z przodu 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="64.715" endTime="65.031">
+<Sync time="64.715"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="65.031" endTime="72.475">
+<Sync time="65.031"/>
+tak jak mówię do 
+<Event desc="*" type="pronounce" extent="begin"/>
+Placu
+<Event desc="*" type="pronounce" extent="end"/>
+ Politechniki później Noakowskiego do Emilii Plater i tam zaraz 
+<Event desc="babble" type="noise" extent="begin"/>
+ będzie 
+<Event desc="babble" type="noise" extent="end"/>
+ ulica Wilcza i 
+<Event desc="noise" type="noise" extent="begin"/>
+ i ten numer sześćdziesiąt sześć 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="72.475" endTime="73.601">
+<Sync time="72.475"/>
+
+<Event desc="en" type="language" extent="begin"/>
+ okey 
+<Event desc="en" type="language" extent="end"/>
+ dobrze dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="73.601" endTime="74.632">
+<Sync time="73.601"/>
+bardzo proszę
+</Turn>
+<Turn speaker="spk2" startTime="74.632" endTime="75.142">
+<Sync time="74.632"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="75.142" endTime="75.995">
+<Sync time="75.142"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

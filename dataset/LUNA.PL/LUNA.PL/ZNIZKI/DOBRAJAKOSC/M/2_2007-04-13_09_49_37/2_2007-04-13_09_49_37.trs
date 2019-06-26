@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-13_09_49_37" version="5" version_date="080113">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="77.995" topic="to1">
+<Turn startTime="0" endTime="0.86">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.86" endTime="2.939">
+<Sync time="0.86"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.939" endTime="15.644">
+<Sync time="2.939"/>
+dzień dobry xxx przepraszam pana bardzo mam takie pytanko jakie są 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przepisy dotyczące 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bezpłatnego przejazdu kto może jeździ
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+ bezpłatnie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+środkami
+<Event desc="*" type="pronounce" extent="end"/>
+ lokomocji miejskiej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.644" endTime="20.992">
+<Sync time="15.644"/>
+o to mam panu wszystkie grupy wymienić czy może 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ pan jakieś mi 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ podpowiedź uszczegółowiającą poda
+</Turn>
+<Turn speaker="spk2" startTime="20.992" endTime="23.417">
+<Sync time="20.992"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chodzi mi o to że mam 
+<Event desc="*" type="pronounce" extent="begin"/>
+grupę
+<Event desc="*" type="pronounce" extent="end"/>
+ inwalidzką
+</Turn>
+<Turn speaker="spk1" startTime="23.417" endTime="24.236">
+<Sync time="23.417"/>
+którą 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.236" endTime="25.253">
+<Sync time="24.236"/>
+jedynkę 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.253" endTime="26.835">
+<Sync time="25.253"/>
+to ma pan bezpłatne
+</Turn>
+<Turn speaker="spk2" startTime="26.835" endTime="31.694">
+<Sync time="26.835"/>
+ale wszystkie jedynki bo ja mam wojskową jedynkę ona się 
+<Event desc="*" type="pronounce" extent="begin"/>
+prawdopodobnie
+<Event desc="*" type="pronounce" extent="end"/>
+ różni od zusowskiej
+</Turn>
+<Turn speaker="spk1" startTime="31.694" endTime="40.967">
+<Sync time="31.694"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ nie no 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ jeżeli chodzi o grupy wojskowe to 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wojskowe to mają wszys
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+kie bezpłatne a zusowskie to tylko 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pier
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+sze grupy 
+</Turn>
+<Turn speaker="spk2" startTime="40.967" endTime="45.793">
+<Sync time="40.967"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+jasne
+<Event desc="*" type="pronounce" extent="end"/>
+ rozumie
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+ czy czy ale co na podstawie 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ ważnej 
+<Event desc="noise" type="noise" extent="begin"/>
+ legitymacji 
+<Event desc="noise" type="noise" extent="end"/>
+ tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.793" endTime="54.99">
+<Sync time="45.793"/>
+zaraz powiem 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+a
+<Event desc="*" type="pronounce" extent="end"/>
+ to musiałbym 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ w ustawie szukać ale 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ na pewno 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ na podstawie 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="54.99" endTime="55.659">
+<Sync time="54.99"/>
+<Who nb="1"/>
+legitymacji 
+<Who nb="2"/>
+wystarczy
+</Turn>
+<Turn speaker="spk2" startTime="55.659" endTime="56.225">
+<Sync time="55.659"/>
+legitymacja 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="56.225" endTime="56.678">
+<Sync time="56.225"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="56.678" endTime="58.871">
+<Sync time="56.678"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ wraz z dokumentem 
+<Event desc="babble" type="noise" extent="end"/>
+ tożsamości 
+<Event desc="noise" type="noise" extent="begin"/>
+ oczywiście 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="58.871" endTime="65.523">
+<Sync time="58.871"/>
+ależ oczywiście rozumiem no z tym że że ta legitymacja również jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ ja
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ gdyby dokumentem tożsamości bo jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ ze zdjęciem
+</Turn>
+<Turn speaker="spk1" startTime="65.523" endTime="68.327">
+<Sync time="65.523"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ no to 
+<Event desc="*" type="pronounce" extent="begin"/>
+dobrze
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="68.327" endTime="71.335">
+<Sync time="68.327"/>
+czyli wystarczy pokazać legitymację w której napisana grupa
+</Turn>
+<Turn speaker="spk2 spk1" startTime="71.335" endTime="72.146">
+<Sync time="71.335"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="72.146" endTime="72.307">
+<Sync time="72.146"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="72.307" endTime="73.178">
+<Sync time="72.307"/>
+ślicznie panu dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="73.178" endTime="73.793">
+<Sync time="73.178"/>
+<Who nb="1"/>
+przepraszam za 
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="73.793" endTime="74.699">
+<Sync time="73.793"/>
+kłopot miłego dnia
+</Turn>
+<Turn speaker="spk2 spk1" startTime="74.699" endTime="75.314">
+<Sync time="74.699"/>
+<Who nb="1"/>
+do widzenia
+<Who nb="2"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="75.314" endTime="75.77">
+<Sync time="75.314"/>
+do 
+<Event desc="*" type="pronounce" extent="begin"/>
+usłyszenia
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn startTime="75.77" endTime="77.995">
+<Sync time="75.77"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

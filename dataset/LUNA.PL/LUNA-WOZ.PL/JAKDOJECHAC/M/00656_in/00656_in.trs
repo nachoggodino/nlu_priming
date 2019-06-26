@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00656_in;00656_out" version="2" version_date="080615">
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="171.328" topic="to1">
+<Turn startTime="0" endTime="0.521">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.521" endTime="28.2460780361">
+<Sync time="0.521"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi
+</Turn>
+<Turn speaker="spk1 spk2" startTime="28.2460780361" endTime="29.723">
+<Sync time="28.2460780361"/>
+
+<Sync time="28.369"/>
+<Who nb="1"/>
+zasady przyznawania
+<Who nb="2"/>
+wyszukanie trasy
+</Turn>
+<Turn speaker="spk1" startTime="29.723" endTime="33.725">
+<Sync time="29.723"/>
+zniżek wyszukanie trasy podaj punkt początkowy trasy
+</Turn>
+<Turn speaker="spk2" startTime="33.725" endTime="37.282">
+<Sync time="33.725"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Bonifacego Czerniakowska
+</Turn>
+<Turn speaker="spk1" startTime="37.282" endTime="39.834">
+<Sync time="37.282"/>
+podaj punkt końcowy trasy
+</Turn>
+<Turn speaker="spk2" startTime="39.834" endTime="42.434">
+<Sync time="39.834"/>
+Woronicza przy Telewizji
+</Turn>
+<Turn speaker="spk1" startTime="42.434" endTime="44.532">
+<Sync time="42.434"/>
+łączę z operatorem 
+</Turn>
+<Turn speaker="spk3" startTime="44.532" endTime="169.646">
+<Sync time="44.532"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+
+
+</Turn>
+<Turn startTime="169.646" endTime="171.328">
+<Sync time="169.646"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

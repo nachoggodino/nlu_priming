@@ -1,0 +1,51 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_3..word_4" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_7" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_9" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_10..word_13" attribute="SOURCE_STP" value="Dworzec Centralny" />
+  <concept id="7" span="word_14" attribute="REACTION" value="Confirmation" />
+  <concept id="8" span="word_15..word_16" attribute="DEPARTURE" value="First" />
+  <concept id="9" span="word_17..word_18" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="10" span="word_19" attribute="ACTION" value="Leave" />
+  <concept id="11" span="word_20..word_22" attribute="GOAL_DIRECTION_TD" value="Ochota" />
+  <concept id="12" span="word_23" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="13" span="word_24" attribute="TOWN_DISTRICT" value="Okęcie" />
+  <concept id="14" span="word_26" attribute="STREET" value="Banacha" />
+  <concept id="15" span="word_27" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="16" span="word_28" attribute="TOWN_DISTRICT" value="Okęcie" />
+  <concept id="17" span="word_31" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_34..word_36" attribute="SOURCE_RS" value="Dworzec Centralny" />
+  <concept id="19" span="word_37" attribute="Q_CONF" value="IsIt" />
+  <concept id="20" span="word_39" attribute="REACTION" value="Confirmation" />
+  <concept id="21" span="word_44" attribute="ACTION" value="ToHave" />
+  <concept id="22" span="word_45" attribute="TRAM" value="9" />
+  <concept id="23" span="word_46" attribute="REACTION" value="Confirmation" />
+  <concept id="24" span="word_48" attribute="DEPARTURE" value="First" />
+  <concept id="25" span="word_49" attribute="ACTION" value="ToHave" />
+  <concept id="26" span="word_54" attribute="REACTION" value="Confirmation" />
+  <concept id="27" span="word_55" attribute="ACTION" value="ToHave" />
+  <concept id="28" span="word_56..word_57" attribute="RAILWAY_STATION" value="Dworzec Centralny" />
+  <concept id="29" span="word_60" attribute="DEPARTURE" value="First" />
+  <concept id="30" span="word_61" attribute="ACTION" value="ToBe" />
+  <concept id="31" span="word_62..word_64" attribute="AT_HOUR" value="4 : 52" />
+  <concept id="32" span="word_65..word_67" attribute="AT_HOUR" value="4 : 52" />
+  <concept id="33" span="word_68" attribute="REACTION" value="Confirmation" />
+  <concept id="34" span="word_70" attribute="DEPARTURE" value="Next" />
+  <concept id="35" span="word_71..word_72" attribute="AT_HOUR" value="5 : 12" />
+  <concept id="36" span="word_77..word_79" attribute="TRAM" value="25" />
+  <concept id="37" span="word_80..word_81" attribute="TRAM" value="25" />
+  <concept id="38" span="word_82" attribute="ACTION" value="ToHave" />
+  <concept id="39" span="word_85..word_89" attribute="AT_HOUR" value="4 : 58" />
+  <concept id="40" span="word_91..word_92" attribute="AT_HOUR" value="5 : 18" />
+  <concept id="41" span="word_94" attribute="TRAM" value="7" />
+  <concept id="42" span="word_98" attribute="TRAM" value="7" />
+  <concept id="43" span="word_99" attribute="REACTION" value="Confirmation" />
+  <concept id="44" span="word_102" attribute="REACTION" value="Confirmation" />
+  <concept id="45" span="word_105" attribute="TRAM" value="7" />
+  <concept id="46" span="word_106" attribute="ACTION" value="ToHave" />
+  <concept id="47" span="word_107..word_109" attribute="AT_HOUR" value="5 : 06" />
+  <concept id="48" span="word_114..word_115" attribute="CONV_FORM" value="BYE" />
+  <concept id="49" span="word_117..word_118" attribute="CONV_FORM" value="BYE" />
+</concepts>

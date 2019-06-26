@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-27_15_55_50" version="2" version_date="080418">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="23.499" topic="to1">
+<Turn startTime="0" endTime="0.736">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.736" endTime="2.398">
+<Sync time="0.736"/>
+xxx dzień dobry 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.398" endTime="13.802">
+<Sync time="2.398"/>
+dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja mam takie pytanie chciałabym się dowiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jak jeździ sto jedenaście w stronę Pragi 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy on ma przystanek na 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Kredytowej na Placu Małachowskiego czy na Marszałkowskiej
+</Turn>
+<Turn speaker="spk1" startTime="13.802" endTime="18.756">
+<Sync time="13.802"/>
+sto jedenaście już 
+<Event desc="babble" type="noise" extent="begin"/>
+ sprawdzam sto
+<Event desc="babble" type="noise" extent="end"/>
+ jedenaście ma na Placu Małachowskiego na Kredyto
+<Event desc="~" type="lexical" extent="begin"/>
+wej
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="18.756" endTime="20.64">
+<Sync time="18.756"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ super 
+<Event desc="babble" type="noise" extent="end"/>
+ świetnie dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="20.64" endTime="22.508">
+<Sync time="20.64"/>
+<Who nb="1"/>
+serdecznie do widzenia
+<Who nb="2"/>
+proszę do widzenia
+</Turn>
+<Turn startTime="22.508" endTime="23.499">
+<Sync time="22.508"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

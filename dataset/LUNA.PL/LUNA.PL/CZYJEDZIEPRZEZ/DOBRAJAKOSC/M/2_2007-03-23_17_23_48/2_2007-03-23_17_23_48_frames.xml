@@ -1,0 +1,38 @@
+<Frames>
+  <Set id="1" subset="1" span="word_9" frame="MOTION" head="chodzić">
+    <Frame fe="1" span="word_7" concept_id="3" name="MANNER" />
+    <Frame fe="2" span="word_8" concept_id="4" name="TIME" />
+    <Frame fe="3" span="word_10,word_11..word_13" concept_id="6,7" name="THEME" />
+  </Set>
+  <Set id="2" subset="1" span="word_17" frame="TOPIC" head="interesować">
+    <Frame fe="1" span="word_19" concept_id="10" name="TOPIC" />
+    <Frame fe="2" span="word_21" concept_id="12" name="TOPIC" />
+  </Set>
+  <Set id="3" subset="1" span="word_26" frame="MOTION" head="iść">
+    <Frame fe="1" span="word_24..word_25" concept_id="14" name="PATH" />
+  </Set>
+  <Set id="4" subset="1" span="word_29" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_30..word_32" concept_id="17" name="SOURCE" />
+    <Frame fe="2" span="word_33..word_34" concept_id="18" name="GOAL" />
+  </Set>
+  <Set id="5" subset="2" span="word_36" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_37..word_38" concept_id="20" name="PATH" />
+  </Set>
+  <Set id="6" subset="1" span="word_44" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_41..word_42" concept_id="21" name="PATH" />
+    <Frame fe="2" span="word_45" concept_id="24" name="PATH" />
+    <Frame fe="3" span="word_46" concept_id="25" name="PATH" />
+    <Frame fe="4" span="word_47" concept_id="26" name="PATH" />
+    <Frame fe="5" span="word_48" concept_id="27" name="PATH" />
+  </Set>
+  <Set id="7" subset="1" span="word_56" frame="MOTION" head="iść">
+    <Frame fe="1" span="word_54" concept_id="31" name="PATH" />
+  </Set>
+  <Set id="8" subset="1" span="word_61" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_62" concept_id="36" name="POSITION" />
+  </Set>
+  <Set id="9" subset="1" span="word_83" frame="ARRIVING" head="wjeżdżać">
+    <Frame fe="1" span="word_81..word_82" concept_id="44" name="SOURCE" />
+    <Frame fe="2" span="word_84..word_85" concept_id="46" name="GOAL" />
+  </Set>
+</Frames>

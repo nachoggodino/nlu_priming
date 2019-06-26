@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-13_13_32_20" version="3" version_date="070927">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="42.497" topic="to1">
+<Turn startTime="0" endTime="0.658">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.658" endTime="2.35">
+<Sync time="0.658"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.35" endTime="9.438">
+<Sync time="2.35"/>
+dzień dobry panu moje nazwisko xxx ja dzwonię z taką dosyć nietypową sprawą bo w tej chwili na Woli na ulicy Ciołka jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ przebudowa ulic ulic 
+</Turn>
+<Turn speaker="spk1" startTime="9.438" endTime="10.375">
+<Sync time="9.438"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="10.375" endTime="14.657">
+<Sync time="10.375"/>
+i mam takie pytanie tam przy ulicy Ciołka przy banku zlikwidowano przystanek auto
+<Event desc="~" type="lexical" extent="begin"/>
+busowy
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.657" endTime="16.349">
+<Sync time="14.657"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ chodzi o 
+<Event desc="babble" type="noise" extent="end"/>
+ ten przystanek Brożka 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.349" endTime="17.872">
+<Sync time="16.349"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak chodzi o ten przystanek 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="17.872" endTime="19.111">
+<Sync time="17.872"/>
+<Who nb="1"/>
+Brożka
+<Who nb="2"/>
+on jest przeniesiony
+</Turn>
+<Turn speaker="spk1" startTime="19.111" endTime="24.965">
+<Sync time="19.111"/>
+w jedną stronę jest na ulicy Księcia Janusza na drugiej stronie na Deotymy
+</Turn>
+<Turn speaker="spk2" startTime="24.965" endTime="30.556">
+<Sync time="24.965"/>
+tak tak ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko mi 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ teraz chodzi o to czy po prostu po tym remoncie całym 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ten przystanek będzie na tym samym miejscu 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.556" endTime="36.229">
+<Sync time="30.556"/>
+a to 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ wie pan jeszcze tego 
+<Event desc="babble" type="noise" extent="begin"/>
+ nie 
+<Event desc="babble" type="noise" extent="end"/>
+ wiem najprawdopodobniej tak ale 
+<Event desc="babble" type="noise" extent="begin"/>
+ no musiał
+<Event desc="~" type="lexical" extent="begin"/>
+by
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ się pan dowiadywać
+</Turn>
+<Turn speaker="spk2" startTime="36.229" endTime="39.337">
+<Sync time="36.229"/>
+rozumiem no dobra to tylko chciałem wiedzieć 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.337" endTime="40.564">
+<Sync time="39.337"/>
+<Who nb="1"/>
+dziękuję serdecznie
+<Who nb="2"/>
+proszę bardzo do widzenia
+</Turn>
+<Turn speaker="spk2" startTime="40.564" endTime="41.042">
+<Sync time="40.564"/>
+do widzenia
+</Turn>
+<Turn startTime="41.042" endTime="42.497">
+<Sync time="41.042"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

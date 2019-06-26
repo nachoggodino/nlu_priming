@@ -1,0 +1,21 @@
+<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_11" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="3" span="word_12..word_13" attribute="OPTION" value="DepartureTime" />
+  <concept id="4" span="word_14..word_15" attribute="OPTION" value="Route" />
+  <concept id="5" span="word_16..word_17" attribute="OPTION" value="Complaint" />
+  <concept id="6" span="word_18..word_20" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="7" span="word_21..word_22" attribute="OPTION" value="LostLuggage" />
+  <concept id="8" span="word_23..word_24" attribute="OPTION" value="OtherInformation" />
+  <concept id="9" span="word_25..word_28" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="10" span="word_29..word_30" attribute="OPTION" value="DepartureTime" />
+  <concept id="11" span="word_31..word_32" attribute="OPTION" value="Route" />
+  <concept id="12" span="word_33..word_34" attribute="OPTION" value="Complaint" />
+  <concept id="13" span="word_35..word_36" attribute="OPTION" value="DepartureTime" />
+  <concept id="14" span="word_37..word_38" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="15" span="word_39..word_40" attribute="OPTION" value="DepartureTime" />
+  <concept id="16" span="word_41..word_50" attribute="INFORMATION" value="DEPARTURE_SEARCH" />
+  <concept id="17" span="word_51..word_53" attribute="COMMAND_GIVE" value="LINE_NUMBER" />
+  <concept id="18" span="word_54" attribute="REACTION" value="Negation" />
+  <concept id="19" span="word_56..word_58" attribute="ACTION_PLANNED" value="Connect" />
+</concepts>

@@ -1,0 +1,14 @@
+<Frames>
+  <Set id="1" subset="1" span="word_23" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_21" concept_id="7" name="TIME" />
+    <Frame fe="2" span="word_24" concept_id="9" name="TIME" />
+  </Set>
+  <Set id="2" subset="1" span="word_44" frame="DEPARTING" head="odjeżdżać">
+    <Frame fe="1" span="word_35..word_38" concept_id="12" name="THEME" />
+    <Frame fe="2" span="word_39..word_41" concept_id="13" name="SOURCE" />
+    <Frame fe="3" span="word_42..word_43" concept_id="14" name="TIME" />
+  </Set>
+  <Set id="3" subset="1" span="word_62" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_63..word_64,word_65..word_66" concept_id="23,24" name="GOAL" />
+  </Set>
+</Frames>

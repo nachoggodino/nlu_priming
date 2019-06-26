@@ -1,0 +1,64 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_8..word_9" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_13" attribute="Q_CONF" value="IsIt" />
+  <concept id="5" span="word_15" attribute="REACTION" value="Confirmation" />
+  <concept id="6" span="word_16" attribute="ACTION" value="Concern" />
+  <concept id="7" span="word_19..word_21" attribute="BUS" value="107" />
+  <concept id="8" span="word_26" attribute="ACTION" value="Concern" />
+  <concept id="9" span="word_28" attribute="ACTION" value="Concern" />
+  <concept id="10" span="word_31" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="11" span="word_33" attribute="ACTION" value="ToBe" />
+  <concept id="12" span="word_34..word_37" attribute="LOCATION_STR" value="Aleje Jerozolimskie" />
+  <concept id="13" span="word_40" attribute="PATH_STR" value="Krucza" />
+  <concept id="14" span="word_41" attribute="ACTION" value="ToStart" />
+  <concept id="15" span="word_43" attribute="ACTION" value="ToBe" />
+  <concept id="16" span="word_44..word_45" attribute="LOCATION_STR" value="Krucza" />
+  <concept id="17" span="word_46" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="18" span="word_47..word_49" attribute="LOCATION_BLD" value="Dom Handlowy Smyk" />
+  <concept id="19" span="word_51" attribute="ACTION" value="GoIn" />
+  <concept id="20" span="word_56" attribute="NUMB_SEQ" value="1." />
+  <concept id="21" span="word_57" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="22" span="word_58..word_59" attribute="LOCATION_BEFORE_STR" value="Aleje" />
+  <concept id="23" span="word_60" attribute="REACTION" value="Negation" />
+  <concept id="24" span="word_62" attribute="ACTION" value="ToTurn" />
+  <concept id="25" span="word_63" attribute="TIME_REL" value="Later" />
+  <concept id="26" span="word_64" attribute="TOWN_DISTRICT" value="Centrum" />
+  <concept id="27" span="word_66" attribute="ACTION" value="ToBe" />
+  <concept id="28" span="word_67..word_69" attribute="STOP_DESCRIPTION" value="Dom Handlowy Smyk" />
+  <concept id="29" span="word_71" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="30" span="word_73" attribute="ACTION" value="ToBe" />
+  <concept id="31" span="word_74..word_75" attribute="STOP_DESCRIPTION" value="Krucza" />
+  <concept id="32" span="word_77" attribute="ACTION" value="ToBe" />
+  <concept id="33" span="word_78..word_79" attribute="STOP_DESCRIPTION" value="Hotel Grand" />
+  <concept id="34" span="word_83" attribute="REACTION" value="Negation" />
+  <concept id="35" span="word_85..word_86" attribute="DISTANCE_REL" value="Further" />
+  <concept id="36" span="word_88" attribute="NUMB" value="1" />
+  <concept id="37" span="word_89..word_90" attribute="GOAL_DIRECTION_STR" value="Esperanto" />
+  <concept id="38" span="word_91" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="39" span="word_94..word_96" attribute="GOAL_DIRECTION_STR" value="Esperanto" />
+  <concept id="40" span="word_97..word_98" attribute="LOCATION_REL" value="NextStop" />
+  <concept id="41" span="word_99" attribute="ACTION" value="ToBe" />
+  <concept id="42" span="word_100" attribute="STOP_DESCRIPTION" value="Grand Hotel" />
+  <concept id="43" span="word_102" attribute="TIME_REL" value="Later" />
+  <concept id="44" span="word_103" attribute="ACTION" value="ToBe" />
+  <concept id="45" span="word_104..word_105" attribute="LOCATION_REL" value="NextStop" />
+  <concept id="46" span="word_107" attribute="ACTION" value="ToBe" />
+  <concept id="47" span="word_108..word_109" attribute="STOP_DESCRIPTION" value="Krucza" />
+  <concept id="48" span="word_110" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="49" span="word_111" attribute="NAME" value="Dom" />
+  <concept id="50" span="word_114" attribute="ACTION" value="ToBe" />
+  <concept id="51" span="word_115" attribute="STOP_DESCRIPTION" value="Dom Handlowy Smyk" />
+  <concept id="52" span="word_116" attribute="STOP_DESCRIPTION" value="Dom Handlowy Smyk" />
+  <concept id="53" span="word_117" attribute="REACTION" value="Confirmation" />
+  <concept id="54" span="word_119" attribute="REACTION" value="Confirmation" />
+  <concept id="55" span="word_122" attribute="ACTION" value="Tell" />
+  <concept id="56" span="word_123..word_124" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="57" span="word_125" attribute="TIME_REL" value="Now" />
+  <concept id="58" span="word_128" attribute="ACTION" value="Leave" />
+  <concept id="59" span="word_129..word_131" attribute="GOAL_DIRECTION_STR" value="Esperanto" />
+  <concept id="60" span="word_132" attribute="DEPARTURE" value="Nearest" />
+  <concept id="61" span="word_133" attribute="ACTION" value="ToBe" />
+  <concept id="62" span="word_134..word_139" attribute="AT_HOUR" value="22 : 21" />
+</concepts>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_08_48_33" version="3" version_date="100914">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="25.498" topic="to1">
+<Turn startTime="0" endTime="0.53">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.53" endTime="2.054">
+<Sync time="0.53"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.054" endTime="11.814">
+<Sync time="2.054"/>
+dzień dobry chciałam się dowiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ linię siedemset pięć z Nieporętu do Żerania 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Osiedle La
+<Event desc="~" type="lexical" extent="begin"/>
+s
+<Event desc="~" type="lexical" extent="end"/>
+ o której jest 
+<Event desc="noise" type="noise" extent="begin"/>
+ autobus między dziewiątą 
+<Event desc="noise" type="noise" extent="end"/>
+ a dziesiątą 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.814" endTime="14.498">
+<Sync time="11.814"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ już sprawdzam chwileczkę 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="14.498" endTime="17.855">
+<Sync time="14.498"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+linia
+<Event desc="*" type="pronounce" extent="end"/>
+ siedemset pięć 
+<Event desc="noise" type="noise" extent="end"/>
+ Nieporęt Las
+</Turn>
+<Turn speaker="spk1" startTime="17.855" endTime="19.579">
+<Sync time="17.855"/>
+dziewiąta zero sześć
+</Turn>
+<Turn speaker="spk2" startTime="19.579" endTime="20.584">
+<Sync time="19.579"/>
+a potem następny 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.584" endTime="22.173">
+<Sync time="20.584"/>
+dziesiąta dwadzieścia jeden
+</Turn>
+<Turn speaker="spk2" startTime="22.173" endTime="22.576">
+<Sync time="22.173"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="22.576" endTime="23.549">
+<Sync time="22.576"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="23.549" endTime="24.047">
+<Sync time="23.549"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="24.047" endTime="25.498">
+<Sync time="24.047"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

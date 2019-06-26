@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-12_11_54_57" version="3" version_date="080111">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="31.998" topic="to1">
+<Turn startTime="0" endTime="0.736">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.736" endTime="2.797">
+<Sync time="0.736"/>
+dzień dobry przy telefonie xxx 
+<Event desc="*" type="pronounce" extent="begin"/>
+słucham
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.797" endTime="10.411">
+<Sync time="2.797"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+dzień
+<Event desc="~" type="lexical" extent="end"/>
+ dobry panu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana z Placu Bankowego dojadę na 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Powązki sto osiemdziesiątką 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.411" endTime="20.668">
+<Sync time="10.411"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no nie proszę pana sto osiemdziesiąty jeździ dopiero tutaj Anielewicza ale na Powązki dojedzie pan autobusem z Placu Bankowego sto siedemdziesiąt dokładnie
+</Turn>
+<Turn speaker="spk2" startTime="20.668" endTime="21.58">
+<Sync time="20.668"/>
+sto siedemdziesiąt
+</Turn>
+<Turn speaker="spk1" startTime="21.58" endTime="26.463">
+<Sync time="21.58"/>
+tak dokładnie z Alei Solidarności z Metro Ratusz przystanek sto siedemdziesiąt autobus
+</Turn>
+<Turn speaker="spk2" startTime="26.463" endTime="27.855">
+<Sync time="26.463"/>
+rozumie
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+ dziękuję
+</Turn>
+<Turn speaker="spk1 spk2" startTime="27.855" endTime="28.687">
+<Sync time="27.855"/>
+<Who nb="1"/>
+proszę
+<Who nb="2"/>
+kłaniam się
+</Turn>
+<Turn speaker="spk1" startTime="28.687" endTime="29.37">
+<Sync time="28.687"/>
+do 
+<Event desc="*" type="pronounce" extent="begin"/>
+usłyszenia
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn startTime="29.37" endTime="31.998">
+<Sync time="29.37"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

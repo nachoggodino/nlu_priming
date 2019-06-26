@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_09_36_59" version="6" version_date="071220">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="53.497" topic="to1">
+<Turn startTime="0" endTime="0.812">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.812" endTime="2.847">
+<Sync time="0.812"/>
+dzień dobry xxx w czym mogę pomóc
+</Turn>
+<Turn speaker="spk2" startTime="2.847" endTime="9.759">
+<Sync time="2.847"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry ja chciałam się zapytać interesuje mnie dojazd 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy również pan może mi powiedzieć jak mam dojechać na przykład w dane 
+<Event desc="~" type="lexical" extent="begin"/>
+miejs
+<Event desc="~" type="lexical" extent="end"/>
+ce 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.759" endTime="10.093">
+<Sync time="9.759"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="10.093" endTime="29.646">
+<Sync time="10.093"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ interesuje mnie dojazd do Biblioteki Uniwersytetu Warszawskiego 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i sto dziewięćdziesiąt dwa będę sobie jechała do Świętokrzyskiej i potem chciałam się zapytać w jaki autobus 
+<Event desc="*" type="pronounce" extent="begin"/>
+należy
+<Event desc="*" type="pronounce" extent="end"/>
+ się przesiąść 
+<Event desc="*" type="pronounce" extent="begin"/>
+żeby
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ zjechać w dół i dojechać do biblioteki żeby był wspólny ze sto dziewięćdziesiąt dwa jakiś 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ który zjedzie do 
+<Event desc="*" type="pronounce" extent="begin"/>
+właśnie
+<Event desc="*" type="pronounce" extent="end"/>
+ pod Bibliotekę 
+<Event desc="babble" type="noise" extent="begin"/>
+ Uniwersytetu 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.646" endTime="34.928">
+<Sync time="29.646"/>
+to oczywiście proszę pani najwygodniej będzie się przesiąść przy Metro Świętokrzyska
+</Turn>
+<Turn speaker="spk2" startTime="34.928" endTime="36.619">
+<Sync time="34.928"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.619" endTime="41.699">
+<Sync time="36.619"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bo tam jest wspólny przystanek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i ma pani autobus sto pięćdziesiąt
+</Turn>
+<Turn speaker="spk2" startTime="41.699" endTime="42.318">
+<Sync time="41.699"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="42.318" endTime="46.017">
+<Sync time="42.318"/>
+oraz pięćset sześć do przystanku 
+<Event desc="*" type="pronounce" extent="begin"/>
+Biblioteka
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ BUW czyli
+</Turn>
+<Turn speaker="spk2" startTime="46.017" endTime="48.122">
+<Sync time="46.017"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ aha
+<Event desc="babble" type="noise" extent="end"/>
+ czyli sto pięćdziesiąt i pięćset sześć
+</Turn>
+<Turn speaker="spk2 spk1" startTime="48.122" endTime="48.535">
+<Sync time="48.122"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="48.535" endTime="49.609">
+<Sync time="48.535"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze dziękuję panu
+</Turn>
+<Turn speaker="spk1" startTime="49.609" endTime="50.211">
+<Sync time="49.609"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+proszę bardzo 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="50.211" endTime="50.65">
+<Sync time="50.211"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="50.65" endTime="51.173">
+<Sync time="50.65"/>
+do usłyszenia
+</Turn>
+<Turn startTime="51.173" endTime="53.497">
+<Sync time="51.173"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

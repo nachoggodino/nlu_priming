@@ -1,0 +1,26 @@
+<Frames>
+  <Set id="1" subset="1" span="word_25" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_26..word_27" concept_id="9" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_28..word_29" concept_id="10" name="PRIVILEGE" />
+  </Set>
+  <Set id="2" subset="1" span="word_34" frame="BECOMING" head="ukończyć">
+    <Frame fe="1" span="word_32" concept_id="11" name="ENTITY" />
+    <Frame fe="2" span="word_35..word_37" concept_id="13" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="3" subset="1" span="word_41" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_43..word_44" concept_id="17" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_48..word_49" concept_id="19" name="PRIVILEGE" />
+  </Set>
+  <Set id="4" subset="1" span="word_102" frame="ARRIVING" head="wejść">
+    <Frame fe="1" span="word_94..word_95" concept_id="31" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_106" frame="MOTION_DIRECTIONAL" head="zjechać">
+    <Frame fe="1" span="word_109" concept_id="35" name="CARRIER" />
+  </Set>
+  <Set id="6" subset="1" span="word_113" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_110..word_112" concept_id="36" name="LOCATION" />
+  </Set>
+  <Set id="7" subset="1" span="word_156" frame="STATEMENT" head="powiedzieć">
+    <Frame fe="1" span="word_157" concept_id="53" name="MESSAGE" />
+  </Set>
+</Frames>

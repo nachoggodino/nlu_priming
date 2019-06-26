@@ -1,0 +1,50 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="" />
+  <concept id="3" span="word_4..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_7" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_8" attribute="ACTION" value="ToAsk" />
+  <concept id="6" span="word_10..word_11" attribute="Q_WHAT_TRM" value="Bus" />
+  <concept id="7" span="word_14" attribute="ACTION" value="Get" />
+  <concept id="8" span="word_17..word_19" attribute="ACTION" value="ToAsk" />
+  <concept id="9" span="word_20..word_22" attribute="SOURCE_STR" value="Domaniewska" />
+  <concept id="10" span="word_23..word_25" attribute="GOAL_STR" value="Ciołka" />
+  <concept id="11" span="word_28" attribute="ACTION" value="ToBe" />
+  <concept id="12" span="word_29..word_30" attribute="LOCATION_STR" value="Domaniewska" />
+  <concept id="13" span="word_31" attribute="LOCATION_REL" value="There" />
+  <concept id="14" span="word_32..word_33" attribute="LOCATION_STR" value="Wołoska" />
+  <concept id="15" span="word_37" attribute="DISTANCE_REL" value="Short" />
+  <concept id="16" span="word_38" attribute="DISTANCE_REL" value="Short" />
+  <concept id="17" span="word_39..word_42" attribute="CROSSROADS" value="CROSS  Aleja Niepodległości" />
+  <concept id="18" span="word_43..word_44" attribute="GOAL_STR" value="Ciołka" />
+  <concept id="19" span="word_47" attribute="ACTION" value="GetIn" />
+  <concept id="20" span="word_49..word_51" attribute="BUS" value="174" />
+  <concept id="21" span="word_52" attribute="ACTION" value="Approach" />
+  <concept id="22" span="word_54..word_57" attribute="GOAL_STP" value="Metro Pole Mokotowskie" />
+  <concept id="23" span="word_58" attribute="REACTION" value="Confirmation" />
+  <concept id="24" span="word_60" attribute="TRSPM_CHANGE" value="General" />
+  <concept id="25" span="word_61" attribute="TRSPM_CHANGE" value="TO" />
+  <concept id="26" span="word_62..word_64" attribute="BUS" value="167" />
+  <concept id="27" span="word_66" attribute="TRSPM_CHANGE" value="General" />
+  <concept id="28" span="word_67" attribute="TRSPM_CHANGE" value="TO" />
+  <concept id="29" span="word_68..word_70" attribute="BUS" value="167" />
+  <concept id="30" span="word_72" attribute="NUM_BUS_PART" value="7" />
+  <concept id="31" span="word_78" attribute="REACTION" value="Confirmation" />
+  <concept id="32" span="word_79..word_81" attribute="TIME_REL" value="Now" />
+  <concept id="33" span="word_82" attribute="ACTION" value="ToBe" />
+  <concept id="34" span="word_83" attribute="ROAD_DISTURBANCE" value="Reconstruction" />
+  <concept id="35" span="word_84" attribute="STREET" value="Ciołka" />
+  <concept id="36" span="word_86..word_87" attribute="BUS_REL" value="ThisBus" />
+  <concept id="37" span="word_88" attribute="ACTION" value="Go" />
+  <concept id="38" span="word_89..word_90" attribute="PATH_STR" value="Księcia Janusza" />
+  <concept id="39" span="word_91" attribute="LOCATION_REL" value="Parallel" />
+  <concept id="40" span="word_92..word_93" attribute="GOAL_STR" value="Ciołka" />
+  <concept id="41" span="word_94" attribute="REACTION" value="Confirmation" />
+  <concept id="42" span="word_98" attribute="LOCATION_REL" value="There" />
+  <concept id="43" span="word_99" attribute="DISTANCE_REL" value="Short" />
+  <concept id="44" span="word_100" attribute="ACTION" value="Come" />
+  <concept id="45" span="word_101" attribute="ACTION" value="Come" />
+  <concept id="46" span="word_102" attribute="REACTION" value="Confirmation" />
+  <concept id="47" span="word_104..word_105" attribute="CONV_FORM" value="BYE" />
+  <concept id="48" span="word_108..word_109" attribute="CONV_FORM" value="BYE" />
+</concepts>

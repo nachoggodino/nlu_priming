@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-18_11_05_45" version="2" version_date="080104">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="34.497875" topic="to1">
+<Turn startTime="0" endTime="0.609">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.609" endTime="1.911">
+<Sync time="0.609"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.911" endTime="11.604">
+<Sync time="1.911"/>
+dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana czy autobus sto cztery 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ idzie z Bródna 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w kierunku Nieporętu czy on do giełdy dochodzi 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.604" endTime="11.987">
+<Sync time="11.604"/>
+nie
+</Turn>
+<Turn speaker="spk2" startTime="11.987" endTime="12.575">
+<Sync time="11.987"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+sa
+<Event desc="~" type="lexical" extent="end"/>
+mochodowej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.575" endTime="16.781">
+<Sync time="12.575"/>
+nie teraz jest inna trasa on jeździ z Żerania tylko do Brzezin dojeżdża do Białołę
+<Event desc="~" type="lexical" extent="begin"/>
+ki
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.781" endTime="20.036">
+<Sync time="16.781"/>
+a z Bródna mamy jakiś autobus 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pod giełdę 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.036" endTime="23.14">
+<Sync time="20.036"/>
+trzysta dwadzieścia sześć ale to tylko w dni robocze
+</Turn>
+<Turn speaker="spk2" startTime="23.14" endTime="23.55">
+<Sync time="23.14"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="23.55" endTime="26.43">
+<Sync time="23.55"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a tak 
+<Event desc="babble" type="noise" extent="end"/>
+ to musi pan siedemset pięć od Żerania
+</Turn>
+<Turn speaker="spk2" startTime="26.43" endTime="28.547">
+<Sync time="26.43"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ rozumiem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a nie ma innych 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.547" endTime="29.866">
+<Sync time="28.547"/>
+innego w tym momencie nie ma
+</Turn>
+<Turn speaker="spk2" startTime="29.866" endTime="31.23">
+<Sync time="29.866"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dziękuję bardzo 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.23" endTime="31.871">
+<Sync time="31.23"/>
+dziękuję
+</Turn>
+<Turn startTime="31.871" endTime="34.497875">
+<Sync time="31.871"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

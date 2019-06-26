@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_20_30_39" version="5" version_date="080124">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="44.997" topic="to1">
+<Turn startTime="0" endTime="0.656">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.656" endTime="1.299">
+<Sync time="0.656"/>
+dobry wieczór 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1.299" endTime="2.263">
+<Sync time="1.299"/>
+<Who nb="1"/>
+xxx w czym mogę
+<Who nb="2"/>
+dobry wieczór
+</Turn>
+<Turn speaker="spk1" startTime="2.263" endTime="2.862">
+<Sync time="2.263"/>
+pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.862" endTime="8.616">
+<Sync time="2.862"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana ja chciał dotrzeć z Ronda Radosława na Zachodni 
+<Event desc="noise" type="noise" extent="begin"/>
+ jakoś bezpośredni najszybciej 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="8.616" endTime="11.425">
+<Sync time="8.616"/>
+proszę pana 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ bezpośrednio pan nie dotrze
+</Turn>
+<Turn speaker="spk2" startTime="11.425" endTime="13.024">
+<Sync time="11.425"/>
+bezpośrednio nie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.024" endTime="16.13">
+<Sync time="13.024"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ nie z Rondo Radosława 
+<Event desc="noise" type="noise" extent="end"/>
+ na Zachodni pan nie dotrze bezpośrednio
+</Turn>
+<Turn speaker="spk2" startTime="16.13" endTime="19.118">
+<Sync time="16.13"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Placu Zawiszy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="19.118" endTime="28.532">
+<Sync time="19.118"/>
+no najwygodniej będzie 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ dwadzieścia dwa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dojechać do albo jedynką albo dwadzieścia dwa no to jedynki pan nie ma 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ z Ronda Radosława dwadzieścia dwa do 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Placu Zawiszy
+</Turn>
+<Turn speaker="spk2" startTime="28.532" endTime="31.19">
+<Sync time="28.532"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no to na Powązkowską można przejść
+</Turn>
+<Turn speaker="spk1" startTime="31.19" endTime="34.467">
+<Sync time="31.19"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i potem i potem pięćset 
+<Event desc="babble" type="noise" extent="end"/>
+ siedemnaście albo sto dwadzieścia siedem
+</Turn>
+<Turn speaker="spk2" startTime="34.467" endTime="37.547">
+<Sync time="34.467"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no to dobra tak 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ myślałem ale myślałem że jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ taki 
+<Event desc="*" type="pronounce" extent="begin"/>
+bezpośredni
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.547" endTime="39.157">
+<Sync time="37.547"/>
+nie bezpośredniego połączenia nie ma
+</Turn>
+<Turn speaker="spk2" startTime="39.157" endTime="40.148">
+<Sync time="39.157"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze to 
+<Event desc="*" type="pronounce" extent="begin"/>
+dziękuję
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="40.148" endTime="41.09">
+<Sync time="40.148"/>
+<Who nb="1"/>
+bardzo dobranoc
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="41.09" endTime="41.679">
+<Sync time="41.09"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobranoc 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="41.679" endTime="44.997">
+<Sync time="41.679"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-29_14_55_48" version="2" version_date="070907">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="37.869" topic="to1">
+<Turn startTime="0" endTime="0.887">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.887" endTime="2.919">
+<Sync time="0.887"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień dobry<Event desc="*" type="pronounce" extent="end"/> xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="2.919" endTime="12.111">
+<Sync time="2.919"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry czy móg<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>by mi pan powiedzieć ile kosztuje bilet miesięczny <Event desc="noise" type="noise" extent="end"/> sieciowy ulgowy <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="12.111" endTime="14.716">
+<Sync time="12.111"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> bilet miesię<Event desc="~" type="lexical" extent="begin"/>czny<Event desc="~" type="lexical" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> trzydziestodniowy
+</Turn>
+<Turn speaker="spk2" startTime="14.716" endTime="18.699">
+<Sync time="14.716"/>
+tak <Event desc="noise" type="noise" extent="begin"/> sieciowy <Event desc="noise" type="noise" extent="end"/> <Event desc="silence" type="noise" extent="instantaneous"/> ulgowy
+</Turn>
+<Turn speaker="spk1" startTime="18.699" endTime="20.198">
+<Sync time="18.699"/>
+z ja<Event desc="~" type="lexical" extent="begin"/>ką<Event desc="~" type="lexical" extent="end"/> ulgą <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="20.198" endTime="22.205">
+<Sync time="20.198"/>
+z ulgą dla emerytów
+</Turn>
+<Turn speaker="spk1" startTime="22.205" endTime="28.894">
+<Sync time="22.205"/>
+ <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> bilet trzydziestodniowy sieciowy <Event desc="filler" type="lexical" extent="instantaneous"/> z ulgą czterdzieści osiem procent
+</Turn>
+<Turn speaker="spk2" startTime="28.894" endTime="29.2">
+<Sync time="28.894"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="29.2" endTime="31.552">
+<Sync time="29.2"/>
+kosztuje czterdzieści sześ<Event desc="~" type="lexical" extent="begin"/>ć<Event desc="~" type="lexical" extent="end"/> złotych osiemdziesiąt groszy
+</Turn>
+<Turn speaker="spk2" startTime="31.552" endTime="32.395">
+<Sync time="31.552"/>
+dobrze dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="32.395" endTime="33.224">
+<Sync time="32.395"/>
+<Who nb="1"/>
+panu bardzo
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn startTime="33.224" endTime="37.869">
+<Sync time="33.224"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

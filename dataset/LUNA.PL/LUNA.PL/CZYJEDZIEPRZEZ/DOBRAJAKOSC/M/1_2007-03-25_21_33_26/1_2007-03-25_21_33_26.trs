@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_21_33_26" version="2" version_date="070619">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="52.497" topic="to1">
+<Turn startTime="0" endTime="0.561">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.561" endTime="1.48">
+<Sync time="0.561"/>
+dobry wieczór xxx 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1.48" endTime="2.705">
+<Sync time="1.48"/>
+<Who nb="1"/>
+w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+<Who nb="2"/>
+dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.705" endTime="11.984">
+<Sync time="2.705"/>
+dobry dobry wieczór proszę pana <Event desc="filler" type="lexical" extent="instantaneous"/> do elektrociepłowni na Siekierkach to jaki je<Event desc="~" type="lexical" extent="instantaneous"/> jedzie autobus sto pięćdziesiąt dzie<Event desc="~" type="lexical" extent="begin"/>więć<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="11.984" endTime="15.042">
+<Sync time="11.984"/>
+<Event desc="babble" type="noise" extent="begin"/> sto <Event desc="babble" type="noise" extent="end"/> pięćdziesiąt dziewięć oraz sto sześćdziesiąt dwa tam kończy 
+</Turn>
+<Turn speaker="spk2" startTime="15.042" endTime="18.658">
+<Sync time="15.042"/>
+aha sto sześćdziesiąt dwa to tam kończy
+</Turn>
+<Turn speaker="spk2 spk1" startTime="18.658" endTime="19.139">
+<Sync time="18.658"/>
+<Who nb="1"/>
+bieg
+<Who nb="2"/>
+i sto
+</Turn>
+<Turn speaker="spk1" startTime="19.139" endTime="20.79">
+<Sync time="19.139"/>
+pięćdziesiąt dziewięć również tam kończy
+</Turn>
+<Turn speaker="spk2" startTime="20.79" endTime="26.427">
+<Sync time="20.79"/>
+aha i sto i sto pięćdziesiąt dziewięć też a skąd te au<Event desc="~" type="lexical" extent="instantaneous"/> autobusy jadą <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="26.427" endTime="29.066">
+<Sync time="26.427"/>
+sto pięćdziesiąt dziewięć zaczyna na Kole 
+</Turn>
+<Turn speaker="spk2" startTime="29.066" endTime="29.856">
+<Sync time="29.066"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="29.856" endTime="32.543">
+<Sync time="29.856"/>
+natomiast sto sześćdziesiąt dwa na Targówku
+</Turn>
+<Turn speaker="spk2" startTime="32.543" endTime="37.504">
+<Sync time="32.543"/>
+aha i to je<Event desc="~" type="lexical" extent="instantaneous"/> jeden i dru<Event desc="~" type="lexical" extent="instantaneous"/> dru<Event desc="~" type="lexical" extent="instantaneous"/> i drugi kończy tam bieg
+</Turn>
+<Turn speaker="spk1" startTime="37.504" endTime="38.704">
+<Sync time="37.504"/>
+<Event desc="babble" type="noise" extent="begin"/> tak <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="38.704" endTime="42.444">
+<Sync time="38.704"/>
+aha czyli sto sześćdziesiąt <Event desc="*" type="pronounce" extent="begin"/>dwa<Event desc="*" type="pronounce" extent="end"/> i sto pięćdziesiąt dziewięć
+</Turn>
+<Turn speaker="spk1" startTime="42.444" endTime="43.264">
+<Sync time="42.444"/>
+<Event desc="babble" type="noise" extent="begin"/> zgadza się <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="43.264" endTime="45.637">
+<Sync time="43.264"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> no dobrze to do widzenia i
+</Turn>
+<Turn speaker="spk2 spk1" startTime="45.637" endTime="46.85">
+<Sync time="45.637"/>
+<Who nb="1"/>
+dziękuję
+<Who nb="2"/>
+do usłyszenia
+</Turn>
+<Turn speaker="spk1" startTime="46.85" endTime="47.474">
+<Sync time="46.85"/>
+proszę bardzo
+</Turn>
+<Turn startTime="47.474" endTime="52.497">
+<Sync time="47.474"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

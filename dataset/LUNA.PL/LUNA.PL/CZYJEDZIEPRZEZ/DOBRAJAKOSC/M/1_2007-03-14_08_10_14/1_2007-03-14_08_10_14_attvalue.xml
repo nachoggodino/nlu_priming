@@ -1,0 +1,77 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_11" attribute="ACTION" value="Concern" />
+  <concept id="5" span="word_12..word_14" attribute="BUS" value="115" />
+  <concept id="6" span="word_15" attribute="REACTION" value="Confirmation" />
+  <concept id="7" span="word_16..word_18" attribute="GOAL_DIRECTION_TOWN" value="Warszawa" />
+  <concept id="8" span="word_19..word_21" attribute="SOURCE_STP" value="Czekanowska" />
+  <concept id="9" span="word_22..word_23" attribute="LOCATION_TOWN" value="Falenica" />
+  <concept id="10" span="word_24" attribute="REACTION" value="Confirmation" />
+  <concept id="11" span="word_26..word_28" attribute="Q_WHAT_TIME" value="Trip" />
+  <concept id="12" span="word_37" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="13" span="word_39" attribute="ACTION" value="Approach" />
+  <concept id="14" span="word_40..word_42" attribute="GOAL_STR" value="Plac Szembeka" />
+  <concept id="15" span="word_43" attribute="REACTION" value="Confirmation" />
+  <concept id="16" span="word_44" attribute="ACTION" value="ToBe" />
+  <concept id="17" span="word_45" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="18" span="word_47" attribute="ACTION" value="Know" />
+  <concept id="19" span="word_50" attribute="DIRECTION" value="Opposite" />
+  <concept id="20" span="word_51..word_52" attribute="SOURCE_TOWN" value="Warszawa" />
+  <concept id="21" span="word_53..word_54" attribute="GOAL_TOWN" value="Falenica" />
+  <concept id="22" span="word_55" attribute="ACTION" value="ToBe" />
+  <concept id="23" span="word_56" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="24" span="word_58" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="25" span="word_61" attribute="ACTION" value="ToBe" />
+  <concept id="26" span="word_62" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="27" span="word_63..word_65" attribute="LOCATION_STR" value="Plac Szembeka" />
+  <concept id="28" span="word_66..word_67" attribute="SOURCE_TOWN" value="Falenica" />
+  <concept id="29" span="word_68..word_69" attribute="GOAL_TOWN" value="Warszawa" />
+  <concept id="30" span="word_70..word_71" attribute="REACTION" value="Confirmation" />
+  <concept id="31" span="word_72" attribute="ACTION" value="ToBe" />
+  <concept id="32" span="word_75" attribute="ACTION" value="ToBe" />
+  <concept id="33" span="word_76..word_78" attribute="DIRECTION" value="Both" />
+  <concept id="34" span="word_79" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="35" span="word_80..word_82" attribute="DIRECTION" value="Both" />
+  <concept id="36" span="word_83" attribute="REACTION" value="Confirmation" />
+  <concept id="37" span="word_84" attribute="ACTION" value="Approach" />
+  <concept id="38" span="word_85..word_87" attribute="GOAL_STR" value="Plac Szembeka" />
+  <concept id="39" span="word_88" attribute="ACTION" value="Approach" />
+  <concept id="40" span="word_92" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="41" span="word_93" attribute="ACTION" value="Go" />
+  <concept id="42" span="word_94..word_95" attribute="PATH_STR" value="Ostrobramska" />
+  <concept id="43" span="word_96" attribute="DISTANCE_REL" value="General" />
+  <concept id="44" span="word_101" attribute="REACTION" value="Negation" />
+  <concept id="45" span="word_105" attribute="BUS" value="General" />
+  <concept id="46" span="word_106..word_107" attribute="PATH_STR" value="Grochowska" />
+  <concept id="47" span="word_109" attribute="DISTANCE_REL" value="General" />
+  <concept id="48" span="word_110..word_111" attribute="PATH_STR" value="Ostrobramska" />
+  <concept id="49" span="word_113" attribute="ACTION" value="Approach" />
+  <concept id="50" span="word_121" attribute="LOCATION_REL" value="There" />
+  <concept id="51" span="word_122" attribute="ROAD_DISTURBANCE" value="TraficJam" />
+  <concept id="52" span="word_123" attribute="ACTION" value="ToBe" />
+  <concept id="53" span="word_124..word_126" attribute="TIME_REL" value="Now" />
+  <concept id="54" span="word_128..word_129" attribute="LOCATION_STR" value="Grochowska" />
+  <concept id="55" span="word_133" attribute="ACTION" value="Approach" />
+  <concept id="56" span="word_135..word_136" attribute="REACTION" value="Confirmation" />
+  <concept id="57" span="word_138" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="58" span="word_141" attribute="ACTION" value="GoBack" />
+  <concept id="59" span="word_144" attribute="ACTION" value="Go" />
+  <concept id="60" span="word_146" attribute="ACTION" value="Go" />
+  <concept id="61" span="word_148" attribute="PATH_STR" value="Zamieniecka" />
+  <concept id="62" span="word_149" attribute="ACTION" value="Go" />
+  <concept id="63" span="word_150" attribute="PATH_STR" value="Zamieniecka" />
+  <concept id="64" span="word_151..word_153" attribute="PATH_STP" value="TechRoudeEnd Ostrobramska" />
+  <concept id="65" span="word_154" attribute="TIME_REL" value="Later" />
+  <concept id="66" span="word_155..word_157" attribute="PATH_TD" value="Osiedle Ostrobramska" />
+  <concept id="67" span="word_159" attribute="PATH_STR" value="Łukowska" />
+  <concept id="68" span="word_161" attribute="PATH_STR" value="Zamieniecka" />
+  <concept id="69" span="word_162" attribute="REACTION" value="Confirmation" />
+  <concept id="70" span="word_164..word_166" attribute="GOAL_STR" value="Plac Szembeka" />
+  <concept id="71" span="word_168..word_170" attribute="GOAL_STR" value="Plac Szembeka" />
+  <concept id="72" span="word_171" attribute="REACTION" value="Confirmation" />
+  <concept id="73" span="word_172" attribute="REACTION" value="Confirmation" />
+  <concept id="74" span="word_176..word_177" attribute="CONV_FORM" value="BYE" />
+  <concept id="75" span="word_179..word_180" attribute="CONV_FORM" value="BYE" />
+</concepts>

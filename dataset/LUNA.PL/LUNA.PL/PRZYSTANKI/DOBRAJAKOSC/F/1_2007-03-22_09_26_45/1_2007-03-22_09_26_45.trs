@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-22_09_26_45" version="6" version_date="080226">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="49.497" topic="to1">
+<Turn startTime="0" endTime="0.89">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.89" endTime="2.839">
+<Sync time="0.89"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.839" endTime="6.88">
+<Sync time="2.839"/>
+dzień dobry proszę pana chciałam się dowiedzieć do Szpitala Wolskiego
+</Turn>
+<Turn speaker="spk1" startTime="6.88" endTime="7.29">
+<Sync time="6.88"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="7.29" endTime="13.655">
+<Sync time="7.29"/>
+czy dojadę 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+E
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ dwa lub pięćset dwadzieścia dwa bo tutaj takie mam i tak czy coś kojarzę ale nie jestem
+<Event desc="int" type="noise" extent="previous"/>
+ pewna
+</Turn>
+<Turn speaker="spk1" startTime="13.655" endTime="15.431">
+<Sync time="13.655"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Szpitala Wolskiego tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.431" endTime="17.249">
+<Sync time="15.431"/>
+tak Płockiego Płockiego 
+</Turn>
+<Turn speaker="spk1" startTime="17.249" endTime="19.338">
+<Sync time="17.249"/>
+a tutaj Płocka na Płockiej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="19.338" endTime="20.47">
+<Sync time="19.338"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ na Płocką 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.47" endTime="32.094">
+<Sync time="20.47"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ momencik 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę panią pięćset dwadzieścia dwa to na pewno pani dojedzie to będzie przystanek Płocka Szpital
+</Turn>
+<Turn speaker="spk2" startTime="32.094" endTime="32.583">
+<Sync time="32.094"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="32.583" endTime="39.596">
+<Sync time="32.583"/>
+natomiast 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+E
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ dwa zaraz sprawdzę czy on się będzie tutaj zatrzymywał 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ no niestety nie 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+E
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ dwa nie będzie 
+<Event desc="*" type="pronounce" extent="begin"/>
+się tam
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="39.596" endTime="41.88">
+<Sync time="39.596"/>
+<Who nb="1"/>
+zatrzymywał to tylko pięćset dwadzieścia dwa
+<Who nb="2"/>
+aha czyli pięćset dwadzieścia dwa jeszcze przystanek
+</Turn>
+<Turn speaker="spk2" startTime="41.88" endTime="43.606">
+<Sync time="41.88"/>
+przy 
+<Event desc="*" type="pronounce" extent="begin"/>
+Płockiej
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+Płockiej
+<Event desc="*" type="pronounce" extent="end"/>
+ Szpital
+</Turn>
+<Turn speaker="spk1" startTime="43.606" endTime="45.321">
+<Sync time="43.606"/>
+tak Płocka Szpital tak się przystanek 
+<Event desc="noise" type="noise" extent="begin"/>
+ nazywa 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="45.321" endTime="45.799">
+<Sync time="45.321"/>
+dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="45.799" endTime="47.193">
+<Sync time="45.799"/>
+<Who nb="1"/>
+uprzejmie do widzenia
+<Who nb="2"/>
+proszę bardzo do widzenia
+</Turn>
+<Turn startTime="47.193" endTime="49.497">
+<Sync time="47.193"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

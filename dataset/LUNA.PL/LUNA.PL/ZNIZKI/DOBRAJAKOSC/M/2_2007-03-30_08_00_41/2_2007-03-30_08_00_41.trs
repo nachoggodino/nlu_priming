@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-30_08_00_41" version="5" version_date="080226">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="'" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="28.998" topic="to1">
+<Turn startTime="0" endTime="1.663">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.663" endTime="3.552">
+<Sync time="1.663"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.552" endTime="9.569">
+<Sync time="3.552"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+dzień dobry proszę pana ja z jednym dosłownie pytaniem do jakiego wieku dzieci nie kasują biletu 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.569" endTime="11.824">
+<Sync time="9.569"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do czasu objęcia obowiązkiem szkolnym 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="11.824" endTime="13.482">
+<Sync time="11.824"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ czyli 
+<Event desc="babble" type="noise" extent="end"/>
+ do siedm
+<Event desc="~" type="lexical" extent="begin"/>
+iu 
+<Event desc="~" type="lexical" extent="end"/>
+ do siedmiu lat tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.482" endTime="19.602">
+<Sync time="13.482"/>
+to znaczy do roku kalendarzowego w którym dziecko kończy siedem lat do trzydziestego pierwszego sierpnia
+</Turn>
+<Turn speaker="spk2" startTime="19.602" endTime="22.646">
+<Sync time="19.602"/>
+i to chodzi o całe 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tutaj i 
+<Event desc="*" type="pronounce" extent="begin"/>
+o
+<Event desc="*" type="pronounce" extent="end"/>
+ tramwaje i autobusy
+</Turn>
+<Turn speaker="spk1" startTime="22.646" endTime="24.529">
+<Sync time="22.646"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak tak tak tak 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.529" endTime="25.457">
+<Sync time="24.529"/>
+a 
+<Event desc="en" type="language" extent="begin"/>
+okey 
+<Event desc="en" type="language" extent="end"/>
+ dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="25.457" endTime="25.823">
+<Sync time="25.457"/>
+<Who nb="1"/>
+ślicznie
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="25.823" endTime="26.156">
+<Sync time="25.823"/>
+bardzo
+</Turn>
+<Turn startTime="26.156" endTime="28.998">
+<Sync time="26.156"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

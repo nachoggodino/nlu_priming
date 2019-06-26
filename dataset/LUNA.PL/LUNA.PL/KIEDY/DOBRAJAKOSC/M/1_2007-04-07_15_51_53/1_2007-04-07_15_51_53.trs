@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-07_15_51_53" version="2" version_date="080112">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="40.498" topic="to1">
+<Turn startTime="0" endTime="0.732">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.732" endTime="2.245">
+<Sync time="0.732"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.245" endTime="18.329">
+<Sync time="2.245"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę 
+<Event desc="noise" type="noise" extent="begin"/>
+ pana 
+<Event desc="noise" type="noise" extent="end"/>
+ chcia
+<Event desc="~" type="lexical" extent="begin"/>
+łe
+<Event desc="~" type="lexical" extent="end"/>
+m tutaj prosić o 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ chodzi mi o rozkład jazdy autobusów linia siedemset dziewięć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ konkretnie przystanek Iwiczna w stronę Warszawy w dniu jutrzejszym nie wiem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ około godziny trzeciej
+<Event desc="int" type="noise" extent="previous"/>
+ czwartej w nocy czy są jakieś nocne 
+<Event desc="babble" type="noise" extent="begin"/>
+ li
+<Event desc="~" type="lexical" extent="begin"/>
+nie
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.329" endTime="20.407">
+<Sync time="18.329"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie nocnych 
+<Event desc="babble" type="noise" extent="end"/>
+ kursów nie ma
+</Turn>
+<Turn speaker="spk2" startTime="20.407" endTime="20.944">
+<Sync time="20.407"/>
+nie ma
+</Turn>
+<Turn speaker="spk1 spk2" startTime="20.944" endTime="21.603">
+<Sync time="20.944"/>
+<Who nb="1"/>
+nie ma
+<Who nb="2"/>
+najwcze
+<Event desc="~" type="lexical" extent="begin"/>
+śniejszy
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.603" endTime="23.271">
+<Sync time="21.603"/>
+najwcześniejszy może 
+<Event desc="~" type="lexical" extent="begin"/>
+mi
+<Event desc="~" type="lexical" extent="end"/>
+ pan podać 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.271" endTime="24.688">
+<Sync time="23.271"/>
+najwcześniejszy 
+<Event desc="babble" type="noise" extent="begin"/>
+ dobrze 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.688" endTime="30.749">
+<Sync time="24.688"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.749" endTime="32.32">
+<Sync time="30.749"/>
+czwarta pięćdziesiąt jeden
+</Turn>
+<Turn speaker="spk2" startTime="32.32" endTime="33.565">
+<Sync time="32.32"/>
+czwarta pięćdziesiąt jeden
+</Turn>
+<Turn speaker="spk1" startTime="33.565" endTime="34.027">
+<Sync time="33.565"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="34.027" endTime="35.917">
+<Sync time="34.027"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ dobrze dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="35.917" endTime="36.767">
+<Sync time="35.917"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="36.767" endTime="37.237">
+<Sync time="36.767"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.237" endTime="37.985">
+<Sync time="37.237"/>
+do widzenia
+</Turn>
+<Turn startTime="37.985" endTime="40.498">
+<Sync time="37.985"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

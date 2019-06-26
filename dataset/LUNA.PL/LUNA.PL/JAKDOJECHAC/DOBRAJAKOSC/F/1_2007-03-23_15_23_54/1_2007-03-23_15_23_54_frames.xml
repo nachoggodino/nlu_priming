@@ -1,0 +1,55 @@
+<Frames>
+  <Set id="1" subset="1" span="word_17" frame="GET" head="dostać">
+    <Frame fe="1" span="word_12..word_14,word_15..word_16" concept_id="5,6" name="SOURCE" />
+    <Frame fe="2" span="word_21..word_23" concept_id="8" name="GOAL" />
+  </Set>
+  <Set id="2" subset="2" span="word_33" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_32" concept_id="13" name="PLACE" />
+    <Frame fe="2" span="word_34..word_35" concept_id="15" name="ENTITY" />
+  </Set>
+  <Set id="3" subset="1" span="word_43" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_45" concept_id="21" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_46" frame="BOARD_VEHICLE" head="wsiąść">
+    <Frame fe="1" span="word_49..word_50" concept_id="23" name="SOURCE" />
+    <Frame fe="2" span="word_52..word_54" concept_id="24" name="VEHICLE" />
+  </Set>
+  <Set id="5" subset="1" span="word_82" frame="CAUSE_CHANGE" head="przesiąść">
+    <Frame fe="1" span="word_78..word_81" concept_id="35" name="PLACE" />
+    <Frame fe="2" span="word_85,word_86..word_89" concept_id="37,38" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="6" subset="1" span="word_92" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_93..word_95" concept_id="41" name="GOAL" />
+  </Set>
+  <Set id="7" subset="3" span="word_97" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_98..word_100" concept_id="43" name="ENTITY" />
+  </Set>
+  <Set id="8" subset="1" span="word_112" frame="SELF_MOTION" head="przejść">
+    <Frame fe="1" span="word_108..word_110" concept_id="46" name="SOURCE" />
+    <Frame fe="2" span="word_113..word_116" concept_id="48" name="GOAL" />
+  </Set>
+  <Set id="9" subset="1" span="word_126" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_124" concept_id="51" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_127" concept_id="53" name="PHENOMENON" />
+  </Set>
+  <Set id="10" subset="1" span="word_142" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_143..word_144" concept_id="58" name="ENTITY" />
+  </Set>
+  <Set id="11" subset="1" span="word_153" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_156..word_158" concept_id="61" name="GOAL" />
+  </Set>
+  <Set id="12" subset="1" span="word_176" frame="DEPARTING" head="ruszyć">
+    <Frame fe="1" span="word_177..word_178" concept_id="64" name="SOURCE" />
+  </Set>
+  <Set id="13" subset="3" span="word_196" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_194..word_195" concept_id="70" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_197" concept_id="72" name="PHENOMENON" />
+  </Set>
+  <Set id="14" subset="1" span="word_205" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_206" concept_id="77" name="DISTANCE" />
+  </Set>
+  <Set id="15" subset="1" span="word_215" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_211..word_212" concept_id="79" name="PHENOMENON" />
+    <Frame fe="2" span="word_216..word_218,word_219..word_220" concept_id="81,82" name="CHARACTERIZATION" />
+  </Set>
+</Frames>

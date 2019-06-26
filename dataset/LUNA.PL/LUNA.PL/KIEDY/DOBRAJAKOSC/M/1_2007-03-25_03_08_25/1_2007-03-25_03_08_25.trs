@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_03_08_25" version="5" version_date="100912">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="31.998" topic="to1">
+<Turn startTime="0" endTime="0.536">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.536" endTime="2.6">
+<Sync time="0.536"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dobry wieczór
+<Event desc="*" type="pronounce" extent="end"/>
+ xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.6" endTime="8.921">
+<Sync time="2.6"/>
+dobry wieczór poproszę o rozk
+<Event desc="~" type="lexical" extent="begin"/>
+ład
+<Event desc="~" type="lexical" extent="end"/>
+ o pierwszy odjazd autobusu sie
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ numer siedemset dwadzieścia trzy
+</Turn>
+<Turn speaker="spk1" startTime="8.921" endTime="12.515">
+<Sync time="8.921"/>
+tak z Legionowa w kierunku Warszawy przystanek Trzeciego Maja
+</Turn>
+<Turn speaker="spk1" startTime="12.515" endTime="19.3">
+<Sync time="12.515"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przystanek Trzeciego Maja proszę bardzo 
+<Event desc="noise" type="noise" extent="begin"/>
+ już 
+<Event desc="noise" type="noise" extent="end"/>
+ podaję 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana już chwileczkę 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="19.3" endTime="21.021">
+<Sync time="19.3"/>
+jest 
+<Event desc="*" type="pronounce" extent="begin"/>
+niedziela
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="21.021" endTime="25.088">
+<Sync time="21.021"/>
+tak rozkład niedzielny to mamy tak czwarta trzydzieści sześć 
+</Turn>
+<Turn speaker="spk2" startTime="25.088" endTime="25.922">
+<Sync time="25.088"/>
+to jest pierwszy tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.922" endTime="27.068">
+<Sync time="25.922"/>
+pierwszy
+</Turn>
+<Turn speaker="spk2" startTime="27.068" endTime="28.057">
+<Sync time="27.068"/>
+to już chyba dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="28.057" endTime="28.748">
+<Sync time="28.057"/>
+dziękuję panu 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="28.748" endTime="29.437">
+<Sync time="28.748"/>
+<Who nb="1"/>
+uprzejmie
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="29.437" endTime="30.6">
+<Sync time="29.437"/>
+do usłyszenia dziękuję
+</Turn>
+<Turn startTime="30.6" endTime="31.998">
+<Sync time="30.6"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

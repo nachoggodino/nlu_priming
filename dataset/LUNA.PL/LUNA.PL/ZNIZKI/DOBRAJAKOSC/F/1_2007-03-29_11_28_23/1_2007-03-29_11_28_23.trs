@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-29_11_28_23" version="3" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="'" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="38.498" topic="to1">
+<Turn startTime="0" endTime="0.716">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.716" endTime="2.59">
+<Sync time="0.716"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.59" endTime="14.232">
+<Sync time="2.59"/>
+dzień dobry proszę pana chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ła
+<Event desc="~" type="lexical" extent="end"/>
+m zapytać czy w Warszawie za przejazd 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ autobusem wszystkie osoby mają po siedemdziesiątym roku życia 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jakby nie płacą za bilet 
+<Event desc="babble" type="noise" extent="begin"/>
+ czy tylko 
+<Event desc="babble" type="noise" extent="end"/>
+ mieszkańcy Warsza
+<Event desc="~" type="lexical" extent="begin"/>
+wy
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.232" endTime="22.019">
+<Sync time="14.232"/>
+nie 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę panią
+<Event desc="*" type="pronounce" extent="end"/>
+ to tutaj bez względu na adres zamieszkania i nawet na narodowość 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ osoby które ukończyły siedemdziesiąty rok życia na podstawie dokumentu tożsamości mają bezpła
+<Event desc="~" type="lexical" extent="begin"/>
+tny
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="22.019" endTime="22.541">
+<Sync time="22.019"/>
+<Who nb="1"/>
+przejazd
+<Who nb="2"/>
+i to samo
+</Turn>
+<Turn speaker="spk2" startTime="22.541" endTime="26.411">
+<Sync time="22.541"/>
+dotyczy emerytów którzy mają zniżkę to też 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jakby wszyscy emeryci 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.411" endTime="32.038">
+<Sync time="26.411"/>
+to znaczy jeżeli chodzi o emerytów to tylko 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ci emeryci którzy pobierają 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ emeryturę z ZUSu bądź innych organów
+</Turn>
+<Turn speaker="spk1 spk2" startTime="32.038" endTime="32.99">
+<Sync time="32.038"/>
+<Who nb="1"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ polskich
+<Who nb="2"/>
+ale nie muszą mieszkać
+</Turn>
+<Turn speaker="spk2" startTime="32.99" endTime="33.49">
+<Sync time="32.99"/>
+w Warszawie
+</Turn>
+<Turn speaker="spk1" startTime="33.49" endTime="34.305">
+<Sync time="33.49"/>
+nie muszą mieszkać
+</Turn>
+<Turn speaker="spk3" startTime="34.305" endTime="35.061">
+<Sync time="34.305"/>
+dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="35.061" endTime="35.284">
+<Sync time="35.061"/>
+proszę 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="35.284" endTime="35.997">
+<Sync time="35.284"/>
+<Who nb="1"/>
+bardzo do
+<Who nb="2"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="35.997" endTime="36.386">
+<Sync time="35.997"/>
+widzenia
+</Turn>
+<Turn startTime="36.386" endTime="38.498">
+<Sync time="36.386"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

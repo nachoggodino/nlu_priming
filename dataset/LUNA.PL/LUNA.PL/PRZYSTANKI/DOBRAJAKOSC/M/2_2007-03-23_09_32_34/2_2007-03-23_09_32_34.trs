@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_09_32_34" version="4" version_date="070927">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="16.999" topic="to1">
+<Turn startTime="0" endTime="0.834">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.834" endTime="2.802">
+<Sync time="0.834"/>
+xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.802" endTime="9.074">
+<Sync time="2.802"/>
+dzień dobry ja chciałem się tylko zapytać czy autobus sto dwa to zatrzymuje się przy tym szpitalu na 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ na 
+<Event desc="*" type="pronounce" extent="begin"/>
+Szaserów
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.074" endTime="10.644">
+<Sync time="9.074"/>
+tak ma przystanek Szpital MON
+
+</Turn>
+<Turn speaker="spk2" startTime="10.644" endTime="12.151">
+<Sync time="10.644"/>
+a to on jedzie tamtędy tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.151" endTime="12.878">
+<Sync time="12.151"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="12.878" endTime="13.618">
+<Sync time="12.878"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dziękuję 
+<Event desc="babble" type="noise" extent="begin"/>
+ bardzo 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="13.618" endTime="14.648">
+<Sync time="13.618"/>
+<Who nb="1"/>
+do widzenia
+<Who nb="2"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ do usłyszenia
+</Turn>
+<Turn startTime="14.648" endTime="16.999">
+<Sync time="14.648"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

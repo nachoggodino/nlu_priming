@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-05_10_52_24" version="4" version_date="071001">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="49.497" topic="to1">
+<Turn startTime="0" endTime="1.147">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.147" endTime="3.376">
+<Sync time="1.147"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry xxx w czym mogę <Event desc="babble" type="noise" extent="begin"/> pomóc <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.376" endTime="15.412">
+<Sync time="3.376"/>
+<Event desc="~" type="lexical" extent="begin"/>dzień<Event desc="~" type="lexical" extent="end"/> dobry <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pana jak osoba kończy siedemdziesiąt lat <Event desc="silence" type="noise" extent="instantaneous"/> no bo teraz za parę <Event desc="noise" type="noise" extent="begin"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> piętnastego czy szesnastego nie <Event desc="~" type="lexical" extent="begin"/>wie<Event desc="~" type="lexical" extent="end"/>m dokładnie <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/> czy jak to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> potem z tymi <Event desc="babble" type="noise" extent="begin"/> biletami <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="15.412" endTime="24.338">
+<Sync time="15.412"/>
+<Event desc="~" type="lexical" extent="begin"/>z<Event desc="~" type="lexical" extent="end"/>naczy osoby powyżej <Event desc="*" type="pronounce" extent="begin"/>siedemdziesiątego<Event desc="*" type="pronounce" extent="end"/> roku życia <Event desc="babble" type="noise" extent="begin"/> mają <Event desc="babble" type="noise" extent="end"/> prawo do przejazdów bezpłatnych <Event desc="*" type="pronounce" extent="begin"/>czyli<Event desc="*" type="pronounce" extent="end"/> taka osoba<Event desc="int" type="noise" extent="previous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> ukończy siedemdziesiąt <Event desc="babble" type="noise" extent="begin"/> lat <Event desc="babble" type="noise" extent="end"/> kończy <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="begin"/> i od <Event desc="babble" type="noise" extent="end"/> tego dnia ma prawo do przejazdów 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="24.338" endTime="25.13">
+<Sync time="24.338"/>
+<Who nb="1"/>
+aha a
+<Who nb="2"/>
+bezpłatnych
+</Turn>
+<Turn speaker="spk2" startTime="25.13" endTime="26.802">
+<Sync time="25.13"/>
+czy musi jakieś legitymacje czy coś <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="26.802" endTime="33.305">
+<Sync time="26.802"/>
+<Event desc="babble" type="noise" extent="begin"/> nie proszę pani <Event desc="babble" type="noise" extent="end"/> wystarczy <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> posiadała przy sobie dowód osobisty <Event desc="babble" type="noise" extent="begin"/> bądź <Event desc="babble" type="noise" extent="end"/> inny dokument ze <Event desc="babble" type="noise" extent="begin"/> zdjęciem <Event desc="babble" type="noise" extent="end"/> potwierdzający wiek
+</Turn>
+<Turn speaker="spk2" startTime="33.305" endTime="36.03">
+<Sync time="33.305"/>
+i to wystarczy nie będzie miała żadnych nieprzyjemności nie <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="36.03" endTime="39.877">
+<Sync time="36.03"/>
+w komunikacji miejskiej tutaj <Event desc="babble" type="noise" extent="begin"/> <Event desc="*" type="pronounce" extent="begin"/>organizowanej<Event desc="*" type="pronounce" extent="end"/> <Event desc="babble" type="noise" extent="end"/> przez <Event desc="SPELLED" type="pronounce" extent="begin"/>Z T M<Event desc="SPELLED" type="pronounce" extent="end"/> to <Event desc="*" type="pronounce" extent="begin"/>wystarczy<Event desc="*" type="pronounce" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="39.877" endTime="41.047">
+<Sync time="39.877"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="41.047" endTime="41.404">
+<Sync time="41.047"/>
+<Who nb="1"/>
+ <Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+<Who nb="2"/>
+ <Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="41.404" endTime="42.86">
+<Sync time="41.404"/>
+<Event desc="babble" type="noise" extent="instantaneous"/> skończy siedemdziesiąt lat tak <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="42.86" endTime="43.614">
+<Sync time="42.86"/>
+jak skończy 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="43.614" endTime="43.912">
+<Sync time="43.614"/>
+<Who nb="1"/>
+siedemdziesiąt 
+<Who nb="2"/>
+to już
+</Turn>
+<Turn speaker="spk2" startTime="43.912" endTime="46.136">
+<Sync time="43.912"/>
+<Event desc="babble" type="noise" extent="begin"/> później <Event desc="babble" type="noise" extent="end"/> może <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> aha dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="46.136" endTime="46.684">
+<Sync time="46.136"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+bardzo
+</Turn>
+<Turn speaker="spk1" startTime="46.684" endTime="47.919">
+<Sync time="46.684"/>
+proszę <Event desc="noise" type="noise" extent="begin"/> do usłyszenia <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="47.919" endTime="49.497">
+<Sync time="47.919"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

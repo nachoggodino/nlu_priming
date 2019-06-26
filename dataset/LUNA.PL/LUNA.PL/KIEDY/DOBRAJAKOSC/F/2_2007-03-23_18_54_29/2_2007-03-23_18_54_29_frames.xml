@@ -1,0 +1,11 @@
+<Frames>
+  <Set id="1" subset="1" span="word_9" frame="TOPIC" head="interesować">
+    <Frame fe="1" span="word_11..word_14,word_15..word_17" concept_id="5,6" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="2" span="word_32" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_28..word_30,word_31" concept_id="11,12" name="GOAL" />
+  </Set>
+  <Set id="3" subset="2" span="word_36" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_34..word_35" concept_id="15" name="GOAL" />
+  </Set>
+</Frames>

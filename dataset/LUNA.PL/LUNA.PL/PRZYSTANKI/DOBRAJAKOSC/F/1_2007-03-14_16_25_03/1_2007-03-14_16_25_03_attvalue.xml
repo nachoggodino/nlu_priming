@@ -1,0 +1,54 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_7" attribute="ACTION" value="Request" />
+  <concept id="4" span="word_9" attribute="ACTION" value="ToAsk" />
+  <concept id="5" span="word_10" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="6" span="word_13" attribute="TRAM" value="General" />
+  <concept id="7" span="word_14" attribute="ACTION" value="Go" />
+  <concept id="8" span="word_15..word_17" attribute="GOAL_DIRECTION_TD" value="Praga" />
+  <concept id="9" span="word_18" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="10" span="word_19..word_20" attribute="STOP_DESCRIPTION" value="RelThatOne" />
+  <concept id="11" span="word_21..word_22" attribute="LOCATION_STR" value="Solec" />
+  <concept id="12" span="word_23..word_24" attribute="ACTION" value="ToFunction" />
+  <concept id="13" span="word_26" attribute="LOCATION_REL" value="There" />
+  <concept id="14" span="word_28" attribute="ACTION" value="ToBe" />
+  <concept id="15" span="word_29" attribute="ROAD_DISTURBANCE" value="Reconstruction" />
+  <concept id="16" span="word_33" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="17" span="word_34" attribute="LOCATION_REL" value="There" />
+  <concept id="18" span="word_36" attribute="ACTION" value="GoDown" />
+  <concept id="19" span="word_37..word_38" attribute="DIRECTION" value="Downwards" />
+  <concept id="20" span="word_41..word_43" attribute="Q_WHAT_STP" value="General" />
+  <concept id="21" span="word_44" attribute="ACTION" value="Tell" />
+  <concept id="22" span="word_46..word_48" attribute="LOCATION_STR" value="Aleje Jerozolimskie" />
+  <concept id="23" span="word_49..word_50" attribute="LOCATION_NEAR_STR" value="Solec" />
+  <concept id="24" span="word_51" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="25" span="word_52" attribute="REACTION" value="Confirmation" />
+  <concept id="26" span="word_53..word_54" attribute="ACTION" value="ToFunction" />
+  <concept id="27" span="word_55" attribute="LOCATION_REL" value="There" />
+  <concept id="28" span="word_57..word_59" attribute="LOCATION_STR" value="Most Poniatowskiego" />
+  <concept id="29" span="word_60" attribute="REACTION" value="Confirmation" />
+  <concept id="30" span="word_65" attribute="REACTION" value="Confirmation" />
+  <concept id="31" span="word_66..word_67" attribute="ACTION" value="ToFunction" />
+  <concept id="32" span="word_76" attribute="REACTION" value="Negation" />
+  <concept id="33" span="word_79" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="34" span="word_81" attribute="ACTION" value="ToFunction" />
+  <concept id="35" span="word_83" attribute="LOCATION_REL" value="There" />
+  <concept id="36" span="word_85" attribute="ROAD_DISTURBANCE" value="Reconstruction" />
+  <concept id="37" span="word_86" attribute="ACTION" value="ToBe" />
+  <concept id="38" span="word_92..word_93" attribute="ACTION" value="ToFunction" />
+  <concept id="39" span="word_97" attribute="REACTION" value="Negation" />
+  <concept id="40" span="word_98" attribute="ACTION" value="ToBe" />
+  <concept id="41" span="word_99" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="42" span="word_102" attribute="REACTION" value="Confirmation" />
+  <concept id="43" span="word_105" attribute="ACTION" value="GoDown" />
+  <concept id="44" span="word_106..word_107" attribute="DIRECTION" value="Downwards" />
+  <concept id="45" span="word_108..word_109" attribute="GOAL_STR" value="Solec" />
+  <concept id="46" span="word_114" attribute="ACTION" value="Tell" />
+  <concept id="47" span="word_119..word_120" attribute="ROAD_DISTURBANCE" value="Reconstruction" />
+  <concept id="48" span="word_122" attribute="REACTION" value="Negation" />
+  <concept id="49" span="word_124" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="50" span="word_125" attribute="ACTION" value="ToFunction" />
+  <concept id="51" span="word_128" attribute="STOP_DESCRIPTION" value="BusStop" />
+  <concept id="52" span="word_130" attribute="STOP_DESCRIPTION" value="BusStop" />
+</concepts>

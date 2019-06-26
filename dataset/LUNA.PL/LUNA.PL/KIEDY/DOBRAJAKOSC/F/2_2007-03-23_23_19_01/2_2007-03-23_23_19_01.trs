@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_19_23_14" version="7" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="87.495" topic="to1">
+<Turn startTime="0" endTime="2.095">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2.095" endTime="4.645">
+<Sync time="2.095"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobry wieczór xxx słucham 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="4.645" endTime="22.166">
+<Sync time="4.645"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobry wieczór 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chciałam się zapytać o autobus sto siedemdziesiąt dwa w stronę Dworca Zachodniego z Sadyby 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z przystanku kurczę ja nie wiem jak się ten przystanek nazywa to jest przy Metrze Racławicka jakoś dwa najbliższe jeżeli jeszcze jeżdżą albo jeden
+</Turn>
+<Turn speaker="spk1" startTime="22.166" endTime="28.695">
+<Sync time="22.166"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pani sto siedemdziesiąt dwa 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ skrzyżowanie Odyńca
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="28.695" endTime="31.912">
+<Sync time="28.695"/>
+ tak tak tak tak Odyńca chyba 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.912" endTime="38.587">
+<Sync time="31.912"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ Niepodległości to jest przystanek Odyńca 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="38.587" endTime="40.59">
+<Sync time="38.587"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+jeździ
+<Event desc="*" type="pronounce" extent="end"/>
+ jeszcze w ogóle 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.59" endTime="44.726">
+<Sync time="40.59"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak z tym że będą to już zjazdy na zajezdnię 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="44.726" endTime="45.07">
+<Sync time="44.726"/>
+czyli 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.07" endTime="47.826">
+<Sync time="45.07"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+wi
+<Event desc="~" type="lexical" extent="end"/>
+ęc tylko do do przystanku Wołoska czyli do 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="47.826" endTime="49.6">
+<Sync time="47.826"/>
+<Who nb="1"/>
+do skrzyżowania Wo
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ Wołoskiej
+<Who nb="2"/>
+a nie to nie to nie
+</Turn>
+<Turn speaker="spk2" startTime="49.6" endTime="51.676">
+<Sync time="49.6"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to nic 
+<Event desc="noise" type="noise" extent="end"/>
+ to nic to dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="51.676" endTime="52.096">
+<Sync time="51.676"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="52.096" endTime="52.541">
+<Sync time="52.096"/>
+bardzo
+</Turn>
+<Turn speaker="spk2" startTime="52.541" endTime="52.979">
+<Sync time="52.541"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="52.979" endTime="53.562">
+<Sync time="52.979"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do usłyszenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="53.562" endTime="87.495">
+<Sync time="53.562"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

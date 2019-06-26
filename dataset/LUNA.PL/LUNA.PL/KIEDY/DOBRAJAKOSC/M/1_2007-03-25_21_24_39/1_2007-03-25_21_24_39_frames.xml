@@ -1,0 +1,25 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="TOPIC" head="interesować">
+    <Frame fe="1" span="word_15..word_17" concept_id="5" name="TOPIC" />
+    <Frame fe="2" span="word_18..word_21,word_22..word_24" concept_id="6,7" name="EXPLANATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_27" frame="MOTION" head="kursować">
+    <Frame fe="1" span="word_28" concept_id="10" name="TIME" />
+  </Set>
+  <Set id="3" subset="1" span="word_38" frame="DEPARTING" head="być">
+    <Frame fe="1" span="word_32..word_37" concept_id="11" name="TIME" />
+    <Frame fe="2" span="word_42..word_43" concept_id="14" name="GOAL" />
+  </Set>
+  <Set id="4" subset="1" span="word_53" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_55" concept_id="19" name="PLACE" />
+  </Set>
+  <Set id="5" subset="1" span="word_59" frame="MOTION" head="kursować">
+    <Frame fe="1" span="word_56..word_57" concept_id="20" name="THEME" />
+    <Frame fe="2" span="word_58" concept_id="21" name="TIME" />
+    <Frame fe="3" span="word_60" concept_id="23" name="THEME" />
+  </Set>
+  <Set id="6" subset="1" span="word_65" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_64" concept_id="26" name="THEME" />
+    <Frame fe="2" span="word_66..word_70" concept_id="28" name="TIME" />
+  </Set>
+</Frames>

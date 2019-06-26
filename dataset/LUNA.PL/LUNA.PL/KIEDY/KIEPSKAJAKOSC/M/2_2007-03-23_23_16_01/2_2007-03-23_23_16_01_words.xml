@@ -1,0 +1,46 @@
+<words>
+  <word id="1" word="dobry" lemma="dobry" POS="ADJc" morph="nom.sg.masc" />
+  <word id="2" word="wieczór" lemma="wieczór" POS="Nc" morph="nom.sg.m3" />
+  <word id="3" word="xxx" lemma="xxx" POS="Np" morph="case.number.gender" />
+  <word id="4" word="słucham" lemma="słuchać" POS="VV" morph="1.sg.gender.pres.ind.imperf" />
+  <word id="5" word="dobry" lemma="dobry" POS="ADJc" morph="nom.sg.masc" />
+  <word id="6" word="wieczór" lemma="wieczór" POS="Nc" morph="nom.sg.m3" />
+  <word id="7" word="z" lemma="z" POS="PreP" morph="-" />
+  <word id="8" word="Centrum" lemma="Centrum" POS="Np" morph="gen.sg.neut" />
+  <word id="9" word="Optyki" lemma="Optyka" POS="Np" morph="gen.sg.fem" />
+  <word id="10" word="w" lemma="w" POS="PreP" morph="-" />
+  <word id="11" word="stronę" lemma="strona" POS="Nc" morph="acc.sg.fem" />
+  <word id="12" word="Międzylesia" lemma="Międzylesie" POS="Np" morph="gen.sg.neut" />
+  <word id="13" word="pięć" lemma="pięć" POS="NUM" morph="nom.nm1" />
+  <word id="14" word="dwa" lemma="dwa" POS="NUM" morph="nom.nm1" />
+  <word id="15" word="pięć" lemma="pięć" POS="NUM" morph="nom.nm1" />
+  <word id="16" word="z" lemma="z" POS="PreP" morph="-" />
+  <word id="17" word="jakiego" lemma="jaki" POS="ADJc" morph="gen.sg.masc|neut" />
+  <word id="18" word="przystanku" lemma="przystanek" POS="Nc" morph="gen.sg.m3" />
+  <word id="19" word="bo" lemma="bo" POS="CC" morph="-" />
+  <word id="20" word="nie" lemma="nie" POS="PART" morph="-" />
+  <word id="21" word="zrozumiałem" lemma="zrozumieć" POS="VV" morph="1.sg.masc.past.ind.perf " />
+  <word id="22" word="z" lemma="z" POS="PreP" morph="-" />
+  <word id="23" word="Centrum" lemma="Centrum" POS="Np" morph="gen.sg.neut" />
+  <word id="24" word="Optyki" lemma="Optyka" POS="Np" morph="gen.sg.fem" />
+  <word id="25" word="w" lemma="w" POS="PreP" morph="-" />
+  <word id="26" word="stronę" lemma="strona" POS="Nc" morph="acc.sg.fem" />
+  <word id="27" word="Międzylesia" lemma="Międzylesie" POS="Np" morph="gen.sg.neut" />
+  <word id="28" word="pięć" lemma="pięć" POS="NUM" morph="nom.nm1" />
+  <word id="29" word="dwa" lemma="dwa" POS="NUM" morph="nom.nm1" />
+  <word id="30" word="pięć" lemma="pięć" POS="NUM" morph="nom.nm1" />
+  <word id="31" word="no" lemma="no" POS="ITJ" morph="-" />
+  <word id="32" word="niestety" lemma="niestety" POS="PART" morph="-" />
+  <word id="33" word="sześćset" lemma="sześćset" POS="NUM" morph="nom.nm1" />
+  <word id="34" word="dziesięć" lemma="dziesięć" POS="NUM" morph="nom.nm1" />
+  <word id="35" word="?" lemma="?" POS="PQ" morph="-" />
+  <word id="36" word="sześćset" lemma="sześćset" POS="NUM" morph="nom.nm1" />
+  <word id="37" word="dziesięć" lemma="dziesięć" POS="NUM" morph="nom.nm1" />
+  <word id="38" word="dwudziesta" lemma="dwudziesty" POS="ADJc" morph="nom.sg.fem" />
+  <word id="39" word="trzecia" lemma="trzeci" POS="ADJc" morph="nom.sg.fem" />
+  <word id="40" word="trzydzieści" lemma="trzydzieści" POS="NUM" morph="nom.nm1" />
+  <word id="41" word="osiem" lemma="osiem" POS="NUM" morph="nom.nm1" />
+  <word id="42" word="dziękuję" lemma="dziękować" POS="VV" morph="1.sg.gender.pres.ind.imperf" />
+  <word id="43" word="proszę" lemma="prosić" POS="VV" morph="1.sg.gender.pres.ind.imperf" />
+  <word id="44" word="bardzo" lemma="bardzo" POS="ADV" morph="pos" />
+</words>

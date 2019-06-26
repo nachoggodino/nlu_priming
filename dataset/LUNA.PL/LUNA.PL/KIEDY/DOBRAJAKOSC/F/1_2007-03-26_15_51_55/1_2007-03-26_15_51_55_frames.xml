@@ -1,0 +1,39 @@
+<Frames>
+  <Set id="1" subset="1" span="word_33" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_32" concept_id="12" name="SELF_MOVER" />
+    <Frame fe="2" span="word_34..word_36" concept_id="14" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_49..word_50" frame="DEPARTING" head="być">
+    <Frame fe="1" span="word_42..word_44" concept_id="17" name="GOAL" />
+    <Frame fe="2" span="word_45..word_47" concept_id="18" name="TIME" />
+    <Frame fe="3" span="word_51..word_53" concept_id="21" name="TIME" />
+  </Set>
+  <Set id="3" subset="1" span="word_62" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_63..word_64" concept_id="27" name="TIME" />
+  </Set>
+  <Set id="4" subset="1" span="word_116..word_117" frame="DEPARTING" head="być">
+    <Frame fe="1" span="word_111..word_115" concept_id="49" name="TIME" />
+    <Frame fe="2" span="word_118" concept_id="52" name="TIME" />
+    <Frame fe="3" span="word_120" concept_id="53" name="TIME" />
+  </Set>
+  <Set id="5" subset="3" span="word_136" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_134..word_135" concept_id="59" name="DURATION" />
+    <Frame fe="2" span="word_137..word_138" concept_id="61" name="SELF_MOVER" />
+    <Frame fe="3" span="word_139..word_140" concept_id="62" name="GOAL" />
+    <Frame fe="4" span="word_142..word_143" concept_id="63" name="GOAL" />
+  </Set>
+  <Set id="6" subset="1" span="word_153" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_151" concept_id="64" name="TIME" />
+    <Frame fe="2" span="word_154..word_155" concept_id="66" name="ENTITY" />
+  </Set>
+  <Set id="7" subset="1" span="word_182" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_180" concept_id="74" name="SELF_MOVER" />
+    <Frame fe="2" span="word_181" concept_id="75" name="DURATION" />
+  </Set>
+  <Set id="8" subset="1" span="word_184" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_185" concept_id="78" name="ENTITY" />
+  </Set>
+  <Set id="9" subset="1" span="word_187" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_188..word_189" concept_id="81" name="ENTITY" />
+  </Set>
+</Frames>

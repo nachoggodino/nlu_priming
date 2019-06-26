@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-27_15_53_08" version="3" version_date="100914">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="42.497" topic="to1">
+<Turn startTime="0" endTime="0.815">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.815" endTime="1.836">
+<Sync time="0.815"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.836" endTime="10.021">
+<Sync time="1.836"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana mam takie pytanie chciałam się upewnić czy autobus linii sto sześć na pewno kursuje aż do samych Młocin 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.021" endTime="14.185">
+<Sync time="10.021"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pętlę ma Młociny 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+U K S W
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ na Wójcickiego
+</Turn>
+<Turn speaker="spk2" startTime="14.185" endTime="20.283">
+<Sync time="14.185"/>
+bo 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ o ile ja się nie mylę do tej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do swego czasu tylko do do pętli na Bemowie kursował tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.283" endTime="21.716">
+<Sync time="20.283"/>
+tak one ma zmienioną trasę
+</Turn>
+<Turn speaker="spk1 spk2" startTime="21.716" endTime="22.14">
+<Sync time="21.716"/>
+<Who nb="1"/>
+teraz
+<Who nb="2"/>
+aha
+</Turn>
+<Turn speaker="spk2" startTime="22.14" endTime="26.179">
+<Sync time="22.14"/>
+czyli na pewno na Conrada i Bogusławskiego tym autobusem bezpośrednio dojadę
+</Turn>
+<Turn speaker="spk1" startTime="26.179" endTime="27.071">
+<Sync time="26.179"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak
+</Turn>
+<Turn speaker="spk1 spk2" startTime="27.071" endTime="27.813">
+<Sync time="27.071"/>
+<Who nb="1"/>
+tak wjeżdża 
+<Who nb="2"/>
+na sto procent
+</Turn>
+<Turn speaker="spk1" startTime="27.813" endTime="33.186">
+<Sync time="27.813"/>
+wjeżdża w ulicę Conrada i jedzie dalej przez Hutę i 
+<Event desc="babble" type="noise" extent="begin"/>
+ przez Hutę 
+<Event desc="babble" type="noise" extent="end"/>
+ dalej na Młociny 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="33.186" endTime="37.58">
+<Sync time="33.186"/>
+aha aha no to super 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a w takim razie sto piątka została skrócona tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.58" endTime="38.667">
+<Sync time="37.58"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="38.667" endTime="40.113">
+<Sync time="38.667"/>
+dobra rozumiem już teraz dzięki 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="40.113" endTime="41.413">
+<Sync time="40.113"/>
+<Who nb="1"/>
+serdeczne do widzenia
+<Who nb="2"/>
+proszę bardzo do widzenia
+</Turn>
+<Turn startTime="41.413" endTime="42.497">
+<Sync time="41.413"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

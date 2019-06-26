@@ -1,0 +1,43 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_12" concept_id="6" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_14" concept_id="8" name="PHENOMENON" />
+  </Set>
+  <Set id="2" subset="1" span="word_33" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_37..word_38" concept_id="18" name="TOPIC" />
+  </Set>
+  <Set id="3" subset="1" span="word_51" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_49" concept_id="23" name="TOPIC" />
+  </Set>
+  <Set id="4" subset="1" span="word_59" frame="REFFERING_BY_NAME" head="nazywać">
+    <Frame fe="1" span="word_58" concept_id="28" name="NAME" />
+  </Set>
+  <Set id="5" subset="1" span="word_62" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_61" concept_id="30" name="ENTITY" />
+  </Set>
+  <Set id="6" subset="1" span="word_76" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_75" concept_id="33" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="2" span="word_77..word_79" concept_id="35" name="GOAL" />
+  </Set>
+  <Set id="7" subset="1" span="word_84" frame="CAUSE_CHANGE" head="przesiąść">
+    <Frame fe="1" span="word_81" concept_id="36" name="PLACE" />
+    <Frame fe="2" span="word_85,word_86..word_88" concept_id="38,39" name="FINAL_CATEGORY" />
+    <Frame fe="3" span="word_90..word_91" concept_id="41" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="8" subset="1" span="word_110" frame="ARRIVING" head="dojeżdżać">
+    <Frame fe="1" span="word_108,word_109" concept_id="50,51" name="THEME" />
+    <Frame fe="2" span="word_111..word_112" concept_id="53" name="GOAL" />
+  </Set>
+  <Set id="9" subset="1" span="word_122" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_117,word_118..word_120" concept_id="55,56" name="SOURCE" />
+    <Frame fe="2" span="word_121" concept_id="57" name="SELF_MOVER" />
+    <Frame fe="3" span="word_123..word_124" concept_id="59" name="SOURCE" />
+  </Set>
+  <Set id="10" subset="1" span="word_135" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_136..word_138" concept_id="63" name="ENTITY" />
+    <Frame fe="2" span="word_139..word_141" concept_id="64" name="PLACE" />
+  </Set>
+  <Set id="11" subset="1" span="word_143" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_144" concept_id="66" name="ENTITY" />
+  </Set>
+</Frames>

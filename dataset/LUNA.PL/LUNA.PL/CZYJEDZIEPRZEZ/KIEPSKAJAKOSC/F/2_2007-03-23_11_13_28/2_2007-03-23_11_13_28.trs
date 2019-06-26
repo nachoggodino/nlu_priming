@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_11_13_28" version="5" version_date="080124">
+<Topics>
+<Topic id="to1" desc="female user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="65.688" topic="to1">
+<Turn startTime="0" endTime="0.631">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.631" endTime="2.757">
+<Sync time="0.631"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.757" endTime="8.9">
+<Sync time="2.757"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ dzień dobry panu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana ja bym 
+<Event desc="*" type="pronounce" extent="begin"/>
+ chciała 
+<Event desc="*" type="pronounce" extent="end"/>
+ z Nowego Bemowa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dojechać na ulicą Kordeckiego
+</Turn>
+<Turn speaker="spk1" startTime="8.9" endTime="10.445">
+<Sync time="8.9"/>
+Kordeckiego
+</Turn>
+<Turn speaker="spk2" startTime="10.445" endTime="11.822">
+<Sync time="10.445"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tramwajem
+</Turn>
+<Turn speaker="spk1" startTime="11.822" endTime="16.464">
+<Sync time="11.822"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+ dobrze 
+<Event desc="*" type="pronounce" extent="end"/>
+ już sprawdzam gdzie będzie ta ulica dokładnie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.464" endTime="38.162">
+<Sync time="16.464"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ za Wiatraczną tam gdzieś jest 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ pod 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ wydaje mi się że kiedyś dwa
+<Event desc="~" type="lexical" extent="begin"/>
+dzieścia
+<Event desc="~" type="lexical" extent="end"/>
+ cztery jeździło ale teraz są zmienione tutaj tramwaje 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.162" endTime="40.742">
+<Sync time="38.162"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+tak
+<Event desc="*" type="pronounce" extent="end"/>
+ dojedzie pani jak najbardziej dwadzieścia cztery
+</Turn>
+<Turn speaker="spk2" startTime="40.742" endTime="41.224">
+<Sync time="40.742"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="41.224" endTime="45.562">
+<Sync time="41.224"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+no
+<Event desc="*" type="pronounce" extent="end"/>
+ i tu i w 
+<Event desc="*" type="pronounce" extent="begin"/>
+zależności
+<Event desc="*" type="pronounce" extent="end"/>
+ jest to długa ulica 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i tu w zależności od 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="45.562" endTime="46.677">
+<Sync time="45.562"/>
+<Who nb="1"/>
+numeru 
+<Who nb="2"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ bezpośrednio
+</Turn>
+<Turn speaker="spk2" startTime="46.677" endTime="47.657">
+<Sync time="46.677"/>
+dojadę stąd
+</Turn>
+<Turn speaker="spk1" startTime="47.657" endTime="52.534">
+<Sync time="47.657"/>
+tak 
+<Event desc="*" type="pronounce" extent="begin"/>
+tutaj
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ począwszy 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ przystanku przy Rondzie Wiatraczna
+</Turn>
+<Turn speaker="spk2" startTime="52.534" endTime="53.086">
+<Sync time="52.534"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="53.086" endTime="57.36">
+<Sync time="53.086"/>
+aż do do Żółkiewskiego ta 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ulica
+<Event desc="*" type="pronounce" extent="end"/>
+ biegnie wzdłuż Grochowskiej więc 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="57.36" endTime="57.614">
+<Sync time="57.36"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="57.614" endTime="61.413">
+<Sync time="57.614"/>
+w zależności od numeru to trzeba wybrać 
+<Event desc="babble" type="noise" extent="begin"/>
+ przystanek ale dwadzieścia cztery jak najbardziej pani dojedzie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="61.413" endTime="61.849">
+<Sync time="61.413"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+dzi
+<Event desc="~" type="lexical" extent="end"/>
+ękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="61.849" endTime="62.619">
+<Sync time="61.849"/>
+<Who nb="1"/>
+panu bardzo
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="62.619" endTime="63.131">
+<Sync time="62.619"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="63.131" endTime="63.825">
+<Sync time="63.131"/>
+do 
+<Event desc="*" type="pronounce" extent="begin"/>
+usłyszenia
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="63.825" endTime="64.554">
+<Sync time="63.825"/>
+do usłyszenia
+</Turn>
+<Turn startTime="64.554" endTime="65.688">
+<Sync time="64.554"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

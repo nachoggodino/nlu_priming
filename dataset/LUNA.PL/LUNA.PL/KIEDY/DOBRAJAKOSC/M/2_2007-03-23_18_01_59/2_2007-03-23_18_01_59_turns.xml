@@ -1,0 +1,17 @@
+<Turns>
+  <Turn id="1" speaker="spk1" startTime="0.345" endTime="2.482" words="word_1..word_4" />
+  <Turn id="2" speaker="spk2" startTime="2.482" endTime="9.598" words="word_5..word_17" />
+  <Turn id="3" speaker="spk1" startTime="9.598" endTime="9.88" words="word_18" />
+  <Turn id="4" speaker="spk2" startTime="9.88" endTime="16.103" words="word_19..word_28" />
+  <Turn id="5" speaker="spk1" startTime="16.103" endTime="24.603" words="word_29..word_42" />
+  <Turn id="6" speaker="spk2" startTime="24.603" endTime="33.821" words="word_43..word_61" />
+  <Turn id="7" speaker="spk1" startTime="33.821" endTime="37.641" words="word_62..word_70" />
+  <Turn id="8" speaker="spk2" startTime="37.641" endTime="38.483" words="word_71..word_72" />
+  <Turn id="9" speaker="spk2" startTime="38.483" endTime="38.907" words="word_73" />
+  <Turn id="10" speaker="spk1" startTime="38.483" endTime="38.907" words="word_74" />
+  <Turn id="11" speaker="spk1" startTime="38.907" endTime="40.346" words="word_75..word_78" />
+  <Turn id="12" speaker="spk2" startTime="40.346" endTime="43.005" words="word_79..word_83" />
+  <Turn id="13" speaker="spk2" startTime="43.005" endTime="43.667" words="word_84" />
+  <Turn id="14" speaker="spk1" startTime="43.005" endTime="43.667" words="word_85" />
+  <Turn id="15" speaker="spk1" startTime="43.667" endTime="44.619" words="word_86..word_88" />
+</Turns>

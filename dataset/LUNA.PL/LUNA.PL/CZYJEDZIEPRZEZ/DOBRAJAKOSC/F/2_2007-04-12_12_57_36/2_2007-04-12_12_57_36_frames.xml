@@ -1,0 +1,42 @@
+<Frames>
+  <Set id="1" subset="1" span="word_22" frame="MOTION" head="kursować">
+    <Frame fe="1" span="word_23..word_25" concept_id="8" name="PATH" />
+  </Set>
+  <Set id="2" subset="1" span="word_31" frame="MOTION" head="kursować">
+    <Frame fe="1" span="word_30" concept_id="10" name="THEME" />
+    <Frame fe="2" span="word_32..word_34" concept_id="12" name="PATH" />
+    <Frame fe="3" span="word_39..word_41" concept_id="13" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_46" frame="REFFERING_BY_NAME" head="nazywać">
+    <Frame fe="1" span="word_42..word_43" concept_id="14" name="NAME" />
+    <Frame fe="2" span="word_44" concept_id="15" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_59" frame="CAUSE_CHANGE" head="przesiąść">
+    <Frame fe="1" span="word_60..word_62" concept_id="22" name="PLACE" />
+  </Set>
+  <Set id="5" subset="1" span="word_68" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_66..word_67" concept_id="25" name="PATH" />
+  </Set>
+  <Set id="6" subset="1" span="word_89" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_91..word_93" concept_id="32" name="SOURCE" />
+    <Frame fe="2" span="word_94..word_95" concept_id="33" name="GOAL" />
+    <Frame fe="3" span="word_96,word_97..word_99" concept_id="34,35" name="PATH" />
+    <Frame fe="4" span="word_100" concept_id="36" name="PATH" />
+  </Set>
+  <Set id="7" subset="1" span="word_106" frame="TOPIC" head="interesować">
+    <Frame fe="1" span="word_107..word_108" concept_id="40" name="TOPIC" />
+  </Set>
+  <Set id="8" subset="1" span="word_151" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_152..word_153" concept_id="56" name="GOAL" />
+  </Set>
+  <Set id="9" subset="2" span="word_162" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_159..word_161" concept_id="60" name="SOURCE" />
+    <Frame fe="2" span="word_164..word_165" concept_id="62" name="GOAL" />
+    <Frame fe="3" span="word_171..word_173" concept_id="67" name="MODE_OF_TRANSPORTATION" />
+  </Set>
+  <Set id="10" subset="1" span="word_167" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_166" concept_id="63" name="POSITION" />
+    <Frame fe="2" span="word_168..word_169" concept_id="65" name="PLACE" />
+    <Frame fe="3" span="word_170" concept_id="66" name="POSITION" />
+  </Set>
+</Frames>

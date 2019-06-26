@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_03_26_11" version="3" version_date="070907">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="35.498" topic="to1">
+<Turn startTime="0" endTime="0.341">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.341" endTime="2.406">
+<Sync time="0.341"/>
+<Event desc="*" type="pronounce" extent="begin"/>dobry<Event desc="*" type="pronounce" extent="end"/> xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.406" endTime="2.923">
+<Sync time="2.406"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dobry 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2.923" endTime="3.47">
+<Sync time="2.923"/>
+<Who nb="1"/>
+wieczór 
+<Who nb="2"/>
+dobry
+</Turn>
+<Turn speaker="spk1" startTime="3.47" endTime="4.114">
+<Sync time="3.47"/>
+wieczór
+</Turn>
+<Turn speaker="spk2" startTime="4.114" endTime="7.687">
+<Sync time="4.114"/>
+<Event desc="noise" type="noise" extent="begin"/> to do której dzisiaj kursuje metro <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="begin"/> w stronę <Event desc="babble" type="noise" extent="end"/> Młocin <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="7.687" endTime="11.537">
+<Sync time="7.687"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pana według <Event desc="filler" type="lexical" extent="instantaneous"/> rozkładu zimowego
+</Turn>
+<Turn speaker="spk2" startTime="11.537" endTime="12.675">
+<Sync time="11.537"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="12.675" endTime="16.4226597251">
+<Sync time="12.675"/>
+czyli czyli dobrze w kierunku Młocin a z jakiego przystanku <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="16.4226597251" endTime="17.572">
+<Sync time="16.4226597251"/>
+<Event desc="noise" type="noise" extent="begin"/> Racławicka <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="17.572" endTime="32.127">
+<Sync time="17.572"/>
+<Event desc="noise" type="noise" extent="begin"/> dobrze momencik <Event desc="silence" type="noise" extent="instantaneous"/> Racławicka momencik <Event desc="silence" type="noise" extent="instantaneous"/> czyli <Event desc="noise" type="noise" extent="end"/> <Event desc="*" type="pronounce" extent="begin"/>tak<Event desc="*" type="pronounce" extent="end"/> druga czterdzieści cztery jest ostatnie <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="begin"/> czy<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>i tak <Event desc="babble" type="noise" extent="end"/> według tego czasu trzecia czterdzieści cztery
+</Turn>
+<Turn speaker="spk2" startTime="32.127" endTime="33.554">
+<Sync time="32.127"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="33.554" endTime="34.182">
+<Sync time="33.554"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="34.182" endTime="34.955">
+<Sync time="34.182"/>
+<Event desc="noise" type="noise" extent="begin"/> do widzenia <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="34.955" endTime="35.498">
+<Sync time="34.955"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00027_in;00027_out" version="3" version_date="080613">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="245.664" topic="to1">
+<Turn startTime="0" endTime="0.531">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.531" endTime="33.329">
+<Sync time="0.531"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż zawsze możesz powiedzieć połącz mnie z operatorem 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ przepraszam ale nie zrozumiałam proszę tylko słowa kluczowe to będę cię lepiej rozumieć powiedz jedną z opcji czasy odjazdów
+</Turn>
+<Turn speaker="spk1 spk2" startTime="33.329" endTime="37.896">
+<Sync time="33.329"/>
+<Who nb="1"/>
+wyszukanie trasy zgłoszenie skargi zasady przyznawanie zniżek
+<Who nb="2"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ trasa 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ trasa objazdu
+</Turn>
+<Turn speaker="spk1" startTime="37.896" endTime="53.181">
+<Sync time="37.896"/>
+zagubiony bagaż wyszukanie trasy ustalmy teraz dokąd chcesz jechać punkt początkowy można wyszukiwać według nazwy ulicy albo nazw przystanków żeby wyszukiwać według nazwy ulic powiedz słowo ulica żeby wyszukiwać według nazw 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="53.181" endTime="55.592">
+<Sync time="53.181"/>
+<Who nb="1"/>
+przystanków powiedz słowo przystanek
+<Who nb="2"/>
+Fieldorfa Fieldorfa
+</Turn>
+<Turn speaker="spk1" startTime="55.592" endTime="60.536">
+<Sync time="55.592"/>
+wyszukiwanie po nazwach ulic powiedz nazwę ulicy w której chcesz zacząć podróż
+</Turn>
+<Turn speaker="spk2" startTime="60.536" endTime="62.186">
+<Sync time="60.536"/>
+Fieldorfa
+</Turn>
+<Turn speaker="spk1" startTime="62.186" endTime="64.155">
+<Sync time="62.186"/>
+podaj w przybliżeniu numer domu
+</Turn>
+<Turn speaker="spk2" startTime="64.155" endTime="67.85">
+<Sync time="64.155"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ róg Komorowskiego
+</Turn>
+<Turn speaker="spk1" startTime="67.85" endTime="71.294">
+<Sync time="67.85"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ ustalmy teraz dokąd chcesz jechać 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="71.294" endTime="72.363">
+<Sync time="71.294"/>
+<Who nb="1"/>
+punkt końcowy można 
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="72.363" endTime="74.327">
+<Sync time="72.363"/>
+wyszukiwać według nazwy ulicy nazw 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="74.327" endTime="79.029">
+<Sync time="74.327"/>
+<Who nb="1"/>
+przystanków żeby wyszukiwać według nazwy ulic powiedz słowo ulica 
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+Świątynia 
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ budowa 
+<Event desc="*" type="pronounce" extent="begin"/>
+Świątyni
+<Event desc="*" type="pronounce" extent="end"/>
+ Opatrzności
+</Turn>
+<Turn speaker="spk1" startTime="79.029" endTime="87.075">
+<Sync time="79.029"/>
+żeby wyszukiwać według nazw przystanków powiedz wyszukiwanie po nazwach ulic powiedz nazwę ulicy przy której chcesz zakończyć podróż
+</Turn>
+<Turn speaker="spk2" startTime="87.075" endTime="88.702">
+<Sync time="87.075"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="88.702" endTime="94.1">
+<Sync time="88.702"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ podaj w przybliżeniu numer domu
+</Turn>
+<Turn speaker="spk2" startTime="94.1" endTime="95.457">
+<Sync time="94.1"/>
+proszę o konsultanta
+</Turn>
+<Turn speaker="spk1" startTime="95.457" endTime="99.573">
+<Sync time="95.457"/>
+łączę z operatorem proszę czekać
+</Turn>
+<Turn speaker="spk3" startTime="99.573" endTime="237.461">
+<Sync time="99.573"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+
+
+</Turn>
+<Turn startTime="237.461" endTime="245.664">
+<Sync time="237.461"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

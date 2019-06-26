@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-27_16_27_31" version="5" version_date="071227">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="71.496" topic="to1">
+<Turn startTime="0" endTime="0.311">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.311" endTime="2.367">
+<Sync time="0.311"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.367" endTime="3.185">
+<Sync time="2.367"/>
+halo dzień 
+<Event desc="int" type="noise" extent="next"/>
+dobry
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3.185" endTime="3.657">
+<Sync time="3.185"/>
+<Who nb="1"/>
+dzień dobry
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.657" endTime="14.125">
+<Sync time="3.657"/>
+proszę pana mam pytanie bo nie jestem z Warszawy wybieram się tam jutro w
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+aśnie do miasta i ten mam pytanie czy jest jakiś autobus z Dworca Centralnego na Okęcie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ albo nawet do Janek
+</Turn>
+<Turn speaker="spk1" startTime="14.125" endTime="21.843">
+<Sync time="14.125"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Janek tak proszę pana to najlepiej jakby pan z 
+<Event desc="babble" type="noise" extent="begin"/>
+ spod 
+<Event desc="babble" type="noise" extent="end"/>
+ Dworca Centralnego z Alej Jerozolimskich 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wsiadł w tramwaj dziewiątka lub dwadzieścia pięć 
+</Turn>
+<Turn speaker="spk2" startTime="21.843" endTime="22.332">
+<Sync time="21.843"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="22.332" endTime="24.135">
+<Sync time="22.332"/>
+trzeba dojechać do samej pętli Okęcie
+</Turn>
+<Turn speaker="spk2" startTime="24.135" endTime="24.902">
+<Sync time="24.135"/>
+no no
+</Turn>
+<Turn speaker="spk1" startTime="24.902" endTime="29.602">
+<Sync time="24.902"/>
+i z pętli Okęcie z pętli autobusowej jest linia siedemset sześć 
+<Event desc="*" type="pronounce" extent="begin"/>
+która
+<Event desc="*" type="pronounce" extent="end"/>
+ kończy pod samymi Jankami
+</Turn>
+<Turn speaker="spk2" startTime="29.602" endTime="36.001">
+<Sync time="29.602"/>
+aha a a tam dalej ewentualnie bo generalnie 
+<Event desc="noise" type="noise" extent="begin"/>
+ potrzebuję się dostać 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ to 
+<Event desc="noise" type="noise" extent="end"/>
+ jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ troszkę dalej 
+<Event desc="noise" type="noise" extent="begin"/>
+ to jest przy Trasie Katowickiej 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.001" endTime="37.851">
+<Sync time="36.001"/>
+jeszcze raz ja
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ jak ta ulica 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="37.851" endTime="40.549">
+<Sync time="37.851"/>
+znaczy to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ miejscowość 
+<Event desc="SYL" type="pronounce" extent="begin"/>
+Wolica
+<Event desc="SYL" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.549" endTime="41.71">
+<Sync time="40.549"/>
+Wolica tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="41.71" endTime="42.135">
+<Sync time="41.71"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="42.135" endTime="42.864">
+<Sync time="42.135"/>
+momencik do
+<Event desc="~" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="42.864" endTime="50.017">
+<Sync time="42.864"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ z Okęcia 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="50.017" endTime="53.8">
+<Sync time="50.017"/>
+proszę pana to wtedy z pętli Okęcie autobus siedemset trzy 
+</Turn>
+<Turn speaker="spk2" startTime="53.8" endTime="54.216">
+<Sync time="53.8"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="54.216" endTime="57.169">
+<Sync time="54.216"/>
+on przejeżdża przez Wolicę i jeszcze jedną linię zerknę
+</Turn>
+<Turn speaker="spk2" startTime="57.169" endTime="58.356">
+<Sync time="57.169"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="58.356" endTime="60.787">
+<Sync time="58.356"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ momencik 
+<Event desc="noise" type="noise" extent="end"/>
+ i jeszcze siedemset jedenaście 
+</Turn>
+<Turn speaker="spk2" startTime="60.787" endTime="64.872">
+<Sync time="60.787"/>
+aha dobra 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ trza z Centralnego dostać 
+<Event desc="noise" type="noise" extent="begin"/>
+ po prostu 
+<Event desc="noise" type="noise" extent="end"/>
+ tramwajem na Okęcie
+</Turn>
+<Turn speaker="spk1" startTime="64.872" endTime="66.671">
+<Sync time="64.872"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+ tak dziewiątka lub dwadzieścia pięć
+</Turn>
+<Turn speaker="spk2" startTime="66.671" endTime="68.683">
+<Sync time="66.671"/>
+dziewiątka i dwadzieścia pięć dobra to dziękuję panu 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="68.683" endTime="69.437">
+<Sync time="68.683"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="69.437" endTime="69.924">
+<Sync time="69.437"/>
+do widzenia
+</Turn>
+<Turn startTime="69.924" endTime="71.496">
+<Sync time="69.924"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

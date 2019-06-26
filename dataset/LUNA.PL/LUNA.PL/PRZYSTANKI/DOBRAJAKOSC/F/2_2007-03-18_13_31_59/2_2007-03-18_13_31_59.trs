@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-18_13_31_59" version="1" version_date="070524">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="19.99875" topic="to1">
+<Turn startTime="0" endTime="0.984">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.984" endTime="2.858">
+<Sync time="0.984"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.858" endTime="12.698">
+<Sync time="2.858"/>
+dzień dobry chciałabym się zapytać o autobus sto <Event desc="noise" type="noise" extent="begin"/> siedemdziesiąt pięć jadąc w kierunku Okęcia <Event desc="noise" type="noise" extent="end"/> żeby wysiąść przy Racławickiej jak się nazywa przystanek <Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="12.698" endTime="15.549">
+<Sync time="12.698"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> przy Racławickiej to jest przystanek Rakowiec
+</Turn>
+<Turn speaker="spk2" startTime="15.549" endTime="16.969">
+<Sync time="15.549"/>
+dobrze <Event desc="noise" type="noise" extent="begin"/> dziękuję do widzenia <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="16.969" endTime="17.586">
+<Sync time="16.969"/>
+do widzenia
+</Turn>
+<Turn startTime="17.586" endTime="19.99875">
+<Sync time="17.586"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

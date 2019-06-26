@@ -1,0 +1,56 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_7" attribute="REACTION" value="Negation" />
+  <concept id="5" span="word_8" attribute="ACTION" value="Know" />
+  <concept id="6" span="word_9" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="7" span="word_19" attribute="ACTION" value="Concern" />
+  <concept id="8" span="word_22..word_23" attribute="PUBLIC_TRANSPORT" value="General" />
+  <concept id="9" span="word_29" attribute="REACTION" value="Confirmation" />
+  <concept id="10" span="word_32" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="11" span="word_33" attribute="ACTION" value="ToBe" />
+  <concept id="12" span="word_34..word_35" attribute="CONNECTION_F" value="Direct_Bus" />
+  <concept id="13" span="word_36..word_38" attribute="SOURCE_BLD" value="szpital Banacha" />
+  <concept id="14" span="word_39..word_40" attribute="GOAL_BLD" value="Hospital" />
+  <concept id="15" span="word_41..word_42" attribute="LOCATION_STR" value="Spartańska" />
+  <concept id="16" span="word_43..word_45" attribute="SOURCE_BLD" value="szpital Banacha" />
+  <concept id="17" span="word_46" attribute="Q_CONF" value="IsIt" />
+  <concept id="18" span="word_48" attribute="BUILDING" value="szpital Banacha" />
+  <concept id="19" span="word_49..word_50" attribute="GOAL_STR" value="Spartańska" />
+  <concept id="20" span="word_51..word_53" attribute="GOAL_BLD" value="Szpital Reumatologiczny" />
+  <concept id="21" span="word_54..word_55" attribute="LOCATION_STR" value="Spartańska" />
+  <concept id="22" span="word_56..word_58" attribute="GOAL_BLD" value="Hospital" />
+  <concept id="23" span="word_59..word_60" attribute="GOAL_STR" value="Spartańska" />
+  <concept id="24" span="word_62" attribute="REACTION" value="Negation" />
+  <concept id="25" span="word_63" attribute="ACTION" value="ToBe" />
+  <concept id="26" span="word_64" attribute="REACTION" value="Negation" />
+  <concept id="27" span="word_69" attribute="LOCATION_REL" value="There" />
+  <concept id="28" span="word_70" attribute="ACTION" value="ToChange" />
+  <concept id="29" span="word_71" attribute="REACTION" value="Confirmation" />
+  <concept id="30" span="word_75..word_77" attribute="GOAL_BLD" value="instytut" />
+  <concept id="31" span="word_79" attribute="REACTION" value="Negation" />
+  <concept id="32" span="word_80" attribute="ACTION" value="Go" />
+  <concept id="33" span="word_82" attribute="ACTION" value="ToBe" />
+  <concept id="34" span="word_86..word_88" attribute="BUS" value="172" />
+  <concept id="35" span="word_89" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="36" span="word_90" attribute="ACTION" value="Go" />
+  <concept id="37" span="word_91..word_95" attribute="LOCATION_CROSSROADS" value="Pawińskiego CROSS  Banacha" />
+  <concept id="38" span="word_101" attribute="ACTION" value="GetOut" />
+  <concept id="39" span="word_102..word_103" attribute="LOCATION_STR" value="Racławicka" />
+  <concept id="40" span="word_105..word_106" attribute="SOURCE_STR" value="Racławicka" />
+  <concept id="41" span="word_108" attribute="ACTION" value="ToBe" />
+  <concept id="42" span="word_111..word_112" attribute="LOCATION_REL" value="TooFar" />
+  <concept id="43" span="word_113" attribute="REACTION" value="Confirmation" />
+  <concept id="44" span="word_122" attribute="TRSPM_CHANGE" value="General" />
+  <concept id="45" span="word_126..word_128" attribute="LOCATION_AREA" value="Park Dreszera" />
+  <concept id="46" span="word_130..word_132" attribute="BUS" value="118" />
+  <concept id="47" span="word_134..word_135" attribute="BUS" value="118" />
+  <concept id="48" span="word_137" attribute="ACTION" value="Approach" />
+  <concept id="49" span="word_138..word_140" attribute="GOAL_BLD" value="Hospital" />
+  <concept id="50" span="word_141" attribute="Q_CONF" value="IsIt" />
+  <concept id="51" span="word_143" attribute="REACTION" value="Confirmation" />
+  <concept id="52" span="word_144..word_146" attribute="STOP_DESCRIPTION" value="Instytut Reumatologii" />
+  <concept id="53" span="word_148" attribute="ACTION" value="ToHave" />
+  <concept id="54" span="word_149" attribute="REACTION" value="Confirmation" />
+</concepts>

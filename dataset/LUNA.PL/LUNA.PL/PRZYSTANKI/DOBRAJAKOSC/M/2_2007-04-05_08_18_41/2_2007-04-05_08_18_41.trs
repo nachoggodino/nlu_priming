@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-05_08_18_41" version="4" version_date="080112">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="41.997" topic="to1">
+<Turn startTime="0" endTime="1.359">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.359" endTime="3.418">
+<Sync time="1.359"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.418" endTime="12.139">
+<Sync time="3.418"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chciałem się spytać się tylko nie 
+<Event desc="~" type="lexical" extent="begin"/>
+wi
+<Event desc="~" type="lexical" extent="end"/>
+em dokładnie 
+<Event desc="*" type="pronounce" extent="begin"/>
+jaki to jest
+<Event desc="*" type="pronounce" extent="end"/>
+ przystanek jaki jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ w 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Bródno jest z Wincentego i przy cmentarzu to 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest
+<Event desc="*" type="pronounce" extent="end"/>
+ nie 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Świętego 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="12.139" endTime="12.795">
+<Sync time="12.139"/>
+<Who nb="1"/>
+Wincentego
+<Who nb="2"/>
+przystanek
+</Turn>
+<Turn speaker="spk1" startTime="12.795" endTime="15.316">
+<Sync time="12.795"/>
+Cmentarz Bródnowski przy przy kościele drewnianym tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.316" endTime="16.5">
+<Sync time="15.316"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.5" endTime="17.428">
+<Sync time="16.5"/>
+ Cmentarz Bródnowski
+</Turn>
+<Turn speaker="spk2" startTime="17.428" endTime="21.183">
+<Sync time="17.428"/>
+jakie tam autobusy dojeżdżają do tego przystanku 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+jakby
+<Event desc="*" type="pronounce" extent="end"/>
+ pan 
+<Event desc="*" type="pronounce" extent="begin"/>
+mógł
+<Event desc="*" type="pronounce" extent="end"/>
+ powiedzieć 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="21.183" endTime="24.525">
+<Sync time="21.183"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana sto dwadzieścia siedem 
+</Turn>
+<Turn speaker="spk2" startTime="24.525" endTime="24.923">
+<Sync time="24.525"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.923" endTime="26.138">
+<Sync time="24.923"/>
+sto sześćdziesiąt dziewięć
+</Turn>
+<Turn speaker="spk2" startTime="26.138" endTime="26.602">
+<Sync time="26.138"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.602" endTime="28.219">
+<Sync time="26.602"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ pięćset
+</Turn>
+<Turn speaker="spk2" startTime="28.219" endTime="29.744">
+<Sync time="28.219"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.744" endTime="31.743">
+<Sync time="29.744"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto czterdzieści
+</Turn>
+<Turn speaker="spk2" startTime="31.743" endTime="33.719">
+<Sync time="31.743"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="33.719" endTime="35.525">
+<Sync time="33.719"/>
+i sto pięćdziesiąt sześć
+</Turn>
+<Turn speaker="spk2" startTime="35.525" endTime="37.237">
+<Sync time="35.525"/>
+aha dobrze dzięku
+<Event desc="~" type="lexical" extent="begin"/>
+j
+<Event desc="~" type="lexical" extent="end"/>
+ę panu
+</Turn>
+<Turn speaker="spk1" startTime="37.237" endTime="37.635">
+<Sync time="37.237"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę bar
+<Event desc="~" type="lexical" extent="begin"/>
+dzo
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="37.635" endTime="38.173">
+<Sync time="37.635"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ do 
+<Event desc="babble" type="noise" extent="end"/>
+ widzenia
+</Turn>
+<Turn speaker="spk1" startTime="38.173" endTime="38.641">
+<Sync time="38.173"/>
+do 
+<Event desc="*" type="pronounce" extent="begin"/>
+usłyszenia
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn startTime="38.641" endTime="41.997">
+<Sync time="38.641"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

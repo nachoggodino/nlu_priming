@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_16_55_20" version="6" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="60.496" topic="to1">
+<Turn startTime="0" endTime="0.294">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.294" endTime="1.761">
+<Sync time="0.294"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.761" endTime="9.267">
+<Sync time="1.761"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry chciałam się dowiedzieć o z którego peronu odjeżdża eskaemka dzisiaj o dwudziestej drugiej zero trzy 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ ze Dworca Zachodniego na Ursus 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.267" endTime="44.476">
+<Sync time="9.267"/>
+proszę pani nie mam peronów podanych a momencik 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ zaraz zaraz zaraz zaraz zaraz nie no nie ma podanych 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ a czwarty 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ szósty 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ a pani jedzie w którą stronę 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ z 
+<Event desc="babble" type="noise" extent="begin"/>
+ Zachodniego do Centrum 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="44.476" endTime="45.122">
+<Sync time="44.476"/>
+na 
+<Event desc="noise" type="noise" extent="begin"/>
+ Ursus 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.122" endTime="57.853">
+<Sync time="45.122"/>
+a na Ursus
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ momencik 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ trzeci 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ z trzeciego
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="57.853" endTime="58.405">
+<Sync time="57.853"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dziękuję ba
+<Event desc="~" type="lexical" extent="begin"/>
+rdzo
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="58.405" endTime="58.751">
+<Sync time="58.405"/>
+proszę
+</Turn>
+<Turn startTime="58.751" endTime="60.496">
+<Sync time="58.751"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

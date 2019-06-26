@@ -1,0 +1,15 @@
+<Frames>
+  <Set id="1" subset="1" span="word_12" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_14..word_17" concept_id="5" name="TITLE" />
+  </Set>
+  <Set id="2" subset="1" span="word_20" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_22" concept_id="8" name="PRIVILEGE" />
+    <Frame fe="2" span="word_23..word_24" concept_id="9" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="3" subset="1" span="word_27" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_29" concept_id="11" name="PHENOMENON" />
+  </Set>
+  <Set id="4" subset="1" span="word_32" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_33" concept_id="13" name="CHARACTERIZATION" />
+  </Set>
+</Frames>

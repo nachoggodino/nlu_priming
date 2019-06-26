@@ -1,0 +1,17 @@
+<Frames>
+  <Set id="1" subset="1" span="word_25" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_15..word_16" concept_id="6" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_20..word_22" concept_id="7" name="TITLE" />
+    <Frame fe="3" span="word_26..word_27" concept_id="9" name="PRIVILEGE" />
+  </Set>
+  <Set id="2" subset="1" span="word_57" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_58..word_59" concept_id="16" name="POSSESSION" />
+  </Set>
+  <Set id="3" subset="1" span="word_64" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_61..word_62" concept_id="17" name="OWNER" />
+    <Frame fe="2" span="word_65" concept_id="20" name="POSSESSION" />
+  </Set>
+  <Set id="4" subset="1" span="word_69" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_70" concept_id="23" name="POSSESSION" />
+  </Set>
+</Frames>

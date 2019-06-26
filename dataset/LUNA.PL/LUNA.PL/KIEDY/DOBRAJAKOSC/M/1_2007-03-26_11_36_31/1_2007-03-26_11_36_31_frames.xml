@@ -1,0 +1,25 @@
+<Frames>
+  <Set id="1" subset="1" span="word_22" frame="TOPIC" head="dowiedzieć">
+    <Frame fe="1" span="word_23..word_24,word_25" concept_id="8,9" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="1" span="word_32" frame="NEEDING" head="potrzebować">
+    <Frame fe="1" span="word_28..word_31" concept_id="10" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_52" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_51" concept_id="18" name="DURATION" />
+    <Frame fe="2" span="word_53..word_54" concept_id="20" name="SOURCE" />
+    <Frame fe="3" span="word_55..word_57" concept_id="21" name="GOAL" />
+  </Set>
+  <Set id="4" subset="1" span="word_74" frame="TAKING_TIME" head="liczyć">
+    <Frame fe="1" span="word_70..word_72" concept_id="27" name="TIME_LENGTH" />
+  </Set>
+  <Set id="5" subset="1" span="word_77" frame="NEEDING" head="potrzebować">
+    <Frame fe="1" span="word_80..word_82" concept_id="30" name="TIME" />
+  </Set>
+  <Set id="6" subset="1" span="word_95" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_97..word_99" concept_id="36" name="TIME" />
+  </Set>
+  <Set id="7" subset="1" span="word_114" frame="STATEMENT" head="mówić">
+    <Frame fe="1" span="word_111..word_112" concept_id="44" name="MESSAGE" />
+  </Set>
+</Frames>

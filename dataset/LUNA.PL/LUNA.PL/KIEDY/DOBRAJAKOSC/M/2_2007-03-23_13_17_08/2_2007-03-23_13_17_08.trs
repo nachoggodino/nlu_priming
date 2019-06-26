@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_13_17_08" version="4" version_date="070701">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="30.998" topic="to1">
+<Turn startTime="0" endTime="0.858">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.858" endTime="3.297">
+<Sync time="0.858"/>
+dzień dobry xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.297" endTime="13.351">
+<Sync time="3.297"/>
+<Event desc="noise" type="noise" extent="begin"/> dzień dobry powiedziałby mi pan o której jest teraz <Event desc="filler" type="lexical" extent="instantaneous"/> autobus sto dwa <Event desc="filler" type="lexical" extent="instantaneous"/> z przystanku Orzeł chyba <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="13.351" endTime="14.054">
+<Sync time="13.351"/>
+tam z <Event desc="SPELLED" type="pronounce" extent="begin"/>R K S<Event desc="SPELLED" type="pronounce" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="14.054" endTime="21.123">
+<Sync time="14.054"/>
+<Event desc="SPELLED" type="pronounce" extent="begin"/>R C S<Event desc="SPELLED" type="pronounce" extent="end"/> Orzeł coś tam <Event desc="babble" type="noise" extent="begin"/> w stronę Śródmieścia <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="21.123" endTime="24.216">
+<Sync time="21.123"/>
+najbliższy odjazd będzie o godzinie trzynastej dwadzieścia osiem
+</Turn>
+<Turn speaker="spk2" startTime="24.216" endTime="25.019">
+<Sync time="24.216"/>
+następny <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="25.019" endTime="26.391">
+<Sync time="25.019"/>
+czterdzieści cztery
+</Turn>
+<Turn speaker="spk2" startTime="26.391" endTime="26.843">
+<Sync time="26.391"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="26.843" endTime="27.846">
+<Sync time="26.843"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="27.846" endTime="28.367">
+<Sync time="27.846"/>
+do usłyszenia
+</Turn>
+<Turn startTime="28.367" endTime="30.998">
+<Sync time="28.367"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

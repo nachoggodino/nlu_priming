@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-28_13_16_20" version="3" version_date="080418">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="45.997" topic="to1">
+<Turn startTime="0" endTime="0.448">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.448" endTime="1.596">
+<Sync time="0.448"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.596" endTime="11.67">
+<Sync time="1.596"/>
+dzień dobry panu 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana 
+<Event desc="*" type="pronounce" extent="begin"/>
+chciałem się o taką 
+<Event desc="*" type="pronounce" extent="end"/>
+ rzecz zapytać czy emeryt z Konstancina do Warszawy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jaką płaci i na autobus
+</Turn>
+<Turn speaker="spk1" startTime="11.67" endTime="13.885">
+<Sync time="11.67"/>
+a emeryt ma już siedemdziesiąt lat skończone 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="13.885" endTime="15.928">
+<Sync time="13.885"/>
+nie sześćdziesiąt parę
+</Turn>
+<Turn speaker="spk1" startTime="15.928" endTime="24.924">
+<Sync time="15.928"/>
+na podstawie 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ legitymacji emeryta i rencisty przejazd jednorazowy z Warszawy do Konstancina 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ kosztuje dwa pięćdziesiąt
+</Turn>
+<Turn speaker="spk2" startTime="24.924" endTime="25.899">
+<Sync time="24.924"/>
+dwa pięćdziesiąt
+</Turn>
+<Turn speaker="spk1" startTime="25.899" endTime="26.191">
+<Sync time="25.899"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.191" endTime="26.996">
+<Sync time="26.191"/>
+jednorazowy
+</Turn>
+<Turn speaker="spk1" startTime="26.996" endTime="28.041">
+<Sync time="26.996"/>
+jednorazowy
+</Turn>
+<Turn speaker="spk2" startTime="28.041" endTime="30.108">
+<Sync time="28.041"/>
+tak 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ a do Wilanowa 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.108" endTime="32.282">
+<Sync time="30.108"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a do Wilano
+<Event desc="~" type="lexical" extent="begin"/>
+wa
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ ale do Wilanowa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="32.282" endTime="32.628">
+<Sync time="32.282"/>
+<Who nb="1"/>
+jadąc
+<Who nb="2"/>
+do
+</Turn>
+<Turn speaker="spk2" startTime="32.628" endTime="33.447">
+<Sync time="32.628"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ metra 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="33.447" endTime="35.147">
+<Sync time="33.447"/>
+jadąc z Konstancina 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="35.147" endTime="35.465">
+<Sync time="35.147"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+czy z
+</Turn>
+<Turn speaker="spk1" startTime="35.465" endTime="36.845">
+<Sync time="35.465"/>
+Metra Wilano
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+ska do 
+</Turn>
+<Turn speaker="spk2" startTime="36.845" endTime="39.909">
+<Sync time="36.845"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ z Konstan
+<Event desc="~" type="lexical" extent="begin"/>
+cina
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ z Konstan
+<Event desc="~" type="lexical" extent="begin"/>
+cina
+<Event desc="~" type="lexical" extent="end"/>
+ z z Konstancina do metra
+</Turn>
+<Turn speaker="spk1" startTime="39.909" endTime="41.261">
+<Sync time="39.909"/>
+no to dwa pięćdziesiąt
+</Turn>
+<Turn speaker="spk2" startTime="41.261" endTime="42.865">
+<Sync time="41.261"/>
+dwa pięćdziesiąt dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="42.865" endTime="43.607">
+<Sync time="42.865"/>
+<Who nb="1"/>
+uprzejmie
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn startTime="43.607" endTime="45.997">
+<Sync time="43.607"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_16_35_30" version="4" version_date="070701">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="41.497" topic="to1">
+<Turn startTime="0" endTime="0.581">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.581" endTime="1.85">
+<Sync time="0.581"/>
+xxx dzień dobry 
+</Turn>
+<Turn speaker="spk2" startTime="1.85" endTime="14.96">
+<Sync time="1.85"/>
+dzień dobry panu proszę pana czy może mi pan powiedzieć połączenie autobusowe na lotnisko z ulicy <Event desc="filler" type="lexical" extent="instantaneous"/> Fosa to jest <Event desc="filler" type="lexical" extent="instantaneous"/> przy Nowoursynowskiej Dolina Służewiecka
+</Turn>
+<Turn speaker="spk1" startTime="14.96" endTime="20.469">
+<Sync time="14.96"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="*" type="pronounce" extent="begin"/>proszę<Event desc="*" type="pronounce" extent="end"/> pani <Event desc="int" type="noise" extent="next"/>bezpośrednio nie ma musi <Event desc="babble" type="noise" extent="begin"/> pani wsiąść w linię sto osiemdziesiąt dziewięć <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="20.469" endTime="20.961">
+<Sync time="20.469"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="20.961" endTime="23.509">
+<Sync time="20.961"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> dojechać do przystanku Sasanki
+</Turn>
+<Turn speaker="spk2" startTime="23.509" endTime="24.116">
+<Sync time="23.509"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="24.116" endTime="27.845">
+<Sync time="24.116"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> i przesiąść się na sto siedemdziesiąt pięć albo sto osiemdziesiąt osiem
+</Turn>
+<Turn speaker="spk2" startTime="27.845" endTime="33.2194143677">
+<Sync time="27.845"/>
+<Event desc="babble" type="noise" extent="begin"/> <Event desc="int" type="noise" extent="next"/>sto siedemdziesiąt pięć a tutaj <Event desc="*" type="pronounce" extent="begin"/>znaczy<Event desc="*" type="pronounce" extent="end"/> sto osiemdziesiąt dziewięć tutaj na Dolinie Służewiec<Event desc="~" type="lexical" extent="begin"/>kiej<Event desc="~" type="lexical" extent="end"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="33.2194143677" endTime="34.135">
+<Sync time="33.2194143677"/>
+tak on jedzie Doliną 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="34.135" endTime="35.019">
+<Sync time="34.135"/>
+<Who nb="1"/>
+Służewiecką
+<Who nb="2"/>
+aha
+</Turn>
+<Turn speaker="spk2" startTime="35.019" endTime="36.523">
+<Sync time="35.019"/>
+<Event desc="sta" type="noise" extent="begin"/> aha i tylko tak można <Event desc="sta" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="36.523" endTime="38.189">
+<Sync time="36.523"/>
+no tak jest najlepiej najszybciej
+</Turn>
+<Turn speaker="spk2" startTime="38.189" endTime="39.106">
+<Sync time="38.189"/>
+tak dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="39.106" endTime="39.476">
+<Sync time="39.106"/>
+proszę 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.476" endTime="40.222">
+<Sync time="39.476"/>
+<Who nb="1"/>
+ <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> do widzenia
+<Who nb="2"/>
+do widzenia
+</Turn>
+<Turn startTime="40.222" endTime="41.497">
+<Sync time="40.222"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

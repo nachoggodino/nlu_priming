@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-20_11_12_43" version="3" version_date="080104">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="28.498" topic="to1">
+<Turn startTime="0" endTime="1.505">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.505" endTime="2.909">
+<Sync time="1.505"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx
+</Turn>
+<Turn speaker="spk2" startTime="2.909" endTime="10.374">
+<Sync time="2.909"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dzień dobry pani proszę pani czy trzydzieści pięć 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ z Broniewskiego do Placu Zbawiciela dojadę 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.374" endTime="12.728">
+<Sync time="10.374"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ trzydzieści pięć 
+<Event desc="babble" type="noise" extent="end"/>
+ tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="12.728" endTime="13.307">
+<Sync time="12.728"/>
+<Who nb="1"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+ bo podobno 
+</Turn>
+<Turn speaker="spk2" startTime="13.307" endTime="15.656">
+<Sync time="13.307"/>
+miała być zmiana zdaje 
+<Event desc="babble" type="noise" extent="begin"/>
+ się i 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.656" endTime="19.842">
+<Sync time="15.656"/>
+proszę pana nic się na razie nie zmieniło tramwaje jeżdżą tak jak jeździły
+</Turn>
+<Turn speaker="spk2" startTime="19.842" endTime="21.288">
+<Sync time="19.842"/>
+bo od dziewiętnastego miała być zmiana
+</Turn>
+<Turn speaker="spk1" startTime="21.288" endTime="22.582">
+<Sync time="21.288"/>
+tak ale nie weszła ta zmiana 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="22.582" endTime="22.967">
+<Sync time="22.582"/>
+<Who nb="1"/>
+proszę pa
+<Event desc="~" type="lexical" extent="begin"/>
+na
+<Event desc="~" type="lexical" extent="end"/>
+
+<Who nb="2"/>
+czyli
+</Turn>
+<Turn speaker="spk2" startTime="22.967" endTime="24.611">
+<Sync time="22.967"/>
+trzydzieści pięć dojadę do 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ do Placu 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="24.611" endTime="26.896">
+<Sync time="24.611"/>
+<Who nb="1"/>
+Zbawiciela 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ dziękuję do widzenia
+<Who nb="2"/>
+tak jest tak dziękuję do widzenia
+</Turn>
+<Turn startTime="26.896" endTime="28.498">
+<Sync time="26.896"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-29_10_18_28" version="3" version_date="070926">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="58.996" topic="to1">
+<Turn startTime="0" endTime="0.266">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.266" endTime="2.07">
+<Sync time="0.266"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.07" endTime="13.690">
+<Sync time="2.07"/>
+dzień dobry proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ zostałem inwalidą pierwszej grupy mam orzeczenie po komisji lekarskiej i
+<Event desc="int" type="noise" extent="previous"/>
+ chodzi mi żeby u państwa wyrobić coś bo podobnie są 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ mogę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jeździć 
+<Event desc="noise" type="noise" extent="begin"/>
+ autobusami po prostu bez opłaty 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.690" endTime="17.912">
+<Sync time="13.690"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to znaczy proszę pana to na podstawie tego orzeczenia ma pan bezpłatne przejazdy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.912" endTime="24.298">
+<Sync time="17.912"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+no
+<Event desc="*" type="pronounce" extent="end"/>
+ ja rozumiem ale to co co kartę po prostu czy coś to to to 
+<Event desc="babble" type="noise" extent="begin"/>
+ a jak 
+<Event desc="babble" type="noise" extent="end"/>
+ na przykład do metra wejść to to jak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.298" endTime="36.335">
+<Sync time="24.298"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana to wtedy u nas na przykład na Senatorskiej trzydzieści siedem bądź stacja metra Ratusz 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ stacja Świętokrzyska i stacja metra Plac Wilsona 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ tam są 
+<Event desc="babble" type="noise" extent="end"/>
+ punkty obsługi pasażera i może pan pobrać bezpłatne wejściówki do metra wtedy
+</Turn>
+<Turn speaker="spk2" startTime="36.335" endTime="42.73">
+<Sync time="36.335"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a 
+<Event desc="*" type="pronounce" extent="begin"/>
+jak
+<Event desc="*" type="pronounce" extent="end"/>
+ mam ja mam opiekę po prostu z osobą towarzyszącą to też tam po prostu jak to się załatwia 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="42.73" endTime="48.362">
+<Sync time="42.73"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to znaczy opiekun również ma bezpłatne przejazdy i może pan pobrać na przyk
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+ad dwie takie wejściówki i dla opiekuna 
+<Event desc="~" type="lexical" extent="begin"/>
+e
+<Event desc="~" type="lexical" extent="end"/>
+wentualnie
+</Turn>
+<Turn speaker="spk2" startTime="48.362" endTime="51.391">
+<Sync time="48.362"/>
+aha 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ dobrze dziękuję bardzo na Sena
+<Event desc="~" type="lexical" extent="begin"/>
+torskiej
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="51.391" endTime="51.743">
+<Sync time="51.391"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="51.743" endTime="52.753">
+<Sync time="51.743"/>
+mówi pan że załatwię
+</Turn>
+<Turn speaker="spk1" startTime="52.753" endTime="54.081">
+<Sync time="52.753"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+ na Senatorskiej tak
+</Turn>
+<Turn speaker="spk2" startTime="54.081" endTime="55.804">
+<Sync time="54.081"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha dobrze dziękuję bar
+<Event desc="~" type="lexical" extent="begin"/>
+dzo
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="55.804" endTime="56.212">
+<Sync time="55.804"/>
+dziękuję
+</Turn>
+<Turn startTime="56.212" endTime="58.996">
+<Sync time="56.212"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

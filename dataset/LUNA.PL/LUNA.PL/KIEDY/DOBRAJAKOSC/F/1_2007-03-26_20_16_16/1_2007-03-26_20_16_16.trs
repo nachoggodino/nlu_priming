@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-26_20_16_16" version="2" version_date="070907">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="45.497" topic="to1">
+<Turn startTime="0" endTime="0.838">
+<Sync time="0"/>
+
+</Turn>
+<Turn  speaker="spk1" startTime="0.838" endTime="3.42">
+<Sync time="0.838"/>
+dobry wieczór xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.42" endTime="17.318">
+<Sync time="3.42"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dobry wieczór chciałabym się dowiedzieć o której dokładnie będzie autobus <Event desc="filler" type="lexical" extent="instantaneous"/> sto osiemdziesiąt sześć <Event desc="int" type="noise" extent="instantaneous"/> na<Event desc="int" type="noise" extent="previous"/> przystanku Czorsztyńska w stronę Wilanowskiej <Event desc="filler" type="lexical" extent="instantaneous"/> no tak powiedzmy do dwudziestej pierwszej
+</Turn>
+<Turn speaker="spk1" startTime="17.318" endTime="24.485">
+<Sync time="17.318"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="*" type="pronounce" extent="begin"/>dobrze<Event desc="*" type="pronounce" extent="end"/> <Event desc="noise" type="noise" extent="end"/> <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="int" type="noise" extent="instantaneous"/> <Event desc="babble" type="noise" extent="begin"/> dwudziesta pierwsza zero cztery <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="24.485" endTime="25.973">
+<Sync time="24.485"/>
+nie nie od <Event desc="babble" type="noise" extent="begin"/> teraz do <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="25.973" endTime="27.487">
+<Sync time="25.973"/>
+<Who nb="1"/>
+dwudziestej pierwszej
+<Who nb="2"/>
+aha dobrze przepraszam
+</Turn>
+<Turn speaker="spk1" startTime="27.487" endTime="30.237">
+<Sync time="27.487"/>
+<Event desc="babble" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> dwudziesta dwadzieścia cztery <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="30.237" endTime="30.954">
+<Sync time="30.237"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="30.954" endTime="33.65">
+<Sync time="30.954"/>
+<Event desc="babble" type="noise" extent="begin"/> kolejny dwudziesta czterdzieści cztery <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="33.65" endTime="35.437">
+<Sync time="33.65"/>
+dwadzieścia cztery czterdzieści cztery
+</Turn>
+<Turn speaker="spk2 spk1" startTime="35.437" endTime="36.083">
+<Sync time="35.437"/>
+<Who nb="1"/>
+i potem
+<Who nb="2"/>
+dwudziesta
+</Turn>
+<Turn speaker="spk1" startTime="36.083" endTime="37.447">
+<Sync time="36.083"/>
+<Event desc="babble" type="noise" extent="begin"/> pierwsza zero <Event desc="babble" type="noise" extent="end"/> cztery
+</Turn>
+<Turn speaker="spk2" startTime="37.447" endTime="38.407">
+<Sync time="37.447"/>
+aha dobrze dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="38.407" endTime="39.503">
+<Sync time="38.407"/>
+<Who nb="1"/>
+panu bardzo
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="39.503" endTime="40.107">
+<Sync time="39.503"/>
+<Event desc="noise" type="noise" extent="begin"/> do usłyszenia <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="40.107" endTime="40.645">
+<Sync time="40.107"/>
+do usłyszenia
+</Turn>
+<Turn startTime="40.645" endTime="45.497">
+<Sync time="40.645"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

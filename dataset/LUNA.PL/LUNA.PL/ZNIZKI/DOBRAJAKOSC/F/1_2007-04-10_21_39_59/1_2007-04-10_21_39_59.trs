@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-10_21_39_59" version="3" version_date="071002">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="user and operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="273.983" topic="to1">
+<Turn startTime="0" endTime="0.466">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.466" endTime="2.474">
+<Sync time="0.466"/>
+dobry wieczór xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="2.474" endTime="28.327">
+<Sync time="2.474"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dobry wieczór panu proszę pana ja mam takie pytanie bo mam syna dwadzieścia dziewięć lat chorego na chorobę psychiczną <Event desc="filler" type="lexical" extent="instantaneous"/> on ma orzeczenie o stopniu nie <Event desc="*" type="pronounce" extent="begin"/>niepełnosprawności<Event desc="*" type="pronounce" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> zaliczony do grupy pier<Event desc="~" type="lexical" extent="begin"/>w<Event desc="~" type="lexical" extent="end"/>szej <Event desc="filler" type="lexical" extent="instantaneous"/> i <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> i pisze <Event desc="filler" type="lexical" extent="instantaneous"/> że do że jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> zaliczony<Event desc="int" type="noise" extent="previous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> do znacznego stopnia niepełnosprawności <Event desc="int" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="28.327" endTime="28.711">
+<Sync time="28.327"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="28.711" endTime="34.837">
+<Sync time="28.711"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> czy jemu przysługuje jakaś ulga na przejazdy komunikacji miejskiej <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="34.837" endTime="45.66">
+<Sync time="34.837"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> to znaczy proszę panią <Event desc="filler" type="lexical" extent="instantaneous"/> tutaj w tym przypadku <Event desc="*" type="pronounce" extent="begin"/>jeżeli<Event desc="*" type="pronounce" extent="end"/> ta osoba ma pierwszą grupę inwalidzką to na podstawie orzeczenia <Event desc="filler" type="lexical" extent="instantaneous"/> plus dokumentu tożsamości przysługują bezpłatne przejazdy
+</Turn>
+<Turn speaker="spk2" startTime="45.66" endTime="62.425">
+<Sync time="45.66"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> czy to się czy ja jeszcze mam gdzieś z tym pismem <Event desc="*" type="pronounce" extent="begin"/>bo<Event desc="*" type="pronounce" extent="end"/> w tej chwili jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> w szpitalu na leczeniu czy ja z takim orzeczeniem o stopniu niesp<Event desc="~" type="lexical" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> nie niepełnosprawności i z jego dowodem osobistym <Event desc="filler" type="lexical" extent="instantaneous"/> mam się gdzieś zgłosić o wydanie <Event desc="filler" type="lexical" extent="instantaneous"/> takiego biletu czy czy 
+</Turn>
+<Turn speaker="spk1" startTime="62.425" endTime="63.006">
+<Sync time="62.425"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> nie nie
+</Turn>
+<Turn speaker="spk2" startTime="63.006" endTime="64.502">
+<Sync time="63.006"/>
+<Event desc="babble" type="noise" extent="begin"/> pisma <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="64.502" endTime="72.077">
+<Sync time="64.502"/>
+nie nie to tutaj wystarczy dowód osobisty i orzeczenie <Event desc="filler" type="lexical" extent="instantaneous"/> i w momencie kontroli to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> poświadczeniem do tych bezpłatnych przejazdu te <Event desc="~" type="lexical" extent="begin"/>tu<Event desc="~" type="lexical" extent="end"/>taj żadne bilety nie są wydawane z tego tytułu
+</Turn>
+<Turn speaker="spk2" startTime="72.077" endTime="73.284">
+<Sync time="72.077"/>
+aha w ten sposób
+</Turn>
+<Turn speaker="spk1" startTime="73.284" endTime="73.561">
+<Sync time="73.284"/>
+tak
+</Turn>
+<Turn speaker="spk3" startTime="73.561" endTime="136.002">
+<Sync time="73.561"/>
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="136.002" endTime="144.369">
+<Sync time="136.002"/>
+czy nawet jeś<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>i on ma okresowy do dwutysięcznego na trzy lata dostał <Event desc="filler" type="lexical" extent="instantaneous"/> to też go upoważnia na przejazdy <Event desc="filler" type="lexical" extent="instantaneous"/> bezpłatne <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="144.369" endTime="147.703">
+<Sync time="144.369"/>
+tak proszę panią jeżeli tutaj na orzeczeniu tutaj nie ma znaczenia czy to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> okresowe czy
+</Turn>
+<Turn speaker="spk1 spk2" startTime="147.703" endTime="148.774">
+<Sync time="147.703"/>
+<Who nb="1"/>
+to jest bezterminowe
+<Who nb="2"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="148.774" endTime="153.606">
+<Sync time="148.774"/>
+jeżeli jest na orzeczeniu że to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> pierwsza grupa inwalidzka to już samo to upoważnia <Event desc="*" type="pronounce" extent="begin"/>tutaj do<Event desc="*" type="pronounce" extent="end"/> bezpłatnych przejazdów
+</Turn>
+<Turn speaker="spk2" startTime="153.606" endTime="154.673">
+<Sync time="153.606"/>
+a w ten spos<Event desc="~" type="lexical" extent="begin"/>ób<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="154.673" endTime="155.049">
+<Sync time="154.673"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="155.049" endTime="262.054">
+<Sync time="155.049"/>
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="262.054" endTime="267.277">
+<Sync time="262.054"/>
+to w taki razie już wiem <Event desc="filler" type="lexical" extent="instantaneous"/> że upoważnia to go do przejazdu bezpłatnego
+</Turn>
+<Turn speaker="spk1" startTime="267.277" endTime="268.485">
+<Sync time="267.277"/>
+do bezpłatnych przejazdów 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="268.485" endTime="269.002">
+<Sync time="268.485"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+dobrze
+</Turn>
+<Turn speaker="spk2" startTime="269.002" endTime="270.112">
+<Sync time="269.002"/>
+serdecznie dziękuje<Event desc="~" type="lexical" extent="begin"/>my<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="270.112" endTime="270.848">
+<Sync time="270.112"/>
+<Event desc="babble" type="noise" extent="begin"/> proszę bardzo <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1 spk2" startTime="270.848" endTime="271.487">
+<Sync time="270.848"/>
+<Who nb="1"/>
+dobranoc
+<Who nb="2"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="271.487" endTime="272.002">
+<Sync time="271.487"/>
+do widzenia
+</Turn>
+<Turn startTime="272.002" endTime="273.983">
+<Sync time="272.002"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

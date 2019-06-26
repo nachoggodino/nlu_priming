@@ -1,0 +1,14 @@
+<Frames>
+  <Set id="1" subset="1" span="word_31" frame="COMMERCE_BUY" head="kupować">
+    <Frame fe="1" span="word_29..word_30" concept_id="8" name="GOODS" />
+    <Frame fe="2" span="word_33..word_35" concept_id="10" name="RATE" />
+    <Frame fe="3" span="word_37" concept_id="12" name="RATE" />
+  </Set>
+  <Set id="2" subset="1" span="word_43" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_46..word_49" concept_id="14" name="POSSESSION" />
+  </Set>
+  <Set id="3" subset="1" span="word_54" frame="COMMERCE_BUY" head="kupować">
+    <Frame fe="1" span="word_55" concept_id="16" name="GOODS" />
+    <Frame fe="2" span="word_57..word_60" concept_id="17" name="RATE" />
+  </Set>
+</Frames>

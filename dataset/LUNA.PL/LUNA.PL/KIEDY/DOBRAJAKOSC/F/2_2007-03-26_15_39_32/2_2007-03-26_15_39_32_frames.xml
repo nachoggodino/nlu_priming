@@ -1,0 +1,36 @@
+<Frames>
+  <Set id="1" subset="1" span="word_7" frame="TOPIC" head="prosić">
+    <Frame fe="1" span="word_10..word_11,word_12..word_14" concept_id="6,7" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="1" span="word_29" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_25..word_27" concept_id="12" name="PLACE" />
+    <Frame fe="2" span="word_30..word_32,word_33" concept_id="15,16" name="ENTITY" />
+  </Set>
+  <Set id="3" subset="1" span="word_34" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_37..word_40" concept_id="19" name="LOCATION" />
+    <Frame fe="2" span="word_43" concept_id="21" name="PLACE" />
+  </Set>
+  <Set id="4" subset="1" span="word_44" frame="STATEMENT" head="mówić">
+    <Frame fe="1" span="word_45..word_46" concept_id="23" name="MESSAGE" />
+  </Set>
+  <Set id="5" subset="1" span="word_49" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_47" concept_id="24" name="PLACE" />
+    <Frame fe="2" span="word_48" concept_id="25" name="SELF_MOVER" />
+    <Frame fe="3" span="word_50..word_53" concept_id="27" name="GOAL" />
+  </Set>
+  <Set id="6" subset="1" span="word_65" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_60..word_62" concept_id="30" name="GOAL" />
+    <Frame fe="2" span="word_63" concept_id="31" name="SELF_MOVER" />
+    <Frame fe="3" span="word_64" concept_id="32" name="TIME" />
+  </Set>
+  <Set id="7" subset="3" span="word_71" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_68" concept_id="35" name="SELF_MOVER" />
+    <Frame fe="2" span="word_72..word_73" concept_id="37" name="GOAL" />
+  </Set>
+  <Set id="8" subset="1" span="word_82" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_81" concept_id="40" name="TOPIC" />
+  </Set>
+  <Set id="9" subset="2" span="word_90" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_92..word_94" concept_id="46" name="TIME" />
+  </Set>
+</Frames>

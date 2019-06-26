@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_08_17_09" version="3" version_date="091207">
+<Topics>
+<Topic id="to1" desc="male user, with background noise"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="47.997" topic="to1">
+<Turn startTime="0" endTime="0.767">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.767" endTime="2.865">
+<Sync time="0.767"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ dzień 
+<Event desc="int" type="noise" extent="next"/>
+xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.865" endTime="15.595">
+<Sync time="2.865"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ dzień dobry proszę pana ja będę jechał z Placu Wilsona 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do ale
+<Event desc="~" type="lexical" extent="previous"/>
+ Alei Stanów Zjednoczonych 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ pod numer pięćdziesiąt jeden gdzie ja mam wysiąść 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.595" endTime="31.919">
+<Sync time="15.595"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+już patrzę gdzie będzie ten numer dokładnie 
+<Event desc="sta" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.919" endTime="36.089">
+<Sync time="31.919"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ to tutaj może pan i pięćset piętnaście i pięćset dwadzieścia bo to jest przy Przyczółku Grochowskim 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="36.089" endTime="37.482">
+<Sync time="36.089"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ tak tak ale 
+<Event desc="*" type="pronounce" extent="begin"/>
+ właśnie 
+<Event desc="*" type="pronounce" extent="end"/>
+ chodzi 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="37.482" endTime="37.977">
+<Sync time="37.482"/>
+<Who nb="1"/>
+mnie o
+<Who nb="2"/>
+Przyczółek
+</Turn>
+<Turn speaker="spk1" startTime="37.977" endTime="39.332">
+<Sync time="37.977"/>
+Grochowski przystanek
+</Turn>
+<Turn speaker="spk2" startTime="39.332" endTime="40.636">
+<Sync time="39.332"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ Przyczółek Grochowski 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="40.636" endTime="41.291">
+<Sync time="40.636"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="41.291" endTime="42.295">
+<Sync time="41.291"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ aha dziękuję 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="42.295" endTime="43.121">
+<Sync time="42.295"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn startTime="43.121" endTime="47.997">
+<Sync time="43.121"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

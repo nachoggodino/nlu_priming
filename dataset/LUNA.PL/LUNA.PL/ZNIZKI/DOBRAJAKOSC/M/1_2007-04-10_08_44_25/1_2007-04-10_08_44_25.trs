@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-10_08_44_25" version="2" version_date="071001">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="49.997" topic="to1">
+<Turn startTime="0" endTime="1.057">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.057" endTime="3.183">
+<Sync time="1.057"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry xxx słucham <Event desc="int" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.183" endTime="25.584">
+<Sync time="3.183"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry nie wiem czy czy to właściwie ale chcia<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>em się dowiedzieć bo nie mogę się nigdzie dowiedzieć czy czy pan będzie mi w stanie udzielić informacji chodzi mi o to <Event desc="filler" type="lexical" extent="instantaneous"/> o bilety <Event desc="filler" type="lexical" extent="instantaneous"/> o jazdę <Event desc="noise" type="noise" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> w<Event desc="int" type="noise" extent="previous"/> tych w autobusach <Event desc="int" type="noise" extent="next"/>tramwajach kiedy się kończy <Event desc="noise" type="noise" extent="begin"/> siedemdziesiąt lat <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="25.584" endTime="29.937">
+<Sync time="25.584"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> osoby które ukończyły siedemdziesiąty rok życia mają prawo do przejazdu bezpłatnych
+</Turn>
+<Turn speaker="spk2" startTime="29.937" endTime="34.179">
+<Sync time="29.937"/>
+ale teraz czy<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>i czy to się liczy kiedy jest miesiąc czy rok już
+</Turn>
+<Turn speaker="spk1" startTime="34.179" endTime="37.128">
+<Sync time="34.179"/>
+<Event desc="babble" type="noise" extent="begin"/> to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> <Event desc="babble" type="noise" extent="end"/> liczy się konkretna data urodzin
+</Turn>
+<Turn speaker="spk2" startTime="37.128" endTime="39.415">
+<Sync time="37.128"/>
+urodzin czyli <Event desc="babble" type="noise" extent="begin"/> miesiąc <Event desc="babble" type="noise" extent="end"/> tak <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="39.415" endTime="40.731">
+<Sync time="39.415"/>
+<Event desc="babble" type="noise" extent="begin"/> dzień i miesiąc <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="40.731" endTime="45.838">
+<Sync time="40.731"/>
+aha <Event desc="silence" type="noise" extent="instantaneous"/> kiedy się kończy siedemdziesiąt dopiero można z tego korzystać ta<Event desc="~" type="lexical" extent="begin"/>k<Event desc="~" type="lexical" extent="end"/> <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="45.838" endTime="46.461">
+<Sync time="45.838"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="46.461" endTime="47.552">
+<Sync time="46.461"/>
+aha dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="47.552" endTime="48.238">
+<Sync time="47.552"/>
+<Event desc="*" type="pronounce" extent="begin"/>proszę<Event desc="*" type="pronounce" extent="end"/> bardzo
+</Turn>
+<Turn startTime="48.238" endTime="49.997">
+<Sync time="48.238"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

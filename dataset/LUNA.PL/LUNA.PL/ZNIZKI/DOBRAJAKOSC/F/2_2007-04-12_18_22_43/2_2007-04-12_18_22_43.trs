@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-12_18_22_43" version="3" version_date="071001">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="66.496" topic="to1">
+<Turn startTime="0" endTime="1.247">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.247" endTime="3.239">
+<Sync time="1.247"/>
+dzień dobry <Event desc="noise" type="noise" extent="begin"/> xxx <Event desc="noise" type="noise" extent="end"/> w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.239" endTime="15.612">
+<Sync time="3.239"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry chciałabym się <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> chcia<Event desc="~" type="lexical" extent="begin"/>ła<Event desc="~" type="lexical" extent="end"/>m kupić sobie bilet <Event desc="filler" type="lexical" extent="instantaneous"/> w Warszawie bo tutaj dopiero jestem od kilku dni i chcia<Event desc="~" type="lexical" extent="begin"/>ła<Event desc="~" type="lexical" extent="end"/>m się zapytać <Event desc="filler" type="lexical" extent="instantaneous"/> bilet ulgowy w jakiej <Event desc="*" type="pronounce" extent="begin"/>sytuacji<Event desc="*" type="pronounce" extent="end"/> mogę <Event desc="*" type="pronounce" extent="begin"/>kupić bilet<Event desc="*" type="pronounce" extent="end"/> <Event desc="int" type="noise" extent="next"/>ulgowy <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="15.612" endTime="19.396">
+<Sync time="15.612"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> bilet ulgowy z ulgą
+</Turn>
+<Turn speaker="spk2" startTime="19.396" endTime="24.753">
+<Sync time="19.396"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> to czy na jaką legitymację po prostu <Event desc="*" type="pronounce" extent="begin"/>przysługuje<Event desc="*" type="pronounce" extent="end"/> bilet ulgowy <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="24.753" endTime="26.008">
+<Sync time="24.753"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> ale cho<Event desc="~" type="lexical" extent="begin"/>dzi<Event desc="~" type="lexical" extent="end"/> pani 
+</Turn>
+<Turn speaker="spk2" startTime="26.008" endTime="30.882">
+<Sync time="26.008"/>
+<Event desc="babble" type="noise" extent="begin"/> bo mam legitymację <Event desc="babble" type="noise" extent="end"/>szkoły policealnej <Event desc="silence" type="noise" extent="instantaneous"/> a mam dwadzieścia cztery lata na <Event desc="*" type="pronounce" extent="begin"/>jaką<Event desc="*" type="pronounce" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> czy o
+</Turn>
+<Turn speaker="spk1" startTime="30.882" endTime="34.519">
+<Sync time="30.882"/>
+<Event desc="babble" type="noise" extent="begin"/> to niestety <Event desc="babble" type="noise" extent="end"/> nie przysługuje pani ulga
+</Turn>
+<Turn speaker="spk2" startTime="34.519" endTime="34.947">
+<Sync time="34.519"/>
+a
+</Turn>
+<Turn speaker="spk1" startTime="34.947" endTime="40.1559103302">
+<Sync time="34.947"/>
+ponieważ do dwudziestego pier<Event desc="~" type="lexical" extent="begin"/>w<Event desc="~" type="lexical" extent="end"/>szego roku życia tylko <Event desc="filler" type="lexical" extent="instantaneous"/> studenci szkół policealnych
+</Turn>
+<Turn speaker="spk2" startTime="40.1559103302" endTime="42.742">
+<Sync time="40.1559103302"/>
+aha a <Event desc="noise" type="noise" extent="begin"/> z legitymacja studencka <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="42.742" endTime="43.393">
+<Sync time="42.742"/>
+słucham 
+</Turn>
+<Turn speaker="spk2" startTime="43.393" endTime="46.084">
+<Sync time="43.393"/>
+a legitymacja studencka <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="46.084" endTime="58.071">
+<Sync time="46.084"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="~" type="lexical" extent="begin"/>z<Event desc="~" type="lexical" extent="end"/>naczy no miałaby pani ulgę pięćdziesiąt procent gdyby pani była studentką studiów licencjackich lub inżynierskich lub <Event desc="*" type="pronounce" extent="begin"/>magisterskich<Event desc="*" type="pronounce" extent="end"/> a jeżeli pani mówi że to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> jakaś stu<Event desc="~" type="lexical" extent="instantaneous"/> studium tak <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="58.071" endTime="59.329">
+<Sync time="58.071"/>
+tak <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="59.329" endTime="62.248">
+<Sync time="59.329"/>
+to niestety tutaj tylko do dwudziestego  pierwszego <Event desc="babble" type="noise" extent="begin"/> roku <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1 spk2" startTime="62.248" endTime="63.28">
+<Sync time="62.248"/>
+<Who nb="1"/>
+życia jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> zniżka
+<Who nb="2"/>
+dziękuję bardzo
+</Turn>
+<Turn startTime="63.28" endTime="66.496">
+<Sync time="63.28"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

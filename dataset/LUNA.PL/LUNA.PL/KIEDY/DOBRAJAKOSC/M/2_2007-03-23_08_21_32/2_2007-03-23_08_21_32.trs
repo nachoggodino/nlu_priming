@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_08_21_32" version="3" version_date="100912">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="39.498" topic="to1">
+<Turn startTime="0" endTime="0.889">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.889" endTime="3.081">
+<Sync time="0.889"/>
+dzień dobry xxx w czym mogę pomóc
+</Turn>
+<Turn speaker="spk2" startTime="3.081" endTime="13.627">
+<Sync time="3.081"/>
+dzień dobry ja chciałem się dowiedzieć się autobus siedemset siedemnaście z Piastowa z ulicy z przystanku Orzeszkowa zero 
+<Event desc="*" type="pronounce" extent="begin"/>
+jeden
+<Event desc="*" type="pronounce" extent="end"/>
+ w kierunku Warszawy tak około siódmej rano 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ jutro 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.627" endTime="15.751">
+<Sync time="13.627"/>
+siedemset szesnaście czy siedemnaście bo nie usłyszałem
+</Turn>
+<Turn speaker="spk2" startTime="15.751" endTime="16.666">
+<Sync time="15.751"/>
+siedemnaście
+</Turn>
+<Turn speaker="spk1" startTime="16.666" endTime="29.11">
+<Sync time="16.666"/>
+dobrze 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ proszę pana w dniu jutrzejszym w okolicach siódme
+<Event desc="~" type="lexical" extent="begin"/>
+j
+<Event desc="~" type="lexical" extent="end"/>
+ będzie o szóstej czterdzieści 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ trzy
+</Turn>
+<Turn speaker="spk2" startTime="29.11" endTime="30.188">
+<Sync time="29.11"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ za wcześnie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.188" endTime="32.372">
+<Sync time="30.188"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i kolejne o siódmej dwadzieścia trzy
+</Turn>
+<Turn speaker="spk2" startTime="32.372" endTime="35.923">
+<Sync time="32.372"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ o to siódma 
+<Event desc="noise" type="noise" extent="end"/>
+ dwadzieścia trzy to zdążę dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="35.923" endTime="36.646">
+<Sync time="35.923"/>
+proszę bardzo
+</Turn>
+<Turn startTime="36.646" endTime="39.498">
+<Sync time="36.646"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-12_17_54_33" version="4" version_date="080113">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="27.498" topic="to1">
+<Turn startTime="0" endTime="1.449">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.449" endTime="3.886">
+<Sync time="1.449"/>
+dzień dobry 
+<Event desc="noise" type="noise" extent="begin"/>
+ xxx w czym mogę 
+<Event desc="noise" type="noise" extent="end"/>
+ pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.886" endTime="14.96">
+<Sync time="3.886"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pani ja chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+em potwierdzić to że 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mając skończone siedemdziesiąt osiem lat 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mogę jeździć bezpłatnie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ transportem miejskim
+</Turn>
+<Turn speaker="spk1" startTime="14.96" endTime="18.675">
+<Sync time="14.96"/>
+tak tylko musi mieć pan przy sobie dowód 
+<Event desc="noise" type="noise" extent="begin"/>
+ osobisty 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="18.675" endTime="20.013">
+<Sync time="18.675"/>
+pokazujący datę tak
+</Turn>
+<Turn speaker="spk2 spk1" startTime="20.013" endTime="20.85">
+<Sync time="20.013"/>
+<Who nb="1"/>
+prawda 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="20.85" endTime="23.065">
+<Sync time="20.85"/>
+świetnie dziękuję 
+<Event desc="noise" type="noise" extent="begin"/>
+ uprzejmie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.065" endTime="24.149">
+<Sync time="23.065"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="24.149" endTime="24.859">
+<Sync time="24.149"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.859" endTime="25.539">
+<Sync time="24.859"/>
+do usłyszenia
+</Turn>
+<Turn startTime="25.539" endTime="27.498">
+<Sync time="25.539"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,76 @@
+<Frames>
+  <Set id="1" subset="1" span="word_34" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_35" concept_id="15" name="PHENOMENON" />
+    <Frame fe="2" span="word_36,word_37..word_38,word_39..word_40" concept_id="16,17,18" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_53" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_51..word_52" concept_id="23" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_54" concept_id="25" name="PHENOMENON" />
+  </Set>
+  <Set id="3" subset="1" span="word_65" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_63..word_64" concept_id="27" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_66..word_67" concept_id="29" name="PHENOMENON" />
+  </Set>
+  <Set id="4" subset="1" span="word_96" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_90..word_91" concept_id="37" name="VEHICLE" />
+    <Frame fe="2" span="word_94..word_95" concept_id="38" name="THEME" />
+  </Set>
+  <Set id="5" subset="1" span="word_107" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_105..word_106" concept_id="42" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="6" subset="1" span="word_110" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_108..word_109" concept_id="44" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_111" concept_id="46" name="PHENOMENON" />
+  </Set>
+  <Set id="7" subset="2" span="word_118" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_117" concept_id="48" name="PLACE" />
+    <Frame fe="2" span="word_120" concept_id="50" name="ENTITY" />
+    <Frame fe="3" span="word_121..word_123" concept_id="51" name="PLACE" />
+  </Set>
+  <Set id="8" subset="1" span="word_137" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_136" concept_id="59" name="LOCATION" />
+    <Frame fe="2" span="word_138..word_139" concept_id="61" name="PLACE" />
+  </Set>
+  <Set id="9" subset="1" span="word_150" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_147..word_148" concept_id="62" name="PLACE" />
+    <Frame fe="2" span="word_151" concept_id="64" name="THEME" />
+  </Set>
+  <Set id="10" subset="1" span="word_155" frame="END" head="kończyć">
+    <Frame fe="1" span="word_152" concept_id="65" name="PLACE" />
+    <Frame fe="2" span="word_153,word_154" concept_id="66,67" name="AGENT" />
+  </Set>
+  <Set id="11" subset="1" span="word_166" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_164..word_165" concept_id="71" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_167" concept_id="73" name="PHENOMENON" />
+  </Set>
+  <Set id="12" subset="4" span="word_169" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_168" concept_id="74" name="PLACE" />
+    <Frame fe="2" span="word_170..word_171" concept_id="76" name="ENTITY" />
+  </Set>
+  <Set id="13" subset="1" span="word_180" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_175..word_178" concept_id="79" name="PHENOMENON" />
+    <Frame fe="2" span="word_181..word_182" concept_id="81" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="14" subset="1" span="word_199" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_194" concept_id="86" name="GOAL" />
+    <Frame fe="2" span="word_197..word_198" concept_id="87" name="SELF_MOVER" />
+  </Set>
+  <Set id="15" subset="1" span="word_206" frame="END" head="kończyć">
+    <Frame fe="1" span="word_204" concept_id="92" name="PLACE" />
+    <Frame fe="2" span="word_207..word_208" concept_id="94" name="AGENT" />
+  </Set>
+  <Set id="16" subset="1" span="word_210" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_211..word_215" concept_id="96" name="ENTITY" />
+  </Set>
+  <Set id="17" subset="1" span="word_216" frame="END" head="kończyć">
+    <Frame fe="1" span="word_218..word_220" concept_id="98" name="AGENT" />
+  </Set>
+  <Set id="18" subset="1" span="word_223" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_221" concept_id="99" name="PLACE" />
+    <Frame fe="2" span="word_224..word_226" concept_id="102" name="ENTITY" />
+  </Set>
+  <Set id="19" subset="1" span="word_233" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_232" concept_id="105" name="PLACE" />
+    <Frame fe="2" span="word_234..word_236" concept_id="107" name="ENTITY" />
+  </Set>
+</Frames>

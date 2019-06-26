@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-03_10_41_52" version="5" version_date="080125">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="74.495" topic="to1">
+<Turn startTime="0" endTime="0.977">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.977" endTime="3.09">
+<Sync time="0.977"/>
+dzień dobry przy telefonie xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.09" endTime="5.953">
+<Sync time="3.09"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry panu mam taką uprzejmą prośbę do pana
+</Turn>
+<Turn speaker="spk1" startTime="5.953" endTime="7.011">
+<Sync time="5.953"/>
+ słucham
+</Turn>
+<Turn speaker="spk2" startTime="7.011" endTime="8.614">
+<Sync time="7.011"/>
+proszę pana jestem emerytem
+</Turn>
+<Turn speaker="spk1" startTime="8.614" endTime="9.074">
+<Sync time="8.614"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="9.074" endTime="13.421">
+<Sync time="9.074"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i korzystam proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z miejskich komunikacji z autobusów czerwonych
+</Turn>
+<Turn speaker="spk1" startTime="13.421" endTime="14.307">
+<Sync time="13.421"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="14.307" endTime="19.013">
+<Sync time="14.307"/>
+i na przykład z Okęcia do 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ na kierunek Szczaki tam 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="19.013" endTime="19.401">
+<Sync time="19.013"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="19.401" endTime="20.147">
+<Sync time="19.401"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ pan się orientuje 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.147" endTime="20.868">
+<Sync time="20.147"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="20.868" endTime="24.921">
+<Sync time="20.868"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ czy 
+<Event desc="*" type="pronounce" extent="begin"/>
+ja
+<Event desc="*" type="pronounce" extent="end"/>
+ płacę 
+<Event desc="noise" type="noise" extent="begin"/>
+ pół biletu złoty dwadzieścia pięć czy dwa pięćdziesiąt 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.921" endTime="29.566">
+<Sync time="24.921"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana to jest przejazd w dwóch strefach 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ biletowych 
+</Turn>
+<Turn speaker="spk2" startTime="29.566" endTime="29.749">
+<Sync time="29.566"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="29.749" endTime="32.398">
+<Sync time="29.749"/>
+to już proszę pana ja
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ pan wsiądzie na Okęciu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="32.398" endTime="32.715">
+<Sync time="32.398"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="32.715" endTime="35.974">
+<Sync time="32.715"/>
+to musi pan zapłaci pa
+<Event desc="~" type="lexical" extent="begin"/>
+n
+<Event desc="~" type="lexical" extent="end"/>
+ ma ulgę czterdzieści osiem procent dobrze zrozumiałem
+</Turn>
+<Turn speaker="spk2" startTime="35.974" endTime="36.559">
+<Sync time="35.974"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ak tak 
+<Event desc="babble" type="noise" extent="begin"/>
+ za 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.559" endTime="45.801">
+<Sync time="36.559"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dwa pięćdziesiąt 
+<Event desc="babble" type="noise" extent="begin"/>
+ musi 
+<Event desc="babble" type="noise" extent="end"/>
+ pan zapłacić tak bo to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ przejazd 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w dwóch strefach biletowych miejskiej podmiejskiej 
+<Event desc="*" type="pronounce" extent="begin"/>
+to jest
+<Event desc="*" type="pronounce" extent="end"/>
+ opłata 
+<Event desc="*" type="pronounce" extent="begin"/>
+wtedy
+<Event desc="*" type="pronounce" extent="end"/>
+ podwójna 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dwa pięćdziesiąt 
+</Turn>
+<Turn speaker="spk2" startTime="45.801" endTime="51.491">
+<Sync time="45.801"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze a druga 
+<Event desc="noise" type="noise" extent="end"/>
+ sprawa proszę pana a po ilu latach się w ogóle korzysta z takiego autobusu
+</Turn>
+<Turn speaker="spk1" startTime="51.491" endTime="54.373">
+<Sync time="51.491"/>
+po 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w darmowo 
+<Event desc="babble" type="noise" extent="begin"/>
+ chodzi bezpłatnie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="54.373" endTime="54.507">
+<Sync time="54.373"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ak
+</Turn>
+<Turn speaker="spk1" startTime="54.507" endTime="59.834">
+<Sync time="54.507"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ osoby które ukończyły siedemdziesiąty rok życia mają przejazdy bezpłatny i wystarczy tylko dowód osobis
+<Event desc="~" type="lexical" extent="begin"/>
+ty
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="59.834" endTime="61.215">
+<Sync time="59.834"/>
+z po siedemdziesię
+<Event desc="~" type="lexical" extent="begin"/>
+ciu
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="61.215" endTime="61.556">
+<Sync time="61.215"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="61.556" endTime="62.005">
+<Sync time="61.556"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="62.005" endTime="62.956">
+<Sync time="62.005"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ roku życia 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="62.956" endTime="63.513">
+<Sync time="62.956"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="63.513" endTime="67.308">
+<Sync time="63.513"/>
+już w dniu siedemdziesiątych urodzin już pan ma przejazdy 
+<Event desc="babble" type="noise" extent="begin"/>
+ bezpła
+<Event desc="~" type="lexical" extent="begin"/>
+tne
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="67.308" endTime="68.381">
+<Sync time="67.308"/>
+ dziękuję serdecznie 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="68.381" endTime="68.918">
+<Sync time="68.381"/>
+<Who nb="1"/>
+ wszystkiego 
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk2" startTime="68.918" endTime="70.109">
+<Sync time="68.918"/>
+dobrego 
+<Event desc="babble" type="noise" extent="begin"/>
+ Wesołych 
+<Event desc="babble" type="noise" extent="end"/>
+ Świąt
+</Turn>
+<Turn speaker="spk1" startTime="70.109" endTime="72.395">
+<Sync time="70.109"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dziękuję wzajemnie 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do widzenia
+</Turn>
+<Turn startTime="72.395" endTime="74.495">
+<Sync time="72.395"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

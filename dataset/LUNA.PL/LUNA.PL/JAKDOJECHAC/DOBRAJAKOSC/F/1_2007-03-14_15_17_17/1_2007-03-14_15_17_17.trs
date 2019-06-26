@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_15_17_17" version="5" version_date="071204">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="79.495" topic="to1">
+<Turn startTime="0" endTime="0.973">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.973" endTime="3.182">
+<Sync time="0.973"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.182" endTime="10.124">
+<Sync time="3.182"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę pana mógłby mi pan pomóc i powiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chciałabym
+<Event desc="int" type="noise" extent="previous"/>
+ dojechać
+<Event desc="int" type="noise" extent="previous"/>
+ do Promenady na Ostrobramskiej
+</Turn>
+<Turn speaker="spk1" startTime="10.124" endTime="11.551">
+<Sync time="10.124"/>
+a skąd 
+<Event desc="noise" type="noise" extent="begin"/>
+ będzie pani jechała 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="11.551" endTime="16.848">
+<Sync time="11.551"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Dworca Wschodniego 
+<Event desc="noise" type="noise" extent="end"/>
+ z Kijowskiej czy tam jest jakiś bezpośrednio 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.848" endTime="20.454">
+<Sync time="16.848"/>
+z Dworca Wschodniego nieste
+<Event desc="~" type="lexical" extent="begin"/>
+ty
+<Event desc="~" type="lexical" extent="end"/>
+ nie będzie żadnego bezpośredniego połączenia
+</Turn>
+<Turn speaker="spk2" startTime="20.454" endTime="29.48">
+<Sync time="20.454"/>
+a z 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Lubelskiej z 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ znaczy z Grochows
+<Event desc="~" type="lexical" extent="begin"/>
+kiej
+<Event desc="~" type="lexical" extent="end"/>
+ Zamoyskiego przy Teatrze Powszechnym tam sto trzydzieści pięć tu tak 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ podpowiedział czy tam dojadę 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.48" endTime="38.601">
+<Sync time="29.48"/>
+ale to także tak bezpośrednio pani nie dojedzie dojedzie pani do przystanku Zamieniecka i stamtąd jakieś czterysta metrów trzeba będzie podejść do Promenady
+</Turn>
+<Turn speaker="spk2" startTime="38.601" endTime="50.536">
+<Sync time="38.601"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ aha a jakimi tak przy 
+<Event desc="*" type="pronounce" extent="begin"/>
+Promenadzie
+<Event desc="*" type="pronounce" extent="end"/>
+ to jaki staje przy tutaj przy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ żeby z Targowej się do do 
+<Event desc="SYL" type="pronounce" extent="begin"/>
+dostać
+<Event desc="SYL" type="pronounce" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ na przykład 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ nie ma takiego 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="50.536" endTime="52.15">
+<Sync time="50.536"/>
+bezpośredniego niestety nie będzie
+</Turn>
+<Turn speaker="spk2" startTime="52.15" endTime="55.402">
+<Sync time="52.15"/>
+ aha 
+<Event desc="babble" type="noise" extent="begin"/>
+ czyli sto trzydzieści pięć dojadę i kawałek trzeba dojść ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="55.402" endTime="59.755">
+<Sync time="55.402"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+s
+<Event desc="~" type="lexical" extent="end"/>
+to trzydzieści pięć do Zamienieckiej ewentualnie może pani sto dwadzieścia trzy od Lubelsk
+<Event desc="~" type="lexical" extent="begin"/>
+iej
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="59.755" endTime="61.163">
+<Sync time="59.755"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ aha
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+o
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ w
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+aśnie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="61.163" endTime="68.046">
+<Sync time="61.163"/>
+i także do Zamienieckiej dojechać i tam 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ albo przejść te czterysta metrów albo podjechać autobusem pięćset dwa
+</Turn>
+<Turn speaker="spk1 spk2" startTime="68.046" endTime="70.537">
+<Sync time="68.046"/>
+<Who nb="1"/>
+ pięćset czternaście pięćset dwadzieścia
+<Who nb="2"/>
+aha aha aha aha aha
+</Turn>
+<Turn speaker="spk2" startTime="70.537" endTime="76.022">
+<Sync time="70.537"/>
+to nawet fajnie to wolę sto dwadzieścia trzy 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ pojechać 
+<Event desc="babble" type="noise" extent="begin"/>
+ od strony Lubelskiej 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="76.022" endTime="76.828">
+<Sync time="76.022"/>
+<Who nb="1"/>
+miłego dnia
+<Who nb="2"/>
+bardzo proszę
+</Turn>
+<Turn speaker="spk1" startTime="76.828" endTime="77.939">
+<Sync time="76.828"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dziękuję do do usłyszenia 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="77.939" endTime="79.495">
+<Sync time="77.939"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

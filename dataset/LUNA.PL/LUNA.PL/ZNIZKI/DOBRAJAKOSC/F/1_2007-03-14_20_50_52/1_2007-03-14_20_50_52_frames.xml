@@ -1,0 +1,30 @@
+<Frames>
+  <Set id="1" subset="3" span="word_15" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_18" concept_id="6" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_20" frame="BEING_IN_EFFECT" head="obowiązywać">
+    <Frame fe="1" span="word_21" concept_id="8" name="OBLIGATED_PARTY" />
+    <Frame fe="2" span="word_22..word_23" concept_id="9" name="BINDING_PRINCIPLE" />
+    <Frame fe="3" span="word_25" concept_id="10" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="3" subset="1" span="word_34" frame="ACTIVITY_FINISH" head="ukończyć">
+    <Frame fe="1" span="word_35..word_36" concept_id="12" name="ACTIVITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_59" frame="ENTITLED" head="korzystać">
+    <Frame fe="1" span="word_62" concept_id="19" name="PRIVILEGE" />
+  </Set>
+  <Set id="5" subset="1" span="word_69" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_68" concept_id="20" name="PRIVILEGE" />
+    <Frame fe="2" span="word_70..word_72" concept_id="22" name="BENEFICIARY" />
+  </Set>
+  <Set id="6" subset="1" span="word_74" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_73" concept_id="23" name="PRIVILEGE" />
+    <Frame fe="2" span="word_76..word_78" concept_id="25" name="TITLE" />
+  </Set>
+  <Set id="7" subset="1" span="word_81" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_83" concept_id="28" name="POSSESSION" />
+  </Set>
+  <Set id="8" subset="1" span="word_96" frame="ACTIVITY_FINISH" head="ukończyć">
+    <Frame fe="1" span="word_95" concept_id="30" name="ACTIVITY" />
+  </Set>
+</Frames>

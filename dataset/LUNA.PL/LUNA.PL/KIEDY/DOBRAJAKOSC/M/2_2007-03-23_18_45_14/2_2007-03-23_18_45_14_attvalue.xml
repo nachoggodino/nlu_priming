@@ -1,0 +1,33 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_6" attribute="TIME_DAYPERIOD" value="Evening" />
+  <concept id="5" span="word_11" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_13" attribute="ACTION" value="ToAsk" />
+  <concept id="7" span="word_14..word_17" attribute="SOURCE_STP" value="Broniewskiego Duracza" />
+  <concept id="8" span="word_18..word_20" attribute="GOAL_DIRECTION_RS" value="Dworzec Wschodni" />
+  <concept id="9" span="word_21..word_22" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="10" span="word_23" attribute="DEPARTURE" value="Nearest" />
+  <concept id="11" span="word_24..word_26" attribute="BUS" value="103" />
+  <concept id="12" span="word_27" attribute="ACTION" value="ToBe" />
+  <concept id="13" span="word_29" attribute="REACTION" value="Confirmation" />
+  <concept id="14" span="word_31" attribute="ACTION" value="Give" />
+  <concept id="15" span="word_32" attribute="REACTION" value="Confirmation" />
+  <concept id="16" span="word_34" attribute="REACTION" value="Confirmation" />
+  <concept id="17" span="word_35" attribute="ACTION" value="ToHave" />
+  <concept id="18" span="word_36..word_38" attribute="AT_HOUR" value="18 : 00" />
+  <concept id="19" span="word_39" attribute="REACTION" value="Negation" />
+  <concept id="20" span="word_40" attribute="ACTION" value="ToHave" />
+  <concept id="21" span="word_41..word_43" attribute="AT_HOUR" value="19 : 05" />
+  <concept id="22" span="word_44..word_46" attribute="AT_HOUR" value="19 : 05" />
+  <concept id="23" span="word_47" attribute="REACTION" value="Confirmation" />
+  <concept id="24" span="word_49..word_51" attribute="AT_HOUR" value="19 : 25" />
+  <concept id="25" span="word_53" attribute="DEPARTURE" value="Next" />
+  <concept id="26" span="word_55" attribute="AT_HOUR_PART" value="19" />
+  <concept id="27" span="word_58..word_59" attribute="AT_HOUR_MINPART" value="25" />
+  <concept id="28" span="word_60..word_61" attribute="AT_HOUR_MINPART" value="25" />
+  <concept id="29" span="word_62" attribute="REACTION" value="Confirmation" />
+  <concept id="30" span="word_66" attribute="PERSON_NAME" value="Teresa" />
+  <concept id="31" span="word_67" attribute="REACTION" value="Confirmation" />
+</concepts>

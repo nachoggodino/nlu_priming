@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-05_11_05_03" version="2" version_date="080113">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="66.867" topic="to1">
+<Turn startTime="0" endTime="1.28">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.28" endTime="3.614">
+<Sync time="1.28"/>
+dzień dobry 
+<Event desc="*" type="pronounce" extent="begin"/>
+przy
+<Event desc="*" type="pronounce" extent="end"/>
+ telefonie xxx 
+<Event desc="*" type="pronounce" extent="begin"/>
+słucham
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.614" endTime="16.005">
+<Sync time="3.614"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana ja 
+<Event desc="noise" type="noise" extent="begin"/>
+ chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am spytać bo wiem że teraz 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ się zmieniły przepisy chyba od listopada 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ i chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko zapytać że jestem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na świadczeniu przedemerytalnym czy mi 
+<Event desc="*" type="pronounce" extent="begin"/>
+się
+<Event desc="*" type="pronounce" extent="end"/>
+ należy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ zniżka 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ czy nie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.005" endTime="20.956">
+<Sync time="16.005"/>
+nie nie nie ale nie dostaje pani jeszcze tej emerytury właściwej takiej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.956" endTime="28.379">
+<Sync time="20.956"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ właściwej 
+<Event desc="int" type="noise" extent="next"/>
+nie 
+<Event desc="int" type="noise" extent="next"/>
+ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko 
+<Event desc="babble" type="noise" extent="begin"/>
+ dostaję 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dostaję przekaz pocztowy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ale jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+napisane
+<Event desc="*" type="pronounce" extent="end"/>
+ świadczenie 
+<Event desc="babble" type="noise" extent="begin"/>
+ przedemerytalne 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.379" endTime="39.165">
+<Sync time="28.379"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ nie proszę pani nie posia
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ momencik a to jest 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a ma pani imienną taką legitymację z ZUSu 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="39.165" endTime="39.945">
+<Sync time="39.165"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ legitymacji 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.945" endTime="40.692">
+<Sync time="39.945"/>
+<Who nb="1"/>
+nie mam
+<Who nb="2"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+nie
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.692" endTime="47.894">
+<Sync time="40.692"/>
+nie proszę pani 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie świadczenie emerytalne nie przysługuje tutaj 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no 
+<Event desc="*" type="pronounce" extent="begin"/>
+zniżką
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="47.894" endTime="48.558">
+<Sync time="47.894"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko emery
+<Event desc="~" type="lexical" extent="begin"/>
+tom
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="48.558" endTime="61.677">
+<Sync time="48.558"/>
+tylko ta właściwa emerytura musi 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ musi pani dostawać wtedy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dostanie pani oczywiście taką imie
+<Event desc="~" type="lexical" extent="begin"/>
+n
+<Event desc="~" type="lexical" extent="end"/>
+ną legitymację i na podstawie te
+<Event desc="~" type="lexical" extent="begin"/>
+j
+<Event desc="~" type="lexical" extent="end"/>
+ legitymacji 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wraz z dokumentem tożsamości czterdzieści osiem procent zniżki 
+</Turn>
+<Turn speaker="spk2" startTime="61.677" endTime="63.051">
+<Sync time="61.677"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha dobrze dziękuję bardzo 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="63.051" endTime="63.546">
+<Sync time="63.051"/>
+proszę
+</Turn>
+<Turn speaker="spk2" startTime="63.546" endTime="63.848">
+<Sync time="63.546"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="63.848" endTime="64.37">
+<Sync time="63.848"/>
+do widzenia
+</Turn>
+<Turn startTime="64.37" endTime="66.867">
+<Sync time="64.37"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

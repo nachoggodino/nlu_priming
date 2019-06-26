@@ -1,0 +1,48 @@
+<Frames>
+  <Set id="1" subset="1" span="word_27..word_28" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_21..word_23" concept_id="7" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_24..word_26" concept_id="8" name="CIRCUMSTANCES" />
+    <Frame fe="3" span="word_30" concept_id="10" name="PRIVILEGE" />
+  </Set>
+  <Set id="2" subset="1" span="word_34" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_35" concept_id="13" name="BENEFICIARY" />
+    <Frame fe="2" span="word_36" concept_id="14" name="TITLE" />
+  </Set>
+  <Set id="3" subset="1" span="word_39" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_40..word_41" concept_id="16" name="TITLE" />
+  </Set>
+  <Set id="4" subset="1" span="word_48" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_49..word_50" concept_id="18" name="PRIVILEGE" />
+    <Frame fe="2" span="word_54..word_55" concept_id="19" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="5" subset="1" span="word_71" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_67..word_68" concept_id="24" name="SELF_MOVER" />
+    <Frame fe="2" span="word_69..word_70" concept_id="25" name="FREQUENCY" />
+    <Frame fe="3" span="word_72..word_73" concept_id="27" name="GOAL" />
+  </Set>
+  <Set id="6" subset="1" span="word_76" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_78" concept_id="29" name="TOPIC" />
+  </Set>
+  <Set id="7" subset="1" span="word_101" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_99..word_100" concept_id="32" name="SELF_MOVER" />
+    <Frame fe="2" span="word_103..word_107" concept_id="34" name="TIME" />
+  </Set>
+  <Set id="8" subset="1" span="word_134" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_133" concept_id="44" name="SELF_MOVER" />
+    <Frame fe="2" span="word_136..word_138" concept_id="46" name="FREQUENCY" />
+  </Set>
+  <Set id="9" subset="1" span="word_148" frame="START" head="zaczynać">
+    <Frame fe="1" span="word_146..word_147" concept_id="50" name="TIME" />
+    <Frame fe="2" span="word_150..word_153" concept_id="52" name="TIME" />
+  </Set>
+  <Set id="10" subset="1" span="word_162" frame="MOTION" head="kursować">
+    <Frame fe="1" span="word_157..word_161" concept_id="54" name="TIME" />
+  </Set>
+  <Set id="11" subset="1" span="word_169" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_167..word_168" concept_id="57" name="FREQUENCY" />
+  </Set>
+  <Set id="12" subset="1" span="word_180" frame="MOTION" head="kursować">
+    <Frame fe="1" span="word_173..word_179" concept_id="59" name="TIME" />
+    <Frame fe="2" span="word_182..word_184" concept_id="61" name="FREQUENCY" />
+  </Set>
+</Frames>

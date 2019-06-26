@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_22_05_33" version="3" version_date="070601">
+<Topics>
+<Topic id="to1" desc="male user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="32.498" topic="to1">
+<Turn startTime="0" endTime="1.361">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.361" endTime="3.615">
+<Sync time="1.361"/>
+dobry wieczór xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.615" endTime="15.494">
+<Sync time="3.615"/>
+<Event desc="noise" type="noise" extent="begin"/> dobry wieczór mam takie <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> pytania <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> chciałbym się dowiedzieć <Event desc="filler" type="lexical" extent="instantaneous"/> sto sześćdziesiąt dziewięć z przystanku <Event desc="*" type="pronounce" extent="begin"/>Żuromińska<Event desc="*" type="pronounce" extent="end"/> w stronę Pragi <Event desc="filler" type="lexical" extent="instantaneous"/> i jutro tak gdzieś przed siódmą rano <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="15.494" endTime="16.394">
+<Sync time="15.494"/>
+w stronę Wschodniego <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="16.394" endTime="21.454">
+<Sync time="16.394"/>
+tak <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> stronę Wschodniego <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="begin"/> tak przed siódmą siódma coś ko<Event desc="~" type="lexical" extent="begin"/>ło<Event desc="~" type="lexical" extent="end"/> tego <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="21.454" endTime="24.616">
+<Sync time="21.454"/>
+ <Event desc="*" type="pronounce" extent="begin"/>proszę<Event desc="*" type="pronounce" extent="end"/> pana szósta czterdzieści jeden lub siódma jedenaście
+</Turn>
+<Turn speaker="spk2" startTime="24.616" endTime="26.755">
+<Sync time="24.616"/>
+<Event desc="noise" type="noise" extent="begin"/> szósta czterdzieści jeden <Event desc="noise" type="noise" extent="end"/> lub <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="26.755" endTime="27.678">
+<Sync time="26.755"/>
+siódma jedenaście
+</Turn>
+<Turn speaker="spk2" startTime="27.678" endTime="29.618">
+<Sync time="27.678"/>
+<Event desc="noise" type="noise" extent="begin"/> siódma jedenaście dobrze dziękuję <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="29.618" endTime="30.874">
+<Sync time="29.618"/>
+<Event desc="babble" type="noise" extent="begin"/> proszę bardzo dobranoc <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="30.874" endTime="32.498">
+<Sync time="30.874"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

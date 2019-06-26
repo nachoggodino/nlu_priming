@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-30_08_43_06" version="4" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="28.998" topic="to1">
+<Turn startTime="0" endTime="0.934">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.934" endTime="2.943">
+<Sync time="0.934"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.943" endTime="8.229">
+<Sync time="2.943"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry ja 
+<Event desc="*" type="pronounce" extent="begin"/>
+chciałam
+<Event desc="*" type="pronounce" extent="end"/>
+ się dowiedzie
+<Event desc="~" type="lexical" extent="begin"/>
+ć 
+<Event desc="~" type="lexical" extent="end"/>
+ do ilu lat dzieci nie płacą 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+za przejazdy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="next"/>
+autob
+<Event desc="~" type="lexical" extent="begin"/>
+u
+<Event desc="~" type="lexical" extent="end"/>
+sowe
+</Turn>
+<Turn speaker="spk1" startTime="8.229" endTime="21.797">
+<Sync time="8.229"/>
+do czasu objęcia obowiązkiem szkolnym proszę panią czyli do roku kalendarzowego w którym dziecko 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ kończy siedem lat do trzydziestego pierwszego sierpnia ma przejazdy bezpłatne od pierwszego września trzeba zacząć kupować 
+<Event desc="babble" type="noise" extent="begin"/>
+ bilet 
+<Event desc="babble" type="noise" extent="end"/>
+ jeżeli będzie 
+<Event desc="*" type="pronounce" extent="begin"/>
+potrzeba
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.797" endTime="23.954">
+<Sync time="21.797"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czyli taki pięciolatek jeszcze nie płaci 
+</Turn>
+<Turn speaker="spk1" startTime="23.954" endTime="24.178">
+<Sync time="23.954"/>
+nie
+</Turn>
+<Turn speaker="spk2" startTime="24.178" endTime="24.875">
+<Sync time="24.178"/>
+za przejazdy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.875" endTime="25.09">
+<Sync time="24.875"/>
+nie
+</Turn>
+<Turn speaker="spk2" startTime="25.09" endTime="26.236">
+<Sync time="25.09"/>
+dobrze dziękuję bardzo do
+</Turn>
+<Turn speaker="spk1" startTime="26.236" endTime="27.07">
+<Sync time="26.236"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę 
+<Event desc="babble" type="noise" extent="end"/>
+ do 
+<Event desc="*" type="pronounce" extent="begin"/>
+usłyszenia
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn startTime="27.07" endTime="28.998">
+<Sync time="27.07"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

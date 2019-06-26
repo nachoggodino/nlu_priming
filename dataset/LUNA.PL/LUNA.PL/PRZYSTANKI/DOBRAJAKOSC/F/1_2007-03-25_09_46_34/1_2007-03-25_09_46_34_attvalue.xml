@@ -1,0 +1,32 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_6" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_8" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_9..word_10" attribute="LOCATION_TOWN" value="Warszawa" />
+  <concept id="7" span="word_11..word_13" attribute="Q_LINE" value="Bus" />
+  <concept id="8" span="word_14" attribute="ACTION" value="Go" />
+  <concept id="9" span="word_15..word_16" attribute="GOAL_TD" value="Wilanów" />
+  <concept id="10" span="word_17..word_18" attribute="SOURCE_TD" value="Centrum" />
+  <concept id="11" span="word_19..word_20" attribute="SOURCE_TD" value="Centrum" />
+  <concept id="12" span="word_21..word_25" attribute="BUS" value="522" />
+  <concept id="13" span="word_29" attribute="ACTION" value="ToBe" />
+  <concept id="14" span="word_30" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="15" span="word_31" attribute="LOCATION_REL" value="There" />
+  <concept id="16" span="word_32..word_33" attribute="LOCATION_BLD" value="Cepelia" />
+  <concept id="17" span="word_34" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="18" span="word_35..word_37" attribute="SOURCE_RS" value="Dworzec Centralny" />
+  <concept id="19" span="word_38" attribute="REACTION" value="Negation" />
+  <concept id="20" span="word_40" attribute="REACTION" value="Negation" />
+  <concept id="21" span="word_41" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="22" span="word_42" attribute="ACTION" value="ToHave" />
+  <concept id="23" span="word_43" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="24" span="word_44..word_46" attribute="LOCATION_BLD" value="OPPSIDE Domy Centrum" />
+  <concept id="25" span="word_47..word_48" attribute="LOCATION_STR" value="Marszałkowska" />
+  <concept id="26" span="word_51" attribute="BUILDING_PART" value="Entry" />
+  <concept id="27" span="word_53" attribute="STOP_DESCRIPTION" value="MetroStationGeneral" />
+  <concept id="28" span="word_54..word_56" attribute="BUS" value="522" />
+  <concept id="29" span="word_57" attribute="Q_CONF" value="IsIt" />
+  <concept id="30" span="word_59" attribute="REACTION" value="Confirmation" />
+</concepts>

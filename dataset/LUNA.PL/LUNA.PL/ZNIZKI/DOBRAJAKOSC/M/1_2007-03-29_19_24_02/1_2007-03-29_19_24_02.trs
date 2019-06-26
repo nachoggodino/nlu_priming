@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-29_19_24_02" version="5" version_date="100912">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="34.498" topic="to1">
+<Turn startTime="0" endTime="0.455">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.455" endTime="1.861">
+<Sync time="0.455"/>
+dzień dobry xxx w czym mogę 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1.861" endTime="2.354">
+<Sync time="1.861"/>
+<Who nb="1"/>
+pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+dzień
+</Turn>
+<Turn speaker="spk2" startTime="2.354" endTime="11.116">
+<Sync time="2.354"/>
+dobry pan
+<Event desc="~" type="lexical" extent="begin"/>
+u
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ proszę pana chcia
+<Event desc="~" type="lexical" extent="begin"/>
+łe
+<Event desc="~" type="lexical" extent="end"/>
+m się dowiedzieć czy taki dziadek 
+<Event desc="noise" type="noise" extent="begin"/>
+ ponadsiedemdziesięcioletni emeryt może jeździć 
+<Event desc="babble" type="noise" extent="begin"/>
+ bezpłatnie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.116" endTime="12.39">
+<Sync time="11.116"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ jak najbardziej na podstawie dowodu osobistego
+</Turn>
+<Turn speaker="spk2" startTime="12.39" endTime="16.303">
+<Sync time="12.39"/>
+dowodu osobistego ale czy to musi być 
+<Event desc="int" type="noise" extent="next"/>
+warszawiak 
+<Event desc="babble" type="noise" extent="begin"/>
+ czy może być też spoza Warsza
+<Event desc="~" type="lexical" extent="begin"/>
+wy
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.303" endTime="18.939">
+<Sync time="16.303"/>
+może być nawet obywatel innego kraju aby miał 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ skończo
+<Event desc="~" type="lexical" extent="begin"/>
+ne
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="18.939" endTime="19.839">
+<Sync time="18.939"/>
+<Who nb="1"/>
+siedemdziesiąt lat
+<Who nb="2"/>
+siedemdziesiąt lat
+</Turn>
+<Turn speaker="spk1" startTime="19.839" endTime="20.281">
+<Sync time="19.839"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="20.281" endTime="22.922">
+<Sync time="20.281"/>
+aha i na wszystkie autobusy i tramwaje
+</Turn>
+<Turn speaker="spk1 spk2" startTime="22.922" endTime="23.191">
+<Sync time="22.922"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.191" endTime="24.282">
+<Sync time="23.191"/>
+oczywiście
+</Turn>
+<Turn speaker="spk2" startTime="24.282" endTime="25.821">
+<Sync time="24.282"/>
+dobrze w obrębie miasta i tam 
+</Turn>
+<Turn speaker="spk1" startTime="25.821" endTime="28.556">
+<Sync time="25.821"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana poza miastem również 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="28.556" endTime="29.713">
+<Sync time="28.556"/>
+też dziękuję uprzejmie
+</Turn>
+<Turn speaker="spk1" startTime="29.713" endTime="30.266">
+<Sync time="29.713"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę 
+<Event desc="babble" type="noise" extent="end"/>
+ bardzo
+</Turn>
+<Turn speaker="spk2" startTime="30.266" endTime="30.731">
+<Sync time="30.266"/>
+do 
+<Event desc="*" type="pronounce" extent="begin"/>
+widzenia
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.731" endTime="31.205">
+<Sync time="30.731"/>
+do usłyszenia
+</Turn>
+<Turn startTime="31.205" endTime="34.498">
+<Sync time="31.205"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

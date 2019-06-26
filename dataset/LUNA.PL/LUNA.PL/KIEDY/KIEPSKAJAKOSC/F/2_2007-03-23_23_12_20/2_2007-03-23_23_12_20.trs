@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_23_12_20" version="5" version_date="071114">
+<Topics>
+<Topic id="to1" desc="female user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="43.497" topic="to1">
+<Turn startTime="0" endTime="1.967">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.967" endTime="4.014">
+<Sync time="1.967"/>
+dobry wieczór 
+<Event desc="babble" type="noise" extent="begin"/>
+ xxx słucham 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="4.014" endTime="24.492">
+<Sync time="4.014"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę pana chodzi mi o 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ autobus sto siedemdziesiąt pięć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jadący 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ten przystanek przy Dworcu Centralnym w kierunku Okęcia lotniska od godziny szóstej do szóstej piętnaście czy jest 
+<Event desc="babble" type="noise" extent="begin"/>
+ taki 
+<Event desc="babble" type="noise" extent="end"/>
+ w sobotę 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.492" endTime="25.898">
+<Sync time="24.492"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ już sprawdzam 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.898" endTime="27.158">
+<Sync time="25.898"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ jutro 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="27.158" endTime="29.307">
+<Sync time="27.158"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Centralnego czy z Centrum 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+wyleciało
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="29.307" endTime="30.798">
+<Sync time="29.307"/>
+<Who nb="1"/>
+z głowy z Centralnego
+<Who nb="2"/>
+z Centralnego Dworca
+</Turn>
+<Turn speaker="spk1" startTime="30.798" endTime="35.802">
+<Sync time="30.798"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jest szósta zero zero i szósta piętnaście
+</Turn>
+<Turn speaker="spk2" startTime="35.802" endTime="38.52">
+<Sync time="35.802"/>
+szósta zero zero i szósta piętnaście tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.52" endTime="39.089">
+<Sync time="38.52"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="39.089" endTime="39.607">
+<Sync time="39.089"/>
+dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.607" endTime="40.53">
+<Sync time="39.607"/>
+<Who nb="1"/>
+bardzo dobranoc
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="40.53" endTime="41.037">
+<Sync time="40.53"/>
+dobranoc
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn startTime="41.037" endTime="43.497">
+<Sync time="41.037"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

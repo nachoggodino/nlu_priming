@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-10_12_50_01" version="3" version_date="071001">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="19.999" topic="to1">
+<Turn startTime="0" endTime="0.702">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.702" endTime="2.916">
+<Sync time="0.702"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry xxx słucham<Event desc="int" type="noise" extent="previous"/>
+</Turn>
+<Turn speaker="spk2" startTime="2.916" endTime="11.815">
+<Sync time="2.916"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry proszę pana ja mam takie pytanie <Event desc="int" type="noise" extent="next"/>mam ukończone dwadzieścia <Event desc="noise" type="noise" extent="begin"/> sześć lat chcia<Event desc="~" type="lexical" extent="begin"/>łe<Event desc="~" type="lexical" extent="end"/>m zapytać czy na legitymacje studenckie <Event desc="noise" type="noise" extent="end"/> dalej będę miał zniżki na <Event desc="SPELLED" type="pronounce" extent="begin"/>Z T M<Event desc="SPELLED" type="pronounce" extent="end"/> na kartę miejską <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="11.815" endTime="13.328">
+<Sync time="11.815"/>
+jeśli jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> pan studentem
+</Turn>
+<Turn speaker="spk2" startTime="13.328" endTime="13.478">
+<Sync time="13.328"/>
+<Event desc="babble" type="noise" extent="begin"/> tak <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="13.478" endTime="16.068">
+<Sync time="13.478"/>
+studiów <Event desc="noise" type="noise" extent="begin"/> pier<Event desc="~" type="lexical" extent="begin"/>w<Event desc="~" type="lexical" extent="end"/>szego albo drugiego <Event desc="noise" type="noise" extent="end"/> stopnia to tak
+</Turn>
+<Turn speaker="spk2" startTime="16.068" endTime="16.992">
+<Sync time="16.068"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dobrze <Event desc="*" type="pronounce" extent="begin"/>dziękuję<Event desc="*" type="pronounce" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="16.992" endTime="17.655">
+<Sync time="16.992"/>
+<Event desc="babble" type="noise" extent="begin"/> proszę bardzo <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="17.655" endTime="18.073">
+<Sync time="17.655"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="18.073" endTime="18.631">
+<Sync time="18.073"/>
+do usłyszenia
+</Turn>
+<Turn startTime="18.631" endTime="19.999">
+<Sync time="18.631"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

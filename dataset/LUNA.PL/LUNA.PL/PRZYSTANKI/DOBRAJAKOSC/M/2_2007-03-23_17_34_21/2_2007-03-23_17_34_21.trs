@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_17_34_21" version="4" version_date="070906">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="73.995" topic="to1">
+<Turn startTime="0" endTime="0.675">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.675" endTime="2.67">
+<Sync time="0.675"/>
+<Event desc="noise" type="noise" extent="begin"/> dzień <Event desc="*" type="pronounce" extent="begin"/>dobry<Event desc="*" type="pronounce" extent="end"/> xxx słucham <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="2.67" endTime="13.973">
+<Sync time="2.67"/>
+<Event desc="noise" type="noise" extent="begin"/> dzień dobry proszę panią chciałem <Event desc="filler" type="lexical" extent="instantaneous"/> tramwaj szóstka z Gocławka tam do stacji jedzie na jakim on się <Event desc="filler" type="lexical" extent="instantaneous"/> na <Event desc="filler" type="lexical" extent="instantaneous"/> zatrzymuje na przystanku ile jedzie z Gocławka <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/> 
+</Turn>
+<Turn speaker="spk1" startTime="13.973" endTime="14.935">
+<Sync time="13.973"/>
+ <Event desc="*" type="pronounce" extent="begin"/>dobrze<Event desc="*" type="pronounce" extent="end"/> dobrze z
+</Turn>
+<Turn speaker="spk1 spk2" startTime="14.935" endTime="15.942">
+<Sync time="14.935"/>
+<Who nb="1"/>
+ Gocław<Event desc="~" type="lexical" extent="instantaneous"/>
+<Who nb="2"/>
+do Intraco
+</Turn>
+<Turn speaker="spk2" startTime="15.942" endTime="17.542">
+<Sync time="15.942"/>
+do <Event desc="babble" type="noise" extent="begin"/> Intraco <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="17.542" endTime="30.43">
+<Sync time="17.542"/>
+do Intraco dobrze <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pana więc tak przejazd <Event desc="noise" type="noise" extent="begin"/> wynosi <Event desc="silence" type="noise" extent="instantaneous"/> to będzie <Event desc="noise" type="noise" extent="end"/> tak <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pana oko<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>o trzydziestu <Event desc="noise" type="noise" extent="begin"/> trzech minut <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="30.43" endTime="33.575">
+<Sync time="30.43"/>
+<Event desc="noise" type="noise" extent="begin"/> na jakim przystanku się <Event desc="noise" type="noise" extent="end"/> zatrzymuje <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="33.575" endTime="37.665">
+<Sync time="33.575"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> p<Event desc="~" type="lexical" extent="begin"/>r<Event desc="~" type="lexical" extent="end"/>oszę pana najbliżej to jest Klub Sportowy Polonia <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="37.665" endTime="39.238">
+<Sync time="37.665"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> a jak się przystanek <Event desc="noise" type="noise" extent="end"/> nazywa <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="39.238" endTime="44.001">
+<Sync time="39.238"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="*" type="pronounce" extent="begin"/>Klub<Event desc="*" type="pronounce" extent="end"/> Sportowy Polonia <Event desc="babble" type="noise" extent="begin"/> na ulicy <Event desc="babble" type="noise" extent="end"/> Międzyparkowej <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="44.001" endTime="46.497">
+<Sync time="44.001"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> a to nie Muranowska przypadkiem <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="46.497" endTime="46.797">
+<Sync time="46.497"/>
+nie
+</Turn>
+<Turn speaker="spk2" startTime="46.797" endTime="47.462">
+<Sync time="46.797"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="47.462" endTime="49.743">
+<Sync time="47.462"/>
+dla szóstki nie <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="49.743" endTime="52.004">
+<Sync time="49.743"/>
+<Event desc="noise" type="noise" extent="begin"/> aha <Event desc="noise" type="noise" extent="end"/> <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="52.004" endTime="53.819">
+<Sync time="52.004"/>
+<Who nb="1"/>
+znaczy dla szóstki przystanek 
+<Who nb="2"/>
+ <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> daleko to jest
+</Turn>
+<Turn speaker="spk2" startTime="53.819" endTime="58.191">
+<Sync time="53.819"/>
+daleko to się idzie od tego przystanku do <Event desc="babble" type="noise" extent="begin"/> Intraco <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="58.191" endTime="67.153">
+<Sync time="58.191"/>
+<Event desc="babble" type="noise" extent="begin"/> proszę pana <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/> czy jakby trzeba przejść na drugą stronę <Event desc="babble" type="noise" extent="begin"/> i <Event desc="babble" type="noise" extent="end"/> tu wejść w ulicę Andersa <Event desc="int" type="noise" extent="instantaneous"/> i zaraz tam będzie ulica <Event desc="babble" type="noise" extent="begin"/> no kawałek <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1 spk2" startTime="67.153" endTime="67.402">
+<Sync time="67.153"/>
+<Who nb="1"/>
+ trz<Event desc="~" type="lexical" extent="begin"/>eb<Event desc="~" type="lexical" extent="end"/>a
+<Who nb="2"/>
+Klub
+</Turn>
+<Turn speaker="spk2" startTime="67.402" endTime="67.93">
+<Sync time="67.402"/>
+Sportowy 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="67.93" endTime="68.584">
+<Sync time="67.93"/>
+<Who nb="1"/>
+Polonia <Event desc="?" type="lexical" extent="instantaneous"/>
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="68.584" endTime="70.623">
+<Sync time="68.584"/>
+i wtedy będzie najbliżej
+</Turn>
+<Turn speaker="spk2" startTime="70.623" endTime="71.718">
+<Sync time="70.623"/>
+dobrze dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="71.718" endTime="72.223">
+<Sync time="71.718"/>
+<Event desc="noise" type="noise" extent="begin"/> dziękuję <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="72.223" endTime="73.995">
+<Sync time="72.223"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

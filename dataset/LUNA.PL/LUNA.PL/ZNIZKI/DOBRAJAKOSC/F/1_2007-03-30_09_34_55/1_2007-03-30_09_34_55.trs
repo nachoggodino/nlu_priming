@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-30_09_34_55" version="7" version_date="080423">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="70.496" topic="to1">
+<Turn startTime="0" endTime="0.806">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.806" endTime="2.7">
+<Sync time="0.806"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry xxx 
+<Event desc="noise" type="noise" extent="end"/>
+ w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.7" endTime="3.457">
+<Sync time="2.7"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3.457" endTime="4.344">
+<Sync time="3.457"/>
+<Who nb="1"/>
+proszę
+<Who nb="2"/>
+dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="4.344" endTime="10.786">
+<Sync time="4.344"/>
+proszę pana ja chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ła
+<Event desc="~" type="lexical" extent="end"/>
+m się dowiedzieć czy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ osoba niezdolna do pracy to znaczy rencista
+</Turn>
+<Turn speaker="spk1" startTime="10.786" endTime="11.091">
+<Sync time="10.786"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="11.091" endTime="18.244">
+<Sync time="11.091"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jest to częściowa niezdolność do pracy czy ma prawo do przejazdó
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+ ulgowych 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ tak jak
+</Turn>
+<Turn speaker="spk1" startTime="18.244" endTime="20.222">
+<Sync time="18.244"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to znaczy a pobiera rentę z tego tytułu 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.222" endTime="21.223">
+<Sync time="20.222"/>
+jak 
+<Event desc="noise" type="noise" extent="begin"/>
+ najbardziej 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="21.223" endTime="26.686">
+<Sync time="21.223"/>
+proszę panią to na podstawie legitymacji 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ rencisty przysługuje ulga czterdzieści osiem procent
+</Turn>
+<Turn speaker="spk2" startTime="26.686" endTime="31.989">
+<Sync time="26.686"/>
+aha i 
+<Event desc="int" type="noise" extent="next"/>
+bez względu na to jak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jaka to jest niezdolność czy częściowa czy 
+<Event desc="noise" type="noise" extent="begin"/>
+ całkowita 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.989" endTime="39.476">
+<Sync time="31.989"/>
+to znaczy 
+<Event desc="*" type="pronounce" extent="begin"/>
+jeżeli byłaby
+<Event desc="*" type="pronounce" extent="end"/>
+ całkowita niezdolność do pracy i samodzielnej egzystencji czyli dawna pierwsza grupa 
+<Event desc="noise" type="noise" extent="begin"/>
+ to wtedy 
+<Event desc="noise" type="noise" extent="end"/>
+ przyjazdy bezpłatne
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ natomiast w tym 
+<Event desc="babble" type="noise" extent="begin"/>
+ przypadku 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="39.476" endTime="39.948">
+<Sync time="39.476"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="39.948" endTime="43.277">
+<Sync time="39.948"/>
+bo tutaj jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ dawny stopień 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ten drugi 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ czyli 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="43.277" endTime="43.803">
+<Sync time="43.277"/>
+<Who nb="1"/>
+umiarkowa
+<Event desc="~" type="lexical" extent="begin"/>
+ne
+<Event desc="~" type="lexical" extent="end"/>
+
+<Who nb="2"/>
+nie nie nie
+</Turn>
+<Turn speaker="spk2" startTime="43.803" endTime="50.536">
+<Sync time="43.803"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ pytam 
+<Event desc="babble" type="noise" extent="end"/>
+ się o 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ o tak jak 
+<Event desc="int" type="noise" extent="next"/>
+przysługuje też dodatek pielęgnacyjny tylko albo całkowita niezdolność do pracy albo częściowa nie
+<Event desc="~" type="lexical" extent="begin"/>
+zdolność
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="50.536" endTime="51.478">
+<Sync time="50.536"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to jeżeli 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="51.478" endTime="53.679">
+<Sync time="51.478"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i 
+<Event desc="babble" type="noise" extent="end"/>
+ niezdolności do 
+<Event desc="int" type="noise" extent="next"/>
+samodzielnej egzystencji
+</Turn>
+<Turn speaker="spk1" startTime="53.679" endTime="56.014">
+<Sync time="53.679"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę panią
+<Event desc="*" type="pronounce" extent="end"/>
+ to jeżeli ta osoba pobiera rentę z
+</Turn>
+<Turn speaker="spk1 spk2" startTime="56.014" endTime="57.782">
+<Sync time="56.014"/>
+<Who nb="1"/>
+tego tytułu jeszcze częściowo niezdolny
+<Who nb="2"/>
+pobiera ma legitymację
+</Turn>
+<Turn speaker="spk1" startTime="57.782" endTime="60.429">
+<Sync time="57.782"/>
+do pracy tak to jak najbardziej ulga czterdzieści osiem pro
+<Event desc="~" type="lexical" extent="begin"/>
+cent
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="60.429" endTime="63.53">
+<Sync time="60.429"/>
+ aha dziękuj
+<Event desc="~" type="lexical" extent="begin"/>
+ę
+<Event desc="~" type="lexical" extent="end"/>
+ i to jest na wszystkie autobusy tramwaje
+</Turn>
+<Turn speaker="spk1" startTime="63.53" endTime="65.147">
+<Sync time="63.53"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dokładnie tak dokładnie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="65.147" endTime="66.209">
+<Sync time="65.147"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dziękuję ślicznie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="66.209" endTime="66.866">
+<Sync time="66.209"/>
+<Who nb="1"/>
+do widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="66.866" endTime="67.359">
+<Sync time="66.866"/>
+do widzenia
+</Turn>
+<Turn startTime="67.359" endTime="70.496">
+<Sync time="67.359"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

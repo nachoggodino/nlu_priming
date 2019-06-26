@@ -1,0 +1,28 @@
+<Frames>
+  <Set id="1" subset="1" span="word_12" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_13..word_15" concept_id="5" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_17" frame="BOARD_VEHICLE" head="wsiąść">
+    <Frame fe="1" span="word_18" concept_id="7" name="PLACE" />
+    <Frame fe="2" span="word_21..word_22" concept_id="8" name="VEHICLE" />
+    <Frame fe="3" span="word_25" concept_id="10" name="VEHICLE" />
+    <Frame fe="4" span="word_26..word_28" concept_id="11" name="DIRECTION" />
+  </Set>
+  <Set id="3" subset="1" span="word_30" frame="ESCAPING" head="wysiąść">
+    <Frame fe="1" span="word_31..word_33" concept_id="14" name="PLACE" />
+  </Set>
+  <Set id="4" subset="1" span="word_37" frame="TRAVERSING" head="przejeżdżać">
+    <Frame fe="1" span="word_35" concept_id="16" name="THEME" />
+    <Frame fe="2" span="word_36" concept_id="17" name="PLACE" />
+  </Set>
+  <Set id="5" subset="1" span="word_41" frame="MOTION" head="wracać">
+    <Frame fe="1" span="word_42..word_44" concept_id="22" name="GOAL" />
+  </Set>
+  <Set id="6" subset="1" span="word_51" frame="PATH_SHAPE" head="okrążać">
+    <Frame fe="1" span="word_50" concept_id="25" name="PATH" />
+    <Frame fe="2" span="word_53" concept_id="27" name="PATH" />
+  </Set>
+  <Set id="7" subset="1" span="word_58" frame="SELF_MOTION" head="zawracać">
+    <Frame fe="1" span="word_59..word_61" concept_id="29" name="GOAL" />
+  </Set>
+</Frames>

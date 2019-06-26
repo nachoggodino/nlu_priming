@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_22_00_15" version="4" version_date="070907">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="138.491" topic="to1">
+<Turn startTime="0" endTime="0.708">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.708" endTime="2.923">
+<Sync time="0.708"/>
+dobry wieczór xxx <Event desc="babble" type="noise" extent="begin"/> słucham <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="2.923" endTime="19.116">
+<Sync time="2.923"/>
+dobry wieczór chciałam <Event desc="babble" type="noise" extent="begin"/> się <Event desc="babble" type="noise" extent="end"/> dowiedzieć <Event desc="filler" type="lexical" extent="instantaneous"/> o której godzinie odchodzi <Event desc="filler" type="lexical" extent="instantaneous"/> z przystanku przy ulicy Kosiarzy w stronę pętli w Wilanowie <Event desc="filler" type="lexical" extent="instantaneous"/> autobus linii sto osiemdziesiąt i pięćset dwadzieścia dwa chodzi mi o godzinę tak gdzieś <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="begin"/> czy będzie to za dziesięć siódma czy za pięć siódma tak przed siódmą <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="19.116" endTime="23.867">
+<Sync time="19.116"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dobrze czy<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>i tak przystanek <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="begin"/> Kosiarzy <Event desc="babble" type="noise" extent="end"/> w z kierunku którym pani <Event desc="babble" type="noise" extent="begin"/> mówiła <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="23.867" endTime="25.076">
+<Sync time="23.867"/>
+do Wilanowa do <Event desc="babble" type="noise" extent="begin"/> pętli <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="25.076" endTime="26.233">
+<Sync time="25.076"/>
+<Who nb="1"/>
+w Wilanowie to jest ostatni przystanek
+<Who nb="2"/>
+a do pętli w Wila<Event desc="~" type="lexical" extent="begin"/>nowie<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="26.233" endTime="26.822">
+<Sync time="26.233"/>
+przed pętlą
+</Turn>
+<Turn speaker="spk1" startTime="26.822" endTime="29.878">
+<Sync time="26.822"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> tak zgadza się proszę pani to mamy tak dzisiaj tak <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="29.878" endTime="31.161">
+<Sync time="29.878"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> znaczy jutro rano
+</Turn>
+<Turn speaker="spk2 spk1" startTime="31.161" endTime="31.472">
+<Sync time="31.161"/>
+<Who nb="1"/>
+przed
+<Who nb="2"/>
+a 
+</Turn>
+<Turn speaker="spk1" startTime="31.472" endTime="32.019">
+<Sync time="31.472"/>
+jutro ra<Event desc="~" type="lexical" extent="begin"/>no<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="32.019" endTime="33.199">
+<Sync time="32.019"/>
+jutro rano przed siódmą tak
+</Turn>
+<Turn speaker="spk1" startTime="33.199" endTime="38.749">
+<Sync time="33.199"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> przed siódmą proszę bardzo proszę pani to mamy tak <Event desc="filler" type="lexical" extent="instantaneous"/> szósta czterdzieści trzy
+</Turn>
+<Turn speaker="spk2" startTime="38.749" endTime="40.122">
+<Sync time="38.749"/>
+ <Event desc="noise" type="noise" extent="begin"/> <Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/>ak <Event desc="noise" type="noise" extent="end"/> 
+</Turn>
+<Turn speaker="spk1" startTime="40.122" endTime="43.698">
+<Sync time="40.122"/>
+<Event desc="noise" type="noise" extent="begin"/> ty<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>ko momencik dobrze ja zobaczę <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> czy nie będzie jutro zmiany rozkładu jazdy przypadkiem <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="43.698" endTime="44.335">
+<Sync time="43.698"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="*" type="pronounce" extent="begin"/>dobrze<Event desc="*" type="pronounce" extent="end"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="44.335" endTime="66.852">
+<Sync time="44.335"/>
+<Event desc="noise" type="noise" extent="begin"/> momencik dobrze <Event desc="silence" type="noise" extent="instantaneous"/> momencik bo jeszcze na jutro nie mam ustawionego <Event desc="filler" type="lexical" extent="instantaneous"/> a na wszelki wypadek sprawdzę że panią w błąd nie <Event desc="babble" type="noise" extent="begin"/> wprowadzić <Event desc="babble" type="noise" extent="end"/> <Event desc="silence" type="noise" extent="instantaneous"/> dobrze mam już sto osiemdziesiąt kierunek Wilanów Kosiarzy <Event desc="noise" type="noise" extent="end"/> i przed siódmą miało <Event desc="babble" type="noise" extent="begin"/> być <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/> 
+</Turn>
+<Turn speaker="spk2" startTime="66.852" endTime="67.051">
+<Sync time="66.852"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="67.051" endTime="70.867">
+<Sync time="67.051"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> proszę uprzejmie proszę pani to mamy tak szósta czterdzieści trzy
+</Turn>
+<Turn speaker="spk2" startTime="70.867" endTime="71.362">
+<Sync time="70.867"/>
+<Event desc="noise" type="noise" extent="begin"/> tak <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="71.362" endTime="73.104">
+<Sync time="71.362"/>
+bo potem jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> siódma zero dwie
+</Turn>
+<Turn speaker="spk2" startTime="73.104" endTime="75.67">
+<Sync time="73.104"/>
+<Event desc="noise" type="noise" extent="begin"/> aha <Event desc="filler" type="lexical" extent="instantaneous"/> a pięćset dwadzieścia dwa <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="75.67" endTime="90.549">
+<Sync time="75.67"/>
+<Event desc="noise" type="noise" extent="begin"/> a pięćset dwadzieścia dwa proszę bardzo już podaję <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/> proszę pani mamy tak szósta trzydzieści jeden i pięćdziesiąt cztery
+</Turn>
+<Turn speaker="spk2" startTime="90.549" endTime="91.023">
+<Sync time="90.549"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="91.023" endTime="92.452">
+<Sync time="91.023"/>
+i siódma zero dziewięć
+</Turn>
+<Turn speaker="spk2" startTime="92.452" endTime="99.133">
+<Sync time="92.452"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> a jeszcze mam takie pytanie bo tam również staje autobus ty<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>ko w<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>aśnie nie pamiętam czy sto sześćdziesiąt trzy czy sto sześćdziesiąt cztery <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="99.133" endTime="100.0">
+<Sync time="99.133"/>
+<Event desc="noise" type="noise" extent="begin"/> na Kosiarzy <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="100.0" endTime="101.021">
+<Sync time="100.0"/>
+<Who nb="1"/>
+tak i jeśli
+<Who nb="2"/>
+już sprawdzamy
+</Turn>
+<Turn speaker="spk2" startTime="101.021" endTime="107.152">
+<Sync time="101.021"/>
+<Event desc="noise" type="noise" extent="begin"/> tak to też o tą samą godzinę <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="babble" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="107.152" endTime="109.292">
+<Sync time="107.152"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> sto sześćdziesiąt cztery
+</Turn>
+<Turn speaker="spk2" startTime="109.292" endTime="109.493">
+<Sync time="109.292"/>
+ <Event desc="noise" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="109.493" endTime="134.822">
+<Sync time="109.493"/>
+<Event desc="noise" type="noise" extent="begin"/> dobrze już sprawdzam <Event desc="silence" type="noise" extent="instantaneous"/> dobrze mamy sto sześćdziesiąt cztery tutaj kierunek <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pani to mamy tak <Event desc="silence" type="noise" extent="instantaneous"/> dobrze mamy Kosiarzy <Event desc="noise" type="noise" extent="end"/> proszę proszę pani to jest tak szósta dwadzieścia sześć i pięćdziesiąt jeden <Event desc="int" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="134.822" endTime="136.168">
+<Sync time="134.822"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dziękuję pani uprzejmie
+</Turn>
+<Turn speaker="spk1 spk2" startTime="136.168" endTime="136.898">
+<Sync time="136.168"/>
+<Who nb="1"/>
+dziękuję
+<Who nb="2"/>
+dobranoc
+</Turn>
+<Turn speaker="spk1" startTime="136.898" endTime="137.544">
+<Sync time="136.898"/>
+<Event desc="noise" type="noise" extent="begin"/> dobranoc <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="137.544" endTime="138.491">
+<Sync time="137.544"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

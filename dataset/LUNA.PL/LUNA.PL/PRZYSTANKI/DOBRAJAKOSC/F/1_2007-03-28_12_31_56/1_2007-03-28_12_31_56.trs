@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-28_12_31_56" version="6" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="91.494" topic="to1">
+<Turn startTime="0" endTime="0.463">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.463" endTime="1.105">
+<Sync time="0.463"/>
+xxx 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1.105" endTime="1.671">
+<Sync time="1.105"/>
+<Who nb="1"/>
+dzień
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień
+</Turn>
+<Turn speaker="spk2" startTime="1.671" endTime="9.59">
+<Sync time="1.671"/>
+dobry proszę pana czy autobus pięćset dwadzieścia nie zmienił trasy i ląduje za 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Placem 
+<Event desc="en" type="language" extent="begin"/>
+Wilson
+<Event desc="en" type="language" extent="end"/>
+a 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.59" endTime="12.875">
+<Sync time="9.59"/>
+pięćset dwadzieścia na Chomiczówkę aż jedzie 
+</Turn>
+<Turn speaker="spk2" startTime="12.875" endTime="19.804">
+<Sync time="12.875"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no nie nie mnie chodzi konkretnie o przystanek tak jak na na planie widziałam za 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ za Placem 
+<Event desc="en" type="language" extent="begin"/>
+Wilson
+<Event desc="en" type="language" extent="end"/>
+a na Krasińskiego czy on jest 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ ten 
+<Event desc="babble" type="noise" extent="begin"/>
+ przystane
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="19.804" endTime="27.775">
+<Sync time="19.804"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ już sprawdzę bo on skręca w Krasińskiego 
+<Event desc="*" type="pronounce" extent="begin"/>
+tylko
+<Event desc="*" type="pronounce" extent="end"/>
+ zaraz zobaczę jak się będzie nazywał jadąc w kierunku Chomiczówki 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ w kierunku Chomiczówki
+</Turn>
+<Turn speaker="spk2" startTime="27.775" endTime="31.198">
+<Sync time="27.775"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja mówię jadę w kierunku Żoliborza 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.198" endTime="33.019">
+<Sync time="31.198"/>
+no 
+<Event desc="*" type="pronounce" extent="begin"/>
+Żoliborz
+<Event desc="*" type="pronounce" extent="end"/>
+ to Plac Wilsona
+</Turn>
+<Turn speaker="spk2" startTime="33.019" endTime="33.722">
+<Sync time="33.019"/>
+no
+</Turn>
+<Turn speaker="spk1" startTime="33.722" endTime="36.941">
+<Sync time="33.722"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak to on bę
+<Event desc="~" type="lexical" extent="begin"/>
+dzie
+<Event desc="~" type="lexical" extent="end"/>
+ będzie miał po skręcie z
+</Turn>
+<Turn speaker="spk1 spk2" startTime="36.941" endTime="37.836">
+<Sync time="36.941"/>
+<Who nb="1"/>
+Placu Wilsona 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+o tak tak tak
+</Turn>
+<Turn speaker="spk2" startTime="37.836" endTime="39.407">
+<Sync time="37.836"/>
+tak bo tak jest na planie i o to mi chodziło
+</Turn>
+<Turn speaker="spk1" startTime="39.407" endTime="42.656">
+<Sync time="39.407"/>
+tylko jak skręci to ma przystanek Plac Wilsona 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="42.656" endTime="43.787">
+<Sync time="42.656"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no tak dobra
+</Turn>
+<Turn speaker="spk2 spk1" startTime="43.787" endTime="44.227">
+<Sync time="43.787"/>
+<Who nb="1"/>
+ dziękuję
+<Who nb="2"/>
+a pote
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="44.227" endTime="47.433">
+<Sync time="44.227"/>
+a potem ma przy Popiełuszki bo nie 
+<Event desc="~" type="lexical" extent="begin"/>
+wi
+<Event desc="~" type="lexical" extent="end"/>
+em czy o ten pani chodzi 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="47.433" endTime="49.567">
+<Sync time="47.433"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ chyba 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ o ulicę Próchnika
+</Turn>
+<Turn speaker="spk1" startTime="49.567" endTime="77.25">
+<Sync time="49.567"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a to zaraz zobaczę który będzie bliżej momencik 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ ulica Próchnika 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="77.25" endTime="79.292">
+<Sync time="77.25"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="79.292" endTime="81.634">
+<Sync time="79.292"/>
+o w sumie to jest tak 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="81.634" endTime="82.41">
+<Sync time="81.634"/>
+pomiędzy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="82.41" endTime="86.362">
+<Sync time="82.41"/>
+no pomiędzy ale jak pani wysiądzie na tym tylko po skręcie to też będzie 
+<Event desc="babble" type="noise" extent="begin"/>
+ dobrze 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="86.362" endTime="88.589">
+<Sync time="86.362"/>
+nie ja 
+<Event desc="*" type="pronounce" extent="begin"/>
+tylko się
+<Event desc="*" type="pronounce" extent="end"/>
+ ba
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am że może po tych rewolucjach coś się zmieniło
+</Turn>
+<Turn speaker="spk2 spk1" startTime="88.589" endTime="88.939">
+<Sync time="88.589"/>
+<Who nb="1"/>
+dziękuję
+<Who nb="2"/>
+nie nie
+</Turn>
+<Turn speaker="spk2" startTime="88.939" endTime="89.103">
+<Sync time="88.939"/>
+panu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="89.103" endTime="89.971">
+<Sync time="89.103"/>
+<Who nb="1"/>
+serdecznie do widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="89.971" endTime="90.369">
+<Sync time="89.971"/>
+do widzenia
+</Turn>
+<Turn startTime="90.369" endTime="91.494">
+<Sync time="90.369"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

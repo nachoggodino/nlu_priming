@@ -1,0 +1,54 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_7..word_8" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_14" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_15" attribute="ACTION" value="Approach" />
+  <concept id="6" span="word_16..word_18" attribute="SOURCE_STR" value="Rondo Radosława" />
+  <concept id="7" span="word_19..word_20" attribute="GOAL_RS" value="Dworzec Zachodni" />
+  <concept id="8" span="word_22" attribute="CONNECTION_F" value="Direct" />
+  <concept id="9" span="word_23" attribute="CONNECTION_F" value="Shortest" />
+  <concept id="10" span="word_26" attribute="CONNECTION_F" value="Direct" />
+  <concept id="11" span="word_28" attribute="REACTION" value="Negation" />
+  <concept id="12" span="word_29" attribute="ACTION" value="Approach" />
+  <concept id="13" span="word_30..word_31" attribute="CONNECTION_F" value="No_Direct" />
+  <concept id="14" span="word_33" attribute="REACTION" value="Negation" />
+  <concept id="15" span="word_34..word_36" attribute="SOURCE_STR" value="Rondo Radosława" />
+  <concept id="16" span="word_37..word_38" attribute="GOAL_RS" value="Dworzec Zachodni" />
+  <concept id="17" span="word_40" attribute="REACTION" value="Negation" />
+  <concept id="18" span="word_41" attribute="ACTION" value="Approach" />
+  <concept id="19" span="word_42" attribute="CONNECTION_F" value="Direct" />
+  <concept id="20" span="word_43..word_44" attribute="GOAL_STR" value="Plac Zawiszy" />
+  <concept id="21" span="word_47" attribute="CONNECTION_F" value="Best" />
+  <concept id="22" span="word_49..word_50" attribute="TRAM" value="22" />
+  <concept id="23" span="word_51" attribute="ACTION" value="Approach" />
+  <concept id="24" span="word_53" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="25" span="word_54" attribute="TRAM" value="1" />
+  <concept id="26" span="word_55" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="27" span="word_56..word_57" attribute="TRAM" value="22" />
+  <concept id="28" span="word_60" attribute="TRAM" value="1" />
+  <concept id="29" span="word_62" attribute="REACTION" value="Negation" />
+  <concept id="30" span="word_63" attribute="ACTION" value="ToHave" />
+  <concept id="31" span="word_64..word_66" attribute="SOURCE_STR" value="Rondo Radosława" />
+  <concept id="32" span="word_67..word_68" attribute="TRAM" value="22" />
+  <concept id="33" span="word_69..word_71" attribute="GOAL_STR" value="Plac Zawiszy" />
+  <concept id="34" span="word_74..word_75" attribute="GOAL_STR" value="Powązkowska" />
+  <concept id="35" span="word_77" attribute="ACTION" value="ToPass" />
+  <concept id="36" span="word_79" attribute="TIME_REL" value="Later" />
+  <concept id="37" span="word_81" attribute="TIME_REL" value="Later" />
+  <concept id="38" span="word_82..word_83" attribute="BUS" value="517" />
+  <concept id="39" span="word_84" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="40" span="word_85..word_87" attribute="BUS" value="127" />
+  <concept id="41" span="word_90" attribute="REACTION" value="Confirmation" />
+  <concept id="42" span="word_92" attribute="ACTION" value="Think" />
+  <concept id="43" span="word_94" attribute="ACTION" value="Think" />
+  <concept id="44" span="word_96" attribute="ACTION" value="ToBe" />
+  <concept id="45" span="word_98" attribute="CONNECTION_F" value="Direct" />
+  <concept id="46" span="word_99" attribute="REACTION" value="Negation" />
+  <concept id="47" span="word_100..word_101" attribute="CONNECTION_F" value="Direct" />
+  <concept id="48" span="word_102" attribute="REACTION" value="Negation" />
+  <concept id="49" span="word_103" attribute="ACTION" value="ToBe" />
+  <concept id="50" span="word_104" attribute="REACTION" value="Confirmation" />
+  <concept id="51" span="word_108" attribute="CONV_FORM" value="BYE" />
+  <concept id="52" span="word_111" attribute="CONV_FORM" value="BYE" />
+</concepts>

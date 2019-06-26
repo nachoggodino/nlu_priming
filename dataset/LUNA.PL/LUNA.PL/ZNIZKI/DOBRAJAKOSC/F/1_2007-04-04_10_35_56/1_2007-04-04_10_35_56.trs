@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-04_10_35_56" version="2" version_date="071001">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="25.370" topic="to1">
+<Turn startTime="0" endTime="1.156">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.156" endTime="3.071">
+<Sync time="1.156"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.071" endTime="11.578">
+<Sync time="3.071"/>
+dzień dobry <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pana ja <Event desc="*" type="pronounce" extent="begin"/>bym się<Event desc="*" type="pronounce" extent="end"/> chcia<Event desc="~" type="lexical" extent="begin"/>ła<Event desc="~" type="lexical" extent="end"/> dowiedzieć <Event desc="filler" type="lexical" extent="instantaneous"/> od jakiego wieku się nie płaci <Event desc="int" type="noise" extent="next"/>biletów na tramwaj <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="*" type="pronounce" extent="begin"/>czy<Event desc="*" type="pronounce" extent="end"/> na autobu<Event desc="~" type="lexical" extent="begin"/>s<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="11.578" endTime="14.035">
+<Sync time="11.578"/>
+<Event desc="babble" type="noise" extent="instantaneous"/> od od ukończenia siedemdziesiątego roku <Event desc="*" type="pronounce" extent="begin"/>życia<Event desc="*" type="pronounce" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="14.035" endTime="17.374">
+<Sync time="14.035"/>
+aha <Event desc="filler" type="lexical" extent="instantaneous"/> i trzeba mieć ty<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>ko aby dokument w razie czego 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="17.374" endTime="17.891">
+<Sync time="17.374"/>
+<Who nb="1"/>
+tak <Event desc="?" type="lexical" extent="instantaneous"/>
+<Who nb="2"/>
+dokument
+</Turn>
+<Turn speaker="spk1" startTime="17.891" endTime="20.784">
+<Sync time="17.891"/>
+ze zdjęciem potwierdzający wiek na <Event desc="noise" type="noise" extent="begin"/> przykład <Event desc="noise" type="noise" extent="end"/> dowód osobis<Event desc="~" type="lexical" extent="begin"/>ty<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="20.784" endTime="22.167">
+<Sync time="20.784"/>
+o dziękuję ś<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>icznie
+</Turn>
+<Turn speaker="spk2 spk1" startTime="22.167" endTime="23.127">
+<Sync time="22.167"/>
+<Who nb="1"/>
+dziękuję
+<Who nb="2"/>
+bardzo proszę
+</Turn>
+<Turn speaker="spk1" startTime="23.127" endTime="23.766">
+<Sync time="23.127"/>
+do usłyszenia<Event desc="int" type="noise" extent="previous"/>
+</Turn>
+<Turn startTime="23.766" endTime="25.370">
+<Sync time="23.766"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

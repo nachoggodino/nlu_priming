@@ -1,0 +1,17 @@
+<Frames>
+  <Set id="1" subset="1" span="word_17" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_18..word_19" concept_id="10" name="POSSESSION" />
+  </Set>
+  <Set id="2" subset="1" span="word_22" frame="ENTITLED" head="korzystać">
+    <Frame fe="1" span="word_25" concept_id="13" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="1" span="word_26" frame="COMMERCE_BUY" head="kupować">
+    <Frame fe="1" span="word_27..word_28" concept_id="15" name="GOODS" />
+  </Set>
+  <Set id="4" subset="1" span="word_44" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_45..word_46" concept_id="21" name="POSSESSION" />
+  </Set>
+  <Set id="5" subset="1" span="word_56" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_58..word_64" concept_id="27" name="PRIVILEGE" />
+  </Set>
+</Frames>

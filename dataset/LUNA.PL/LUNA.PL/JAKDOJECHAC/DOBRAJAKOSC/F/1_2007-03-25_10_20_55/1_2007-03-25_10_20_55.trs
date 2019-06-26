@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_10_20_55" version="5" version_date="071218">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="112.993" topic="to1">
+<Turn startTime="0" endTime="0.908">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.908" endTime="2.513">
+<Sync time="0.908"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.513" endTime="3.811">
+<Sync time="2.513"/>
+proszę 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3.811" endTime="5.561">
+<Sync time="3.811"/>
+xxx dzień dobry powiedziałem
+</Turn>
+<Turn speaker="spk2" startTime="5.561" endTime="14.845">
+<Sync time="5.561"/>
+dzień dobry 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy mogłabym się od państwa 
+<Event desc="babble" type="noise" extent="begin"/>
+ dowiedzieć gdzie jest ulica Czerniowiecka 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.845" endTime="15.886">
+<Sync time="14.845"/>
+Czerniowiecka 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.886" endTime="16.499">
+<Sync time="15.886"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="16.499" endTime="17.82">
+<Sync time="16.499"/>
+o chwileczkę sprawdzę
+</Turn>
+<Turn speaker="spk2" startTime="17.82" endTime="45.717">
+<Sync time="17.82"/>
+dobrze 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.717" endTime="49.892">
+<Sync time="45.717"/>
+to będzie ulica proszę pani na Mokotowie jak Ksawerów
+</Turn>
+<Turn speaker="spk2" startTime="49.892" endTime="52.876">
+<Sync time="49.892"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana czym tam można dojecha
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="52.876" endTime="53.888">
+<Sync time="52.876"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a skąd 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="53.888" endTime="54.445">
+<Sync time="53.888"/>
+s
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+ucham 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="54.445" endTime="55.875">
+<Sync time="54.445"/>
+a skąd będzie pani jechała 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="55.875" endTime="57.732">
+<Sync time="55.875"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ze Stegien
+</Turn>
+<Turn speaker="spk1" startTime="57.732" endTime="59.645">
+<Sync time="57.732"/>
+od Stegien tak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="59.645" endTime="60.188">
+<Sync time="59.645"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="60.188" endTime="63.829">
+<Sync time="60.188"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pani jest tu gdzieś na Świętego Bonifacego rozumiem 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="63.829" endTime="64.352">
+<Sync time="63.829"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="64.352" endTime="68.627">
+<Sync time="64.352"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pani sobie w podjedzie linią sto osiemdziesiąt dziewięć
+</Turn>
+<Turn speaker="spk2" startTime="68.627" endTime="71.322">
+<Sync time="68.627"/>
+sto osiemdziesiąt dziewięć
+</Turn>
+<Turn speaker="spk1" startTime="71.322" endTime="75.003">
+<Sync time="71.322"/>
+trza dojechać do Puławskiej do Alei Lotników do tego przystanku
+</Turn>
+<Turn speaker="spk2" startTime="75.003" endTime="75.489">
+<Sync time="75.003"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="75.489" endTime="78.154">
+<Sync time="75.489"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i tam pani się przesiądzie na tramwaj
+</Turn>
+<Turn speaker="spk2" startTime="78.154" endTime="80.016">
+<Sync time="78.154"/>
+aha 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bardzo panu 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="80.016" endTime="103.363">
+<Sync time="80.016"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i tramwajem 
+<Event desc="babble" type="noise" extent="end"/>
+ tramwajem pani dojedzie pani poczeka jeszcze sprawdzę przystanek gdzie będzie blisko 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ do przystanku Bukowińska
+</Turn>
+<Turn speaker="spk2" startTime="103.363" endTime="105.252">
+<Sync time="103.363"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ buko
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+B
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="105.252" endTime="106.519">
+<Sync time="105.252"/>
+ tak 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+B
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ jak Barbara
+</Turn>
+<Turn speaker="spk2" startTime="106.519" endTime="108.061">
+<Sync time="106.519"/>
+Bukowińska
+</Turn>
+<Turn speaker="spk1" startTime="108.061" endTime="108.677">
+<Sync time="108.061"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="108.677" endTime="109.534">
+<Sync time="108.677"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="109.534" endTime="110.507">
+<Sync time="109.534"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn startTime="110.507" endTime="112.993">
+<Sync time="110.507"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

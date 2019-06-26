@@ -1,0 +1,31 @@
+<Frames>
+  <Set id="1" subset="1" span="word_9" frame="TOPIC" head="zapytać">
+    <Frame fe="1" span="word_11..word_12" concept_id="6" name="TOPIC" />
+    <Frame fe="2" span="word_14" concept_id="7" name="EXPLANATION" />
+    <Frame fe="3" span="word_16" concept_id="8" name="EXPLANATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_22" frame="BEING_IN_EFFECT" head="obowiązywać">
+    <Frame fe="1" span="word_21" concept_id="12" name="BINDING_PRINCIPLE" />
+    <Frame fe="2" span="word_23..word_27" concept_id="14" name="DURATION" />
+  </Set>
+  <Set id="3" subset="1" span="word_40" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_36..word_38" concept_id="17" name="BENEFICIARY" />
+    <Frame fe="2" span="word_41..word_42" concept_id="20" name="TITLE" />
+  </Set>
+  <Set id="4" subset="1" span="word_69" frame="BEING_IN_EFFECT" head="obowiązywać">
+    <Frame fe="1" span="word_63..word_67" concept_id="25" name="DURATION" />
+  </Set>
+  <Set id="5" subset="1" span="word_88" frame="ENTITLED" head="uprawniać">
+    <Frame fe="1" span="word_91..word_96" concept_id="31" name="TITLE" />
+    <Frame fe="2" span="word_98..word_99" concept_id="32" name="PRIVILEGE" />
+    <Frame fe="3" span="word_100..word_103" concept_id="33" name="MANNER" />
+  </Set>
+  <Set id="6" subset="1" span="word_142" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_131..word_133" concept_id="37" name="BENEFICIARY" />
+    <Frame fe="2" span="word_143..word_144" concept_id="42" name="TITLE" />
+  </Set>
+  <Set id="7" subset="2" span="word_148" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_147" concept_id="44" name="PHENOMENON" />
+    <Frame fe="2" span="word_149..word_150" concept_id="46" name="CHARACTERIZATION" />
+  </Set>
+</Frames>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-20_14_12_24" version="5" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="121.492" topic="to1">
+<Turn startTime="0" endTime="0.725">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.725" endTime="2.467">
+<Sync time="0.725"/>
+dzień dobry xxx w czym mogę 
+<Event desc="babble" type="noise" extent="begin"/>
+ pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.467" endTime="18.292">
+<Sync time="2.467"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="next"/>
+dzień 
+<Event desc="*" type="pronounce" extent="begin"/>
+dobry
+<Event desc="*" type="pronounce" extent="end"/>
+ chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ła
+<Event desc="~" type="lexical" extent="end"/>
+m się spytać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy pętla na Wilanowie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak o ulicy Wiertniczej i Wilanowskiej jaka 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jaką jest oznaczona przystanek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ tam na tej pętli 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to jest 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Wilanów ile zero jeden zero trzy 
+</Turn>
+<Turn speaker="spk1" startTime="18.292" endTime="19.969">
+<Sync time="18.292"/>
+ale dla jakiej linii
+</Turn>
+<Turn speaker="spk2" startTime="19.969" endTime="29.719">
+<Sync time="19.969"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie po prostu chciałam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ się dowiedzieć jaka to jest pętla bo chcę kogoś pokierować i nie bardzo pamiętam jaki to jest 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ numer przystanku żeby po prostu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.719" endTime="32.606">
+<Sync time="29.719"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale proszę pani właśnie 
+<Event desc="babble" type="noise" extent="end"/>
+ dla jakiej li
+<Event desc="~" type="lexical" extent="begin"/>
+nii
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dla jakiej linii
+</Turn>
+<Turn speaker="spk2" startTime="32.606" endTime="33.107">
+<Sync time="32.606"/>
+ale tam
+</Turn>
+<Turn speaker="spk2 spk1" startTime="33.107" endTime="34.395">
+<Sync time="33.107"/>
+<Who nb="1"/>
+gdzie ta pętla
+<Who nb="2"/>
+wysiada wysiadając
+</Turn>
+<Turn speaker="spk1" startTime="34.395" endTime="38.000">
+<Sync time="34.395"/>
+czy 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+jaką
+<Event desc="*" type="pronounce" extent="end"/>
+ jaką 
+<Event desc="babble" type="noise" extent="end"/>
+linią będzie ta ta osoba jechała
+</Turn>
+<Turn speaker="spk2" startTime="38.000" endTime="47.083">
+<Sync time="38.000"/>
+no w
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+aśnie mam kilka 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ i właśnie nie pamiętam który to jest 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ który to jest przystanek i chodzi mi o tą tam jest ileś przystanków na tej pętli
+</Turn>
+<Turn speaker="spk1 spk2" startTime="47.083" endTime="48.354">
+<Sync time="47.083"/>
+<Who nb="1"/>
+o tak tak
+<Who nb="2"/>
+na Wilanowie
+</Turn>
+<Turn speaker="spk2" startTime="48.354" endTime="54.371">
+<Sync time="48.354"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ no i tam jest 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no nie wiem tam jest koło 
+<Event desc="en" type="language" extent="begin"/>
+McDonald
+<Event desc="en" type="language" extent="end"/>
+a o tak samo by panu wytłumaczyć 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="54.371" endTime="57.116">
+<Sync time="54.371"/>
+to koło 
+<Event desc="en" type="language" extent="begin"/>
+McDonald
+<Event desc="en" type="language" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ cała jest 
+<Event desc="babble" type="noise" extent="end"/>
+ pętla tam sześć linii 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="57.116" endTime="57.565">
+<Sync time="57.116"/>
+<Who nb="1"/>
+kończy
+<Who nb="2"/>
+no właśnie
+</Turn>
+<Turn speaker="spk2" startTime="57.565" endTime="62.152">
+<Sync time="57.565"/>
+i właśnie i chciałam spytać jak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ jaki to jest przystanek tam jest zero coś zero coś 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="62.152" endTime="70.824">
+<Sync time="62.152"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+przystanek dla sto szesnaście to jest zero siedem
+</Turn>
+<Turn speaker="spk2" startTime="70.824" endTime="73.346">
+<Sync time="70.824"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="73.346" endTime="76.84">
+<Sync time="73.346"/>
+dla sto siedemnaście 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ zero sześć
+</Turn>
+<Turn speaker="spk2" startTime="76.84" endTime="81.941">
+<Sync time="76.84"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="81.941" endTime="84.472">
+<Sync time="81.941"/>
+dla sto trzydzieści zero trzy
+</Turn>
+<Turn speaker="spk2" startTime="84.472" endTime="88.522">
+<Sync time="84.472"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ i tam jeszcze chyba 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+E
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ dwa jeździ tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="88.522" endTime="115.182">
+<Sync time="88.522"/>
+tak tak 
+<Event desc="babble" type="noise" extent="begin"/>
+ tam jeszcze kończy 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+E
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ dwa 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ to jest przystanek dwanaście 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ dla 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+E
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ dwa 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ kończy również pięćset dwadzieścia dwa 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ tu jest jest przystanek zero cztery pięćset dwadzieścia dwa 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ sto osiemdziesiąt 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ tu jest przystanek zero pięć 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="115.182" endTime="116.921">
+<Sync time="115.182"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no dobra dziękuję bardzo 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="116.921" endTime="118.838">
+<Sync time="116.921"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę bardzo do usłyszenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="118.838" endTime="121.492">
+<Sync time="118.838"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

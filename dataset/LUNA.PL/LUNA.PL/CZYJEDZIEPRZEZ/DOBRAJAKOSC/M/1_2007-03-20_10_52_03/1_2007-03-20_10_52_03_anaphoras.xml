@@ -1,0 +1,62 @@
+<Anaphoras>
+  <anaphora id="1" concept_id="26">
+    <target concept_id="28" />
+    <target concept_id="29" />
+  </anaphora>
+  <anaphora id="2" concept_id="61">
+    <target concept_id="60" />
+  </anaphora>
+  <anaphora id="3" concept_id="66">
+    <target concept_id="64" />
+  </anaphora>
+  <anaphora id="4" concept_id="78">
+    <target concept_id="77" />
+  </anaphora>
+  <anaphora id="5" concept_id="82">
+    <target concept_id="77" />
+  </anaphora>
+  <anaphora id="6" concept_id="93">
+    <target concept_id="96" />
+  </anaphora>
+  <anaphora id="7" concept_id="95">
+    <target concept_id="77" />
+  </anaphora>
+  <anaphora id="8" concept_id="99">
+    <target concept_id="77" />
+  </anaphora>
+  <anaphora id="9" concept_id="101">
+    <target concept_id="77" />
+  </anaphora>
+  <anaphora id="10" concept_id="116">
+    <target concept_id="115" />
+  </anaphora>
+  <anaphora id="11" concept_id="121">
+    <target concept_id="75" />
+  </anaphora>
+  <anaphora id="12" concept_id="123">
+    <target concept_id="120" />
+  </anaphora>
+  <anaphora id="13" concept_id="147">
+    <target concept_id="77" />
+  </anaphora>
+  <anaphora id="14" concept_id="148">
+    <target concept_id="149" />
+  </anaphora>
+  <anaphora id="15" concept_id="154">
+    <target concept_id="153" />
+  </anaphora>
+  <anaphora id="16" concept_id="156">
+    <target concept_id="77" />
+  </anaphora>
+  <anaphora id="17" concept_id="160">
+    <target concept_id="159" />
+    <target concept_id="158" />
+  </anaphora>
+  <anaphora id="18" concept_id="163">
+    <target concept_id="158" />
+    <target concept_id="159" />
+  </anaphora>
+  <anaphora id="19" concept_id="175">
+    <target concept_id="172" />
+  </anaphora>
+</Anaphoras>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_09_03_18" version="2" version_date="071114">
+<Topics>
+<Topic id="to1" desc="male user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="28.49825" topic="to1">
+<Turn startTime="0" endTime="0.792">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.792" endTime="2.781">
+<Sync time="0.792"/>
+dzień dobry xxx 
+<Event desc="babble" type="noise" extent="begin"/>
+ w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.781" endTime="12.192">
+<Sync time="2.781"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ chciałem zapytać o sto jedenaście z Gocławia w stronę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tam Esperanto 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z przystanku Bora Komorowskiego chyba zero trzy nie pamiętam 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.192" endTime="13.454">
+<Sync time="12.192"/>
+najb
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+iższy odjazd 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="13.454" endTime="16.092">
+<Sync time="13.454"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na 
+<Event desc="*" type="pronounce" extent="begin"/>
+najbliższy
+<Event desc="*" type="pronounce" extent="end"/>
+ ze dwa trzy 
+<Event desc="*" type="pronounce" extent="begin"/>
+autobusy
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.092" endTime="17.694">
+<Sync time="16.092"/>
+dobrze dziewiąta zero osiem 
+</Turn>
+<Turn speaker="spk2" startTime="17.694" endTime="18.553">
+<Sync time="17.694"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.553" endTime="19.783">
+<Sync time="18.553"/>
+dwadzieścia
+</Turn>
+<Turn speaker="spk2" startTime="19.783" endTime="20.408">
+<Sync time="19.783"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.408" endTime="21.668">
+<Sync time="20.408"/>
+i trzydzieści dwa
+</Turn>
+<Turn speaker="spk2" startTime="21.668" endTime="22.982">
+<Sync time="21.668"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha dobrze dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="22.982" endTime="23.297">
+<Sync time="22.982"/>
+<Who nb="1"/>
+bardzo 
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="23.297" endTime="25.255">
+<Sync time="23.297"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ bardzo 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ do usłyszenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="25.255" endTime="28.49825">
+<Sync time="25.255"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

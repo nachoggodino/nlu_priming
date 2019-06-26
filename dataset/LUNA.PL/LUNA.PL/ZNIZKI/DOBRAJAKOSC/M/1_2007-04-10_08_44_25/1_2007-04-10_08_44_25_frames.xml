@@ -1,0 +1,18 @@
+<Frames>
+  <Set id="1" subset="1" span="word_32" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_37" concept_id="15" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="1" span="word_47" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_48..word_49" concept_id="19" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="3" subset="1" span="word_52" frame="BECOMING" head="ukończyć">
+    <Frame fe="1" span="word_50" concept_id="20" name="ENTITY" />
+    <Frame fe="2" span="word_53..word_55" concept_id="22" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="4" subset="2" span="word_56..word_57" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_59..word_60" concept_id="24" name="PRIVILEGE" />
+  </Set>
+  <Set id="5" subset="1" span="word_92" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_93" concept_id="31" name="FINAL_CATEGORY" />
+  </Set>
+</Frames>

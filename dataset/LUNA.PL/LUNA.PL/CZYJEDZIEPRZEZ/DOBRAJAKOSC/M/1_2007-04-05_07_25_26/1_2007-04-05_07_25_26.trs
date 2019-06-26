@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-05_07_25_26" version="5" version_date="080111">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="50.497" topic="to1">
+<Turn startTime="0" endTime="0.993">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.993" endTime="3.332">
+<Sync time="0.993"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dzień dobry 
+<Event desc="noise" type="noise" extent="begin"/>
+ xxx w czym mogę pomó
+<Event desc="~" type="lexical" extent="begin"/>
+c
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.332" endTime="9.672">
+<Sync time="3.332"/>
+dzień dobry proszę pani ja się chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+em zapytać 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ czy autobus trzysta dwadzieścia sześć 
+<Event desc="noise" type="noise" extent="begin"/>
+ który z Hallera jeździ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.672" endTime="10.387">
+<Sync time="9.672"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="10.387" endTime="20.866">
+<Sync time="10.387"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy on jedzie na Tarchomin 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.866" endTime="22.564">
+<Sync time="20.866"/>
+tak 
+<Event desc="noise" type="noise" extent="begin"/>
+ on jeździ na Tarcho
+<Event desc="~" type="lexical" extent="begin"/>
+min
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="22.564" endTime="31.909">
+<Sync time="22.564"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ a pa
+<Event desc="~" type="lexical" extent="begin"/>
+ni
+<Event desc="~" type="lexical" extent="end"/>
+ a pani m
+<Event desc="~" type="lexical" extent="begin"/>
+n
+<Event desc="~" type="lexical" extent="end"/>
+ie jeszcze powie taką rzecz czy on przy Kowalczyka to 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ to staje bo ja na przystanku 
+<Event desc="*" type="pronounce" extent="begin"/>
+tutaj
+<Event desc="*" type="pronounce" extent="end"/>
+ stoję i nie widzę go właśnie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.909" endTime="34.793">
+<Sync time="31.909"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie on niestety tam nie staje 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="34.793" endTime="35.905">
+<Sync time="34.793"/>
+nie staje tam tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.905" endTime="40.5">
+<Sync time="35.905"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ nie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ on jedzie przez Płochocińską 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="40.5" endTime="41.961">
+<Sync time="40.5"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ jak jak
+</Turn>
+<Turn speaker="spk1" startTime="41.961" endTime="43.658">
+<Sync time="41.961"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ przez Płochocińską 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="43.658" endTime="45.306">
+<Sync time="43.658"/>
+aha tamtędy jedzie tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.306" endTime="45.806">
+<Sync time="45.306"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="45.806" endTime="48.14">
+<Sync time="45.806"/>
+no ni
+<Event desc="~" type="lexical" extent="begin"/>
+c
+<Event desc="~" type="lexical" extent="end"/>
+ dziękuję pani bardzo przepraszam 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="48.14" endTime="48.639">
+<Sync time="48.14"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ nie szkodzi 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="48.639" endTime="50.497">
+<Sync time="48.639"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

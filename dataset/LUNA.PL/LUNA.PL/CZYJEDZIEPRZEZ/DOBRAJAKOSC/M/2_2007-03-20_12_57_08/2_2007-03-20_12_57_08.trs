@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-20_12_57_08" version="5" version_date="080125">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="72.995" topic="to1">
+<Turn startTime="0" endTime="1.357">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1.357" endTime="2.951">
+<Sync time="1.357"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk1" startTime="2.951" endTime="7.609">
+<Sync time="2.951"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry ja 
+<Event desc="*" type="pronounce" extent="begin"/>
+mam
+<Event desc="*" type="pronounce" extent="end"/>
+ do pana takie pytanie czy w 
+<Event desc="*" type="pronounce" extent="begin"/>
+ogóle
+<Event desc="*" type="pronounce" extent="end"/>
+ autobusy jeżdżą Trasą Siekierkowską 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="7.609" endTime="14.086">
+<Sync time="7.609"/>
+tak tam jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ sto dziewiętnaście sto czterdzieści trzy i trzysta jeden 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.086" endTime="15.215">
+<Sync time="14.086"/>
+i trzysta jeden tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.215" endTime="16.803">
+<Sync time="15.215"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i czterysta szesnaście 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ jeszcze 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.803" endTime="17.667">
+<Sync time="16.803"/>
+i jeszcze jaki 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.667" endTime="18.778">
+<Sync time="17.667"/>
+czterysta szesnaście 
+</Turn>
+<Turn speaker="spk1" startTime="18.778" endTime="24.592">
+<Sync time="18.778"/>
+czterysta szesnaście bo tutaj 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ one później są 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ w pobliżu Wału 
+<Event desc="*" type="pronounce" extent="begin"/>
+Miedzeszyńskiego
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.592" endTime="33.4">
+<Sync time="24.592"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no niezupełnie 
+<Event desc="~" type="lexical" extent="begin"/>
+zn
+<Event desc="~" type="lexical" extent="end"/>
+aczy sto dziewiętnaście skręca na Wał Miedzeszyński i tam dalej jedzie w stronę w stronę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jakby Falenicy w tym kierunku
+</Turn>
+<Turn speaker="spk1" startTime="33.4" endTime="34.669">
+<Sync time="33.4"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+czyli
+<Event desc="*" type="pronounce" extent="end"/>
+ dziewiętnaście
+</Turn>
+<Turn speaker="spk2" startTime="34.669" endTime="36.051">
+<Sync time="34.669"/>
+sto dziewiętnaście tak
+</Turn>
+<Turn speaker="spk1" startTime="36.051" endTime="37.042">
+<Sync time="36.051"/>
+a te na pozosta
+<Event desc="~" type="lexical" extent="begin"/>
+łe
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="37.042" endTime="40.009">
+<Sync time="37.042"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ pozostałe 
+<Event desc="babble" type="noise" extent="end"/>
+ na Gocław i dopiero jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ przystanek na Gocławiu
+</Turn>
+<Turn speaker="spk1" startTime="40.009" endTime="41.828">
+<Sync time="40.009"/>
+a w jakiej 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ jakby pan mi powiedzie
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="41.828" endTime="45.537">
+<Sync time="41.828"/>
+na rogu Meissnera i Bora i Fieldorfa
+</Turn>
+<Turn speaker="spk1" startTime="45.537" endTime="46.964">
+<Sync time="45.537"/>
+a to 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest
+<Event desc="*" type="pronounce" extent="end"/>
+ kawał drogi chyba tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ będzie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="46.964" endTime="50.497">
+<Sync time="46.964"/>
+no to trzeba się do do Wału 
+<Event desc="*" type="pronounce" extent="begin"/>
+sporo
+<Event desc="*" type="pronounce" extent="end"/>
+ sporo wrócić jeszcze
+</Turn>
+<Turn speaker="spk1" startTime="50.497" endTime="50.929">
+<Sync time="50.497"/>
+sporo 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="50.929" endTime="55.513">
+<Sync time="50.929"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to czy zależy jaki pan ma numer bo tam na Wale te te numeracje jest tak rozrzucona że
+</Turn>
+<Turn speaker="spk1" startTime="55.513" endTime="59.898">
+<Sync time="55.513"/>
+nie nie 
+<Event desc="*" type="pronounce" extent="begin"/>
+prostu
+<Event desc="*" type="pronounce" extent="end"/>
+ chodzi prosto przed tą Wisłę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i czy jest taka możliwość 
+</Turn>
+<Turn speaker="spk2" startTime="59.898" endTime="61.82">
+<Sync time="59.898"/>
+żeby od razu wysiąść za Wisłą 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="61.82" endTime="62.954">
+<Sync time="61.82"/>
+no dokładnie mniej więcej 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="62.954" endTime="67.757">
+<Sync time="62.954"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to tylko 
+<Event desc="babble" type="noise" extent="end"/>
+ ze stu dziewiętnastu bo on jak 
+<Event desc="babble" type="noise" extent="begin"/>
+ przejedzie 
+<Event desc="babble" type="noise" extent="end"/>
+ Wisłę to skręci w prawo i będzie miał przystanek
+</Turn>
+<Turn speaker="spk1" startTime="67.757" endTime="68.786">
+<Sync time="67.757"/>
+a dobrze dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="68.786" endTime="69.42">
+<Sync time="68.786"/>
+dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="69.42" endTime="70.141">
+<Sync time="69.42"/>
+do widzenia
+</Turn>
+<Turn speaker="spk2" startTime="70.141" endTime="70.832">
+<Sync time="70.141"/>
+do widzenia
+</Turn>
+<Turn startTime="70.832" endTime="72.995">
+<Sync time="70.832"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

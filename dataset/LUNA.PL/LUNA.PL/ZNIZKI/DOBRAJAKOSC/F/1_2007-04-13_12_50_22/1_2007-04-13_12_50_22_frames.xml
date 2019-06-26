@@ -1,0 +1,30 @@
+<Frames>
+  <Set id="1" subset="1" span="word_12" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_13..word_14" concept_id="5" name="LOCATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_16" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_17..word_19" concept_id="7" name="TITLE" />
+  </Set>
+  <Set id="3" subset="1" span="word_27" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_28..word_29" concept_id="12" name="PRIVILEGE" />
+    <Frame fe="2" span="word_30..word_31" concept_id="13" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="4" subset="1" span="word_50" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_53" concept_id="20" name="TITLE" />
+  </Set>
+  <Set id="5" subset="1" span="word_68" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_69..word_72" concept_id="29" name="ENTITY" />
+  </Set>
+  <Set id="6" subset="1" span="word_115" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_118" concept_id="49" name="BUYER" />
+  </Set>
+  <Set id="7" subset="1" span="word_122" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_119" concept_id="50" name="BUYER" />
+  </Set>
+  <Set id="8" subset="1" span="word_127" frame="BRINGING" head="wozić">
+    <Frame fe="1" span="word_129" concept_id="54" name="THEME" />
+  </Set>
+  <Set id="9" subset="1" span="word_138" frame="RIDE_VEHICLE" head="jeździć">
+    <Frame fe="1" span="word_137" concept_id="57" name="TIME" />
+  </Set>
+</Frames>

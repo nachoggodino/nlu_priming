@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-02_15_14_36" version="3" version_date="070727">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="40.997" topic="to1">
+<Turn startTime="0" endTime="0.895">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.895" endTime="3.423">
+<Sync time="0.895"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.423" endTime="8.754">
+<Sync time="3.423"/>
+dzień dobry panu proszę mi powiedzieć <Event desc="filler" type="lexical" extent="instantaneous"/> od <Event desc="filler" type="lexical" extent="instantaneous"/> do którego roku życia dzieci mają darmowe bilety <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="8.754" endTime="15.736">
+<Sync time="8.754"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pana do momentu objęcia obowiązkiem szkolnym najczęściej jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> to pierwszy września roku w którym dziecko kończy siódmy rok życia
+</Turn>
+<Turn speaker="spk2" startTime="15.736" endTime="17.777">
+<Sync time="15.736"/>
+aha aha dobrze dobrze 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="17.777" endTime="18.723">
+<Sync time="17.777"/>
+<Who nb="1"/>
+dziękuję a
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="18.723" endTime="27.824">
+<Sync time="18.723"/>
+niech mi pan jeszcze <Event desc="noise" type="noise" extent="begin"/> powie tak <Event desc="filler" type="lexical" extent="instantaneous"/> honorowi krwiodawcy od kiedy mają te uprawnienia też do poruszania się bezpłatnie <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="27.824" endTime="27.93">
+<Sync time="27.824"/>
+a
+</Turn>
+<Turn speaker="spk2" startTime="27.93" endTime="29.095">
+<Sync time="27.93"/>
+środkami komunikacji <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="29.095" endTime="32.24">
+<Sync time="29.095"/>
+mężczyźni w <Event desc="filler" type="lexical" extent="instantaneous"/> po oddaniu osiemnastu litrów 
+</Turn>
+<Turn speaker="spk2" startTime="32.24" endTime="32.411">
+<Sync time="32.24"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="32.411" endTime="34.582">
+<Sync time="32.411"/>
+<Event desc="babble" type="noise" extent="begin"/> a <Event desc="babble" type="noise" extent="end"/> kobiety po oddaniu piętnastu litrów
+</Turn>
+<Turn speaker="spk2" startTime="34.582" endTime="35.693">
+<Sync time="34.582"/>
+aha dobrze dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="35.693" endTime="36.679">
+<Sync time="35.693"/>
+<Who nb="1"/>
+uprzejmie do widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="36.679" endTime="37.185">
+<Sync time="36.679"/>
+do <Event desc="*" type="pronounce" extent="begin"/>usłyszenia<Event desc="*" type="pronounce" extent="end"/>
+</Turn>
+<Turn startTime="37.185" endTime="40.997">
+<Sync time="37.185"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

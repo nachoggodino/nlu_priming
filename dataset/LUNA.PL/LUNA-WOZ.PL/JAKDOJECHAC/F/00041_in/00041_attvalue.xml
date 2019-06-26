@@ -1,0 +1,49 @@
+<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_11" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="3" span="word_12..word_13" attribute="OPTION" value="DepartureTime" />
+  <concept id="4" span="word_14..word_15" attribute="OPTION" value="Route" />
+  <concept id="5" span="word_16..word_17" attribute="OPTION" value="Complaint" />
+  <concept id="6" span="word_18..word_20" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="7" span="word_21..word_22" attribute="OPTION" value="LostLuggage" />
+  <concept id="8" span="word_23..word_29" attribute="INFORMATION" value="OPERATOR" />
+  <concept id="9" span="word_30..word_43" attribute="ACTION_REQUIRED" value="Repeat" />
+  <concept id="10" span="word_44..word_45" attribute="OPTION" value="DepartureTime" />
+  <concept id="11" span="word_46..word_47" attribute="OPTION" value="Route" />
+  <concept id="12" span="word_48..word_49" attribute="OPTION" value="Complaint" />
+  <concept id="13" span="word_50..word_52" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="14" span="word_53..word_54" attribute="OPTION" value="LostLuggage" />
+  <concept id="15" span="word_55..word_61" attribute="INFORMATION" value="OPERATOR" />
+  <concept id="16" span="word_62..word_65" attribute="ACTION_REQUIRED" value="Repeat" />
+  <concept id="17" span="word_66..word_73" attribute="ACTION_REQUIRED" value="Repeat" />
+  <concept id="18" span="word_74..word_77" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="19" span="word_78..word_79" attribute="OPTION" value="DepartureTime" />
+  <concept id="20" span="word_80..word_81" attribute="OPTION" value="Route" />
+  <concept id="21" span="word_82..word_83" attribute="OPTION" value="Complaint" />
+  <concept id="22" span="word_84..word_86" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="23" span="word_87..word_88" attribute="OPTION" value="LostLuggage" />
+  <concept id="24" span="word_89..word_95" attribute="INFORMATION" value="OPERATOR" />
+  <concept id="25" span="word_96..word_97" attribute="OPTION" value="Route" />
+  <concept id="26" span="word_98..word_99" attribute="OPTION" value="Route" />
+  <concept id="27" span="word_100..word_104" attribute="COMMAND_GIVE" value="SOURCE" />
+  <concept id="28" span="word_105..word_114" attribute="INFORMATION" value="SOURCE_SEARCH" />
+  <concept id="29" span="word_115..word_122" attribute="INFORMATION" value="GOAL/SOURCE_SEARCH" />
+  <concept id="30" span="word_123..word_130" attribute="INFORMATION" value="GOAL/SOURCE_SEARCH" />
+  <concept id="31" span="word_131..word_133" attribute="STOP_DESCRIPTION" value="Dworzec Centralny" />
+  <concept id="32" span="word_134..word_137" attribute="OPTION_ROUTE" value="Stop" />
+  <concept id="33" span="word_138..word_141" attribute="COMMAND_GIVE" value="SOURCE_STOP" />
+  <concept id="34" span="word_142..word_143" attribute="STOP_DESCRIPTION" value="Dworzec Centralny" />
+  <concept id="35" span="word_144..word_148" attribute="COMMAND_GIVE" value="GOAL" />
+  <concept id="36" span="word_149..word_158" attribute="INFORMATION" value="GOAL_SEARCH" />
+  <concept id="37" span="word_159..word_166" attribute="INFORMATION" value="GOAL/SOURCE_SEARCH" />
+  <concept id="38" span="word_167..word_174" attribute="INFORMATION" value="GOAL/SOURCE_SEARCH" />
+  <concept id="39" span="word_175..word_176" attribute="STREET" value="Andersa" />
+  <concept id="40" span="word_177..word_180" attribute="OPTION_ROUTE" value="Street" />
+  <concept id="41" span="word_181..word_188" attribute="COMMAND_GIVE" value="GOAL_STREET" />
+  <concept id="42" span="word_189..word_190" attribute="STREET" value="Andersa" />
+  <concept id="43" span="word_191..word_195" attribute="COMMAND_GIVE" value="STREET_NUMBER" />
+  <concept id="44" span="word_196" attribute="STREET_NUMB" value="szesnasty" />
+  <concept id="45" span="word_197..word_201" attribute="COMMAND_GIVE" value="DEPARTURE_TIME" />
+  <concept id="46" span="word_202..word_205" attribute="Q_DEPARTURE" value="Nearest" />
+  <concept id="47" span="word_206..word_210" attribute="Q_DEPARTURE" value="AtHour" />
+</concepts>

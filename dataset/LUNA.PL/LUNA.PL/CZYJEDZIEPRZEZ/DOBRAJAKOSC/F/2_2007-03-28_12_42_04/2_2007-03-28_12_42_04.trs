@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-28_12_42_04" version="3" version_date="080105">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="68.996" topic="to1">
+<Turn startTime="0" endTime="1.405">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.405" endTime="3.598">
+<Sync time="1.405"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.598" endTime="8.473">
+<Sync time="3.598"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę pana chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am się dowiedzieć 
+<Event desc="noise" type="noise" extent="end"/>
+ czy szóstka jedzie Mostem Poniatowskiego 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="8.473" endTime="14.407">
+<Sync time="8.473"/>
+nie szóstka nie jeździ Mostem Poniatowskiego Mostem Gdańskim 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="14.407" endTime="15.481">
+<Sync time="14.407"/>
+Mostem Gdańsk
+<Event desc="~" type="lexical" extent="begin"/>
+im
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.481" endTime="17.521">
+<Sync time="15.481"/>
+szó
+<Event desc="~" type="lexical" extent="begin"/>
+stka
+<Event desc="~" type="lexical" extent="end"/>
+ tramwaj linii sześć Mostem Gdańskim 
+</Turn>
+<Turn speaker="spk2" startTime="17.521" endTime="32.899">
+<Sync time="17.521"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+no
+<Event desc="*" type="pronounce" extent="end"/>
+ ale zaraz chwileczkę ale przecież ona przecież jedzie na na wie pan 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ zaraz chwileczkę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przecież ona 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wie pan 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na Grochów przecież jedzie tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="32.899" endTime="36.054">
+<Sync time="32.899"/>
+tak z Huty na Grochów na 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ na Gocławek
+</Turn>
+<Turn speaker="spk2" startTime="36.054" endTime="38.795">
+<Sync time="36.054"/>
+i nie jedzie i nie jedzie Mostem Poniatowskiego 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.795" endTime="46.371">
+<Sync time="38.795"/>
+nie jedzie Mostem Gdańskim i potem wzdłuż 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Wisły ale już po Pradze 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="46.371" endTime="56.982">
+<Sync time="46.371"/>
+aha 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ aj 
+<Event desc="*" type="pronounce" extent="begin"/>
+a
+<Event desc="*" type="pronounce" extent="end"/>
+ a z Bielan wie pan jest jakiś tramwaj 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Mostu Poniatowskiego 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="56.982" endTime="63.276">
+<Sync time="56.982"/>
+ z Bielan takich szeroko pojętych to jest dwadzieścia dwa 
+<Event desc="babble" type="noise" extent="begin"/>
+ ale 
+<Event desc="babble" type="noise" extent="end"/>
+ to od Broniewskiego a nie od Marymonckiej
+</Turn>
+<Turn speaker="spk2" startTime="63.276" endTime="64.156">
+<Sync time="63.276"/>
+tak dziękuję 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="64.156" endTime="64.641">
+<Sync time="64.156"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę bardzo 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="64.641" endTime="68.996">
+<Sync time="64.641"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

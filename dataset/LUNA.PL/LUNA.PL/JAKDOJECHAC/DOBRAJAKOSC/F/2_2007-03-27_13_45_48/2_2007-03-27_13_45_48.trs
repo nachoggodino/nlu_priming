@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-27_13_45_48" version="5" version_date="071221">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="107.493" topic="to1">
+<Turn startTime="0" endTime="0.383">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.383" endTime="1.733">
+<Sync time="0.383"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.733" endTime="12.738">
+<Sync time="1.733"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana ja chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am zapytać jak ja dojadę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Makro tam w Alejach Jerozolimskich tu z Alej Jerozolims
+<Event desc="~" type="lexical" extent="begin"/>
+kich
+<Event desc="~" type="lexical" extent="end"/>
+ m
+<Event desc="~" type="lexical" extent="begin"/>
+n
+<Event desc="~" type="lexical" extent="end"/>
+iej więcej tu od Rotundy
+</Turn>
+<Turn speaker="spk1" startTime="12.738" endTime="20.710">
+<Sync time="12.738"/>
+od Rotundy to ma pani albo autobus sto dwadzieścia siedem z Jerozolimskich albo pięćset siedemnaście do przystanku Popularna
+</Turn>
+<Turn speaker="spk2" startTime="20.710" endTime="37.682">
+<Sync time="20.710"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a proszę mi powiedzieć ile jedzie autobus bo ja muszę być tak gdzieś za dziesięć sied
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ piąta 
+<Event desc="*" type="pronounce" extent="begin"/>
+czyli
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ szesnasta 
+<Event desc="noise" type="noise" extent="begin"/>
+ pięćdziesiąt 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.682" endTime="40.521">
+<Sync time="37.682"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Popularnej około dwudziestu minut
+</Turn>
+<Turn speaker="spk2" startTime="40.521" endTime="44.535">
+<Sync time="40.521"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a tym sto dwadzieścia siedem bo to bezpośrednio jadę do Makro tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="44.535" endTime="44.902">
+<Sync time="44.535"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="44.902" endTime="47.645">
+<Sync time="44.902"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ przy 
+<Event desc="babble" type="noise" extent="end"/>
+ Makro wysiadam od razu ze sto dwadzieścia siede
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="47.645" endTime="53.118">
+<Sync time="47.645"/>
+tak bo on skręca w Popularną w prawo a znowuż pięćset siedemnaście ma na Jerozolimskich przy Popularnej 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="53.118" endTime="53.784">
+<Sync time="53.118"/>
+<Who nb="1"/>
+ przystanek
+<Who nb="2"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="53.784" endTime="54.638">
+<Sync time="53.784"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="54.638" endTime="57.026">
+<Sync time="54.638"/>
+to jest dwadzieścia oko
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+o dwudziestu minut jeden i drugi
+</Turn>
+<Turn speaker="spk2" startTime="57.026" endTime="58.29">
+<Sync time="57.026"/>
+jeden i drugi 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="58.29" endTime="58.623">
+<Sync time="58.29"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="58.623" endTime="61.933">
+<Sync time="58.623"/>
+ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko godziny szczytu to trzeba wziąć chyba tę poprawkę 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="61.933" endTime="62.472">
+<Sync time="61.933"/>
+<Who nb="1"/>
+prawda 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+znaczy
+</Turn>
+<Turn speaker="spk1" startTime="62.472" endTime="70.551">
+<Sync time="62.472"/>
+tu raczej chyba korków takich nie po
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+inno być strasznych ale tutaj z tego co widzę w godzinach szczytu 
+<Event desc="*" type="pronounce" extent="begin"/>
+tak jak
+<Event desc="*" type="pronounce" extent="end"/>
+ pięćset siedemnaście to co 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ około dziesięć minut jeździ
+</Turn>
+<Turn speaker="spk2" startTime="70.551" endTime="72.867">
+<Sync time="70.551"/>
+aha 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a sto dwadzieścia siedem 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="72.867" endTime="85.650">
+<Sync time="72.867"/>
+a sto dwadzieścia 
+<Event desc="noise" type="noise" extent="begin"/>
+ siedem 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ co piętnaście 
+</Turn>
+<Turn speaker="spk2" startTime="85.650" endTime="91.963">
+<Sync time="85.650"/>
+rozumiem a proszę mi powiedzieć ten pięćset siedemnaście ta Popularna to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ to daleko od Makro bo ja nie orientuję się
+</Turn>
+<Turn speaker="spk1" startTime="91.963" endTime="92.499">
+<Sync time="91.963"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="92.499" endTime="93.445">
+<Sync time="92.499"/>
+<Who nb="1"/>
+nie nie to nie
+<Who nb="2"/>
+pana dopytuję
+</Turn>
+<Turn speaker="spk1" startTime="93.445" endTime="99.100">
+<Sync time="93.445"/>
+jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ od Makro daleko to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ na skrzyżowaniu Jerozo
+<Event desc="~" type="lexical" extent="begin"/>
+limskich
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Jerozolimskich Popularnej Makro jest też
+</Turn>
+<Turn speaker="spk1 spk2" startTime="99.100" endTime="100.278">
+<Sync time="99.100"/>
+<Who nb="1"/>
+na Popularnej samej
+<Who nb="2"/>
+aha czyli
+</Turn>
+<Turn speaker="spk2" startTime="100.278" endTime="101.227">
+<Sync time="100.278"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+czyli
+<Event desc="*" type="pronounce" extent="end"/>
+ to 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="101.227" endTime="102.406">
+<Sync time="101.227"/>
+<Who nb="1"/>
+spokojnie można pięćset siedemnaście jechać
+<Who nb="2"/>
+to jest blisko tak tak
+</Turn>
+<Turn speaker="spk2" startTime="102.406" endTime="104.863">
+<Sync time="102.406"/>
+dobrze dziękuję panu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="104.863" endTime="106.081">
+<Sync time="104.863"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+proszę do widzenia
+</Turn>
+<Turn startTime="106.081" endTime="107.493">
+<Sync time="106.081"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-10_14_51_29" version="5" version_date="080112">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="58.996" topic="to1">
+<Turn startTime="0" endTime="0.361">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.361" endTime="2.394">
+<Sync time="0.361"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.394" endTime="3.291">
+<Sync time="2.394"/>
+dzień dobry panu
+</Turn>
+<Turn speaker="spk1" startTime="3.291" endTime="3.478">
+<Sync time="3.291"/>
+dzień
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3.478" endTime="3.809">
+<Sync time="3.478"/>
+<Who nb="1"/>
+dzień
+<Who nb="2"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.809" endTime="16.346">
+<Sync time="3.809"/>
+pana
+<Event desc="int" type="noise" extent="previous"/>
+ tym pięćset sześć ten przyśpieszony autobus czy on ma przystanek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ róg 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Świętokrzyskiej i 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i Marszałko
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+skiej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w kierunku proszę pana Kasprzaka
+</Turn>
+<Turn speaker="spk1" startTime="16.346" endTime="19.705">
+<Sync time="16.346"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ proszę pana ma przystanek to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ Metro Świętokrzyska przystanek
+</Turn>
+<Turn speaker="spk2" startTime="19.705" endTime="21.164">
+<Sync time="19.705"/>
+aha Metro Świętokrzyska 
+</Turn>
+<Turn speaker="spk1" startTime="21.164" endTime="25.251">
+<Sync time="21.164"/>
+tak on jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ na ulicy Świętokrzyskiej zaraz jak autobus zjedzie tutaj ze skrzyżowania z Marszałko
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+ską
+</Turn>
+<Turn speaker="spk2" startTime="25.251" endTime="29.231">
+<Sync time="25.251"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+d
+<Event desc="~" type="lexical" extent="end"/>
+obrze czy on potem się zatrzymuje jeszcze na na Rondzie 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+O N Z
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+u 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.231" endTime="30.282">
+<Sync time="29.231"/>
+zatrzymuje się tak
+</Turn>
+<Turn speaker="spk2" startTime="30.282" endTime="41.535">
+<Sync time="30.282"/>
+zatrzymuj
+<Event desc="~" type="lexical" extent="begin"/>
+e
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a proszę pana a 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ przed tym 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przed Świętokrzyską 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ gdzie jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ jeszcze przystanek bo on jedzie Tamką bodajże 
+</Turn>
+<Turn speaker="spk1" startTime="41.535" endTime="47.42">
+<Sync time="41.535"/>
+tak tak i przed Metrem Świętokrzyska ma przystanek na rogu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ulicy Świętokrzyskiej i Nowego Światu
+</Turn>
+<Turn speaker="spk1 spk2" startTime="47.42" endTime="48.711">
+<Sync time="47.42"/>
+<Who nb="1"/>
+zaraz przy ministerstwie tak
+<Who nb="2"/>
+tam jest przystanek czyli 
+</Turn>
+<Turn speaker="spk2" startTime="48.711" endTime="50.4">
+<Sync time="48.711"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+n
+<Event desc="~" type="lexical" extent="end"/>
+aprzeciw Ministerstwa Finansó
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="50.4" endTime="53.598">
+<Sync time="50.4"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to znaczy nawet 
+<Event desc="babble" type="noise" extent="end"/>
+ po tej samej stronie 
+<Event desc="babble" type="noise" extent="begin"/>
+ jeżeli 
+<Event desc="babble" type="noise" extent="end"/>
+ jadąc w kierunku Kasprzaka
+</Turn>
+<Turn speaker="spk2" startTime="53.598" endTime="55.788">
+<Sync time="53.598"/>
+aha dobra fajno dziękuję panu
+</Turn>
+<Turn speaker="spk1" startTime="55.788" endTime="56.397">
+<Sync time="55.788"/>
+proszę bardzo
+</Turn>
+<Turn startTime="56.397" endTime="58.996">
+<Sync time="56.397"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,77 @@
+<Anaphoras>
+  <anaphora id="1" concept_id="18">
+    <target concept_id="8" />
+  </anaphora>
+  <anaphora id="2" concept_id="21">
+    <target concept_id="22" />
+  </anaphora>
+  <anaphora id="3" concept_id="26">
+    <target concept_id="8" />
+  </anaphora>
+  <anaphora id="4" concept_id="30">
+    <target concept_id="29" />
+  </anaphora>
+  <anaphora id="5" concept_id="31">
+    <target concept_id="29" />
+  </anaphora>
+  <anaphora id="6" concept_id="32">
+    <target concept_id="29" />
+  </anaphora>
+  <anaphora id="7" concept_id="61">
+    <target concept_id="60" />
+  </anaphora>
+  <anaphora id="8" concept_id="85">
+    <target concept_id="49" />
+  </anaphora>
+  <anaphora id="9" concept_id="86">
+    <target concept_id="87" />
+  </anaphora>
+  <anaphora id="10" concept_id="97">
+    <target concept_id="87" />
+  </anaphora>
+  <anaphora id="11" concept_id="98">
+    <target concept_id="49" />
+  </anaphora>
+  <anaphora id="12" concept_id="101">
+    <target concept_id="49" />
+  </anaphora>
+  <anaphora id="13" concept_id="102">
+    <target concept_id="49" />
+  </anaphora>
+  <anaphora id="14" concept_id="108">
+    <target concept_id="29" />
+  </anaphora>
+  <anaphora id="15" concept_id="123">
+    <target concept_id="121" />
+  </anaphora>
+  <anaphora id="16" concept_id="134">
+    <target concept_id="132" />
+  </anaphora>
+  <anaphora id="17" concept_id="136">
+    <target concept_id="139" />
+  </anaphora>
+  <anaphora id="18" concept_id="165">
+    <target concept_id="164" />
+  </anaphora>
+  <anaphora id="19" concept_id="167">
+    <target concept_id="168" />
+  </anaphora>
+  <anaphora id="20" concept_id="169">
+    <target concept_id="170" />
+  </anaphora>
+  <anaphora id="21" concept_id="181">
+    <target concept_id="164" />
+  </anaphora>
+  <anaphora id="22" concept_id="187">
+    <target concept_id="185" />
+  </anaphora>
+  <anaphora id="23" concept_id="190">
+    <target concept_id="174" />
+  </anaphora>
+  <anaphora id="24" concept_id="202">
+    <target concept_id="196" />
+  </anaphora>
+  <anaphora id="25" concept_id="204">
+    <target concept_id="196" />
+  </anaphora>
+</Anaphoras>

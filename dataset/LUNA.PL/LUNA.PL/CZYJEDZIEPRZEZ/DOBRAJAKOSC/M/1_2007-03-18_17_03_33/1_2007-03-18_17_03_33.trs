@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-18_17_03_33" version="5" version_date="080104">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="86.995" topic="to1">
+<Turn startTime="0" endTime="0.848">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.848" endTime="2.074">
+<Sync time="0.848"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+dzień
+<Event desc="~" type="lexical" extent="end"/>
+ dobry xxx
+</Turn>
+<Turn speaker="spk2" startTime="2.074" endTime="2.752">
+<Sync time="2.074"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry
+</Turn>
+<Turn speaker="spk1" startTime="2.752" endTime="3.059">
+<Sync time="2.752"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3.059" endTime="3.451">
+<Sync time="3.059"/>
+<Who nb="1"/>
+dobry
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk2" startTime="3.451" endTime="7.343">
+<Sync time="3.451"/>
+pani 
+<Event desc="*" type="pronounce" extent="begin"/>
+chciałem
+<Event desc="*" type="pronounce" extent="end"/>
+ się dowiedzieć o możliwość dojazdu do ulicy Brożka
+</Turn>
+<Turn speaker="spk1" startTime="7.343" endTime="8.503">
+<Sync time="7.343"/>
+ale skąd 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="8.503" endTime="17.607">
+<Sync time="8.503"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+wszystko
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ jedno bo chodzi o to że w 
+<Event desc="noise" type="noise" extent="begin"/>
+ internecie ja
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ patrzę na przykład na sto sześćdziesiąt siedem 
+<Event desc="noise" type="noise" extent="end"/>
+ to jest taka uwaga że trasa czasowo zmieniona ze względu na objazd 
+<Event desc="babble" type="noise" extent="begin"/>
+ ulicy Ciołka 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.607" endTime="18.726">
+<Sync time="17.607"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ zgadza się 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="18.726" endTime="21.969">
+<Sync time="18.726"/>
+ nie jest wyjaśnione jak ona jest zmieniona 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="21.969" endTime="28.879">
+<Sync time="21.969"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy dojedzie pan na pewno do pętli tu tak gdzie kończył sto sześćdziesiąt siedem to tutaj akurat nie 
+<Event desc="babble" type="noise" extent="begin"/>
+ tutaj chodzi 
+<Event desc="babble" type="noise" extent="end"/>
+ o
+</Turn>
+<Turn speaker="spk2" startTime="28.879" endTime="30.156">
+<Sync time="28.879"/>
+Brożka
+</Turn>
+<Turn speaker="spk1" startTime="30.156" endTime="38.121">
+<Sync time="30.156"/>
+proszę pana bo to już panu tłumaczę 
+<Event desc="babble" type="noise" extent="begin"/>
+ to 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ on teraz jedzie proszę jak będzie pan jechał sto sześćdziesiąt siedem od Siekierek właśnie w kierunku Chomiczówki
+</Turn>
+<Turn speaker="spk2" startTime="38.121" endTime="38.806">
+<Sync time="38.121"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="38.806" endTime="48.91">
+<Sync time="38.806"/>
+to on będzie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jechał kiedyś skręcał w Ciołka 
+<Event desc="babble" type="noise" extent="begin"/>
+ a teraz 
+<Event desc="babble" type="noise" extent="end"/>
+ właśnie jedzie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Księcia Janusza i też będzie miał przystanek Brożka
+</Turn>
+<Turn speaker="spk2" startTime="48.91" endTime="52.003">
+<Sync time="48.91"/>
+a rozumiem ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko nie nie będzie skręcał w Ciołka po pro
+<Event desc="~" type="lexical" extent="begin"/>
+stu
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="52.003" endTime="77.849">
+<Sync time="52.003"/>
+tak ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko do Księcia Janusza natomiast jak one wracają w kierunku 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Siekierek to jadą 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Obozową i później jedzie to jest Elekcyjna 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie to nie jest Elekcyjna już panu powiem jak on wraca bo on wraca troszeczkę inaczej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ będzie jechał 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ w kierunku Siekierek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ulicą już panu mówię sekundeczka 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ tak dobrze ale Deotymy i Elekcyjną potem
+</Turn>
+<Turn speaker="spk2" startTime="77.849" endTime="81.335">
+<Sync time="77.849"/>
+rozumiem ale w każdym razie w stronę Chomiczówki przystanek Brożka nadal jest
+</Turn>
+<Turn speaker="spk1" startTime="81.335" endTime="82.417">
+<Sync time="81.335"/>
+tak tak jest
+</Turn>
+<Turn speaker="spk2" startTime="82.417" endTime="83.321">
+<Sync time="82.417"/>
+dobrze dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="83.321" endTime="84.136">
+<Sync time="83.321"/>
+dziękuję
+</Turn>
+<Turn startTime="84.136" endTime="86.995">
+<Sync time="84.136"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

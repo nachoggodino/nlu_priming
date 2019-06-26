@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-27_10_24_45" version="2" version_date="070718">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="44.997" topic="to1">
+<Turn startTime="0" endTime="0.549">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.549" endTime="1.891">
+<Sync time="0.549"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.891" endTime="7.464">
+<Sync time="1.891"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry <Event desc="noise" type="noise" extent="instantaneous"/> ja chcia<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>am zapytać się o tramwaj trzydzieści dwa czy miał zmianę może rozkładu <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="7.464" endTime="8.853">
+<Sync time="7.464"/>
+a już sprawdzę chwileczkę
+</Turn>
+<Turn speaker="spk2" startTime="8.853" endTime="15.428">
+<Sync time="8.853"/>
+<Event desc="~" type="lexical" extent="begin"/>dzię<Event desc="~" type="lexical" extent="end"/>kuję <Event desc="noise" type="noise" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="15.428" endTime="18.191">
+<Sync time="15.428"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> trzydzieści dwa tak ma zmieniony
+</Turn>
+<Turn speaker="spk2" startTime="18.191" endTime="23.709">
+<Sync time="18.191"/>
+a mam taką prośbę mógłby pan podać mi tramwaje niskopokładowe <Event desc="*" type="pronounce" extent="begin"/>w jakich<Event desc="*" type="pronounce" extent="end"/> godzinach teraz je<Event desc="~" type="lexical" extent="begin"/>żdżą<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="23.709" endTime="24.906">
+<Sync time="23.709"/>
+<Event desc="babble" type="noise" extent="begin"/> a skąd <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/> <Event desc="noise" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="24.906" endTime="27.676">
+<Sync time="24.906"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> z Czynszowej z pętli <Event desc="babble" type="noise" extent="begin"/> z Pragi <Event desc="babble" type="noise" extent="end"/> <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="27.676" endTime="29.145">
+<Sync time="27.676"/>
+wszystkie w ciągu dnia <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="29.145" endTime="32.47">
+<Sync time="29.145"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> to znaczy nie może od godziny dwunastej pan mi podyktuje na 
+</Turn>
+<Turn speaker="spk1" startTime="32.47" endTime="34.614">
+<Sync time="32.47"/>
+<Event desc="babble" type="noise" extent="begin"/> dwunasta <Event desc="babble" type="noise" extent="end"/> trzydzieści trzy
+</Turn>
+<Turn speaker="spk2" startTime="34.614" endTime="35.176">
+<Sync time="34.614"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="35.176" endTime="38.046">
+<Sync time="35.176"/>
+czternasta zero trzy <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="38.046" endTime="38.781">
+<Sync time="38.046"/>
+tak i jeszcze
+</Turn>
+<Turn speaker="spk1" startTime="38.781" endTime="40.539">
+<Sync time="38.781"/>
+<Event desc="babble" type="noise" extent="begin"/> piętnasta <Event desc="babble" type="noise" extent="end"/> dwadzieścia trzy
+</Turn>
+<Turn speaker="spk2" startTime="40.539" endTime="42.385">
+<Sync time="40.539"/>
+<Event desc="noise" type="noise" extent="begin"/> piętnasta dwadzieścia trzy <Event desc="noise" type="noise" extent="end"/> dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="42.385" endTime="43.327">
+<Sync time="42.385"/>
+<Who nb="1"/>
+ślicznie do widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="43.327" endTime="43.78">
+<Sync time="43.327"/>
+do widzenia
+</Turn>
+<Turn startTime="43.78" endTime="44.997">
+<Sync time="43.78"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

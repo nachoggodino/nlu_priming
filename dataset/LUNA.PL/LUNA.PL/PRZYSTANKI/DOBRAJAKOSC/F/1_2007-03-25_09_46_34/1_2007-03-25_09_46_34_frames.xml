@@ -1,0 +1,16 @@
+<Frames>
+  <Set id="1" subset="1" span="word_14" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_11..word_13" concept_id="7" name="SELF_MOVER" />
+    <Frame fe="2" span="word_15..word_16" concept_id="9" name="GOAL" />
+    <Frame fe="3" span="word_17..word_18" concept_id="10" name="SOURCE" />
+  </Set>
+  <Set id="2" subset="1" span="word_29" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_30" concept_id="14" name="THEME" />
+    <Frame fe="2" span="word_31,word_32..word_33" concept_id="15,16" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_42" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_41" concept_id="21" name="THEME" />
+    <Frame fe="2" span="word_43" concept_id="23" name="POSITION" />
+    <Frame fe="3" span="word_44..word_46,word_47..word_48" concept_id="24,25" name="PLACE" />
+  </Set>
+</Frames>

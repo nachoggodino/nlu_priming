@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-10_11_14_04" version="4" version_date="080113">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="39.498" topic="to1">
+<Turn startTime="0" endTime="1.331">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.331" endTime="3.976">
+<Sync time="1.331"/>
+dzień dobry xxx słucham 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.976" endTime="6.249">
+<Sync time="3.976"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ halo
+</Turn>
+<Turn speaker="spk1" startTime="6.249" endTime="7.703">
+<Sync time="6.249"/>
+słucham 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="7.703" endTime="18.39">
+<Sync time="7.703"/>
+ja chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ła
+<Event desc="~" type="lexical" extent="end"/>
+bym się dowiedzieć bo 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+jestem na zasiłku przedemerytalnym na świadczeniu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dostaje z ZUSu taki 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ taką informację raz w roku jak ja mogę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ jakie ja mam bilety kasować 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w
+</Turn>
+<Turn speaker="spk2 spk1" startTime="18.39" endTime="19.147">
+<Sync time="18.39"/>
+<Who nb="1"/>
+ autobusach 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+proszę pani
+</Turn>
+<Turn speaker="spk1" startTime="19.147" endTime="24.975">
+<Sync time="19.147"/>
+musi pani 
+<Event desc="*" type="pronounce" extent="begin"/>
+kasować
+<Event desc="*" type="pronounce" extent="end"/>
+ bilety normalne osobom pobierający
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+ świadczenie przedemerytalne nie przysługują przejaz
+<Event desc="~" type="lexical" extent="begin"/>
+dy
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.975" endTime="27.34">
+<Sync time="24.975"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ojej proszę pana 
+<Event desc="babble" type="noise" extent="end"/>
+ coś 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ proszę jeszcze raz 
+<Event desc="noise" type="noise" extent="begin"/>
+ powtórzyć 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="27.34" endTime="32.076">
+<Sync time="27.34"/>
+osobom pobierającym świadczenie przedemerytalne przejazdy ulgowe nie przysługują
+</Turn>
+<Turn speaker="spk2" startTime="32.076" endTime="32.828">
+<Sync time="32.076"/>
+nie przysługuje
+</Turn>
+<Turn speaker="spk1" startTime="32.828" endTime="33.455">
+<Sync time="32.828"/>
+nie
+</Turn>
+<Turn speaker="spk2" startTime="33.455" endTime="34.327">
+<Sync time="33.455"/>
+czyl
+<Event desc="~" type="lexical" extent="begin"/>
+i
+<Event desc="~" type="lexical" extent="end"/>
+ normalne
+</Turn>
+<Turn speaker="spk1" startTime="34.327" endTime="34.859">
+<Sync time="34.327"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="34.859" endTime="35.479">
+<Sync time="34.859"/>
+dobrze dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="35.479" endTime="35.924">
+<Sync time="35.479"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="35.924" endTime="36.402">
+<Sync time="35.924"/>
+bardzo
+</Turn>
+<Turn speaker="spk2" startTime="36.402" endTime="36.899">
+<Sync time="36.402"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="36.899" endTime="37.575">
+<Sync time="36.899"/>
+do usłyszenia
+</Turn>
+<Turn startTime="37.575" endTime="39.498">
+<Sync time="37.575"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

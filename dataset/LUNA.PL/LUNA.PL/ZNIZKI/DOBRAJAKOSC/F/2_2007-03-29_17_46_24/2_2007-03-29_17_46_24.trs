@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-29_17_46_24" version="2" version_date="080113">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="20.499" topic="to1">
+<Turn startTime="0" endTime="1.267">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.267" endTime="2.906">
+<Sync time="1.267"/>
+xxx 
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień 
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.906" endTime="11.834">
+<Sync time="2.906"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę pana mam takie pytanko jak dziecko ma 
+<Event desc="*" type="pronounce" extent="begin"/>
+już
+<Event desc="*" type="pronounce" extent="end"/>
+ sześ
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+ lat 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to kupuję za niego bilet ulgowy czy może jechać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ środkami komunikacji 
+<Event desc="noise" type="noise" extent="begin"/>
+ miejskiej bezpłatnie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.834" endTime="16.03">
+<Sync time="11.834"/>
+to jeszcze bezpłatnie do pierwszego września siódmego roku życia bezpłatnie
+</Turn>
+<Turn speaker="spk2" startTime="16.03" endTime="17.351">
+<Sync time="16.03"/>
+aha dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="17.351" endTime="17.898">
+<Sync time="17.351"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="17.898" endTime="18.523">
+<Sync time="17.898"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.523" endTime="19.001">
+<Sync time="18.523"/>
+do widzenia
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn startTime="19.001" endTime="20.499">
+<Sync time="19.001"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

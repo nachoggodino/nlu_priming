@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-17_19_02_06" version="4" version_date="071205">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="60.496" topic="to1">
+<Turn startTime="0" endTime="2.354">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.354" endTime="3.647">
+<Sync time="2.354"/>
+dzień dobry xxx 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3.647" endTime="11.5">
+<Sync time="3.647"/>
+ dobry wieczór ja mam pytanie jak na godzinę piątą rano dojechać ze Służewca na Zachodni czy metro rano jeździ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Centrum
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="11.5" endTime="12.986">
+<Sync time="11.5"/>
+od piątej rano dopiero
+</Turn>
+<Turn speaker="spk1" startTime="12.986" endTime="16.948">
+<Sync time="12.986"/>
+od piątej rano i no 
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+ a w no
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ to na 
+<Event desc="*" type="pronounce" extent="begin"/>
+nocnym
+<Event desc="*" type="pronounce" extent="end"/>
+ tylko przed piątą
+</Turn>
+<Turn speaker="spk2" startTime="16.948" endTime="18.55">
+<Sync time="16.948"/>
+tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.55" endTime="20.708">
+<Sync time="18.55"/>
+aha to dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="20.708" endTime="22.239">
+<Sync time="20.708"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale to 
+<Event desc="babble" type="noise" extent="end"/>
+ kiedy pani potrzebuje 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="22.239" endTime="25.177">
+<Sync time="22.239"/>
+muszę być na piątą trzydzieści na 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+P K S
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ie Zachodnim
+</Turn>
+<Turn speaker="spk2" startTime="25.177" endTime="25.884">
+<Sync time="25.177"/>
+ale kiedy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.884" endTime="26.445">
+<Sync time="25.884"/>
+w niedzielę
+</Turn>
+<Turn speaker="spk2" startTime="26.445" endTime="30.592">
+<Sync time="26.445"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a to metro 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ to metro jeździ proszę panią bo w 
+<Event desc="*" type="pronounce" extent="begin"/>
+ 
+<Event desc="en" type="language" extent="begin"/>
+weekend
+<Event desc="en" type="language" extent="end"/>
+y
+<Event desc="*" type="pronounce" extent="end"/>
+ jeździ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.592" endTime="33.973">
+<Sync time="30.592"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ o o od 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="33.973" endTime="40.785">
+<Sync time="33.973"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ momencik dzisiaj jest sobo
+<Event desc="~" type="lexical" extent="begin"/>
+ta
+<Event desc="~" type="lexical" extent="end"/>
+ z soboty na niedzielę co pół godziny tylko ja już 
+<Event desc="noise" type="noise" extent="end"/>
+ pani momencik ja pani powiem
+</Turn>
+<Turn speaker="spk1" startTime="40.785" endTime="41.809">
+<Sync time="40.785"/>
+ze Służewca
+</Turn>
+<Turn speaker="spk2" startTime="41.809" endTime="55.801">
+<Sync time="41.809"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ze Służewca proszę panią bo o na piątą musi pani tam być tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ to nie druga trzydzieści dziewięć mam 
+<Event desc="noise" type="noise" extent="end"/>
+ ostatni i to niestety ale nie nocne w takim razie
+</Turn>
+<Turn speaker="spk1" startTime="55.801" endTime="57.521">
+<Sync time="55.801"/>
+nocne to ślicznie pani dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="57.521" endTime="58.255">
+<Sync time="57.521"/>
+dziękuję 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="58.255" endTime="59.177">
+<Sync time="58.255"/>
+<Who nb="1"/>
+dobranoc
+<Who nb="2"/>
+dobranoc
+</Turn>
+<Turn startTime="59.177" endTime="60.496">
+<Sync time="59.177"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

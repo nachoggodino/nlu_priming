@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_23_38_50" version="4" version_date="070926">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="53.497" topic="to1">
+<Turn startTime="0" endTime="1.036">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.036" endTime="3.07">
+<Sync time="1.036"/>
+dobry wieczór xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.07" endTime="18.058">
+<Sync time="3.07"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę mi powiedzieć 
+<Event desc="~" type="lexical" extent="begin"/>
+o
+<Event desc="~" type="lexical" extent="end"/>
+ o której będzie autobus autobus sto dwadzieścia pięć na 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Placu Zamkowym w stronę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w stronę Pragi 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.058" endTime="24.348">
+<Sync time="18.058"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="int" type="noise" extent="next"/>
+przystanek Stare Miasto kierunek Międzylesie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="24.348" endTime="24.834">
+<Sync time="24.348"/>
+<Who nb="1"/>
+proszę
+<Who nb="2"/>
+jeszcze
+</Turn>
+<Turn speaker="spk2" startTime="24.834" endTime="26.106">
+<Sync time="24.834"/>
+dzisiaj będzie taki
+</Turn>
+<Turn speaker="spk1" startTime="26.106" endTime="29.637">
+<Sync time="26.106"/>
+tak ale tylko tutaj do przystanku 
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę pana 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="29.637" endTime="30.653">
+<Sync time="29.637"/>
+Płowiecka 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.653" endTime="34.697">
+<Sync time="30.653"/>
+nie 
+<Event desc="noise" type="noise" extent="begin"/>
+ do przystanku Dworzec Wileński 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="34.697" endTime="35.917">
+<Sync time="34.697"/>
+sto dwadzieścia pięć tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.917" endTime="44.981">
+<Sync time="35.917"/>
+tak dwudziesta trzecia pięćdziesiąt dwie to jest zjazdowy już 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ na Szwedzką będzie zjeżdżał ostatni przystanek na trasie Dworzec Wileński 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="44.981" endTime="46.700">
+<Sync time="44.981"/>
+rozumiem i już żadnego innego nie 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="46.700" endTime="47.599">
+<Sync time="46.700"/>
+<Who nb="1"/>
+nie będzie
+<Who nb="2"/>
+nie
+</Turn>
+<Turn speaker="spk1" startTime="47.599" endTime="48.682">
+<Sync time="47.599"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ nie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="48.682" endTime="49.752">
+<Sync time="48.682"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ no dobrze dziękuję panu 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="49.752" endTime="50.317">
+<Sync time="49.752"/>
+<Who nb="1"/>
+do widzenia
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="50.317" endTime="50.889">
+<Sync time="50.317"/>
+do usłyszenia
+</Turn>
+<Turn startTime="50.889" endTime="53.497">
+<Sync time="50.889"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

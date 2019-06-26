@@ -1,0 +1,14 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="DEPARTING" head="odjeżdżać">
+    <Frame fe="1" span="word_10..word_12" concept_id="6" name="SOURCE" />
+    <Frame fe="2" span="word_14" concept_id="8" name="THEME" />
+    <Frame fe="3" span="word_15,word_16..word_20" concept_id="9,10" name="TIME" />
+    <Frame fe="4" span="word_21..word_23" concept_id="11" name="SOURCE" />
+    <Frame fe="5" span="word_24..word_25" concept_id="12" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_50" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_51..word_53" concept_id="20" name="DIRECTION" />
+    <Frame fe="2" span="word_55..word_56" concept_id="21" name="SOURCE" />
+    <Frame fe="3" span="word_57..word_58" concept_id="22" name="GOAL" />
+  </Set>
+</Frames>

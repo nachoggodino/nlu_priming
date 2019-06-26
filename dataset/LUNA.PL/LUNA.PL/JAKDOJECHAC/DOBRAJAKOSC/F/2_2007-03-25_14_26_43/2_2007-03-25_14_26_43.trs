@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-25_14_26_43" version="4" version_date="071221">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="55.996" topic="to1">
+<Turn startTime="0" endTime="1.17481184482">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1.17481184482" endTime="2.749">
+<Sync time="1.17481184482"/>
+xxx 
+<Event desc="int" type="noise" extent="next"/>
+dzień dobry
+</Turn>
+<Turn speaker="spk1" startTime="2.749" endTime="9.576">
+<Sync time="2.749"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana a jeszcze z Placu Wilsona na Dworzec Wileński 
+<Event desc="noise" type="noise" extent="begin"/>
+ czym się dostaniemy 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bezpośrednio 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="9.576" endTime="27.393">
+<Sync time="9.576"/>
+na Dworzec Wileński 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to nie będzie będzie bezpośredniego dojazdu tylko z przesiadką albo przy Dworcu Gdańskim na szóstkę albo sto trzy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ albo przy przy Metrze Ratusz na tramwaje
+</Turn>
+<Turn speaker="spk1" startTime="27.393" endTime="31.074">
+<Sync time="27.393"/>
+rozumie
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i autobusu też nie mamy żadnego bezpośrednio 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="31.074" endTime="35.226">
+<Sync time="31.074"/>
+bezpośrednio z Placu Wilsona nie to nie ma takiego połączenia
+</Turn>
+<Turn speaker="spk1" startTime="35.226" endTime="42.493">
+<Sync time="35.226"/>
+aha 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a ten sto osiemdziesiąt jeden to wyjeżdża 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ spod 
+<Event desc="babble" type="noise" extent="begin"/>
+ zajezdni czy on jedzie też tutaj 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ten autobus czy on
+</Turn>
+<Turn speaker="spk2" startTime="42.493" endTime="51.098">
+<Sync time="42.493"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ on jedzie 
+<Event desc="babble" type="noise" extent="end"/>
+ przez Mickiewicza i tam jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ przystanek na najpierw jest początkowy przy ekspedycji a potem jest na Mickiewicza zaraz za Placem 
+<Event desc="babble" type="noise" extent="begin"/>
+ Wilsona 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="51.098" endTime="52.471">
+<Sync time="51.098"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ rozumie dobrze dobrze 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="52.471" endTime="53.425">
+<Sync time="52.471"/>
+<Who nb="1"/>
+dziękuję 
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn startTime="53.425" endTime="55.996">
+<Sync time="53.425"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

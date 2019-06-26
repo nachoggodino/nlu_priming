@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-12_14_27_43" version="6" version_date="080113">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="83.366" topic="to1">
+<Turn startTime="0" endTime="0.959">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.959" endTime="3.369">
+<Sync time="0.959"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień dobry
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ xxx 
+<Event desc="noise" type="noise" extent="end"/>
+ w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.369" endTime="29.067">
+<Sync time="3.369"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę panią
+<Event desc="*" type="pronounce" extent="end"/>
+ chcia
+<Event desc="~" type="lexical" extent="begin"/>
+łe
+<Event desc="~" type="lexical" extent="end"/>
+m się dowiedzieć taką rzecz 
+<Event desc="*" type="pronounce" extent="begin"/>
+dowiedzieć
+<Event desc="*" type="pronounce" extent="end"/>
+ taką rzecz 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="fr" type="language" extent="begin"/>
+ a 
+<Event desc="*" type="pronounce" extent="begin"/>
+propos
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="fr" type="language" extent="end"/>
+ osób które skończyły siedemdziesiąty rok życia 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ czy oni korzystają z takich samych praw na przyk
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+ad chodzi o korzystanie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z kolei 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ na na terenie 
+<Event desc="*" type="pronounce" extent="begin"/>
+oczywiście
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ warszawskiego węzła 
+<Event desc="*" type="pronounce" extent="begin"/>
+znaczy
+<Event desc="*" type="pronounce" extent="end"/>
+ tak 
+<Event desc="*" type="pronounce" extent="begin"/>
+jak
+<Event desc="*" type="pronounce" extent="end"/>
+ na 
+<Event desc="*" type="pronounce" extent="begin"/>
+przykład
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Falenicy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ że zamias
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ na przyk
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+ad 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a ja
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="29.067" endTime="30.163">
+<Sync time="29.067"/>
+<Who nb="1"/>
+autobus 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+proszę pana
+</Turn>
+<Turn speaker="spk2" startTime="30.163" endTime="31.828">
+<Sync time="30.163"/>
+jedzie koleją
+</Turn>
+<Turn speaker="spk1" startTime="31.828" endTime="37.873">
+<Sync time="31.828"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ może pan korzystać z Kolei Mazowieckich na terenie Warszawy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="37.873" endTime="38.671">
+<Sync time="37.873"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+aha
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="38.671" endTime="39.381">
+<Sync time="38.671"/>
+<Who nb="1"/>
+bezpłatnie
+<Who nb="2"/>
+aha znaczy
+</Turn>
+<Turn speaker="spk1" startTime="39.381" endTime="48.196">
+<Sync time="39.381"/>
+tak samo jak tak samo jak z komunikacji 
+<Event desc="noise" type="noise" extent="begin"/>
+ miejskiej 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ ale 
+<Event desc="babble" type="noise" extent="end"/>
+ tylko na terenie Warszawy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Warszawy i tylko 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Kolei Mazowieckich
+</Turn>
+<Turn speaker="spk2" startTime="48.196" endTime="55.945">
+<Sync time="48.196"/>
+aha no 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ oczywiście ograniczone 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tymi 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ stacjami tak jak na 
+<Event desc="*" type="pronounce" extent="begin"/>
+przykład
+<Event desc="*" type="pronounce" extent="end"/>
+ Falenica czy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy Wola Grzybowska tak
+</Turn>
+<Turn speaker="spk1" startTime="55.945" endTime="57.748">
+<Sync time="55.945"/>
+tak to to są 
+<Event desc="babble" type="noise" extent="begin"/>
+ stacje 
+<Event desc="babble" type="noise" extent="end"/>
+ granicz
+<Event desc="~" type="lexical" extent="begin"/>
+ne
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="57.748" endTime="61.111">
+<Sync time="57.748"/>
+aha 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ na tych samych zasadach jak tak jakbym 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ miał
+</Turn>
+<Turn speaker="spk1" startTime="61.111" endTime="62.492">
+<Sync time="61.111"/>
+tak jak komunikacją miej
+<Event desc="~" type="lexical" extent="begin"/>
+ską
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="62.492" endTime="70.582">
+<Sync time="62.492"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ aha 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to już nie potrzeba 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tak samo traktowany jakby ten posiadacz biletu 
+<Event desc="*" type="pronounce" extent="begin"/>
+trzydziestodniowego czy dziewięćdziesięciodniowego
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="70.582" endTime="74.692">
+<Sync time="70.582"/>
+tak tylko musi pan mieć jakimi jakiś dokumen
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ze zdjęciem
+</Turn>
+<Turn speaker="spk2" startTime="74.692" endTime="74.831">
+<Sync time="74.692"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="74.831" endTime="77.352">
+<Sync time="74.831"/>
+datą urodzin 
+<Event desc="noise" type="noise" extent="begin"/>
+ najlepiej żeby to był dowód osobisty 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="77.352" endTime="79.255">
+<Sync time="77.352"/>
+aha dobrze dziękuję bar
+<Event desc="~" type="lexical" extent="begin"/>
+dzo
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+dziękuję
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="79.255" endTime="79.985">
+<Sync time="79.255"/>
+proszę bardzo
+</Turn>
+<Turn startTime="79.985" endTime="83.366">
+<Sync time="79.985"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

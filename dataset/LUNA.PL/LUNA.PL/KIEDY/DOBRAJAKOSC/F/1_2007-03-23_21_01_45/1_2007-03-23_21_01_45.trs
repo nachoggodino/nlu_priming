@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_21_01_45" version="6" version_date="100914">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="48.997" topic="to1">
+<Turn startTime="0" endTime="0.657">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.657" endTime="1.953">
+<Sync time="0.657"/>
+xxx dobry wieczór 
+</Turn>
+<Turn speaker="spk2" startTime="1.953" endTime="5.237">
+<Sync time="1.953"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobry wieczór chciałabym jutro autobus sto dwanaście 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="5.237" endTime="5.426">
+<Sync time="5.237"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="5.426" endTime="13.530">
+<Sync time="5.426"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ przystanek za ratuszem Bemowo w stronę tego 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Żoliborza 
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ak o wpół do ósmej rano 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.530" endTime="15.764">
+<Sync time="13.530"/>
+czyli 
+<Event desc="babble" type="noise" extent="begin"/>
+ przystanek 
+<Event desc="babble" type="noise" extent="end"/>
+ Kazubów
+</Turn>
+<Turn speaker="spk2" startTime="15.764" endTime="20.126">
+<Sync time="15.764"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no tak w stronę Żoliborza tak stąd by chyba a jaki jest dalej przystanek 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.126" endTime="23.784">
+<Sync time="20.126"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ kolejny jest Dywizjonu trzysta trzy
+</Turn>
+<Turn speaker="spk2" startTime="23.784" endTime="24.825">
+<Sync time="23.784"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ oj to nie wiem 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.825" endTime="26.626">
+<Sync time="24.825"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a wcześniej 
+<Event desc="babble" type="noise" extent="end"/>
+ jest Bemowo Ratusz
+</Turn>
+<Turn speaker="spk2" startTime="26.626" endTime="28.445">
+<Sync time="26.626"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+Bemowo Ratusz to nie jest Kazubów 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.445" endTime="29.949">
+<Sync time="28.445"/>
+i Dywizjonu trzysta trzy
+</Turn>
+<Turn speaker="spk2" startTime="29.949" endTime="31.58">
+<Sync time="29.949"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to ten Kazubów właśnie 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.58" endTime="33.067">
+<Sync time="31.58"/>
+i oko
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ której rano 
+<Event desc="babble" type="noise" extent="begin"/>
+jutro
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="33.067" endTime="34.184">
+<Sync time="33.067"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ wpół do ósmej
+<Event desc="noise" type="noise" extent="previous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="34.184" endTime="35.752">
+<Sync time="34.184"/>
+siódma czterdzieści dwa
+</Turn>
+<Turn speaker="spk2" startTime="35.752" endTime="36.595">
+<Sync time="35.752"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ a wcześniej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.595" endTime="37.44">
+<Sync time="36.595"/>
+dwanaście po 
+</Turn>
+<Turn speaker="spk2" startTime="37.44" endTime="44.063">
+<Sync time="37.44"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dwanaście po 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze to pan dobrze 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ dobrze dobrze czterdzieści czterdzieści ile 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="44.063" endTime="45.396">
+<Sync time="44.063"/>
+czterdzieści dwa
+</Turn>
+<Turn speaker="spk2" startTime="45.396" endTime="46.001">
+<Sync time="45.396"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobry dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="46.001" endTime="46.761">
+<Sync time="46.001"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę bardzo 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="46.761" endTime="47.584">
+<Sync time="46.761"/>
+<Who nb="1"/>
+dobranoc
+<Who nb="2"/>
+dobranoc
+</Turn>
+<Turn startTime="47.584" endTime="48.997">
+<Sync time="47.584"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

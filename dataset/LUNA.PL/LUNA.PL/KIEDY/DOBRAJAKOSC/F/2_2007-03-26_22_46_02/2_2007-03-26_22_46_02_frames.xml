@@ -1,0 +1,37 @@
+<Frames>
+  <Set id="1" subset="1" span="word_22" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_19" concept_id="11" name="SELF_MOVER" />
+  </Set>
+  <Set id="2" subset="1" span="word_40" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_37..word_39" concept_id="20" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_50" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_51..word_52" concept_id="26" name="PLACE" />
+  </Set>
+  <Set id="4" subset="1" span="word_56" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_53" concept_id="27" name="PLACE" />
+    <Frame fe="2" span="word_54" concept_id="28" name="ENTITY" />
+  </Set>
+  <Set id="5" subset="1" span="word_62" frame="END" head="kończyć">
+    <Frame fe="1" span="word_61" concept_id="31" name="PLACE" />
+    <Frame fe="2" span="word_64" concept_id="33" name="PROCESS" />
+  </Set>
+  <Set id="6" subset="1" span="word_65" frame="START" head="zaczynać">
+    <Frame fe="1" span="word_66" concept_id="35" name="THEME" />
+  </Set>
+  <Set id="7" subset="1" span="word_73" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_69" concept_id="37" name="THEME" />
+  </Set>
+  <Set id="8" subset="1" span="word_80" frame="END" head="kończyć">
+    <Frame fe="1" span="word_75" concept_id="40" name="AGENT" />
+    <Frame fe="2" span="word_77" concept_id="41" name="TIME" />
+    <Frame fe="3" span="word_79" concept_id="42" name="TIME" />
+  </Set>
+  <Set id="9" subset="1" span="word_85" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_83" concept_id="45" name="THEME" />
+    <Frame fe="2" span="word_86..word_88" concept_id="47" name="TIME" />
+  </Set>
+  <Set id="10" subset="1" span="word_95" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_91" concept_id="50" name="THEME" />
+  </Set>
+</Frames>

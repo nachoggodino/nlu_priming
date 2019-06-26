@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-26_00_32_02" version="5" version_date="080418">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="179.489" topic="to1">
+<Turn startTime="0" endTime="0.707">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.707" endTime="2.103">
+<Sync time="0.707"/>
+xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.103" endTime="2.847">
+<Sync time="2.103"/>
+dobry wieczór
+</Turn>
+<Turn speaker="spk1" startTime="2.847" endTime="3.527">
+<Sync time="2.847"/>
+dobry wieczór
+</Turn>
+<Turn speaker="spk2" startTime="3.527" endTime="12.281">
+<Sync time="3.527"/>
+no 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pani chciałbym się dowiedzieć o której teraz będę miał jakiś 
+<Event desc="noise" type="noise" extent="begin"/>
+ autobus 
+<Event desc="noise" type="noise" extent="end"/>
+ z Placu Konstytucji nocny do Centrum żeby tylko dojechać
+</Turn>
+<Turn speaker="spk1" startTime="12.281" endTime="13.841">
+<Sync time="12.281"/>
+aha tylko do Centrum tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="13.841" endTime="15.266">
+<Sync time="13.841"/>
+tak pod Pałac 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.266" endTime="21.258">
+<Sync time="15.266"/>
+już podaję momencik 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+już
+<Event desc="*" type="pronounce" extent="end"/>
+ chwileczkę 
+</Turn>
+<Turn speaker="spk2" startTime="21.258" endTime="21.973">
+<Sync time="21.258"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="21.973" endTime="28.116">
+<Sync time="21.973"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana więc tak mamy sześćset siedem i sześćset jedenaście już panu podaję rozkład momencik 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="28.116" endTime="30.081">
+<Sync time="28.116"/>
+sześćset siedem i sześćset 
+<Event desc="*" type="pronounce" extent="begin"/>
+jedenaście
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.081" endTime="42.107">
+<Sync time="30.081"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak sześćset 
+<Event desc="babble" type="noise" extent="end"/>
+ siedem i sześćset jedenaście 
+<Event desc="noise" type="noise" extent="begin"/>
+ już momencik 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ proszę pana sześćset siedem mamy zero trzy 
+<Event desc="noise" type="noise" extent="end"/>
+ i trzydzieści trzy po każdej pełnej godzinie 
+</Turn>
+<Turn speaker="spk2" startTime="42.107" endTime="42.946">
+<Sync time="42.107"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="42.946" endTime="46.844">
+<Sync time="42.946"/>
+czyli będzie pierwsza zero trzy i trzydzieści trzy i tak się powtarza
+</Turn>
+<Turn speaker="spk2" startTime="46.844" endTime="48.146">
+<Sync time="46.844"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sześćset siedem
+</Turn>
+<Turn speaker="spk1" startTime="48.146" endTime="63.461">
+<Sync time="48.146"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ sześćset 
+<Event desc="babble" type="noise" extent="end"/>
+ siedem a sześćset jedenaście już podaję 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a sześćset jedenaście proszę pana odjeżdża 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ zero trz
+<Event desc="~" type="lexical" extent="begin"/>
+y
+<Event desc="~" type="lexical" extent="end"/>
+ o tak samo zero trzy i trzydzieści trzy 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="63.461" endTime="69.633">
+<Sync time="63.461"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a później jeszcze jakiś znajdę 
+<Event desc="babble" type="noise" extent="begin"/>
+ do Placu Konstytucji spod Pałacu 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="69.633" endTime="72.22">
+<Sync time="69.633"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ale w 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ znaczy z powrotem będzie pan chciał 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="72.22" endTime="72.779">
+<Sync time="72.22"/>
+<Who nb="1"/>
+podjechać na
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="72.779" endTime="73.885">
+<Sync time="72.779"/>
+Placu Konstytucji 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="73.885" endTime="78.716">
+<Sync time="73.885"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ później będę chciał z Centrum spod Pałacu 
+<Event desc="babble" type="noise" extent="begin"/>
+ podjechać na Plac Konstytucji 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="78.716" endTime="82.572">
+<Sync time="78.716"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana to zaraz zobaczymy ale też 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tymi nocnymi 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="82.572" endTime="84.423">
+<Sync time="82.572"/>
+no pewnie nikt 
+<Event desc="noise" type="noise" extent="begin"/>
+ więcej nie kursuj
+<Event desc="~" type="lexical" extent="begin"/>
+e
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="84.423" endTime="86.906">
+<Sync time="84.423"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale ale 
+<Event desc="babble" type="noise" extent="end"/>
+ o której 
+<Event desc="noise" type="noise" extent="begin"/>
+ godzinie bo ja nie bardzo 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="86.906" endTime="87.895">
+<Sync time="86.906"/>
+no powiem 
+<Event desc="noise" type="noise" extent="begin"/>
+ pani tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="87.895" endTime="89.938">
+<Sync time="87.895"/>
+<Who nb="1"/>
+mamy godzinę
+<Who nb="2"/>
+godzinę za dwie
+</Turn>
+<Turn speaker="spk2" startTime="89.938" endTime="91.108">
+<Sync time="89.938"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ za jakąś godzinkę 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="91.108" endTime="101.363">
+<Sync time="91.108"/>
+a za godzinkę no to 
+<Event desc="babble" type="noise" extent="begin"/>
+ oczywiście że proszę uprzejmie już panu podaję 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana więc tak z Centralnego będzie pan miał autobus sześćset siedem piętnaście i czterdzieści pięć 
+</Turn>
+<Turn speaker="spk2" startTime="101.363" endTime="102.595">
+<Sync time="101.363"/>
+sześćset jeden 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="102.595" endTime="103.839">
+<Sync time="102.595"/>
+sześćset siedem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="103.839" endTime="104.069">
+<Sync time="103.839"/>
+a
+</Turn>
+<Turn speaker="spk1" startTime="104.069" endTime="121.122">
+<Sync time="104.069"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ cały czas tymi 
+<Event desc="babble" type="noise" extent="end"/>
+ samymi jedziemy 
+<Event desc="babble" type="noise" extent="begin"/>
+ sześćset 
+<Event desc="babble" type="noise" extent="end"/>
+ siedem kierunek Osiedle Kabaty 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i on odjeżdża piętnaście i czterdzieści pięć po każdej pełnej godzinie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ czyli na przykład 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ druga piętnaście i czterdzieści pięć 
+<Event desc="babble" type="noise" extent="begin"/>
+ trzecia też 
+<Event desc="babble" type="noise" extent="end"/>
+ piętnaście i czterdzieści pięć i o czwartej są ostatnie kursy
+</Turn>
+<Turn speaker="spk2" startTime="121.122" endTime="123.335">
+<Sync time="121.122"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ on przejeżdża koło Rotundy 
+<Event desc="babble" type="noise" extent="end"/>
+ przejeżdża 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="123.335" endTime="130.106">
+<Sync time="123.335"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ko
+<Event desc="~" type="lexical" extent="begin"/>
+ło
+<Event desc="~" type="lexical" extent="end"/>
+ Rotundy proszę pana tak przystanek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ma na nie inaczej przystanek ma na Marszałkowskiej przy Cepelii
+</Turn>
+<Turn speaker="spk2" startTime="130.106" endTime="132.875">
+<Sync time="130.106"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ Marszałkowska 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="132.875" endTime="135.355">
+<Sync time="132.875"/>
+przy Cepelii bo jedziemy w kierunku Placu Konstytu
+<Event desc="~" type="lexical" extent="begin"/>
+cji
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="135.355" endTime="136.531">
+<Sync time="135.355"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ dobrze
+</Turn>
+<Turn speaker="spk1" startTime="136.531" endTime="143.073">
+<Sync time="136.531"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+o je
+<Event desc="~" type="lexical" extent="begin"/>
+st
+<Event desc="~" type="lexical" extent="end"/>
+ sześćset siedem a teraz proszę pana sześćset jedenaście 
+<Event desc="noise" type="noise" extent="begin"/>
+ który jedzie w kierunku Sadyby 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="143.073" endTime="143.353">
+<Sync time="143.073"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="143.353" endTime="149.488">
+<Sync time="143.353"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tu 
+<Event desc="babble" type="noise" extent="end"/>
+ tu są przystanki Dworzec 
+<Event desc="noise" type="noise" extent="begin"/>
+ Centralny 
+<Event desc="noise" type="noise" extent="end"/>
+ trzydzieści siedem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ on odjeżdża proszę pana też piętnaście i czterdzieści 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="149.488" endTime="150.006">
+<Sync time="149.488"/>
+<Who nb="1"/>
+pięć
+<Who nb="2"/>
+aha
+</Turn>
+<Turn speaker="spk2" startTime="150.006" endTime="152.101">
+<Sync time="150.006"/>
+czyli one tak przyjeżdżają równocześnie
+</Turn>
+<Turn speaker="spk1" startTime="152.101" endTime="159.516">
+<Sync time="152.101"/>
+tak bo z tego wie pan wspólnego przystanku 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przy Dworcu Centralnym to przeważnie od
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ odjazdy są w
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+aśnie piętnaście i czterdzieści pięć
+</Turn>
+<Turn speaker="spk2" startTime="159.516" endTime="163.786">
+<Sync time="159.516"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a to jest 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ te przystanki tam z tyłu to 
+<Event desc="babble" type="noise" extent="begin"/>
+ jest 
+<Event desc="babble" type="noise" extent="end"/>
+ przy tej pętli tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="163.786" endTime="169.653">
+<Sync time="163.786"/>
+tak z tyłu przy pętli proszę pana przystanek 
+<Event desc="babble" type="noise" extent="begin"/>
+ się nazywa 
+<Event desc="babble" type="noise" extent="end"/>
+ Dworzec Centralny trzydzieści siedem
+</Turn>
+<Turn speaker="spk2" startTime="169.653" endTime="170.202">
+<Sync time="169.653"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze
+</Turn>
+<Turn speaker="spk1" startTime="170.202" endTime="172.918">
+<Sync time="170.202"/>
+to jest 
+<Event desc="babble" type="noise" extent="begin"/>
+ pod tą 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ pętlą taką z żółtymi dachami
+</Turn>
+<Turn speaker="spk2" startTime="172.918" endTime="176.433">
+<Sync time="172.918"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ w takim układzie 
+<Event desc="babble" type="noise" extent="end"/>
+ dziękuję pięknie
+</Turn>
+<Turn speaker="spk1" startTime="176.433" endTime="176.653">
+<Sync time="176.433"/>
+dziękuję 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="176.653" endTime="177.839">
+<Sync time="176.653"/>
+<Who nb="1"/>
+dziękuję uprzejmie za rozmowę
+<Who nb="2"/>
+dobranoc
+</Turn>
+<Turn speaker="spk1" startTime="177.839" endTime="178.512">
+<Sync time="177.839"/>
+dobranoc
+</Turn>
+<Turn startTime="178.512" endTime="179.489">
+<Sync time="178.512"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

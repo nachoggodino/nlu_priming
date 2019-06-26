@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_15_00_18" version="2" version_date="071001">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="44.997" topic="to1">
+<Turn startTime="0" endTime="0.916">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.916" endTime="2.488">
+<Sync time="0.916"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry <Event desc="noise" type="noise" extent="begin"/> xxx słucham <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="2.488" endTime="14.239">
+<Sync time="2.488"/>
+<Event desc="noise" type="noise" extent="begin"/> dzień dobry proszę pana mam <Event desc="noise" type="noise" extent="end"/> taki problem <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="begin"/> mam pięćdziesiąt lat <Event desc="babble" type="noise" extent="end"/> podjęłam studia i mam legitymację i teraz chcia<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>am się zapytać <Event desc="filler" type="lexical" extent="instantaneous"/> jaki bilet mogę sobie <Event desc="babble" type="noise" extent="begin"/> wykupić <Event desc="babble" type="noise" extent="end"/> na autobusy na komunikację mie<Event desc="~" type="lexical" extent="begin"/>jską<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="14.239" endTime="17.78">
+<Sync time="14.239"/>
+<Event desc="babble" type="noise" extent="begin"/> <Event desc="~" type="lexical" extent="begin"/>zn<Event desc="~" type="lexical" extent="end"/>aczy <Event desc="babble" type="noise" extent="end"/> jeśli studiuje pani na studiach pierwszego albo drugiego stopnia
+</Turn>
+<Turn speaker="spk1 spk2" startTime="17.78" endTime="18.17">
+<Sync time="17.78"/>
+<Who nb="1"/>
+czyli
+<Who nb="2"/>
+nie
+</Turn>
+<Turn speaker="spk2" startTime="18.17" endTime="20.295">
+<Sync time="18.17"/>
+<Event desc="babble" type="noise" extent="begin"/> to <Event desc="babble" type="noise" extent="end"/> znaczy <Event desc="noise" type="noise" extent="begin"/> się ja takie licencjackie <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="20.295" endTime="24.591">
+<Sync time="20.295"/>
+jeśli tak <Event desc="filler" type="lexical" extent="instantaneous"/> tak to <Event desc="*" type="pronounce" extent="begin"/>to są<Event desc="*" type="pronounce" extent="end"/> studia pierwszego <Event desc="babble" type="noise" extent="begin"/> stopnia <Event desc="babble" type="noise" extent="end"/> to ma pani prawo do przejazdów ulgowych
+</Turn>
+<Turn speaker="spk2" startTime="24.591" endTime="29.413">
+<Sync time="24.591"/>
+<Event desc="noise" type="noise" extent="begin"/> aha <Event desc="noise" type="noise" extent="end"/> <Event desc="babble" type="noise" extent="begin"/> no to <Event desc="babble" type="noise" extent="end"/> znaczy <Event desc="*" type="pronounce" extent="begin"/>się<Event desc="*" type="pronounce" extent="end"/> że od października po <Event desc="int" type="noise" extent="next"/>prostu niesłusznie wykupuję bilet cał<Event desc="~" type="lexical" extent="begin"/>y<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="29.413" endTime="32.279">
+<Sync time="29.413"/>
+ulga tutaj przysługuje studentom niezależnie od wieku
+</Turn>
+<Turn speaker="spk2" startTime="32.279" endTime="37.457">
+<Sync time="32.279"/>
+no właśnie bo tam nie jest jasno napisane jeśli chodzi o kolej tak a o autobusy nie
+</Turn>
+<Turn speaker="spk1" startTime="37.457" endTime="40.868">
+<Sync time="37.457"/>
+nie ma limitu wieku więc <Event desc="babble" type="noise" extent="begin"/> każdy może z niej <Event desc="babble" type="noise" extent="end"/> korzystać każdy student
+</Turn>
+<Turn speaker="spk2" startTime="40.868" endTime="42.152">
+<Sync time="40.868"/>
+dobrze dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="42.152" endTime="43.994">
+<Sync time="42.152"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+bardzo proszę do usłyszenia
+</Turn>
+<Turn startTime="43.994" endTime="44.997">
+<Sync time="43.994"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

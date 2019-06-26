@@ -1,0 +1,11 @@
+<Frames>
+  <Set id="1" subset="1" span="word_17" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_11..word_12" concept_id="4" name="PRIVILEGE" />
+    <Frame fe="2" span="word_14..word_16" concept_id="6" name="PRIVILEGE" />
+    <Frame fe="3" span="word_18" concept_id="8" name="BENEFICIARY" />
+  </Set>
+  <Set id="2" subset="1" span="word_27" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_24..word_26" concept_id="11" name="PRIVILEGE" />
+    <Frame fe="2" span="word_28" concept_id="13" name="BENEFICIARY" />
+  </Set>
+</Frames>

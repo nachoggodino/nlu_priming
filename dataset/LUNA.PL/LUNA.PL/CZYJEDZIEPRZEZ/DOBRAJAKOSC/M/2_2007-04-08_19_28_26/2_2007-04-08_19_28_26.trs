@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-08_19_28_26" version="2" version_date="070930">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="38.369" topic="to1">
+<Turn startTime="0" endTime="1.585">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.585" endTime="4.145">
+<Sync time="1.585"/>
+dzień dobry xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="4.145" endTime="20.398">
+<Sync time="4.145"/>
+dzień dobry <Event desc="int" type="noise" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pana ja mam takie pytanie <Event desc="filler" type="lexical" extent="instantaneous"/> czy od <Event desc="*" type="pronounce" extent="begin"/>Sobieskiego<Event desc="*" type="pronounce" extent="end"/> to znaczy róg Sobieskiego <Event desc="filler" type="lexical" extent="instantaneous"/> i Bonifacego pięćset dziewiętnaście dojadę do Dworca Centralnego nadal <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="20.398" endTime="21.577">
+<Sync time="20.398"/>
+tak <Event desc="int" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="21.577" endTime="23.118">
+<Sync time="21.577"/>
+czyli bez zmian jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="23.118" endTime="26.346">
+<Sync time="23.118"/>
+tak i również z tego miejsca ma pan pięćset jeden <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="26.346" endTime="29.6">
+<Sync time="26.346"/>
+i pięćset jeden który też jeździ do Dworca Centralne<Event desc="~" type="lexical" extent="begin"/>go<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="29.6" endTime="30.998">
+<Sync time="29.6"/>
+<Event desc="babble" type="noise" extent="begin"/> tak <Event desc="babble" type="noise" extent="end"/> zgadza się
+</Turn>
+<Turn speaker="spk2" startTime="30.998" endTime="32.967">
+<Sync time="30.998"/>
+dobrze dziękuję <Event desc="babble" type="noise" extent="begin"/> bardzo kłaniam się <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="32.967" endTime="33.53">
+<Sync time="32.967"/>
+<Event desc="noise" type="noise" extent="begin"/> do <Event desc="*" type="pronounce" extent="begin"/>usłyszenia<Event desc="*" type="pronounce" extent="end"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="33.53" endTime="38.369">
+<Sync time="33.53"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

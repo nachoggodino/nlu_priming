@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-28_13_15_13" version="3" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="29.870" topic="to1">
+<Turn startTime="0" endTime="0.548">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.548" endTime="1.715">
+<Sync time="0.548"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.715" endTime="13.87">
+<Sync time="1.715"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry panu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana chodzi mi o informację o korzystaniu z bezpłatnych przejazdów kto może korzystać i czy trzeba mieć jakiś dokument
+</Turn>
+<Turn speaker="spk1" startTime="13.87" endTime="17.242">
+<Sync time="13.87"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pani sporo osób jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ które mogą korzystać 
+<Event desc="int" type="noise" extent="next"/>
+o jakąś konkretną pani 
+<Event desc="babble" type="noise" extent="begin"/>
+ chodzi 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.242" endTime="19.994">
+<Sync time="17.242"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+ o o starszą osobę
+</Turn>
+<Turn speaker="spk1" startTime="19.994" endTime="24.233">
+<Sync time="19.994"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę panią
+<Event desc="*" type="pronounce" extent="end"/>
+ jak się skończy siedemdziesiąt lat to 
+<Event desc="babble" type="noise" extent="begin"/>
+ można na 
+<Event desc="babble" type="noise" extent="end"/>
+ dowód
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ osobisty 
+<Event desc="noise" type="noise" extent="end"/>
+ jeździć bezpłatnie
+</Turn>
+<Turn speaker="spk2" startTime="24.233" endTime="25.35">
+<Sync time="24.233"/>
+tylko dowód osobi
+<Event desc="~" type="lexical" extent="begin"/>
+sty
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.35" endTime="25.643">
+<Sync time="25.35"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.643" endTime="26.598">
+<Sync time="25.643"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+ dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="26.598" endTime="26.988">
+<Sync time="26.598"/>
+<Who nb="1"/>
+panu ba
+<Event desc="~" type="lexical" extent="begin"/>
+rdzo
+<Event desc="~" type="lexical" extent="end"/>
+
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="26.988" endTime="27.405">
+<Sync time="26.988"/>
+bardzo
+</Turn>
+<Turn startTime="27.405" endTime="29.870">
+<Sync time="27.405"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

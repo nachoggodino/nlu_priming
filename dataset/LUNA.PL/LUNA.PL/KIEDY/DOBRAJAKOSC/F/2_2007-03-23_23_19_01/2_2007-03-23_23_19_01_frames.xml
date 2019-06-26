@@ -1,0 +1,18 @@
+<Frames>
+  <Set id="1" subset="1" span="word_9" frame="TOPIC" head="zapytać">
+    <Frame fe="1" span="word_11..word_14,word_15..word_18,word_19..word_20" concept_id="6,7,8" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="1" span="word_31" frame="REFFERING_BY_NAME" head="nazywać">
+    <Frame fe="1" span="word_27" concept_id="13" name="NAME" />
+    <Frame fe="2" span="word_29..word_30" concept_id="14" name="ENTITY" />
+  </Set>
+  <Set id="3" subset="1" span="word_33" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_34..word_36" concept_id="17" name="PLACE" />
+  </Set>
+  <Set id="4" subset="3" span="word_60" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_61..word_62" concept_id="31" name="ENTITY" />
+  </Set>
+  <Set id="5" subset="1" span="word_72" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_75..word_77" concept_id="35" name="ENTITY" />
+  </Set>
+</Frames>

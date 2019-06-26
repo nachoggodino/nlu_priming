@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-27_18_25_31" version="4" version_date="071227">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="107.993" topic="to1">
+<Turn startTime="0" endTime="0.505">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.505" endTime="2.631">
+<Sync time="0.505"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.631" endTime="5.599">
+<Sync time="2.631"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ chciałem się dowiedzieć się z przystanku Bartycka
+</Turn>
+<Turn speaker="spk1" startTime="5.599" endTime="6.501">
+<Sync time="5.599"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="6.501" endTime="10.469">
+<Sync time="6.501"/>
+na 
+<Event desc="*" type="pronounce" extent="begin"/>
+Żoliborz
+<Event desc="*" type="pronounce" extent="end"/>
+ na Jelinka ulica jak najszybciej dojechać 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.469" endTime="12.289">
+<Sync time="10.469"/>
+jeszcze raz może pan powtórzyć tą ulicę 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="12.289" endTime="13.246">
+<Sync time="12.289"/>
+Jelinka
+</Turn>
+<Turn speaker="spk1" startTime="13.246" endTime="14.254">
+<Sync time="13.246"/>
+Jelinka tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="14.254" endTime="14.887">
+<Sync time="14.254"/>
+tak 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.887" endTime="74.62">
+<Sync time="14.887"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ momencik 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+proszę pana najlepiej byłoby wejść do autobusu sto osiemdziesiąt pięć
+</Turn>
+<Turn speaker="spk2" startTime="74.62" endTime="74.897">
+<Sync time="74.62"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+tak
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="74.897" endTime="80.498">
+<Sync time="74.897"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dojechać tym autobusem do przystanku 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Marymont Potok
+</Turn>
+<Turn speaker="spk2" startTime="80.498" endTime="82.586">
+<Sync time="80.498"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="82.586" endTime="86.244">
+<Sync time="82.586"/>
+ewentualnie 
+<Event desc="*" type="pronounce" extent="begin"/>
+może
+<Event desc="*" type="pronounce" extent="end"/>
+ trochę wcześniej by było 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ to
+</Turn>
+<Turn speaker="spk2" startTime="86.244" endTime="87.608">
+<Sync time="86.244"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a metrem 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+przykładowo
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="87.608" endTime="92.3">
+<Sync time="87.608"/>
+można 
+<Event desc="babble" type="noise" extent="begin"/>
+ metrem do 
+<Event desc="babble" type="noise" extent="end"/>
+ można tak można metrem do Placu Wilsona 
+<Event desc="*" type="pronounce" extent="begin"/>
+jeżeli
+<Event desc="*" type="pronounce" extent="end"/>
+ pan sobie życzy
+</Turn>
+<Turn speaker="spk2" startTime="92.3" endTime="93.89">
+<Sync time="92.3"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i stamtąd już chyba 
+</Turn>
+<Turn speaker="spk1" startTime="93.89" endTime="101.071">
+<Sync time="93.89"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i stamtąd 
+<Event desc="babble" type="noise" extent="end"/>
+ już jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ niedaleko bo to można tramwajem trzydzieści sześć podjechać dwa przystanki do samej pętli i tam nie
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ niedaleko już będzie ta ulica
+</Turn>
+<Turn speaker="spk2" startTime="101.071" endTime="103.784">
+<Sync time="101.071"/>
+aha no dobrze to dziękuję bardzo 
+</Turn>
+<Turn speaker="spk1" startTime="103.784" endTime="104.704">
+<Sync time="103.784"/>
+proszę bardzo
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="104.704" endTime="105.213">
+<Sync time="104.704"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="105.213" endTime="105.702">
+<Sync time="105.213"/>
+do widzenia
+</Turn>
+<Turn startTime="105.702" endTime="107.993">
+<Sync time="105.702"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

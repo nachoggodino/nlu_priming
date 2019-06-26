@@ -1,0 +1,25 @@
+﻿<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_14" attribute="Q_FARE" value="Person" />
+  <concept id="3" span="word_22" attribute="DATE" value="sierpień" />
+  <concept id="4" span="word_23" attribute="ACTION" value="End" />
+  <concept id="5" span="word_24..word_25" attribute="AGE" value="70" />
+  <concept id="6" span="word_27" attribute="ACTION" value="Request" />
+  <concept id="7" span="word_28..word_29" attribute="ACTION" value="Request" />
+  <concept id="8" span="word_33..word_34" attribute="FARE" value="Free" />
+  <concept id="9" span="word_35..word_58" attribute="INFORMATION" value="FARE_AgeAbove70" />
+  <concept id="10" span="word_59..word_63" attribute="Q_CONF" value="OtherInformation" />
+  <concept id="11" span="word_65" attribute="REACTION" value="Confirmation" />
+  <concept id="12" span="word_71" attribute="ACTION" value="Go" />
+  <concept id="13" span="word_75..word_81" attribute="Q_FARE" value="Person" />
+  <concept id="14" span="word_83..word_86" attribute="AGE" value="Above70" />
+  <concept id="15" span="word_87..word_110" attribute="INFORMATION" value="FARE_AgeAbove70" />
+  <concept id="16" span="word_111..word_115" attribute="Q_CONF" value="OtherInformation" />
+  <concept id="17" span="word_117" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_124" attribute="REACTION" value="Negation" />
+  <concept id="19" span="word_125..word_127" attribute="ACTION_REQUIRED" value="Repeat" />
+  <concept id="20" span="word_128..word_132" attribute="Q_CONF" value="OtherInformation" />
+  <concept id="21" span="word_133..word_137" attribute="ACTION_REQUIRED" value="Connect" />
+  <concept id="22" span="word_138..word_140" attribute="ACTION_PLANNED" value="Connect" />
+  <concept id="23" span="word_141..word_142" attribute="ACTION_REQUIRED" value="Wait" />
+</concepts>

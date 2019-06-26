@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-25_10_41_49" version="4" version_date="070928">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="125.492" topic="to1">
+<Turn startTime="0" endTime="1.106">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.106" endTime="3.054">
+<Sync time="1.106"/>
+xxx dzień dobry 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.054" endTime="11.632">
+<Sync time="3.054"/>
+dzień dobry panu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ chciałem się 
+<Event desc="int" type="noise" extent="next"/>
+zorientować 
+<Event desc="noise" type="noise" extent="begin"/>
+ odnośnie linii sto sześćdziesiąt
+<Event desc="int" type="noise" extent="previous"/>
+ dwa jak dzisiaj przez ze w związku z tymi zmianami jak jak ona kursuje dzisiaj 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.632" endTime="17.454">
+<Sync time="11.632"/>
+w kierunku Targówka jest objazd Czerniakowską Łazienkowską i Rozbrat 
+</Turn>
+<Turn speaker="spk2" startTime="17.454" endTime="24.53">
+<Sync time="17.454"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mnie interesuje od 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Dworca Wileńskiego 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ czy przy Powiślu w kierunku nie Targówka tylko w tą drugą stronę czy 
+</Turn>
+<Turn speaker="spk1" startTime="24.53" endTime="33.756">
+<Sync time="24.53"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+ kierunku Siekierek
+<Event desc="int" type="noise" extent="previous"/>
+ to jest tak 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ jedzie Dobrą Tamka Świętokrzyską Marszałkowską Waryńskiego 
+</Turn>
+<Turn speaker="spk2" startTime="33.756" endTime="37.794">
+<Sync time="33.756"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ a czyli na plac znaczy 
+<Event desc="noise" type="noise" extent="end"/>
+ przy Dworcu 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+P K P
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ Powiśle nie bę
+<Event desc="~" type="lexical" extent="begin"/>
+dzie
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.794" endTime="42.996">
+<Sync time="37.794"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie będzie 
+<Event desc="babble" type="noise" extent="end"/>
+ na pewno będzie na Świętokrzyskiej i potem na Marszałkowskiej 
+<Event desc="noise" type="noise" extent="begin"/>
+ i 
+<Event desc="noise" type="noise" extent="end"/>
+ prz
+<Event desc="~" type="lexical" extent="begin"/>
+y
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="42.996" endTime="45.163">
+<Sync time="42.996"/>
+a jeszcze jakby pan sprawdził przy Dworcu Wileńskiej
+</Turn>
+<Turn speaker="spk1" startTime="45.163" endTime="52.082">
+<Sync time="45.163"/>
+przy Dworcu Wileńskim to jest normalnie 
+<Event desc="babble" type="noise" extent="begin"/>
+ przystanek jeżeli pan 
+<Event desc="babble" type="noise" extent="end"/>
+ tranzytem jedzie gdzieś dalej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to to przy Wileńskim można chociaż nie
+</Turn>
+<Turn speaker="spk1 spk2" startTime="52.082" endTime="52.378">
+<Sync time="52.082"/>
+<Who nb="1"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="52.378" endTime="58.064">
+<Sync time="52.378"/>
+mam 
+<Event desc="*" type="pronounce" extent="begin"/>
+możliwość
+<Event desc="*" type="pronounce" extent="end"/>
+ albo albo na Dworzec Wileński 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+P K P
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ przyjechać i tam wsiąść w sto sześćdziesiąt dwa ewentualnie na Powiśle i sto sześćdziesiąt
+</Turn>
+<Turn speaker="spk1" startTime="58.064" endTime="59.985">
+<Sync time="58.064"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to nie 
+<Event desc="babble" type="noise" extent="end"/>
+ to na Wileńskim proszę 
+</Turn>
+<Turn speaker="spk2" startTime="59.985" endTime="64.593">
+<Sync time="59.985"/>
+no dobrze i tam później objazdem ale 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przy przy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przystanek Szwoleżerów się zatrzyma 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="64.593" endTime="72.944">
+<Sync time="64.593"/>
+przystanek Szwoleżerów nie nie zatrzyma się 
+<Event desc="babble" type="noise" extent="begin"/>
+ a i bliższych 
+<Event desc="babble" type="noise" extent="end"/>
+ w tym rejonie to będzie Spacerowa róg Belwederskiej 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="72.944" endTime="73.505">
+<Sync time="72.944"/>
+Spacerowa 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="73.505" endTime="74.967">
+<Sync time="73.505"/>
+<Who nb="1"/>
+Belwederska 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+Belweder
+<Event desc="~" type="lexical" extent="end"/>
+ska Gagarina
+</Turn>
+<Turn speaker="spk1" startTime="74.967" endTime="76.197">
+<Sync time="74.967"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to skrzyżowanie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="76.197" endTime="79.292">
+<Sync time="76.197"/>
+a Gagarin
+<Event desc="~" type="lexical" extent="begin"/>
+a
+<Event desc="~" type="lexical" extent="end"/>
+ a 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ żeby 
+<Event desc="*" type="pronounce" extent="begin"/>
+wrócić
+<Event desc="*" type="pronounce" extent="end"/>
+ później do Szwoleżerów
+</Turn>
+<Turn speaker="spk1" startTime="79.292" endTime="87.637">
+<Sync time="79.292"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tam będzie coś takiego że albo będzie można przejechać podjechać wzdłuż Gagarina sto trzydzieści jeden albo trzeba będzie przejść po prostu
+</Turn>
+<Turn speaker="spk2" startTime="87.637" endTime="93.743">
+<Sync time="87.637"/>
+aha bo w drugą stronę nic nie 
+<Event desc="int" type="noise" extent="next"/>
+jeździ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ ewentualnie się wrócić 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="93.743" endTime="95.325">
+<Sync time="93.743"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy wrócić w jakim 
+<Event desc="babble" type="noise" extent="begin"/>
+ sensie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="95.325" endTime="101.452">
+<Sync time="95.325"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ znaczy 
+<Event desc="babble" type="noise" extent="end"/>
+ wie pan żeby 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ no 
+<Event desc="babble" type="noise" extent="begin"/>
+ przejść na drugą stronę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tam do Gagarina tak 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="101.452" endTime="103.661">
+<Sync time="101.452"/>
+no do Gagarina róg Goworka tak
+</Turn>
+<Turn speaker="spk2" startTime="103.661" endTime="107.335">
+<Sync time="103.661"/>
+no właśnie i i i żeby w drugą stronę ewentualnie coś tam złapać
+</Turn>
+<Turn speaker="spk1" startTime="107.335" endTime="119.164">
+<Sync time="107.335"/>
+no to trzeba byłoby 
+<Event desc="babble" type="noise" extent="begin"/>
+ podjechać sto trzydzieści jeden aż do do Czerniakowskiej i tam ewentualnie sto sześćdziesiąt dwa albo inne autobusy które jadą bo tam będzie sporo autobusów które będą do Centrum jechały Wisłostradą wtedy 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="119.164" endTime="121.579">
+<Sync time="119.164"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ aha no dobrze 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+dziękuję bardz
+<Event desc="~" type="lexical" extent="begin"/>
+o
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="121.579" endTime="122.145">
+<Sync time="121.579"/>
+ dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="122.145" endTime="122.622">
+<Sync time="122.145"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="122.622" endTime="123.217">
+<Sync time="122.622"/>
+do widzenia
+</Turn>
+<Turn startTime="123.217" endTime="125.492">
+<Sync time="123.217"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

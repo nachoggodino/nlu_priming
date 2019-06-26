@@ -1,0 +1,39 @@
+<Frames>
+  <Set id="1" subset="2" span="word_20" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_21..word_24" concept_id="5" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_30" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_32" concept_id="10" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="1" span="word_61" frame="TOPIC" head="interesować">
+    <Frame fe="1" span="word_63" concept_id="14" name="TOPIC" />
+    <Frame fe="2" span="word_64..word_65" concept_id="15" name="EXPLANATION" />
+  </Set>
+  <Set id="4" subset="1" span="word_72" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_74" concept_id="17" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="5" subset="1" span="word_78" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_80" concept_id="20" name="POSSESSION" />
+  </Set>
+  <Set id="6" subset="1" span="word_105" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_107" concept_id="25" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="7" subset="1" span="word_114" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_115..word_116" concept_id="28" name="GOAL" />
+  </Set>
+  <Set id="8" subset="1" span="word_121" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_123" concept_id="31" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="9" subset="1" span="word_132" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_134..word_135" concept_id="37" name="PRIVILEGE" />
+  </Set>
+  <Set id="10" subset="1" span="word_144" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_146..word_147" concept_id="40" name="POSSESSION" />
+  </Set>
+  <Set id="11" subset="1" span="word_153" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_155..word_156" concept_id="44" name="PRIVILEGE" />
+  </Set>
+  <Set id="12" subset="1" span="word_157" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_159..word_161" concept_id="46" name="RATE" />
+  </Set>
+</Frames>

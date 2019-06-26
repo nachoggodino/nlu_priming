@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_18_45_14" version="6" version_date="100912">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="44.497" topic="to1">
+<Turn startTime="0" endTime="0.767">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.767" endTime="1.893">
+<Sync time="0.767"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dobry wieczór xxx 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1.893" endTime="3.171">
+<Sync time="1.893"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobry wie
+<Event desc="~" type="lexical" extent="begin"/>
+czór
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3.171" endTime="3.674">
+<Sync time="3.171"/>
+<Who nb="1"/>
+wieczór
+<Who nb="2"/>
+dobry wie
+<Event desc="~" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.674" endTime="14.822">
+<Sync time="3.674"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę 
+<Event desc="babble" type="noise" extent="end"/>
+ panią 
+<Event desc="noise" type="noise" extent="begin"/>
+ chciałem się zapytać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z przystanku Broniewskiego Duracza kierunek Dworzec Wschodni o której najbliższy autobus sto trzy będzie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="14.822" endTime="15.664">
+<Sync time="14.822"/>
+<Who nb="1"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ chyba
+<Who nb="2"/>
+dobrze
+</Turn>
+<Turn speaker="spk1" startTime="15.664" endTime="28.226">
+<Sync time="15.664"/>
+już podaję 
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ więc tak mamy o godzinie osiemnasta nie mamy dziewiętnasta zero pięć 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="28.226" endTime="30.185">
+<Sync time="28.226"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dziewiętnasta zero pięć 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="30.185" endTime="30.547">
+<Sync time="30.185"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+i
+</Turn>
+<Turn speaker="spk1" startTime="30.547" endTime="32.772">
+<Sync time="30.547"/>
+dziewiętnasta 
+<Event desc="babble" type="noise" extent="begin"/>
+ dwadzieścia 
+<Event desc="babble" type="noise" extent="end"/>
+ pięć 
+</Turn>
+<Turn speaker="spk2" startTime="32.772" endTime="34.491">
+<Sync time="32.772"/>
+a potem dzie
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ dziewiętnasta 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="34.491" endTime="36.843">
+<Sync time="34.491"/>
+<Who nb="1"/>
+dwa dwa dwadzieścia pięć
+<Who nb="2"/>
+dwadzieścia pięć
+</Turn>
+<Turn speaker="spk1" startTime="36.843" endTime="37.309">
+<Sync time="36.843"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="37.309" endTime="41.179">
+<Sync time="37.309"/>
+no no 
+<Event desc="babble" type="noise" extent="begin"/>
+ chyba Teresa 
+<Event desc="babble" type="noise" extent="end"/>
+ aha tak
+</Turn>
+<Turn startTime="41.179" endTime="44.497">
+<Sync time="41.179"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

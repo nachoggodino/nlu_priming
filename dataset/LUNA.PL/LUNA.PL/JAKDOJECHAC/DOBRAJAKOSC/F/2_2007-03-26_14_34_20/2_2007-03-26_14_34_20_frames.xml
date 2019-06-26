@@ -1,0 +1,19 @@
+<Frames>
+  <Set id="1" subset="1" span="word_19" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_21,word_22..word_23" concept_id="9,10" name="ENTITY" />
+  </Set>
+  <Set id="2" subset="1" span="word_53" frame="BOARD_VEHICLE" head="wsiąść">
+    <Frame fe="1" span="word_54" concept_id="24" name="PLACE" />
+    <Frame fe="2" span="word_56..word_58,word_59..word_60" concept_id="25,26" name="PLACE" />
+    <Frame fe="3" span="word_62..word_64" concept_id="27" name="VEHICLE" />
+    <Frame fe="4" span="word_65..word_67" concept_id="28" name="VEHICLE" />
+    <Frame fe="5" span="word_68..word_69" concept_id="29" name="VEHICLE" />
+    <Frame fe="6" span="word_71..word_73" concept_id="31" name="VEHICLE" />
+  </Set>
+  <Set id="3" subset="1" span="word_87" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_88..word_91" concept_id="37" name="GOAL" />
+  </Set>
+  <Set id="4" subset="1" span="word_94" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_95..word_98" concept_id="39" name="PLACE" />
+  </Set>
+</Frames>

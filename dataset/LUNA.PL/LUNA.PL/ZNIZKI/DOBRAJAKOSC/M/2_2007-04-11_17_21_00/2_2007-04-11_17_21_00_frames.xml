@@ -1,0 +1,12 @@
+<Frames>
+  <Set id="1" subset="1" span="word_15" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_16" concept_id="5" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_25" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_22..word_24" concept_id="7" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_26" concept_id="9" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="1" span="word_32" frame="COMMERCE_BUY" head="wykupywać">
+    <Frame fe="1" span="word_30..word_31" concept_id="11" name="GOODS" />
+  </Set>
+</Frames>

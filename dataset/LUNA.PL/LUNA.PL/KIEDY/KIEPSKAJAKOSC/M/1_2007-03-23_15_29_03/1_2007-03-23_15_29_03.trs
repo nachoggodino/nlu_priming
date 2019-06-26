@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_15_29_03" version="7" version_date="100912">
+<Topics>
+<Topic id="to1" desc="male user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="29.498" topic="to1">
+<Turn startTime="0" endTime="0.552">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.552" endTime="1.843">
+<Sync time="0.552"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ xxx dzień dobry 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1.843" endTime="11.610">
+<Sync time="1.843"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry proszę pana chciałbym się dowiedzieć o której będzie siedemset osiem 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ siedemset dwadzieścia sześć z Placu 
+<Event desc="en" type="language" extent="begin"/>
+Wilsona
+<Event desc="en" type="language" extent="end"/>
+ najbliższy 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.610" endTime="16.278">
+<Sync time="11.610"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ siedemset osiem piętnasta pięćdziesiąt 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.278" endTime="16.989">
+<Sync time="16.278"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="16.989" endTime="24.791">
+<Sync time="16.989"/>
+a linia siedemset dwadzieścia sześć 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ o dopiero szesnasta dwana
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ zero dwa 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.791" endTime="26.878">
+<Sync time="24.791"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha czy i piętnasta pięćdziesiąt dobra dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="26.878" endTime="27.202">
+<Sync time="26.878"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="27.202" endTime="27.684">
+<Sync time="27.202"/>
+bardzo
+</Turn>
+<Turn startTime="27.684" endTime="29.498">
+<Sync time="27.684"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

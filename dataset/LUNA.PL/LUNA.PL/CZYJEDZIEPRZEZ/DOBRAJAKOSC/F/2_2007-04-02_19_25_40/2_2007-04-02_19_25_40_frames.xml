@@ -1,0 +1,161 @@
+<Frames>
+  <Set id="1" subset="1" span="word_22" frame="ARRIVING" head="dojeżdżać">
+    <Frame fe="1" span="word_17..word_20" concept_id="7" name="THEME" />
+    <Frame fe="2" span="word_23..word_25" concept_id="9" name="GOAL" />
+  </Set>
+  <Set id="2" subset="2" span="word_36" frame="ARRIVING" head="dojeżdżać">
+    <Frame fe="1" span="word_30..word_32" concept_id="10" name="THEME" />
+    <Frame fe="2" span="word_34..word_35" concept_id="11" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_37" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_38" concept_id="14" name="POSITION" />
+  </Set>
+  <Set id="4" subset="1" span="word_47" frame="ARRIVING" head="dojeżdżać">
+    <Frame fe="1" span="word_43..word_45" concept_id="15" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_59" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_60" concept_id="23" name="TIME" />
+    <Frame fe="2" span="word_61..word_63" concept_id="24" name="GOAL" />
+  </Set>
+  <Set id="6" subset="1" span="word_76" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_74" concept_id="27" name="LOCATION" />
+    <Frame fe="2" span="word_75" concept_id="28" name="THEME" />
+  </Set>
+  <Set id="7" subset="1" span="word_80" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_78" concept_id="30" name="THEME" />
+  </Set>
+  <Set id="8" subset="1" span="word_91" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_84..word_89" concept_id="32" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_93..word_96" concept_id="34" name="ENTITY" />
+  </Set>
+  <Set id="9" subset="1" span="word_107" frame="CAUSE_CHANGE" head="przesiąść">
+    <Frame fe="1" span="word_106" concept_id="38" name="PLACE" />
+  </Set>
+  <Set id="10" subset="4" span="word_122" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_119..word_121" concept_id="40" name="SELF_MOVER" />
+    <Frame fe="2" span="word_123..word_124" concept_id="42" name="PATH" />
+  </Set>
+  <Set id="11" subset="1" span="word_125" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_126..word_127" concept_id="44" name="GOAL" />
+  </Set>
+  <Set id="12" subset="1" span="word_133" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_134" concept_id="48" name="ENTITY" />
+  </Set>
+  <Set id="13" subset="1" span="word_136" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_137" concept_id="51" name="ENTITY" />
+  </Set>
+  <Set id="14" subset="1" span="word_139" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_140" concept_id="53" name="PLACE" />
+    <Frame fe="2" span="word_142" concept_id="54" name="POSITION" />
+    <Frame fe="3" span="word_143..word_144" concept_id="55" name="PLACE" />
+  </Set>
+  <Set id="15" subset="1" span="word_150" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_151" concept_id="60" name="DISTANCE" />
+    <Frame fe="2" span="word_152..word_153" concept_id="61" name="GOAL" />
+  </Set>
+  <Set id="16" subset="1" span="word_170" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_171..word_172" concept_id="68" name="GOAL" />
+  </Set>
+  <Set id="17" subset="1" span="word_178" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_179..word_180" concept_id="74" name="GOAL" />
+  </Set>
+  <Set id="18" subset="1" span="word_194" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_190" concept_id="81" name="PATH" />
+    <Frame fe="2" span="word_191..word_193" concept_id="82" name="SELF_MOVER" />
+    <Frame fe="3" span="word_195" concept_id="84" name="PATH" />
+  </Set>
+  <Set id="19" subset="1" span="word_207" frame="CAUSE_CHANGE" head="przesiąść">
+    <Frame fe="1" span="word_201" concept_id="87" name="PLACE" />
+    <Frame fe="2" span="word_205..word_206" concept_id="88" name="PLACE" />
+    <Frame fe="3" span="word_208,word_209" concept_id="90,91" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="20" subset="1" span="word_211" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_212" concept_id="93" name="DISTANCE" />
+  </Set>
+  <Set id="21" subset="1" span="word_216" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_217" concept_id="95" name="SOURCE" />
+  </Set>
+  <Set id="22" subset="1" span="word_233" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_234..word_237" concept_id="101" name="GOAL" />
+  </Set>
+  <Set id="23" subset="1" span="word_243" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_244" concept_id="105" name="LOCATION" />
+  </Set>
+  <Set id="24" subset="1" span="word_246" frame="START" head="zaczynać">
+    <Frame fe="1" span="word_245" concept_id="106" name="THEME" />
+  </Set>
+  <Set id="25" subset="1" span="word_261" frame="END" head="kończyć">
+    <Frame fe="1" span="word_259..word_260" concept_id="110" name="PROCESS" />
+  </Set>
+  <Set id="26" subset="1" span="word_279" frame="CAUSE_CHANGE" head="przesiąść">
+    <Frame fe="1" span="word_277" concept_id="118" name="PLACE" />
+  </Set>
+  <Set id="27" subset="1" span="word_310" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_308..word_309" concept_id="132" name="THEME" />
+    <Frame fe="2" span="word_311..word_312" concept_id="134" name="PLACE" />
+  </Set>
+  <Set id="28" subset="1" span="word_321" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_322..word_324" concept_id="138" name="THEME" />
+  </Set>
+  <Set id="29" subset="1" span="word_327" frame="ARRIVING" head="dojeżdżać">
+    <Frame fe="1" span="word_328..word_329" concept_id="140" name="GOAL" />
+  </Set>
+  <Set id="30" subset="1" span="word_331" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_332..word_333" concept_id="142" name="GOAL" />
+  </Set>
+  <Set id="31" subset="1" span="word_337" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_335" concept_id="143" name="LOCATION" />
+    <Frame fe="2" span="word_340..word_341" concept_id="146" name="THEME" />
+  </Set>
+  <Set id="32" subset="1" span="word_354" frame="ESCAPING" head="wychodzić">
+    <Frame fe="1" span="word_351..word_353" concept_id="150" name="PLACE" />
+    <Frame fe="2" span="word_357..word_359" concept_id="152" name="UNDESIRABLE_LOCATION" />
+  </Set>
+  <Set id="33" subset="2" span="word_364" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_365..word_366" concept_id="154" name="ENTITY" />
+  </Set>
+  <Set id="34" subset="1" span="word_387" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_385" concept_id="160" name="THEME" />
+    <Frame fe="2" span="word_389..word_391" concept_id="162" name="PLACE" />
+  </Set>
+  <Set id="35" subset="1" span="word_397" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_395" concept_id="163" name="THEME" />
+  </Set>
+  <Set id="36" subset="1" span="word_404" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_401" concept_id="165" name="PLACE" />
+    <Frame fe="2" span="word_402" concept_id="166" name="ENTITY" />
+  </Set>
+  <Set id="37" subset="2" span="word_409" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_411..word_414" concept_id="170" name="GOAL" />
+  </Set>
+  <Set id="38" subset="1" span="word_418" frame="SELF_MOTION" head="cofnąć">
+    <Frame fe="1" span="word_416" concept_id="171" name="DISTANCE" />
+  </Set>
+  <Set id="39" subset="1" span="word_431" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_428..word_429" concept_id="181" name="GOAL" />
+  </Set>
+  <Set id="40" subset="1" span="word_435" frame="SELF_MOTION" head="dojść">
+    <Frame fe="1" span="word_436" concept_id="184" name="DISTANCE" />
+    <Frame fe="2" span="word_437..word_438" concept_id="185" name="DIRECTION" />
+  </Set>
+  <Set id="41" subset="1" span="word_443" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_444" concept_id="187" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="42" subset="1" span="word_449" frame="SELF_MOTION" head="dochodzić">
+    <Frame fe="1" span="word_450..word_451" concept_id="190" name="DIRECTION" />
+  </Set>
+  <Set id="43" subset="1" span="word_464" frame="HALT" head="zatrzymywać">
+    <Frame fe="1" span="word_459" concept_id="194" name="PLACE" />
+    <Frame fe="2" span="word_460..word_462" concept_id="195" name="THEME" />
+  </Set>
+  <Set id="44" subset="1" span="word_469" frame="ESCAPING" head="wysiąść">
+    <Frame fe="1" span="word_467..word_468" concept_id="198" name="PLACE" />
+    <Frame fe="2" span="word_471..word_473" concept_id="200" name="UNDESIRABLE_LOCATION" />
+  </Set>
+  <Set id="45" subset="1" span="word_475" frame="CAUSE_CHANGE" head="przesiąść">
+    <Frame fe="1" span="word_479" concept_id="203" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="46" subset="1" span="word_485" frame="ESCAPING" head="wysiąść">
+    <Frame fe="1" span="word_481..word_484" concept_id="204" name="PLACE" />
+  </Set>
+</Frames>

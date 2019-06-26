@@ -1,0 +1,26 @@
+<Frames>
+  <Set id="1" subset="1" span="word_12" frame="TOPIC" head="interesować">
+    <Frame fe="1" span="word_14..word_16" concept_id="6" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="1" span="word_49" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_50" concept_id="21" name="ENTITY" />
+  </Set>
+  <Set id="3" subset="1" span="word_73" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_75..word_77" concept_id="33" name="TIME" />
+  </Set>
+  <Set id="4" subset="1" span="word_87" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_89,word_90..word_92" concept_id="37,38" name="ENTITY" />
+    <Frame fe="2" span="word_95..word_97" concept_id="39" name="PLACE" />
+  </Set>
+  <Set id="5" subset="1" span="word_113" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_114" concept_id="48" name="ENTITY" />
+  </Set>
+  <Set id="6" subset="1" span="word_115" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_116" concept_id="50" name="ENTITY" />
+  </Set>
+  <Set id="7" subset="1" span="word_121" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_118..word_119" concept_id="51" name="TIME" />
+    <Frame fe="2" span="word_124..word_126" concept_id="53" name="TIME" />
+    <Frame fe="3" span="word_128..word_129" concept_id="54" name="TIME" />
+  </Set>
+</Frames>

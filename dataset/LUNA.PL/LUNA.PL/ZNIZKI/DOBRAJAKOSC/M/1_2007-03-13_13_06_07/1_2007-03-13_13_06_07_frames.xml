@@ -1,0 +1,7 @@
+<Frames>
+  <Set id="1" subset="1" span="word_37" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_34" concept_id="10" name="BENEFICIARY" />
+    <Frame fe="2" span="word_35..word_36" concept_id="11" name="CIRCUMSTANCES" />
+    <Frame fe="3" span="word_41..word_42" concept_id="13" name="PRIVILEGE" />
+  </Set>
+</Frames>

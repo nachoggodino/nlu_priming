@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_00_58_00" version="4" version_date="071218">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="101.994" topic="to1">
+<Turn startTime="0" endTime="0.606">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.606" endTime="2.154">
+<Sync time="0.606"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.154" endTime="13.413">
+<Sync time="2.154"/>
+dzień dobry 
+<Event desc="babble" type="noise" extent="begin"/>
+ witam panią serdecznie 
+<Event desc="babble" type="noise" extent="end"/>
+ interesuje mnie połączenie 
+<Event desc="int" type="noise" extent="next"/>
+komunikacyjne pomiędzy
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ulicami Żwirki i Wigury 
+<Event desc="*" type="pronounce" extent="begin"/>
+róg
+<Event desc="*" type="pronounce" extent="end"/>
+ Racławickiej a ulicą 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Floriańską na Pradze
+</Turn>
+<Turn speaker="spk1" startTime="13.413" endTime="15.335">
+<Sync time="13.413"/>
+ale teraz w nocy będzie pani jechała 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.335" endTime="20.996">
+<Sync time="15.335"/>
+nie nie nie nie nie jutro koło godziny dziewiątej z hakiem 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.996" endTime="25.426">
+<Sync time="20.996"/>
+proszę pani bo tak Żwirki Wigury tu przy Rakowcu tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.426" endTime="26.625">
+<Sync time="25.426"/>
+przy Racławickiej tak
+</Turn>
+<Turn speaker="spk2 spk1" startTime="26.625" endTime="27.356">
+<Sync time="26.625"/>
+<Who nb="1"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+przy Racławickiej
+</Turn>
+<Turn speaker="spk2" startTime="27.356" endTime="28.764">
+<Sync time="27.356"/>
+za 
+<Event desc="*" type="pronounce" extent="begin"/>
+Racławicką
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.764" endTime="38.916">
+<Sync time="28.764"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pani bo tak bo mamy autobus pięćset dwanaście 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ale możemy 
+<Event desc="*" type="pronounce" extent="begin"/>
+nim
+<Event desc="*" type="pronounce" extent="end"/>
+ nim dojechać do parku Praskiego i tu jest ulica Floriańska
+</Turn>
+<Turn speaker="spk2" startTime="38.916" endTime="39.425">
+<Sync time="38.916"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="39.425" endTime="43.8935267629">
+<Sync time="39.425"/>
+po prawej stronie jest ulica Floriańska 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ tak jakby z lewej strony koś
+<Event desc="~" type="lexical" extent="begin"/>
+cioła
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="43.8935267629" endTime="52.556">
+<Sync time="43.8935267629"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a pięćset 
+<Event desc="babble" type="noise" extent="end"/>
+ dwanaście jedzie jaką trasą bo ono jedzie jakoś Racławicką tam od Mołdawskiej tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ ten kawałek tu od ko
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ Korotyńskiego Mołdawska
+</Turn>
+<Turn speaker="spk1" startTime="52.556" endTime="55.935">
+<Sync time="52.556"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pani bo pani będzie stamtąd jechała na na Pragę tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="55.935" endTime="57.499">
+<Sync time="55.935"/>
+<Who nb="1"/>
+stamtąd z tamtego rejonu
+<Who nb="2"/>
+tak tak tak tak
+</Turn>
+<Turn speaker="spk1" startTime="57.499" endTime="60.733">
+<Sync time="57.499"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ więc jedzie proszę pani Żwirki i Wigury 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="60.733" endTime="61.479">
+<Sync time="60.733"/>
+<Who nb="1"/>
+tutaj jedzie Rac
+<Event desc="~" type="lexical" extent="begin"/>
+ławicką
+<Event desc="~" type="lexical" extent="end"/>
+
+<Who nb="2"/>
+ale skąd
+</Turn>
+<Turn speaker="spk2" startTime="61.479" endTime="62.192">
+<Sync time="61.479"/>
+wyjeżdża
+</Turn>
+<Turn speaker="spk1" startTime="62.192" endTime="65.524">
+<Sync time="62.192"/>
+ze 
+<Event desc="babble" type="noise" extent="begin"/>
+ Szczęśliwic 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Szczęśliwice 
+<Event desc="en" type="language" extent="begin"/>
+Dickens
+<Event desc="en" type="language" extent="end"/>
+a
+</Turn>
+<Turn speaker="spk2" startTime="65.524" endTime="66.253">
+<Sync time="65.524"/>
+tak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i pote
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="66.253" endTime="67.135">
+<Sync time="66.253"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ Pawińskiego 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="67.135" endTime="67.826">
+<Sync time="67.135"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+Ko
+<Event desc="~" type="lexical" extent="end"/>
+rotyńskie
+<Event desc="~" type="lexical" extent="begin"/>
+go
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="67.826" endTime="71.053">
+<Sync time="67.826"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+Korotyńskiego
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ Mołdawska Racławicka
+</Turn>
+<Turn speaker="spk2" startTime="71.053" endTime="71.619">
+<Sync time="71.053"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+ś
+<Event desc="~" type="lexical" extent="end"/>
+wietnie 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="71.619" endTime="72.867">
+<Sync time="71.619"/>
+<Who nb="1"/>
+doskonale i on jeździ
+<Who nb="2"/>
+i z Racła
+<Event desc="~" type="lexical" extent="begin"/>
+wickiej
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="72.867" endTime="73.458">
+<Sync time="72.867"/>
+w niedzielę 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="73.458" endTime="74.072">
+<Sync time="73.458"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+jeździ
+</Turn>
+<Turn speaker="spk1" startTime="74.072" endTime="75.386">
+<Sync time="74.072"/>
+proszę pani
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="75.386" endTime="76.169">
+<Sync time="75.386"/>
+super
+</Turn>
+<Turn speaker="spk1" startTime="76.169" endTime="79.528">
+<Sync time="76.169"/>
+tak i proszę pani trza wyjść na przystanku Park Praski
+</Turn>
+<Turn speaker="spk2" startTime="79.528" endTime="80.012">
+<Sync time="79.528"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="80.012" endTime="82.278">
+<Sync time="80.012"/>
+i po prawej stronie jest Floriańska
+</Turn>
+<Turn speaker="spk2" startTime="82.278" endTime="84.752">
+<Sync time="82.278"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ po prawej stronie Floriańska 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="84.752" endTime="85.797">
+<Sync time="84.752"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="85.797" endTime="90.905">
+<Sync time="85.797"/>
+no pięknie pani dziękuję jeszcze tylko krótkie pytanie o opłaty za ten autobus
+</Turn>
+<Turn speaker="spk1" startTime="90.905" endTime="93.068">
+<Sync time="90.905"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pani dwa czterdzieści
+</Turn>
+<Turn speaker="spk2" startTime="93.068" endTime="93.989">
+<Sync time="93.068"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+klasycznie
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="93.989" endTime="97.73">
+<Sync time="93.989"/>
+a jak w jakiś bagaż będzie pani przewozi
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+ to bagaż przewozimy bezpłatnie
+</Turn>
+<Turn speaker="spk2" startTime="97.73" endTime="98.717">
+<Sync time="97.73"/>
+dobrze dziękuję pani 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="98.717" endTime="100.999">
+<Sync time="98.717"/>
+<Who nb="1"/>
+uprzejmie do widzenia
+<Who nb="2"/>
+dziękuję do widzenia
+</Turn>
+<Turn startTime="100.999" endTime="101.994">
+<Sync time="100.999"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

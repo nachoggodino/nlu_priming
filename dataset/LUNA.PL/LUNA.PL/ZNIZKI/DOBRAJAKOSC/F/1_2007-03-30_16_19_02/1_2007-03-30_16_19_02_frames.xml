@@ -1,0 +1,32 @@
+<Frames>
+  <Set id="1" subset="1" span="word_10" frame="TOPIC" head="zapytać">
+    <Frame fe="1" span="word_12,word_13" concept_id="6,7" name="TOPIC" />
+    <Frame fe="2" span="word_15,word_16..word_18" concept_id="8,9" name="EXPLANATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_20" frame="MOTION" head="wybierać">
+    <Frame fe="1" span="word_23" concept_id="11" name="MANNER" />
+    <Frame fe="2" span="word_24..word_25" concept_id="12" name="GOAL" />
+  </Set>
+  <Set id="3" subset="3" span="word_26" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_27" concept_id="14" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="4" subset="1" span="word_46" frame="ACTIVITY_START" head="iść">
+    <Frame fe="1" span="word_44..word_45" concept_id="21" name="AGE" />
+  </Set>
+  <Set id="5" subset="1" span="word_48" frame="COMMERCE_PAY" head="kasować">
+    <Frame fe="1" span="word_37" concept_id="19" name="BUYER" />
+    <Frame fe="2" span="word_38..word_41" concept_id="20" name="CIRCUMSTANCES" />
+    <Frame fe="3" span="word_49" concept_id="24" name="GOODS" />
+  </Set>
+  <Set id="6" subset="1" span="word_60" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_57" concept_id="28" name="THEME" />
+    <Frame fe="2" span="word_62" concept_id="30" name="MANNER" />
+  </Set>
+  <Set id="7" subset="1" span="word_72" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_76..word_78" concept_id="35" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="8" subset="1" span="word_85" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_81..word_83" concept_id="36" name="PHENOMENON" />
+    <Frame fe="2" span="word_86..word_87" concept_id="38" name="CHARACTERIZATION" />
+  </Set>
+</Frames>

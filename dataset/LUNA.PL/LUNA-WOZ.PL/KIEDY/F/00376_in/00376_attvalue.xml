@@ -1,0 +1,27 @@
+﻿<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_11" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="3" span="word_12..word_13" attribute="OPTION" value="DepartureTime" />
+  <concept id="4" span="word_14..word_15" attribute="OPTION" value="Route" />
+  <concept id="5" span="word_16..word_17" attribute="OPTION" value="Complaint" />
+  <concept id="6" span="word_18..word_20" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="7" span="word_21..word_22" attribute="OPTION" value="LostLuggage" />
+  <concept id="8" span="word_23..word_24" attribute="OPTION" value="OtherInformation" />
+  <concept id="9" span="word_26..word_27" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="10" span="word_28..word_29" attribute="OPTION" value="DepartureTime" />
+  <concept id="11" span="word_30" attribute="ACTION" value="Request" />
+  <concept id="12" span="word_31" attribute="FARE" value="Discount" />
+  <concept id="13" span="word_32..word_33" attribute="OPTION" value="DepartureTime" />
+  <concept id="14" span="word_34..word_43" attribute="INFORMATION" value="DEPARTURE_SEARCH" />
+  <concept id="15" span="word_44..word_46" attribute="COMMAND_GIVE" value="LINE_NUMBER" />
+  <concept id="16" span="word_47..word_48" attribute="TRAM" value="22" />
+  <concept id="17" span="word_49..word_51" attribute="COMMAND_GIVE" value="STOP_NAME" />
+  <concept id="18" span="word_53..word_56" attribute="STOP_DESCRIPTION" value="Plac Grunwaldzki" />
+  <concept id="19" span="word_57..word_58" attribute="GOAL_STR" value="Lindleya" />
+  <concept id="20" span="word_59..word_61" attribute="COMMAND_GIVE" value="DIRECTION" />
+  <concept id="21" span="word_62" attribute="STREET" value="Lindleya" />
+  <concept id="22" span="word_63..word_67" attribute="COMMAND_GIVE" value="HOUR" />
+  <concept id="23" span="word_68..word_71" attribute="DAYTIME_PERIOD_SPAN" value="11 : 00 - 12 : 00" />
+  <concept id="24" span="word_73..word_75" attribute="DAYTIME_PERIOD_SPAN" value="12 : 00 - 13 : 00" />
+  <concept id="25" span="word_76..word_78" attribute="ACTION_PLANNED" value="Connect" />
+</concepts>

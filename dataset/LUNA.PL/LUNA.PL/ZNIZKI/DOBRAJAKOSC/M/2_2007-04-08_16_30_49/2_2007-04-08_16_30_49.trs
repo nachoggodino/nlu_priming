@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-08_16_30_49" version="2" version_date="080113">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="23.999" topic="to1">
+<Turn startTime="0" endTime="0.87">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.87" endTime="2.703">
+<Sync time="0.87"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.703" endTime="14.526">
+<Sync time="2.703"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry panu mam takie pytanie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy osoba która ukończyła 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ siedemdziesiąty rok życia może bezpłatnie jeździć na całej długości trasy eskaemki czy tylko w granicach 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Warszawy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.526" endTime="15.780">
+<Sync time="14.526"/>
+tak na całej długości
+</Turn>
+<Turn speaker="spk2" startTime="15.780" endTime="16.682">
+<Sync time="15.780"/>
+a na całej
+</Turn>
+<Turn speaker="spk1" startTime="16.682" endTime="17.188">
+<Sync time="16.682"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="17.188" endTime="18.465">
+<Sync time="17.188"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="18.465" endTime="18.926">
+<Sync time="18.465"/>
+<Who nb="1"/>
+uprzejmie
+<Who nb="2"/>
+proszę 
+</Turn>
+<Turn speaker="spk1" startTime="18.926" endTime="19.405">
+<Sync time="18.926"/>
+ba
+<Event desc="~" type="lexical" extent="begin"/>
+r
+<Event desc="~" type="lexical" extent="end"/>
+dzo
+</Turn>
+<Turn speaker="spk2 spk1" startTime="19.405" endTime="20.256">
+<Sync time="19.405"/>
+<Who nb="1"/>
+do widzenia
+<Who nb="2"/>
+do usłyszenia
+</Turn>
+<Turn speaker="spk2" startTime="20.256" endTime="20.811">
+<Sync time="20.256"/>
+do 
+<Event desc="*" type="pronounce" extent="begin"/>
+usłyszenia
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn startTime="20.811" endTime="23.999">
+<Sync time="20.811"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-26_18_32_23" version="2" version_date="080125">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="28.49825" topic="to1">
+<Turn startTime="0" endTime="0.926">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.926" endTime="2.513">
+<Sync time="0.926"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.513" endTime="6.742">
+<Sync time="2.513"/>
+dzień dobry ja dzwonię w takiej sprawie bo piętnastka chodzi nie
+</Turn>
+<Turn speaker="spk1" startTime="6.742" endTime="7.788">
+<Sync time="6.742"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ objazdem 
+<Event desc="babble" type="noise" extent="end"/>
+ tak 
+</Turn>
+<Turn speaker="spk2" startTime="7.788" endTime="12.147">
+<Sync time="7.788"/>
+o
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+okrężnie
+<Event desc="*" type="pronounce" extent="end"/>
+ chodzi ale ona będzie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wjeżdżać tutaj w Dziką 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.147" endTime="14.172">
+<Sync time="12.147"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przez Stawki tak przez 
+<Event desc="babble" type="noise" extent="begin"/>
+ Stawki je
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="14.172" endTime="19.005">
+<Sync time="14.172"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ Stawki 
+<Event desc="babble" type="noise" extent="end"/>
+ w Dziką tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ i po 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ na metro Świętokrzyskie czy dojedzie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ czy nie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="19.005" endTime="21.429">
+<Sync time="19.005"/>
+dojedzie pan tak 
+<Event desc="babble" type="noise" extent="begin"/>
+ bo potem wraca 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.429" endTime="22.531">
+<Sync time="21.429"/>
+okrężnie tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="22.531" endTime="23.231">
+<Sync time="22.531"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="23.231" endTime="24.408">
+<Sync time="23.231"/>
+aha dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="24.408" endTime="25.073">
+<Sync time="24.408"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="25.073" endTime="25.683">
+<Sync time="25.073"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="25.683" endTime="26.288">
+<Sync time="25.683"/>
+do widzenia
+</Turn>
+<Turn startTime="26.288" endTime="28.49825">
+<Sync time="26.288"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,33 @@
+<Frames>
+  <Set id="1" subset="1" span="word_26" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_15..word_17" concept_id="5" name="THEME" />
+    <Frame fe="2" span="word_27..word_28" concept_id="9" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_30" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_31" concept_id="11" name="POSITION" />
+    <Frame fe="2" span="word_32..word_33" concept_id="12" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_44" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_45..word_47" concept_id="17" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_53" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_52" concept_id="20" name="PLACE" />
+    <Frame fe="2" span="word_54..word_56" concept_id="22" name="ENTITY" />
+  </Set>
+  <Set id="5" subset="1" span="word_64" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_65..word_66" concept_id="27" name="ENTITY" />
+  </Set>
+  <Set id="6" subset="1" span="word_71" frame="SELF_MOTION" head="podejść">
+    <Frame fe="1" span="word_68" concept_id="28" name="GOAL" />
+    <Frame fe="2" span="word_70" concept_id="29" name="DISTANCE" />
+  </Set>
+  <Set id="7" subset="1" span="word_73" frame="ESCAPING" head="wysiąść">
+    <Frame fe="1" span="word_74..word_75" concept_id="33" name="PLACE" />
+  </Set>
+  <Set id="8" subset="1" span="word_79" frame="SELF_MOTION" head="cofnąć">
+    <Frame fe="1" span="word_77" concept_id="34" name="DISTANCE" />
+  </Set>
+  <Set id="9" subset="1" span="word_93" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_94..word_95" concept_id="41" name="ENTITY" />
+  </Set>
+</Frames>

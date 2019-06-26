@@ -1,0 +1,62 @@
+<Chunks>
+  <chunk id="1" span="word_1..word_2" cat="NP" main="word_1" />
+  <chunk id="2" span="word_3" cat="PN" />
+  <chunk id="3" span="word_4" cat="VP" main="word_4" />
+  <chunk id="4" span="word_5..word_6" cat="NP" main="word_5" />
+  <chunk id="5" span="word_7" cat="PART" />
+  <chunk id="6" span="word_8" cat="VP" main="word_8" />
+  <chunk id="7" span="word_9" cat="PART" />
+  <chunk id="8" span="word_10" cat="VP_INF" />
+  <chunk id="9" span="word_11" cat="PP" />
+  <chunk id="10" span="word_12" cat="PP" />
+  <chunk id="11" span="word_13..word_14" cat="PN" />
+  <chunk id="12" span="word_15" cat="PP" />
+  <chunk id="13" span="word_16..word_17" cat="PN" />
+  <chunk id="14" span="word_18" cat="CC" />
+  <chunk id="15" span="word_19" cat="PP" />
+  <chunk id="16" span="word_20" cat="NP" main="word_20" />
+  <chunk id="17" span="word_21..word_22" cat="PN" />
+  <chunk id="18" span="word_23..word_24" cat="ADJP" />
+  <chunk id="19" span="word_25" cat="PART" />
+  <chunk id="20" span="word_26" cat="PART" />
+  <chunk id="21" span="word_27" cat="VP" main="word_27" />
+  <chunk id="22" span="word_28" cat="VP_INF" />
+  <chunk id="23" span="word_29" cat="NP" main="word_29" />
+  <chunk id="24" span="word_30" cat="PP" />
+  <chunk id="25" span="word_31..word_32" cat="PN" />
+  <chunk id="26" span="word_33" cat="ITJ" />
+  <chunk id="27" span="word_34" cat="PP" />
+  <chunk id="28" span="word_35..word_36" cat="PN" />
+  <chunk id="29" span="word_37" cat="CC" />
+  <chunk id="30" span="word_38" cat="PART" />
+  <chunk id="31" span="word_40" cat="CC" />
+  <chunk id="32" span="word_41" cat="PART" />
+  <chunk id="33" span="word_42..word_44" cat="NUM" />
+  <chunk id="34" span="word_45..word_47" cat="NUM" />
+  <chunk id="35" span="word_48" cat="PART" />
+  <chunk id="36" span="word_49" cat="NP" main="word_49" />
+  <chunk id="37" span="word_50" cat="ADJP" />
+  <chunk id="38" span="word_51" cat="PART" />
+  <chunk id="39" span="word_52" cat="NP" main="word_52" />
+  <chunk id="40" span="word_53" cat="NP" main="word_53" />
+  <chunk id="41" span="word_54" cat="PART" />
+  <chunk id="42" span="word_55" cat="VP" main="word_55" />
+  <chunk id="43" span="word_56" cat="NP_PRON" />
+  <chunk id="44" span="word_57" cat="NP" main="word_57" />
+  <chunk id="45" span="word_58" cat="VP_INF" />
+  <chunk id="46" span="word_59" cat="PART" />
+  <chunk id="47" span="word_60" cat="NP_PRON" />
+  <chunk id="48" span="word_61" cat="VP" main="word_61" />
+  <chunk id="49" span="word_62..word_64" cat="ADJP" />
+  <chunk id="50" span="word_65" cat="NP" main="word_65" />
+  <chunk id="51" span="word_66" cat="ADJP" />
+  <chunk id="52" span="word_67" cat="NP" main="word_67" />
+  <chunk id="53" span="word_68" cat="VP" main="word_68" />
+  <chunk id="54" span="word_69" cat="ADV" />
+  <chunk id="55" span="word_70" cat="PP" />
+  <chunk id="56" span="word_71" cat="NP" main="word_71" />
+  <chunk id="57" span="word_72" cat="VP" main="word_72" />
+  <chunk id="58" span="word_73" cat="ADV" />
+  <chunk id="59" span="word_74" cat="PP" />
+  <chunk id="60" span="word_75" cat="NP" main="word_75" />
+</Chunks>

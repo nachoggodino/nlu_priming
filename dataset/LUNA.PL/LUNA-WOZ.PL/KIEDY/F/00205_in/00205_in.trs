@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00205_in;00205_out" version="2" version_date="080625">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="137.536" topic="to1">
+<Turn startTime="0" endTime="0.547">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.547" endTime="23.465">
+<Sync time="0.547"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ powiedz jedną z opcji czasy odjazdów
+</Turn>
+<Turn speaker="spk1 spk2" startTime="23.465" endTime="24.444">
+<Sync time="23.465"/>
+<Who nb="1"/>
+wyszukanie
+<Who nb="2"/>
+czas odjazdów
+</Turn>
+<Turn speaker="spk1" startTime="24.444" endTime="32.482">
+<Sync time="24.444"/>
+trasy zgłosz
+<Event desc="~" type="lexical" extent="begin"/>
+enie
+<Event desc="~" type="lexical" extent="end"/>
+ czasy odjazdów aby uzyskać informacje o odjazdach trzeba odpowiedzieć na cztery pytania podaj numer linii
+</Turn>
+<Turn speaker="spk2" startTime="32.482" endTime="35.127">
+<Sync time="32.482"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto sześćdziesiąt osiem
+</Turn>
+<Turn speaker="spk1" startTime="35.127" endTime="37.608">
+<Sync time="35.127"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ podaj nazwę przystanku
+</Turn>
+<Turn speaker="spk2" startTime="37.608" endTime="40.567">
+<Sync time="37.608"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ o Jezu Pole Mokotowskie
+</Turn>
+<Turn speaker="spk1" startTime="40.567" endTime="43.097">
+<Sync time="40.567"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ podaj kierunek trasy
+</Turn>
+<Turn speaker="spk2" startTime="43.097" endTime="46.077">
+<Sync time="43.097"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w kierunku 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na Orlik
+</Turn>
+<Turn speaker="spk1" startTime="46.077" endTime="49.677">
+<Sync time="46.077"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ około której godziny chcesz jechać
+</Turn>
+<Turn speaker="spk2" startTime="49.677" endTime="51.805">
+<Sync time="49.677"/>
+oko
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+o siedemnastej
+</Turn>
+<Turn speaker="spk1" startTime="51.805" endTime="55.675">
+<Sync time="51.805"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ łączę z operatorem proszę czekać
+</Turn>
+<Turn speaker="spk3" startTime="55.675" endTime="135.858">
+<Sync time="55.675"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+ 
+</Turn>
+<Turn startTime="135.858" endTime="137.536">
+<Sync time="135.858"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

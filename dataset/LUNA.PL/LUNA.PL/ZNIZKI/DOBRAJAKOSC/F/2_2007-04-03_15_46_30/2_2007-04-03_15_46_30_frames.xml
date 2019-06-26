@@ -1,0 +1,26 @@
+<Frames>
+  <Set id="1" subset="1" span="word_15" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_16" concept_id="8" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_18" frame="BECOMING" head="skończyć">
+    <Frame fe="1" span="word_19..word_21" concept_id="11" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="3" subset="1" span="word_25" frame="BEING_IN_EFFECT" head="obowiązywać">
+    <Frame fe="1" span="word_26..word_27" concept_id="15" name="BINDING_PRINCIPLE" />
+    <Frame fe="2" span="word_29..word_30" concept_id="17" name="BINDING_PRINCIPLE" />
+  </Set>
+  <Set id="4" subset="1" span="word_38" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_40..word_42" concept_id="21" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_44" concept_id="23" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="5" subset="1" span="word_61" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_59..word_60" concept_id="33" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_63..word_65" concept_id="35" name="PRIVILEGE" />
+  </Set>
+  <Set id="6" subset="1" span="word_81" frame="BEING_IN_EFFECT" head="obowiązywać">
+    <Frame fe="1" span="word_77..word_79" concept_id="39" name="OBLIGATED_PARTY" />
+  </Set>
+  <Set id="7" subset="1" span="word_88" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_89..word_91" concept_id="45" name="POSSESSION" />
+  </Set>
+</Frames>

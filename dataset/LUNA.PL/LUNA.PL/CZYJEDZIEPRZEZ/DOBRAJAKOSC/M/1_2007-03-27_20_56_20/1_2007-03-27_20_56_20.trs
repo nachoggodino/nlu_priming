@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-27_20_56_20" version="6" version_date="080104">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="95.994" topic="to1">
+<Turn startTime="0" endTime="0.742">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.742" endTime="2.663">
+<Sync time="0.742"/>
+dobry wieczór xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.663" endTime="7.403">
+<Sync time="2.663"/>
+dobry wieczór panu chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+em się dowiedzieć 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ możliwe chodzi mi o autobus z Warszawa pięćset jedenaście
+</Turn>
+<Turn speaker="spk1" startTime="7.403" endTime="7.943">
+<Sync time="7.403"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="7.943" endTime="16.97">
+<Sync time="7.943"/>
+tylko nie wiem czy jaki dokładny przystanek dokładnie to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ Aleja Solidarności róg 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Jana Pawła 
+<Event desc="noise" type="noise" extent="begin"/>
+ i w stronę Nowodworów 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.97" endTime="19.336">
+<Sync time="16.97"/>
+to znaczy to byłoby pięćset dziesięć
+</Turn>
+<Turn speaker="spk2" startTime="19.336" endTime="21.14">
+<Sync time="19.336"/>
+pięćset jedenaście chyba też tam jeździ 
+</Turn>
+<Turn speaker="spk1" startTime="21.14" endTime="24.671">
+<Sync time="21.14"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pięćset jedenaście jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ z Placu Wilsona dopiero 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.671" endTime="25.665">
+<Sync time="24.671"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tylko pięćset dziesięć 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.665" endTime="31.772">
+<Sync time="25.665"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+tak 
+<Event desc="*" type="pronounce" extent="end"/>
+ tutaj jeżeli chodzi o róg Jana Pawła i Solidarności czyli przystanek Kino Femina to tylko i wyłącznie pięćset dziesięć na Nowodwory jedzie 
+</Turn>
+<Turn speaker="spk2" startTime="31.772" endTime="33.164">
+<Sync time="31.772"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tylko pięćset dziesięć 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="33.164" endTime="33.542">
+<Sync time="33.164"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="33.542" endTime="38.912">
+<Sync time="33.542"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ ojej 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ na przystanku autobus pięćset jedenaście nie jeździ na pewno 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.912" endTime="46.43">
+<Sync time="38.912"/>
+na Nowodwory to jeździ 
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy przejeżdża obok Nowodworów 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ natomiast jeżeli chodzi o róg Solidarności i Jana Pawła to na pewno ten autobus tam się nie pojawią
+</Turn>
+<Turn speaker="spk2" startTime="46.43" endTime="49.093">
+<Sync time="46.43"/>
+a pięćset dziesięć nie nie jeździ na na Bródno samo 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="49.093" endTime="50.941">
+<Sync time="49.093"/>
+nie to pięćsetka jeździ na Bródno
+</Turn>
+<Turn speaker="spk2" startTime="50.941" endTime="54.602">
+<Sync time="50.941"/>
+o pięćsetka 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ właśnie może dobrze przepraszam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to pięćset dziesięć tak pan mówi 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="54.602" endTime="55.336">
+<Sync time="54.602"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="55.336" endTime="62.262">
+<Sync time="55.336"/>
+i to powiedzmy chodzi mi o takie ranne godziny odjazdu o
+<Event desc="~" type="lexical" extent="begin"/>
+d
+<Event desc="~" type="lexical" extent="end"/>
+ godziny powiedzmy od 
+<Event desc="noise" type="noise" extent="begin"/>
+ wpół do szóstej do szóste
+<Event desc="~" type="lexical" extent="begin"/>
+j
+<Event desc="~" type="lexical" extent="end"/>
+ do godziny szóstej trzydzieści 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="62.262" endTime="65.196">
+<Sync time="62.262"/>
+dobrze to będzie tak piąta trzydzieści 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="65.196" endTime="65.603">
+<Sync time="65.196"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="65.603" endTime="67.677">
+<Sync time="65.603"/>
+piąta pięćdziesiąt pięć 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="67.677" endTime="68.035">
+<Sync time="67.677"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="68.035" endTime="70.454">
+<Sync time="68.035"/>
+szósta dziesięć 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="70.454" endTime="77.468">
+<Sync time="70.454"/>
+to może wystarczy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mam pytanie tylko czy 
+<Event desc="*" type="pronounce" extent="begin"/>
+pan
+<Event desc="*" type="pronounce" extent="end"/>
+ orientuje się powiedzmy w jakich 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ w 
+<Event desc="*" type="pronounce" extent="begin"/>
+jakim
+<Event desc="*" type="pronounce" extent="end"/>
+ czasie on dojeżdża Nowodwory z tego przystanku 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="77.468" endTime="79.29">
+<Sync time="77.468"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ do Nowodworów w 
+<Event desc="*" type="pronounce" extent="begin"/>
+pół
+<Event desc="*" type="pronounce" extent="end"/>
+ godziny jedzie
+</Turn>
+<Turn speaker="spk2" startTime="79.29" endTime="80.332">
+<Sync time="79.29"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ pół godziny trzydzieści minut 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="80.332" endTime="81.226">
+<Sync time="80.332"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="81.226" endTime="83.383">
+<Sync time="81.226"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze 
+<Event desc="noise" type="noise" extent="end"/>
+ a
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+bo po szóstej dziesięć które jeszcze jest
+</Turn>
+<Turn speaker="spk1" startTime="83.383" endTime="88.138">
+<Sync time="83.383"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ już sprawdzam 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ szósta dwadzieścia pięć następne
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="88.138" endTime="89.372">
+<Sync time="88.138"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ szósta dwadzieścia pięć to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="89.372" endTime="89.587">
+<Sync time="89.372"/>
+<Who nb="1"/>
+pięćset
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="89.587" endTime="89.885">
+<Sync time="89.587"/>
+dziesięć
+</Turn>
+<Turn speaker="spk2 spk1" startTime="89.885" endTime="90.654">
+<Sync time="89.885"/>
+<Who nb="1"/>
+dokładnie tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+pięćset dziesięć
+</Turn>
+<Turn speaker="spk1" startTime="90.654" endTime="91.209">
+<Sync time="90.654"/>
+tak 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="91.209" endTime="92.032">
+<Sync time="91.209"/>
+dobrze dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="92.032" endTime="92.558">
+<Sync time="92.032"/>
+proszę bardzo
+</Turn>
+<Turn startTime="92.558" endTime="95.994">
+<Sync time="92.558"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

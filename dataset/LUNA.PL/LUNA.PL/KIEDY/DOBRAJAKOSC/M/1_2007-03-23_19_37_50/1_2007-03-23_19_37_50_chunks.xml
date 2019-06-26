@@ -1,0 +1,43 @@
+<Chunks>
+  <chunk id="1" span="word_1" cat="PN" />
+  <chunk id="2" span="word_2..word_3" cat="NP" main="word_3" />
+  <chunk id="3" span="word_4..word_5" cat="NP" main="word_5" />
+  <chunk id="4" span="word_6" cat="VP" main="word_6" />
+  <chunk id="5" span="word_7" cat="NP_PRON" />
+  <chunk id="6" span="word_8" cat="VP_INF" />
+  <chunk id="7" span="word_9" cat="PP" />
+  <chunk id="8" span="word_10" cat="PINT" />
+  <chunk id="9" span="word_11" cat="VP" main="word_11" />
+  <chunk id="10" span="word_12..word_13" cat="NUM" />
+  <chunk id="11" span="word_14" cat="PP" />
+  <chunk id="12" span="word_15" cat="PN" />
+  <chunk id="13" span="word_16" cat="PP" />
+  <chunk id="14" span="word_17" cat="PART" />
+  <chunk id="15" span="word_18" cat="PP" />
+  <chunk id="16" span="word_19" cat="NP" main="word_19" />
+  <chunk id="17" span="word_20" cat="PN" />
+  <chunk id="18" span="word_21" cat="ADJP" />
+  <chunk id="19" span="word_23" cat="PART" />
+  <chunk id="20" span="word_24" cat="PART" />
+  <chunk id="21" span="word_25" cat="PP" />
+  <chunk id="22" span="word_26" cat="NUMD" />
+  <chunk id="23" span="word_27" cat="NP" main="word_27" />
+  <chunk id="24" span="word_28" cat="PP" />
+  <chunk id="25" span="word_29" cat="NUM" />
+  <chunk id="26" span="word_30" cat="NP" main="word_30" />
+  <chunk id="27" span="word_31" cat="ADJP" />
+  <chunk id="28" span="word_32" cat="NUM" />
+  <chunk id="29" span="word_33" cat="NUM" />
+  <chunk id="30" span="word_34" cat="PART" />
+  <chunk id="31" span="word_35" cat="ADJP" />
+  <chunk id="32" span="word_37" cat="ADJP" />
+  <chunk id="33" span="word_38" cat="NUM" />
+  <chunk id="34" span="word_39" cat="PART" />
+  <chunk id="35" span="word_40" cat="ADJP" />
+  <chunk id="36" span="word_42" cat="ADJP" />
+  <chunk id="37" span="word_43..word_44" cat="NUM" />
+  <chunk id="38" span="word_45" cat="ADV" />
+  <chunk id="39" span="word_46" cat="VP" main="word_46" />
+  <chunk id="40" span="word_47" cat="VP" main="word_47" />
+  <chunk id="41" span="word_48" cat="ADV" />
+</Chunks>

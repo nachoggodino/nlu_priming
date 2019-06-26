@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_12_50_32" version="4" version_date="070907">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="29.640" topic="to1">
+<Turn startTime="0" endTime="0.932">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.932" endTime="2.73">
+<Sync time="0.932"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="2.73" endTime="16.586">
+<Sync time="2.73"/>
+dzień dobry panu mam uprzejme pytanie chodzi mi o sto dwadzieścia dwa odjazd z zajezdni do Śródmieścia<Event desc="int" type="noise" extent="previous"/> w kierunku Śródmieścia w granicach piętnastej <Event desc="noise" type="noise" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="16.586" endTime="16.971">
+<Sync time="16.586"/>
+granicach 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="16.971" endTime="18.03">
+<Sync time="16.971"/>
+<Who nb="1"/>
+piętnastej
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="18.03" endTime="19.266">
+<Sync time="18.03"/>
+przed parę minut i 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="19.266" endTime="19.736">
+<Sync time="19.266"/>
+<Who nb="1"/>
+potem
+<Who nb="2"/>
+dobrze
+</Turn>
+<Turn speaker="spk1" startTime="19.736" endTime="23.873">
+<Sync time="19.736"/>
+proszę pani z zajezdni Woronicza odjazd będzie o czternastej pięćdziesiąt jeden
+</Turn>
+<Turn speaker="spk2" startTime="23.873" endTime="24.33">
+<Sync time="23.873"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="24.33" endTime="25.976">
+<Sync time="24.33"/>
+a <Event desc="babble" type="noise" extent="begin"/> kolejny <Event desc="babble" type="noise" extent="end"/> piętnasta zero siedem
+</Turn>
+<Turn speaker="spk2" startTime="25.976" endTime="26.916">
+<Sync time="25.976"/>
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/> dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="26.916" endTime="27.77">
+<Sync time="26.916"/>
+<Who nb="1"/>
+panu serdecznie
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn startTime="27.77" endTime="29.640">
+<Sync time="27.77"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

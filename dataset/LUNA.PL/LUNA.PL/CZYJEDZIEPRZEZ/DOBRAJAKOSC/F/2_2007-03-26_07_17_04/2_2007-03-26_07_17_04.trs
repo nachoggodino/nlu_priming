@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-26_07_17_04" version="4" version_date="080105">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="49.997" topic="to1">
+<Turn startTime="0" endTime="0.281">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.281" endTime="1.657">
+<Sync time="0.281"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.657" endTime="7.207">
+<Sync time="1.657"/>
+dzień dobry proszę pana chciałam zapytać czy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tramwaje piętnaście i sześć
+</Turn>
+<Turn speaker="spk1" startTime="7.207" endTime="8.079">
+<Sync time="7.207"/>
+tak 
+</Turn>
+<Turn speaker="spk2" startTime="8.079" endTime="11.428">
+<Sync time="8.079"/>
+z Placu Wilsona jeżdżą 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ na 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+U K S W
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.428" endTime="16.971">
+<Sync time="11.428"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie nie jeżdżą w tej chwili jeżdżą objazdami 
+<Event desc="babble" type="noise" extent="begin"/>
+ bo nie 
+<Event desc="babble" type="noise" extent="end"/>
+ nie jeździ nic Słowackiego żaden tram
+<Event desc="~" type="lexical" extent="begin"/>
+waj
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.971" endTime="20.592">
+<Sync time="16.971"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ aha 
+<Event desc="babble" type="noise" extent="end"/>
+ a może mi 
+<Event desc="babble" type="noise" extent="begin"/>
+ podpowiedzieć w takim razie na który przystanek trza się cofnąć żeby dojechać 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.592" endTime="25.095">
+<Sync time="20.592"/>
+z Placu Wilsona 
+<Event desc="babble" type="noise" extent="begin"/>
+ na 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+U K S W
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ to pani 
+<Event desc="*" type="pronounce" extent="begin"/>
+sobie
+<Event desc="*" type="pronounce" extent="end"/>
+ wsiądzie w autobus
+</Turn>
+<Turn speaker="spk2" startTime="25.095" endTime="26.019">
+<Sync time="25.095"/>
+autobus który 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.019" endTime="27.433">
+<Sync time="26.019"/>
+sto osiemdziesiąt jeden
+</Turn>
+<Turn speaker="spk2" startTime="27.433" endTime="29.824">
+<Sync time="27.433"/>
+sto osiemdziesiąt jeden a 
+<Event desc="*" type="pronounce" extent="begin"/>
+może mi
+<Event desc="*" type="pronounce" extent="end"/>
+ pan powiedzieć kiedy jest najbliższy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.824" endTime="43.241">
+<Sync time="29.824"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ już sprawdzę 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ najbliższy jest siódma dwadzieścia i co dziesięć minut jeździ
+</Turn>
+<Turn speaker="spk2" startTime="43.241" endTime="45.146">
+<Sync time="43.241"/>
+co dziesięć minut i tylko jeden autobus 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.146" endTime="46.298">
+<Sync time="45.146"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak
+</Turn>
+<Turn speaker="spk2" startTime="46.298" endTime="46.975">
+<Sync time="46.298"/>
+dobra dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="46.975" endTime="47.911">
+<Sync time="46.975"/>
+<Who nb="1"/>
+bardzo do usłyszenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="47.911" endTime="48.615">
+<Sync time="47.911"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do usłyszenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="48.615" endTime="49.997">
+<Sync time="48.615"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

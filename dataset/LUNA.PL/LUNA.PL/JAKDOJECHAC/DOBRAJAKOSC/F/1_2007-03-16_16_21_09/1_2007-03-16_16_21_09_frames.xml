@@ -1,0 +1,32 @@
+<Frames>
+  <Set id="1" subset="1" span="word_12" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_10,word_11" concept_id="4,5" name="MANNER" />
+    <Frame fe="2" span="word_13..word_14" concept_id="7" name="SOURCE" />
+    <Frame fe="3" span="word_15..word_17" concept_id="8" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_27" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_28,word_29..word_30,word_31..word_32" concept_id="12,13,14" name="SOURCE" />
+  </Set>
+  <Set id="3" subset="1" span="word_52" frame="GIVE" head="podać">
+    <Frame fe="1" span="word_54" concept_id="23" name="THEME" />
+  </Set>
+  <Set id="4" subset="1" span="word_58" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_55" concept_id="24" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_78" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_77" concept_id="38" name="MANNER" />
+    <Frame fe="2" span="word_79..word_81" concept_id="40" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="3" span="word_83..word_84" concept_id="42" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="4" span="word_85..word_86" concept_id="43" name="GOAL" />
+  </Set>
+  <Set id="6" subset="1" span="word_99" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_100..word_101" concept_id="51" name="GOAL" />
+  </Set>
+  <Set id="7" subset="1" span="word_104" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_106..word_107" concept_id="54" name="GOAL" />
+  </Set>
+  <Set id="8" subset="1" span="word_124" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_122..word_123" concept_id="60" name="THEME" />
+    <Frame fe="2" span="word_126..word_128" concept_id="62" name="LOCATION" />
+  </Set>
+</Frames>

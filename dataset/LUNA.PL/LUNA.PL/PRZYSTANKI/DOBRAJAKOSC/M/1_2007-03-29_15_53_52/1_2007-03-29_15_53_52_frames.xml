@@ -1,0 +1,27 @@
+<Frames>
+  <Set id="1" subset="1" span="word_18" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_14..word_16" concept_id="6" name="MANNER" />
+    <Frame fe="2" span="word_19..word_21" concept_id="8" name="SOURCE" />
+    <Frame fe="3" span="word_22..word_24" concept_id="9" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_39" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_38" concept_id="14" name="DISTANCE" />
+    <Frame fe="2" span="word_41..word_42" concept_id="16" name="THEME" />
+  </Set>
+  <Set id="3" subset="4" span="word_52" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_45..word_46" concept_id="18" name="GOAL" />
+    <Frame fe="2" span="word_49..word_51" concept_id="19" name="SELF_MOVER" />
+    <Frame fe="3" span="word_53..word_56" concept_id="21" name="PATH" />
+  </Set>
+  <Set id="4" subset="1" span="word_66" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_67..word_69" concept_id="26" name="THEME" />
+    <Frame fe="2" span="word_70..word_72" concept_id="27" name="DIRECTION" />
+    <Frame fe="3" span="word_73..word_75" concept_id="28" name="DIRECTION" />
+  </Set>
+  <Set id="5" subset="1" span="word_103" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_101..word_102" concept_id="36" name="PLACE" />
+  </Set>
+  <Set id="6" subset="1" span="word_108" frame="LOCATING" head="znaleźć">
+    <Frame fe="1" span="word_109..word_110" concept_id="41" name="SOUGHT_ENTITY" />
+  </Set>
+</Frames>

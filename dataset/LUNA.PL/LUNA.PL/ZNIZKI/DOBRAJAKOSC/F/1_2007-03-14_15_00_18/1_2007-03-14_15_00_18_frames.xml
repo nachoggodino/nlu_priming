@@ -1,0 +1,41 @@
+<Frames>
+  <Set id="1" subset="1" span="word_12" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_13..word_14" concept_id="5" name="TITLE" />
+  </Set>
+  <Set id="2" subset="1" span="word_15" frame="ACTIVITY_START" head="podjąć">
+    <Frame fe="1" span="word_16" concept_id="7" name="ACTIVITY" />
+  </Set>
+  <Set id="3" subset="2" span="word_18" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_19" concept_id="9" name="POSSESSION" />
+  </Set>
+  <Set id="4" subset="1" span="word_29" frame="COMMERCE_BUY" head="wykupić">
+    <Frame fe="1" span="word_26" concept_id="12" name="GOODS" />
+    <Frame fe="2" span="word_31" concept_id="14" name="PURPOSE" />
+    <Frame fe="3" span="word_33..word_34" concept_id="15" name="PURPOSE" />
+  </Set>
+  <Set id="5" subset="1" span="word_58" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_59..word_61" concept_id="24" name="ENTITY" />
+  </Set>
+  <Set id="6" subset="1" span="word_63..word_65" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_67..word_68" concept_id="26" name="PRIVILEGE" />
+  </Set>
+  <Set id="7" subset="1" span="word_80" frame="COMMERCE_BUY" head="wykupywać">
+    <Frame fe="1" span="word_75..word_76" concept_id="28" name="DURATION" />
+    <Frame fe="2" span="word_81..word_82" concept_id="30" name="GOODS" />
+  </Set>
+  <Set id="8" subset="1" span="word_85" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_83" concept_id="31" name="PRIVILEGE" />
+    <Frame fe="2" span="word_86" concept_id="33" name="BENEFICIARY" />
+    <Frame fe="3" span="word_87..word_89" concept_id="34" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="9" subset="1" span="word_99" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_101" concept_id="37" name="TOPIC" />
+    <Frame fe="2" span="word_105" concept_id="39" name="TOPIC" />
+  </Set>
+  <Set id="10" subset="1" span="word_108" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_109..word_110" concept_id="43" name="ENTITY" />
+  </Set>
+  <Set id="11" subset="1" span="word_116" frame="ENTITLED" head="korzystać">
+    <Frame fe="1" span="word_117..word_118" concept_id="46" name="BENEFICIARY" />
+  </Set>
+</Frames>

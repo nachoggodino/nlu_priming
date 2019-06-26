@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-30_22_34_33" version="3" version_date="080418">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="44.497" topic="to1">
+<Turn startTime="0" endTime="0.431">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.431" endTime="2.389">
+<Sync time="0.431"/>
+dobry wieczór xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.389" endTime="2.957">
+<Sync time="2.389"/>
+dobry wieczór
+</Turn>
+<Turn speaker="spk1" startTime="2.957" endTime="3.094">
+<Sync time="2.957"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="3.094" endTime="14.955">
+<Sync time="3.094"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+proszę panią 
+<Event desc="babble" type="noise" extent="end"/>
+ chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+em się upewnić bo 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mam legitymację szkolną a mam trzydzieści dwa lata chodzę do 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+profilowane
+<Event desc="*" type="pronounce" extent="end"/>
+ liceum dla dorosłych 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jakie mi ulgi przysługują z tego powodu
+</Turn>
+<Turn speaker="spk1" startTime="14.955" endTime="21.55">
+<Sync time="14.955"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ proszę pana muszę pana zmartwić ale już żadne ulgi panu nie przysługują bo tylko do dwudziestu jeden lat 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="21.55" endTime="22.02">
+<Sync time="21.55"/>
+<Who nb="1"/>
+stu
+<Event desc="~" type="lexical" extent="begin"/>
+denci
+<Event desc="~" type="lexical" extent="end"/>
+
+<Who nb="2"/>
+rozumiem
+</Turn>
+<Turn speaker="spk1" startTime="22.02" endTime="28.891">
+<Sync time="22.02"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ studenci 
+<Event desc="babble" type="noise" extent="end"/>
+ nie mają ograniczenia wiekowego i niezależnie ile mają lat ale uczniowie tylko do dwudziestu jeden lat 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="28.891" endTime="34.047">
+<Sync time="28.891"/>
+rozumiem czyli czy
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+i to że chodzę do szkoły 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie nie mam muszę kupić normalny
+</Turn>
+<Turn speaker="spk2 spk1" startTime="34.047" endTime="34.403">
+<Sync time="34.047"/>
+<Who nb="1"/>
+nie tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="34.403" endTime="38.267">
+<Sync time="34.403"/>
+niestety tak musi pan normalny bo kontrolerzy patrzą właśnie na wiek
+</Turn>
+<Turn speaker="spk2" startTime="38.267" endTime="41.54">
+<Sync time="38.267"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ rozumiem dobrze dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="41.54" endTime="43.039">
+<Sync time="41.54"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dziękuję za rozmowę 
+<Event desc="babble" type="noise" extent="end"/>
+ do widzenia
+</Turn>
+<Turn startTime="43.039" endTime="44.497">
+<Sync time="43.039"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

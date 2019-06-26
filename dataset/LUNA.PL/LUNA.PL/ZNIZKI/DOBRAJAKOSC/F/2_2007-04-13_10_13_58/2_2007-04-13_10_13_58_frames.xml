@@ -1,0 +1,18 @@
+<Frames>
+  <Set id="1" subset="1" span="word_25" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_24" concept_id="9" name="TIME" />
+    <Frame fe="2" span="word_26..word_27" concept_id="11" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="2" subset="1" span="word_32" frame="BEING_IN_EFFECT" head="obowiązywać">
+    <Frame fe="1" span="word_33..word_35" concept_id="14" name="BINDING_PRINCIPLE" />
+  </Set>
+  <Set id="3" subset="1" span="word_47" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_48..word_50" concept_id="17" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="4" subset="1" span="word_112" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_113..word_114" concept_id="34" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="5" subset="1" span="word_130" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_128..word_129" concept_id="40" name="FINAL_CATEGORY" />
+  </Set>
+</Frames>

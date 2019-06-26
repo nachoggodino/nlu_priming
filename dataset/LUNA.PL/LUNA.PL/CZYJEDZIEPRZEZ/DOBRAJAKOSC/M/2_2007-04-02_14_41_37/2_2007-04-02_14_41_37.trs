@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-02_14_41_37" version="8" version_date="080104">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="31.998" topic="to1">
+<Turn startTime="0" endTime="0.747">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.747" endTime="2.548">
+<Sync time="0.747"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.548" endTime="6.629">
+<Sync time="2.548"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry ja chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+em 
+<Event desc="*" type="pronounce" extent="begin"/>
+się
+<Event desc="*" type="pronounce" extent="end"/>
+ dowiedzieć czy osiemnastka to jedzie do Galerii Mokotów
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="6.629" endTime="9.373">
+<Sync time="6.629"/>
+tak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przy Galerii Mokotów 
+<Event desc="*" type="pronounce" extent="begin"/>
+ma
+<Event desc="*" type="pronounce" extent="end"/>
+ przystanek Rzymowskiego
+</Turn>
+<Turn speaker="spk2" startTime="9.373" endTime="14.887">
+<Sync time="9.373"/>
+
+<Event desc="int" type="noise" extent="next"/>
+aha dobrze a i jest 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na tej 
+<Event desc="*" type="pronounce" extent="begin"/>
+trasie
+<Event desc="*" type="pronounce" extent="end"/>
+ taki przystanek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="en" type="language" extent="begin"/>
+Curtis
+<Event desc="en" type="language" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="en" type="language" extent="begin"/>
+Plaza
+<Event desc="en" type="language" extent="end"/>
+ tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.887" endTime="16.67">
+<Sync time="14.887"/>
+tak to jest przystanek przed 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.67" endTime="21.209">
+<Sync time="16.67"/>
+a czy w 
+<Event desc="*" type="pronounce" extent="begin"/>
+ogóle
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ i tam w okolicach 
+<Event desc="noise" type="noise" extent="end"/>
+ jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ gdzieś pan nie wie czy ulica Domaniewska gdzieś niedal
+<Event desc="~" type="lexical" extent="begin"/>
+eko
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="21.209" endTime="25.684">
+<Sync time="21.209"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak przy 
+<Event desc="babble" type="noise" extent="end"/>
+ samej Doma
+<Event desc="~" type="lexical" extent="begin"/>
+niewskiej
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ma 
+<Event desc="noise" type="noise" extent="begin"/>
+ przystanek 
+<Event desc="en" type="language" extent="begin"/>
+Curtis
+<Event desc="en" type="language" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="en" type="language" extent="begin"/>
+Plaza
+<Event desc="en" type="language" extent="end"/>
+ jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ przy 
+<Event desc="babble" type="noise" extent="end"/>
+ samej ulicy Domaniewskiej
+</Turn>
+<Turn speaker="spk2" startTime="25.684" endTime="26.785">
+<Sync time="25.684"/>
+dobra to dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="26.785" endTime="28.24">
+<Sync time="26.785"/>
+<Who nb="1"/>
+serdecznie do widzenia
+<Who nb="2"/>
+proszę bardzo do 
+</Turn>
+<Turn speaker="spk1" startTime="28.24" endTime="28.706">
+<Sync time="28.24"/>
+usłyszenia
+</Turn>
+<Turn startTime="28.706" endTime="31.998">
+<Sync time="28.706"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

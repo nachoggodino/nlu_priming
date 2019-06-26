@@ -1,0 +1,33 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_6..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_9" attribute="ACTION" value="ToAsk" />
+  <concept id="6" span="word_10..word_12" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="7" span="word_13" attribute="ACTION" value="ToBe" />
+  <concept id="8" span="word_14" attribute="DEPARTURE" value="Nearest" />
+  <concept id="9" span="word_15..word_17" attribute="TRAM" value="10" />
+  <concept id="10" span="word_18..word_20" attribute="SOURCE_RS" value="Dworzec Centralny" />
+  <concept id="11" span="word_21..word_23" attribute="GOAL_DIRECTION_TD" value="Wola" />
+  <concept id="12" span="word_25" attribute="ACTION" value="Check" />
+  <concept id="13" span="word_26..word_29" attribute="AT_HOUR" value="22 : 26" />
+  <concept id="14" span="word_32..word_34" attribute="IN_X_MINUTES" value="3" />
+  <concept id="15" span="word_35" attribute="DEPARTURE" value="Next" />
+  <concept id="16" span="word_36..word_37" attribute="AT_HOUR_MINPART" value="46" />
+  <concept id="17" span="word_38" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_42" attribute="ACTION" value="Tell" />
+  <concept id="19" span="word_44" attribute="TRAM" value="8" />
+  <concept id="20" span="word_45" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="21" span="word_46" attribute="ACTION" value="ToBe" />
+  <concept id="22" span="word_47" attribute="DEPARTURE" value="Next" />
+  <concept id="23" span="word_51" attribute="ACTION" value="Check" />
+  <concept id="24" span="word_52" attribute="REACTION" value="Negation" />
+  <concept id="25" span="word_53" attribute="REACTION" value="Negation" />
+  <concept id="26" span="word_54" attribute="REACTION" value="Negation" />
+  <concept id="27" span="word_55" attribute="ACTION" value="ToBe" />
+  <concept id="28" span="word_56" attribute="REACTION" value="Negation" />
+  <concept id="29" span="word_57" attribute="REACTION" value="Confirmation" />
+  <concept id="30" span="word_61" attribute="CONV_FORM" value="BYE" />
+  <concept id="31" span="word_64" attribute="CONV_FORM" value="BYE" />
+</concepts>

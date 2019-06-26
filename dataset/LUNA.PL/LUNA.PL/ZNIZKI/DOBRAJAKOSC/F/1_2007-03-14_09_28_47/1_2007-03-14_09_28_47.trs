@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_09_28_47" version="2" version_date="071001">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="37.498" topic="to1">
+<Turn startTime="0" endTime="0.894">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.894" endTime="2.186">
+<Sync time="0.894"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.186" endTime="13.742">
+<Sync time="2.186"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry <Event desc="*" type="pronounce" extent="begin"/>proszę pana ja się<Event desc="*" type="pronounce" extent="end"/> chcia<Event desc="~" type="lexical" extent="begin"/>ła<Event desc="~" type="lexical" extent="end"/>m dowie<Event desc="~" type="lexical" extent="begin"/>dzi<Event desc="~" type="lexical" extent="end"/>eć <Event desc="filler" type="lexical" extent="instantaneous"/> co trzeba mieć albo nie trzeba mieć <Event desc="filler" type="lexical" extent="instantaneous"/> w tym roku moja mama skończyła siedemdziesiąt lat <Event desc="filler" type="lexical" extent="instantaneous"/> czy należy się jej przejazd bezpłatny <Event desc="?" type="lexical" extent="instantaneous"/> czy nie 
+</Turn>
+<Turn speaker="spk1" startTime="13.742" endTime="19.992">
+<Sync time="13.742"/>
+tak o już od od od dnia dnia urodzin bezpłatny przejazdy i to na podstawie dowodu osobistego
+</Turn>
+<Turn speaker="spk2" startTime="19.992" endTime="22.404">
+<Sync time="19.992"/>
+a proszę m<Event desc="~" type="lexical" extent="begin"/>i<Event desc="~" type="lexical" extent="end"/> powiedzieć jaka jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> a jak jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> z metrem <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="22.404" endTime="29.287">
+<Sync time="22.404"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> jeżeli z metrem to można albo z windy korzystać albo trzeba przyjś<Event desc="~" type="lexical" extent="begin"/>ć<Event desc="~" type="lexical" extent="end"/> do naszego punktu i poprosić o bezpłatną wejściówkę do metra
+</Turn>
+<Turn speaker="spk2" startTime="29.287" endTime="31.587">
+<Sync time="29.287"/>
+rozumiem czy<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>i u państwa ty<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>ko bezpłatna wejściówka 
+</Turn>
+<Turn speaker="spk1" startTime="31.587" endTime="31.955">
+<Sync time="31.587"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="31.955" endTime="33.424">
+<Sync time="31.955"/>
+dobrze ś<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>icznie panu dziękuję w takim
+</Turn>
+<Turn speaker="spk2 spk1" startTime="33.424" endTime="34.074">
+<Sync time="33.424"/>
+<Who nb="1"/>
+razie
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="34.074" endTime="34.626">
+<Sync time="34.074"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="34.626" endTime="35.225">
+<Sync time="34.626"/>
+do widzenia
+</Turn>
+<Turn startTime="35.225" endTime="37.498">
+<Sync time="35.225"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

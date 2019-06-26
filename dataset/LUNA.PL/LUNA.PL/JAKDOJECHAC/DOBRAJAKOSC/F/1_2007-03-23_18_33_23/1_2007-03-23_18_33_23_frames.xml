@@ -1,0 +1,21 @@
+<Frames>
+  <Set id="1" subset="1" span="word_9" frame="GET" head="dostać">
+    <Frame fe="1" span="word_12..word_14" concept_id="6" name="MANNER" />
+    <Frame fe="2" span="word_15..word_20" concept_id="7" name="SOURCE" />
+  </Set>
+  <Set id="2" subset="1" span="word_50" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_52..word_53" concept_id="23" name="TOPIC" />
+  </Set>
+  <Set id="3" subset="4" span="word_55" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_57" concept_id="25" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="4" subset="1" span="word_59" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_58" concept_id="26" name="THEME" />
+    <Frame fe="2" span="word_61..word_62" concept_id="28" name="PLACE" />
+    <Frame fe="3" span="word_63" concept_id="29" name="POSITION" />
+  </Set>
+  <Set id="5" subset="1" span="word_80" frame="DEPARTING" head="odjeżdżać">
+    <Frame fe="1" span="word_73..word_75" concept_id="34" name="THEME" />
+    <Frame fe="2" span="word_76..word_79" concept_id="35" name="SOURCE" />
+  </Set>
+</Frames>

@@ -1,0 +1,15 @@
+<Frames>
+  <Set id="1" subset="1" span="word_8" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_7" concept_id="4" name="TIME" />
+    <Frame fe="2" span="word_9,word_10..word_13" concept_id="6,7" name="THEME" />
+  </Set>
+  <Set id="2" subset="1" span="word_58" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_53,word_54..word_56" concept_id="26,27" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_66" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_68..word_72" concept_id="32" name="TOPIC" />
+  </Set>
+  <Set id="4" subset="1" span="word_87" frame="LASTING" head="trwać">
+    <Frame fe="1" span="word_86" concept_id="37" name="TIME_DISTANCE" />
+  </Set>
+</Frames>

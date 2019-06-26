@@ -1,0 +1,14 @@
+<Frames>
+  <Set id="1" subset="1" span="word_15" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_9..word_11" concept_id="5" name="SELF_MOVER" />
+    <Frame fe="2" span="word_12..word_14" concept_id="6" name="TIME" />
+    <Frame fe="3" span="word_16..word_17,word_18,word_19..word_20" concept_id="8,9,10" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_33" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_26..word_28,word_29" concept_id="13,14" name="GOAL" />
+    <Frame fe="2" span="word_34" concept_id="16" name="SELF_MOVER" />
+  </Set>
+  <Set id="3" subset="1" span="word_41" frame="STATEMENT" head="powiedzieć">
+    <Frame fe="1" span="word_45..word_46,word_47..word_49" concept_id="19,20" name="TOPIC" />
+  </Set>
+</Frames>

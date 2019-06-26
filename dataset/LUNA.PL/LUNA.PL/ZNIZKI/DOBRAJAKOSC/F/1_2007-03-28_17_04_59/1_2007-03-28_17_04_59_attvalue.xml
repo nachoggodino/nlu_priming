@@ -1,0 +1,37 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_9" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="4" span="word_10" attribute="SKM" value="SKM" />
+  <concept id="5" span="word_11..word_12" attribute="SOURCE_TOWN" value="Wesoła" />
+  <concept id="6" span="word_13..word_14" attribute="GOAL_TOWN" value="Warszawa" />
+  <concept id="7" span="word_15" attribute="PERSON" value="Pensioner" />
+  <concept id="8" span="word_17" attribute="ACTION" value="Go" />
+  <concept id="9" span="word_19..word_20" attribute="FARE" value="Free" />
+  <concept id="10" span="word_22" attribute="TICKET" value="General" />
+  <concept id="11" span="word_26..word_27" attribute="LINE_TYPE" value="Urban" />
+  <concept id="12" span="word_29" attribute="TRAM" value="General" />
+  <concept id="13" span="word_31" attribute="ACTION" value="End" />
+  <concept id="14" span="word_32..word_33" attribute="AGE" value="70" />
+  <concept id="15" span="word_35" attribute="REACTION" value="Confirmation" />
+  <concept id="16" span="word_36" attribute="REACTION" value="Confirmation" />
+  <concept id="17" span="word_37" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_38" attribute="REACTION" value="Confirmation" />
+  <concept id="19" span="word_39" attribute="REACTION" value="Confirmation" />
+  <concept id="20" span="word_40..word_42" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="21" span="word_43..word_44" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="22" span="word_45" attribute="Q_CONF" value="IsIt" />
+  <concept id="23" span="word_54" attribute="ACTION" value="Go" />
+  <concept id="24" span="word_55..word_56" attribute="SOURCE_TOWN" value="Warszawa" />
+  <concept id="25" span="word_57" attribute="REACTION" value="Confirmation" />
+  <concept id="26" span="word_59" attribute="ACTION" value="Request" />
+  <concept id="27" span="word_60" attribute="ACTION" value="Approach" />
+  <concept id="28" span="word_61..word_62" attribute="GOAL_TD" value="Miłosna" />
+  <concept id="29" span="word_66" attribute="FARE" value="Free" />
+  <concept id="30" span="word_67" attribute="ACTION" value="Approach" />
+  <concept id="31" span="word_69" attribute="REACTION" value="Confirmation" />
+  <concept id="32" span="word_70" attribute="SKM" value="SKM" />
+  <concept id="33" span="word_71" attribute="REACTION" value="Confirmation" />
+  <concept id="34" span="word_76..word_77" attribute="CONV_FORM" value="BYE" />
+  <concept id="35" span="word_78..word_79" attribute="CONV_FORM" value="BYE" />
+</concepts>

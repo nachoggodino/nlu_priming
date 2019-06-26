@@ -1,0 +1,74 @@
+<Anaphoras>
+  <anaphora id="1" concept_id="28">
+    <target concept_id="24" />
+  </anaphora>
+  <anaphora id="2" concept_id="43">
+    <target concept_id="41" />
+  </anaphora>
+  <anaphora id="3" concept_id="46">
+    <target concept_id="41" />
+  </anaphora>
+  <anaphora id="4" concept_id="56">
+    <target concept_id="41" />
+  </anaphora>
+  <anaphora id="5" concept_id="75">
+    <target concept_id="41" />
+  </anaphora>
+  <anaphora id="6" concept_id="77">
+    <target concept_id="41" />
+  </anaphora>
+  <anaphora id="7" concept_id="83">
+    <target concept_id="84" />
+  </anaphora>
+  <anaphora id="8" concept_id="87">
+    <target concept_id="41" />
+  </anaphora>
+  <anaphora id="9" concept_id="99">
+    <target concept_id="97" />
+  </anaphora>
+  <anaphora id="10" concept_id="101">
+    <target concept_id="103" />
+  </anaphora>
+  <anaphora id="11" concept_id="119">
+    <target concept_id="111" />
+  </anaphora>
+  <anaphora id="12" concept_id="123">
+    <target concept_id="41" />
+  </anaphora>
+  <anaphora id="13" concept_id="124">
+    <target concept_id="38" />
+  </anaphora>
+  <anaphora id="14" concept_id="128">
+    <target concept_id="121" />
+  </anaphora>
+  <anaphora id="15" concept_id="130">
+    <target concept_id="41" />
+  </anaphora>
+  <anaphora id="16" concept_id="148">
+    <target concept_id="111" />
+  </anaphora>
+  <anaphora id="17" concept_id="150">
+    <target concept_id="111" />
+  </anaphora>
+  <anaphora id="18" concept_id="159">
+    <target concept_id="155" />
+  </anaphora>
+  <anaphora id="19" concept_id="170">
+    <target concept_id="167" />
+  </anaphora>
+  <anaphora id="20" concept_id="171">
+    <target concept_id="172" />
+  </anaphora>
+  <anaphora id="21" concept_id="184">
+    <target concept_id="180" />
+  </anaphora>
+  <anaphora id="22" concept_id="215">
+    <target concept_id="172" />
+  </anaphora>
+  <anaphora id="23" concept_id="227">
+    <target concept_id="225" />
+  </anaphora>
+  <anaphora id="24" concept_id="237">
+    <target concept_id="225" />
+  </anaphora>
+</Anaphoras>

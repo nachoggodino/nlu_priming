@@ -1,0 +1,129 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_9" attribute="ACTION" value="ToAsk" />
+  <concept id="6" span="word_10..word_11" attribute="CONV_FORM" value="HELLO" />
+  <concept id="7" span="word_14..word_17" attribute="BUS" value="187" />
+  <concept id="8" span="word_18" attribute="LOCATION_REL" value="There" />
+  <concept id="9" span="word_20" attribute="REACTION" value="Negation" />
+  <concept id="10" span="word_21..word_22" attribute="BUILDING" value="Hala Kopińska" />
+  <concept id="11" span="word_24..word_25" attribute="ROUTE_LENGTH" value="1 STOPS" />
+  <concept id="12" span="word_26" attribute="TIME_REL" value="Earlier" />
+  <concept id="13" span="word_28" attribute="ACTION" value="ToBe" />
+  <concept id="14" span="word_29..word_30" attribute="LOCATION_STR" value="Szczęśliwicka" />
+  <concept id="15" span="word_31..word_34" attribute="GOAL_DIRECTION_TD" value="Stegny" />
+  <concept id="16" span="word_35..word_36" attribute="GOAL_TD" value="Stegny" />
+  <concept id="17" span="word_38" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="18" span="word_39..word_40" attribute="LOCATION_STR" value="Szczęśliwicka" />
+  <concept id="19" span="word_41..word_42" attribute="LOCATION_STR" value="Szczęśliwicka" />
+  <concept id="20" span="word_43" attribute="REACTION" value="Confirmation" />
+  <concept id="21" span="word_44" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="22" span="word_47" attribute="ACTION" value="ToBe" />
+  <concept id="23" span="word_48" attribute="TIME_REL" value="Today" />
+  <concept id="24" span="word_49" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="25" span="word_55" attribute="TIME_REL" value="Now" />
+  <concept id="26" span="word_56" attribute="TIME_REL" value="Now" />
+  <concept id="27" span="word_62" attribute="ACTION" value="ToHave" />
+  <concept id="28" span="word_63..word_65" attribute="AT_HOUR" value="18 : 53" />
+  <concept id="29" span="word_67" attribute="ACTION" value="Excuse" />
+  <concept id="30" span="word_69" attribute="ACTION" value="Excuse" />
+  <concept id="31" span="word_72..word_74" attribute="AT_HOUR" value="18 : 53" />
+  <concept id="32" span="word_75" attribute="REACTION" value="Confirmation" />
+  <concept id="33" span="word_76..word_78" attribute="AT_HOUR" value="19 : 08" />
+  <concept id="34" span="word_84" attribute="ACTION" value="Excuse" />
+  <concept id="35" span="word_85" attribute="PERSON_NAME" value="Piotr" />
+  <concept id="36" span="word_89" attribute="ACTION" value="ToAsk" />
+  <concept id="37" span="word_93..word_94" attribute="BUS" value="130" />
+  <concept id="38" span="word_96" attribute="ACTION" value="Excuse" />
+  <concept id="39" span="word_99" attribute="PERSON_NAME" value="Piotr" />
+  <concept id="40" span="word_100" attribute="ACTION" value="ToAsk" />
+  <concept id="41" span="word_103..word_104" attribute="BUS" value="130" />
+  <concept id="42" span="word_105" attribute="ACTION" value="Excuse" />
+  <concept id="43" span="word_109" attribute="ACTION" value="ToAsk" />
+  <concept id="44" span="word_111..word_112" attribute="BUS" value="130" />
+  <concept id="45" span="word_115" attribute="REACTION" value="Confirmation" />
+  <concept id="46" span="word_118..word_120" attribute="TIME_REL" value="Now" />
+  <concept id="47" span="word_121..word_122" attribute="BUS" value="130" />
+  <concept id="48" span="word_123..word_125" attribute="SOURCE_STP" value="RelThatOne" />
+  <concept id="49" span="word_126..word_129" attribute="CROSSROADS" value="Szczęśliwicka CROSS Grzymały" />
+  <concept id="50" span="word_130..word_133" attribute="CROSSROADS" value="Szczęśliwicka CROSS Grzymały" />
+  <concept id="51" span="word_134" attribute="Q_CONF" value="IsIt" />
+  <concept id="52" span="word_136" attribute="REACTION" value="Confirmation" />
+  <concept id="53" span="word_140" attribute="REACTION" value="Negation" />
+  <concept id="54" span="word_141..word_142" attribute="BUS" value="130" />
+  <concept id="55" span="word_143" attribute="ACTION" value="Excuse" />
+  <concept id="56" span="word_147" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="57" span="word_149" attribute="PATH_STR" value="Aleje Jerozolimskie" />
+  <concept id="58" span="word_150" attribute="ACTION" value="Go" />
+  <concept id="59" span="word_153" attribute="REACTION" value="Confirmation" />
+  <concept id="60" span="word_155" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="61" span="word_156" attribute="ACTION" value="Go" />
+  <concept id="62" span="word_159" attribute="PATH_STR" value="Mszczonowska" />
+  <concept id="63" span="word_161" attribute="REACTION" value="Negation" />
+  <concept id="64" span="word_162" attribute="NUM_BUS_PART" value="100" />
+  <concept id="65" span="word_163..word_164" attribute="STOP_DESCRIPTION" value="Ośrodek Informatyki" />
+  <concept id="66" span="word_165..word_166" attribute="NUM_BUS_PART" value="36" />
+  <concept id="67" span="word_168" attribute="ACTION" value="ToBe" />
+  <concept id="68" span="word_171" attribute="ACTION" value="ToHave" />
+  <concept id="69" span="word_172" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="70" span="word_173" attribute="REACTION" value="Confirmation" />
+  <concept id="71" span="word_175..word_176" attribute="STOP_DESCRIPTION" value="Ośrodek Informatyki" />
+  <concept id="72" span="word_178" attribute="ACTION" value="Wish" />
+  <concept id="73" span="word_180" attribute="REACTION" value="Confirmation" />
+  <concept id="74" span="word_186" attribute="ACTION" value="ToHave" />
+  <concept id="75" span="word_188..word_190" attribute="AT_HOUR" value="18 : 58" />
+  <concept id="76" span="word_191" attribute="REACTION" value="Confirmation" />
+  <concept id="77" span="word_192..word_193" attribute="AT_HOUR" value="19 : 18" />
+  <concept id="78" span="word_194" attribute="REACTION" value="Confirmation" />
+  <concept id="79" span="word_195..word_196" attribute="AT_HOUR_MINPART" value="38" />
+  <concept id="80" span="word_197" attribute="REACTION" value="Negation" />
+  <concept id="81" span="word_198" attribute="REACTION" value="Negation" />
+  <concept id="82" span="word_203" attribute="Q_WHAT_TRM" value="General" />
+  <concept id="83" span="word_206" attribute="ACTION" value="ToBe" />
+  <concept id="84" span="word_207" attribute="BUS" value="niskopodłogowy" />
+  <concept id="85" span="word_211" attribute="REACTION" value="Confirmation" />
+  <concept id="86" span="word_212..word_213" attribute="AT_HOUR" value="19 : 18" />
+  <concept id="87" span="word_214" attribute="REACTION" value="Confirmation" />
+  <concept id="88" span="word_215" attribute="BUS" value="niskopodłogowy" />
+  <concept id="89" span="word_218" attribute="REACTION" value="Confirmation" />
+  <concept id="90" span="word_219..word_221" attribute="BUS" value="187" />
+  <concept id="91" span="word_222" attribute="ACTION" value="ToBe" />
+  <concept id="92" span="word_224" attribute="BUS" value="niskopodłogowy" />
+  <concept id="93" span="word_226..word_228" attribute="AT_HOUR" value="18 : 53" />
+  <concept id="94" span="word_230" attribute="ACTION" value="Give" />
+  <concept id="95" span="word_232..word_234" attribute="AT_HOUR" value="19 : 08" />
+  <concept id="96" span="word_238..word_240" attribute="BUS" value="187" />
+  <concept id="97" span="word_241" attribute="REACTION" value="Confirmation" />
+  <concept id="98" span="word_246" attribute="ACTION" value="Check" />
+  <concept id="99" span="word_247" attribute="Q_WHAT_TRM" value="General" />
+  <concept id="100" span="word_248" attribute="ACTION" value="ToBe" />
+  <concept id="101" span="word_249" attribute="BUS" value="niskopodłogowy" />
+  <concept id="102" span="word_253" attribute="ACTION" value="ToHave" />
+  <concept id="103" span="word_255" attribute="AT_HOUR_PART" value="18" />
+  <concept id="104" span="word_256" attribute="REACTION" value="Negation" />
+  <concept id="105" span="word_257" attribute="ACTION" value="ToHave" />
+  <concept id="106" span="word_258..word_260" attribute="AT_HOUR" value="19 : 08" />
+  <concept id="107" span="word_261" attribute="ACTION" value="ToBe" />
+  <concept id="108" span="word_262" attribute="BUS" value="niskopodłogowy" />
+  <concept id="109" span="word_263" attribute="REACTION" value="Confirmation" />
+  <concept id="110" span="word_264" attribute="BUS" value="niskopodłogowy" />
+  <concept id="111" span="word_267" attribute="ACTION" value="Request" />
+  <concept id="112" span="word_268" attribute="ACTION" value="ToAsk" />
+  <concept id="113" span="word_270..word_272" attribute="BUS" value="136" />
+  <concept id="114" span="word_274..word_276" attribute="SOURCE_STP" value="RelThatOne" />
+  <concept id="115" span="word_277..word_280" attribute="CROSSROADS" value="Szczęśliwicka CROSS Grzymały" />
+  <concept id="116" span="word_285" attribute="BUS" value="niskopodłogowy" />
+  <concept id="117" span="word_291" attribute="ACTION" value="ToHave" />
+  <concept id="118" span="word_293" attribute="BUS" value="niskopodłogowy" />
+  <concept id="119" span="word_295" attribute="ACTION" value="ToHave" />
+  <concept id="120" span="word_296" attribute="AT_HOUR_PART" value="18" />
+  <concept id="121" span="word_297" attribute="REACTION" value="Negation" />
+  <concept id="122" span="word_298" attribute="ACTION" value="ToHave" />
+  <concept id="123" span="word_299..word_301" attribute="AT_HOUR" value="19 : 35" />
+  <concept id="124" span="word_302..word_304" attribute="AT_HOUR" value="19 : 35" />
+  <concept id="125" span="word_305" attribute="REACTION" value="Confirmation" />
+  <concept id="126" span="word_309..word_310" attribute="CONV_FORM" value="BYE" />
+  <concept id="127" span="word_313..word_314" attribute="CONV_FORM" value="BYE" />
+</concepts>

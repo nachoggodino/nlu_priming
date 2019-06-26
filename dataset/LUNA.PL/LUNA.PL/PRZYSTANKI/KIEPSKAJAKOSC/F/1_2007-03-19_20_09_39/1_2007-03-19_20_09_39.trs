@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-19_20_09_39" version="3" version_date="070926">
+<Topics>
+<Topic id="to1" desc="female user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="19.999" topic="to1">
+<Turn startTime="0" endTime="0.633">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.633" endTime="2.423">
+<Sync time="0.633"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.423" endTime="12.138">
+<Sync time="2.423"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry proszę pana chciałam się dowiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z jakiego przystanku odjeżdża tramwaj numer dwadzieścia cztery czy to jest z Placu Zawiszy w kierunku Okopowej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.138" endTime="13.886">
+<Sync time="12.138"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak to jest ten przystanek
+</Turn>
+<Turn speaker="spk2" startTime="13.886" endTime="15.305">
+<Sync time="13.886"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.305" endTime="16.141">
+<Sync time="15.305"/>
+tak 
+<Event desc="babble" type="noise" extent="begin"/>
+ Plac Zawiszy 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.141" endTime="16.586">
+<Sync time="16.141"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+dzię
+<Event desc="~" type="lexical" extent="end"/>
+kuję bar
+<Event desc="~" type="lexical" extent="begin"/>
+dzo 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.586" endTime="17.753">
+<Sync time="16.586"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę bardzo 
+<Event desc="babble" type="noise" extent="end"/>
+ do widzenia
+</Turn>
+<Turn startTime="17.753" endTime="19.999">
+<Sync time="17.753"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

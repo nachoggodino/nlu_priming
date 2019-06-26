@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-13_13_25_22" version="2" version_date="070601">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="71.996" topic="to1">
+<Turn startTime="0" endTime="0.349">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.349" endTime="1.924">
+<Sync time="0.349"/>
+xxx dzień dobry <Event desc="noise" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="1.924" endTime="21.3">
+<Sync time="1.924"/>
+dzień dobry panu proszę pana mówię z Bródna chodzi mi o ulicę Rzemieślników lub Rzemieślniczą <Event desc="filler" type="lexical" extent="instantaneous"/> bo ja mam <Event desc="*" type="pronounce" extent="begin"/>planie<Event desc="*" type="pronounce" extent="end"/> Warszawy <Event desc="noise" type="noise" extent="begin"/> wie <Event desc="noise" type="noise" extent="end"/> pan Rzemieślnicza a mam bo tam jest serwis <Event desc="noise" type="noise" extent="begin"/> Mercedesa <Event desc="noise" type="noise" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> i nie wiem czy to jest Rzemieślnicza czy Rzemieślników <Event desc="babble" type="noise" extent="begin"/> jak dojechać <Event desc="babble" type="noise" extent="end"/><Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="21.3" endTime="23.666">
+<Sync time="21.3"/>
+jest Rzemieślników też ulica 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="23.666" endTime="23.935">
+<Sync time="23.666"/>
+<Who nb="1"/>
+jest <Event desc="?" type="lexical" extent="instantaneous"/>
+<Who nb="2"/>
+ale
+</Turn>
+<Turn speaker="spk1" startTime="23.935" endTime="26.541">
+<Sync time="23.935"/>
+ale czy tam jest serwis Mercedes to ja panu nie powiem
+</Turn>
+<Turn speaker="spk2" startTime="26.541" endTime="28.206">
+<Sync time="26.541"/>
+ale jest Rzemieślników ulica <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="28.206" endTime="30.781">
+<Sync time="28.206"/>
+Rzemieślników tak Targówek to jest
+</Turn>
+<Turn speaker="spk2" startTime="30.781" endTime="33.782">
+<Sync time="30.781"/>
+aha a jak dojechać na ten Rzemieślników
+</Turn>
+<Turn speaker="spk1" startTime="33.782" endTime="41.664">
+<Sync time="33.782"/>
+<Event desc="noise" type="noise" extent="begin"/> już sprawdzę chwileczkę <Event desc="noise" type="noise" extent="end"/> <Event desc="silence" type="noise" extent="instantaneous"/> z Bródna tam sto czterdzieści pięć jeździ
+</Turn>
+<Turn speaker="spk2" startTime="41.664" endTime="43.42">
+<Sync time="41.664"/>
+aha i dokąd trza dojechać <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="43.42" endTime="57.560">
+<Sync time="43.42"/>
+to trzeba by wysiąść na Łodygowej ty<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>ko zaraz sprawdzę jaki tam <Event desc="noise" type="noise" extent="begin"/> będzie przystanek <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/> trzeba by wysiąść przystanek Potulicka
+</Turn>
+<Turn speaker="spk2" startTime="57.560" endTime="58.515">
+<Sync time="57.560"/>
+Potulicka tak <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="58.515" endTime="61.72">
+<Sync time="58.515"/>
+i kawałek podejść do przodu albo Lewinowska może być przystanek
+</Turn>
+<Turn speaker="spk2" startTime="61.72" endTime="64.22">
+<Sync time="61.72"/>
+aha i w <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> i też kawałek do przodu <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="64.22" endTime="65.979">
+<Sync time="64.22"/>
+od Lewinowskiej do tyłu
+</Turn>
+<Turn speaker="spk2" startTime="65.979" endTime="67.646">
+<Sync time="65.979"/>
+aha od Potulickiej do przodu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="67.646" endTime="68.493">
+<Sync time="67.646"/>
+<Who nb="1"/>
+tak <Event desc="?" type="lexical" extent="instantaneous"/>
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="68.493" endTime="69.211">
+<Sync time="68.493"/>
+dobra dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="69.211" endTime="69.842">
+<Sync time="69.211"/>
+<Who nb="1"/>
+panu bardzo
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn startTime="69.842" endTime="71.996">
+<Sync time="69.842"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

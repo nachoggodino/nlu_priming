@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_21_04_41" version="4" version_date="070926">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="29.870" topic="to1">
+<Turn startTime="0" endTime="0.266">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.266" endTime="2.892">
+<Sync time="0.266"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobry wieczór xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.892" endTime="3.428">
+<Sync time="2.892"/>
+dobry wieczór 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3.428" endTime="4.229">
+<Sync time="3.428"/>
+<Who nb="1"/>
+proszę panią ja chciałem 
+<Who nb="2"/>
+dobry wieczór
+</Turn>
+<Turn speaker="spk2" startTime="4.229" endTime="10.326">
+<Sync time="4.229"/>
+się dowiedzieć o 
+<Event desc="*" type="pronounce" extent="begin"/>
+Szybką
+<Event desc="*" type="pronounce" extent="end"/>
+ Kolej Miejską z Pruszkowa 
+<Event desc="noise" type="noise" extent="begin"/>
+ jutro w sobotę
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.326" endTime="12.526">
+<Sync time="10.326"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Pruszkowa tak od której godziny 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="12.526" endTime="14.679">
+<Sync time="12.526"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ od godziny ósmej 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.679" endTime="18.413">
+<Sync time="14.679"/>
+od godziny ósmej 
+<Event desc="babble" type="noise" extent="begin"/>
+ dobrze proszę 
+<Event desc="babble" type="noise" extent="end"/>
+ pana to mamy tak ósma zero pięć
+</Turn>
+<Turn speaker="spk2" startTime="18.413" endTime="19.86">
+<Sync time="18.413"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="19.86" endTime="22.013">
+<Sync time="19.86"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ ósma czterdzieści dwie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="22.013" endTime="22.592">
+<Sync time="22.013"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="22.592" endTime="24.872">
+<Sync time="22.592"/>
+dziewiąta zero siedem
+</Turn>
+<Turn speaker="spk2" startTime="24.872" endTime="25.923">
+<Sync time="24.872"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze i wystarczy 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.923" endTime="26.68">
+<Sync time="25.923"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.68" endTime="27.151">
+<Sync time="26.68"/>
+dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="27.151" endTime="28.104">
+<Sync time="27.151"/>
+<Who nb="1"/>
+bardzo dobranoc
+<Who nb="2"/>
+dziękuję uprzejmie
+</Turn>
+<Turn speaker="spk1" startTime="28.104" endTime="28.189">
+<Sync time="28.104"/>
+dobrano
+<Event desc="~" type="lexical" extent="begin"/>
+c
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn startTime="28.189" endTime="29.870">
+<Sync time="28.189"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

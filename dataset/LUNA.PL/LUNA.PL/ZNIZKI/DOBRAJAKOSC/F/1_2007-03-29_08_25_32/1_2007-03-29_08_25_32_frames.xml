@@ -1,0 +1,52 @@
+<Frames>
+  <Set id="1" subset="1" span="word_23" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_26" concept_id="7" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="1" span="word_27" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_30" concept_id="9" name="TOPIC" />
+  </Set>
+  <Set id="3" subset="1" span="word_34" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_33" concept_id="11" name="BENEFICIARY" />
+    <Frame fe="2" span="word_35..word_36" concept_id="13" name="PRIVILEGE" />
+  </Set>
+  <Set id="4" subset="1" span="word_49" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_45" concept_id="16" name="BUYER" />
+    <Frame fe="2" span="word_50" concept_id="18" name="GOODS" />
+  </Set>
+  <Set id="5" subset="1" span="word_69" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_66..word_67" concept_id="22" name="PRIVILEGE" />
+    <Frame fe="2" span="word_73..word_74" concept_id="24" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="6" subset="1" span="word_87" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_82" concept_id="29" name="BENEFICIARY" />
+    <Frame fe="2" span="word_86" concept_id="31" name="PRIVILEGE" />
+    <Frame fe="3" span="word_88" concept_id="33" name="CIRCUMSTANCES" />
+    <Frame fe="4" span="word_90" concept_id="34" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="7" subset="1" span="word_92" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_95" concept_id="36" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="8" subset="1" span="word_103" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_106" concept_id="41" name="PRIVILEGE" />
+  </Set>
+  <Set id="9" subset="1" span="word_109" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_108" concept_id="42" name="OWNER" />
+    <Frame fe="2" span="word_111" concept_id="44" name="POSSESSION" />
+  </Set>
+  <Set id="10" subset="3" span="word_122" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_120" concept_id="48" name="BENEFICIARY" />
+    <Frame fe="2" span="word_125..word_126" concept_id="50" name="CIRCUMSTANCES" />
+    <Frame fe="3" span="word_127..word_129" concept_id="51" name="TITLE" />
+  </Set>
+  <Set id="11" subset="1" span="word_144" frame="BEING_IN_EFFECT" head="obowiązywać">
+    <Frame fe="1" span="word_141..word_143" concept_id="54" name="PLACE" />
+  </Set>
+  <Set id="12" subset="1" span="word_171" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_168" concept_id="62" name="SELF_MOVER" />
+    <Frame fe="2" span="word_172..word_174" concept_id="64" name="FREQUENCY" />
+  </Set>
+  <Set id="13" subset="1" span="word_178" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_181..word_183" concept_id="66" name="FREQUENCY" />
+    <Frame fe="2" span="word_185..word_187" concept_id="67" name="FREQUENCY" />
+  </Set>
+</Frames>

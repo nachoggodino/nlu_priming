@@ -1,0 +1,31 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_13" attribute="REACTION" value="Negation" />
+  <concept id="5" span="word_14" attribute="ACTION" value="Know" />
+  <concept id="6" span="word_15" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="7" span="word_22" attribute="ACTION" value="Concern" />
+  <concept id="8" span="word_25" attribute="PERSON" value="General" />
+  <concept id="9" span="word_27..word_28" attribute="ACTION" value="ToBeEntitled" />
+  <concept id="10" span="word_32..word_33" attribute="FARE" value="Free" />
+  <concept id="11" span="word_34" attribute="ACTION" value="End" />
+  <concept id="12" span="word_35..word_36" attribute="AGE" value="70" />
+  <concept id="13" span="word_37" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="14" span="word_39" attribute="ACTION" value="Concern" />
+  <concept id="15" span="word_40..word_41" attribute="LINE_TYPE" value="Urban" />
+  <concept id="16" span="word_44" attribute="LINE_TYPE" value="SubUrban" />
+  <concept id="17" span="word_47" attribute="LINE_TYPE" value="SubUrban" />
+  <concept id="18" span="word_52..word_53" attribute="TRANSP_INSTITUTION" value="Zarząd Transportu Miejskiego" />
+  <concept id="19" span="word_56" attribute="LINE_TYPE" value="SubUrban" />
+  <concept id="20" span="word_60" attribute="LINE_TYPE" value="SubUrban" />
+  <concept id="21" span="word_62" attribute="LINE_TYPE" value="SubUrban" />
+  <concept id="22" span="word_63" attribute="REACTION" value="Confirmation" />
+  <concept id="23" span="word_64" attribute="REACTION" value="Confirmation" />
+  <concept id="24" span="word_65" attribute="REACTION" value="Confirmation" />
+  <concept id="25" span="word_66" attribute="REACTION" value="Confirmation" />
+  <concept id="26" span="word_67..word_68" attribute="REACTION" value="Confirmation" />
+  <concept id="27" span="word_69" attribute="REACTION" value="Confirmation" />
+  <concept id="28" span="word_75..word_76" attribute="CONV_FORM" value="BYE" />
+  <concept id="29" span="word_77..word_78" attribute="CONV_FORM" value="BYE" />
+</concepts>

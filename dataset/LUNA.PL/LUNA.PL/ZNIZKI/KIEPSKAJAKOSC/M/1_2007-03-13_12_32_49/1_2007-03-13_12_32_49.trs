@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-13_12_32_49" version="2" version_date="071001">
+<Topics>
+<Topic id="to1" desc="male user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="42.497" topic="to1">
+<Turn startTime="0" endTime="0.958">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.958" endTime="3.978">
+<Sync time="0.958"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="3.978" endTime="14.269">
+<Sync time="3.978"/>
+ <Event desc="noise" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="*" type="pronounce" extent="begin"/>dzień dobry<Event desc="*" type="pronounce" extent="end"/> ja mam pytanie ja chcia<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>em się dowiedzieć <Event desc="filler" type="lexical" extent="instantaneous"/> czy <Event desc="SPELLED" type="pronounce" extent="begin"/>M Z K<Event desc="SPELLED" type="pronounce" extent="end"/> toleruje dalej <Event desc="filler" type="lexical" extent="instantaneous"/> honorowych dawców krwi czy trzeba <Event desc="*" type="pronounce" extent="begin"/>kupować<Event desc="*" type="pronounce" extent="end"/> bilety <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="14.269" endTime="17.427">
+<Sync time="14.269"/>
+nie <Event desc="noise" type="noise" extent="begin"/> nie trza <Event desc="*" type="pronounce" extent="begin"/>kupować<Event desc="*" type="pronounce" extent="end"/> ty<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>ko trza mieć wpis w legi<Event desc="~" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="17.427" endTime="20.004">
+<Sync time="17.427"/>
+ <Event desc="noise" type="noise" extent="begin"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> przy sobie legitymację albo coś takiego <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="20.004" endTime="24.590">
+<Sync time="20.004"/>
+tak ale musi być wpis że oddał pan <Event desc="noise" type="noise" extent="begin"/> honorowo <Event desc="noise" type="noise" extent="end"/> osiemnaście litrów krwi <Event desc="babble" type="noise" extent="begin"/> bo tyle jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> dla mężczyzn <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="24.590" endTime="26.463">
+<Sync time="24.590"/>
+<Event desc="noise" type="noise" extent="begin"/> akurat mam tak nie <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="26.463" endTime="28.647">
+<Sync time="26.463"/>
+jest wpis osiemnaście litrów krwi <Event desc="babble" type="noise" extent="begin"/> honorowo ta<Event desc="~" type="lexical" extent="begin"/>k<Event desc="~" type="lexical" extent="end"/> <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="28.647" endTime="30.557">
+<Sync time="28.647"/>
+czy wpis no<Event desc="int" type="noise" extent="previous"/>
+</Turn>
+<Turn speaker="spk1" startTime="30.557" endTime="37.463">
+<Sync time="30.557"/>
+bo tam nie <Event desc="babble" type="noise" extent="begin"/> ma podziału <Event desc="babble" type="noise" extent="end"/> teraz na pierwszego stopnia krwiodawcę drugiego ty<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>ko musi być wpisane osiemnaście litrów krwi <Event desc="babble" type="noise" extent="begin"/> pełnej <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="37.463" endTime="39.098">
+<Sync time="37.463"/>
+ <Event desc="noise" type="noise" extent="begin"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> litrów no to dziękuję <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="39.098" endTime="39.945">
+<Sync time="39.098"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="39.945" endTime="40.833">
+<Sync time="39.945"/>
+<Event desc="noise" type="noise" extent="begin"/> do widzenia <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="40.833" endTime="42.497">
+<Sync time="40.833"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

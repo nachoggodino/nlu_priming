@@ -1,0 +1,1593 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<annotations version="2.0">
+	<group name="chunks" level="1">
+		<annotations>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="ACRON"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="ADJP"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="ADV"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="CC"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="ITJ"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="NP"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="NP_PRON"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="NUM"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="NUMD"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="PART"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="PARTICP"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="PINT"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="PN"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="PP"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="PREF"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="PREL"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="VA"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="VP"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="VP_INF"/>
+			<annotation priority="95" color="Violet" bgcolor="Moccasin" name="VP_S"/>
+		</annotations>
+	</group>
+	<group name="attvalue" level="2">
+		<annotations>
+		<annotation priority="90" color="Tan" name="ACTION">
+			<attribute name="value" type="string">
+			<value>Approach</value>
+			<value>Authorize</value>
+			<value>BeCalled</value>
+			<value>BeEntitled</value>
+			<value>BeInTime</value>
+			<value>BeLate</value>
+			<value>Benefit</value>
+			<value>ByPass</value>
+			<value>Change</value> 
+			<value>Check</value> 
+			<value>Come</value>
+			<value>Concern</value>
+			<value>Cross</value>
+			<value>Donate</value> 
+			<value>End</value>
+			<value>Excuse</value> 
+			<value>Get</value> 
+			<value>GetIn</value> 
+			<value>GetOut</value>
+			<value>Give</value> 
+			<value>Go</value> 
+			<value>GoBack</value>
+			<value>GoDown</value> 
+			<value>GoIn</value>
+			<value>GoOut</value>
+			<value>GoUp</value>
+			<value>Inform</value>
+  			<value>Know</value>
+  			<value>Last</value>  
+			<value>Leave</value> 
+			<value>Live</value> 
+  			<value>Move</value> 
+			<value>Need</value> 
+			<value>Request</value>
+			<value>Receive</value>
+  			<value>Select</value>
+  			<value>Send</value>
+  			<value>Stop</value>     
+			<value>Succeed</value>
+  			<value>Suggest</value>  
+			<value>Tell</value>
+			<value>Think</value> 
+			<value>ToAsk</value>
+			<value>ToBe</value>
+  			<value>ToBeEntitled</value>     
+			<value>ToBegin</value>
+  			<value>ToBeInForce</value>  
+			<value>ToBuy</value>
+  			<value>ToCarry</value>  
+			<value>ToChange</value>
+			<value>ToEnd</value> 
+  			<value>ToFit</value>
+  			<value>ToForget</value>     
+			<value>ToFunction</value>
+			<value>ToHave</value>  
+			<value>ToPass</value> 
+			<value>ToPay</value> 
+			<value>ToRun</value> 
+			<value>ToSee</value> 
+			<value>ToStart</value> 
+			<value>ToStop</value> 
+			<value>ToTurn</value> 
+			<value>Transfer</value>
+  			<value>Travel</value>  
+			<value>Turn</value> 
+			<value>Wait</value>
+  			<value>Wish</value>  
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="ACTION_PLANNED">
+			<attribute name="value" type="string">
+			<value>Connect</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="ACTION_REQUIRED">
+			<attribute name="value" type="string">
+			<value>Connect</value> 
+			<value>Wait</value> 
+			<value>Repeat</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="AFTER_HOUR">
+			<attribute name="value" type="string">
+			<value>10 : 00</value> 
+			<value>12 : 30</value> 
+			<value>6 : 00 am</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="AGE">
+			<attribute name="value" type="string">
+			<value>General</value>
+			<value>7</value>
+			<value>Above7</value>
+			<value>Below7</value>
+			<value>Below21</value>
+			<value>26</value>
+			<value>Above26</value>
+			<value>Below26</value>
+			<value>Above65</value>
+			<value>70</value>
+			<value>Above70</value>
+			<value>Below70</value>
+			<value>SchoolAge</value>
+			<value>Irrelevant</value>
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="AGE_REL">
+			<attribute name="value" type="string">
+			<value>SchoolClass0</value>
+			<value>SchoolClass1</value>
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="AREA">
+			<attribute name="value" type="string">
+			<value>Cmentarz Wolski</value> 
+			<value>Lasek Bielański</value> 
+			<value>Park Żeromskiego</value> 
+			<value>SubUrban</value> 
+			<value>Urban</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="AROUND_HOUR">
+			<attribute name="value" type="string">
+			<value>13 : 00</value> 
+			<value>7 : 00 am</value> 
+			<value>10 : 45</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="ARRIVAL">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Needed</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="AT_HOUR">
+			<attribute name="value" type="string">
+			<value>10 : 00</value> 
+			<value>10 : 45</value> 
+			<value>10 : 04</value> 
+			<value>10 : something</value> 
+			<value>6 : 00 am</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="AT_HOUR_MINPART">
+			<attribute name="value" type="string">
+			<value>10</value> 
+			<value>33</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="AT_HOUR_PART">
+			<attribute name="value" type="string">
+			<value>10</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="BEFORE_HOUR">
+			<attribute name="value" type="string">
+			<value>10 : 00</value> 
+			<value>22 : 17</value> 
+			<value>5 : 00 am</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="BUILDING">
+			<attribute name="value" type="string">
+			<value>Domy Centrum</value> 
+			<value>Fort Wola</value> 
+			<value>Hala Marymoncka</value> 
+			<value>Hospital</value> 
+			<value>Hotel Bristol</value> 
+			<value>Instytut Meteorologii</value> 
+			<value>Klub Sportowy Polonia</value> 
+			<value>Sala Kongresowa</value> 
+			<value>ShopingCenter</value> 
+			<value>Stacja Krwiodawstwa</value> 
+			<value>Teatr Komedia</value> 
+			<value>Złote Tarasy</value> 
+			<value>dom towarowy</value> 
+			<value>centrum handlowe</value> 
+			<value>kościół seminarzystów</value> 
+			<value>kościół Świętej Anny</value> 
+			<value>bazarek Wolumen</value> 
+			<value>bazar Różyckiego</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="BUILDING_PART">
+			<attribute name="value" type="string">
+			<value>Entry</value> 
+			<value>Exit</value> 
+			<value>Lift</value> 								<value>Platform</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="BUS">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>E 2</value> 
+			<value>116</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="BUS_REL">
+			<attribute name="value" type="string">
+			<value>AnyBus</value> 
+			<value>ThisBus</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="COMMAND_CHOOSE">
+			<attribute name="value" type="string">
+			<value>OPERATOR</value> 
+			<value>OPTION</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="COMMAND_GIVE">
+			<attribute name="value" type="string">
+			<value>DIRECTION</value> 
+			<value>HOUR</value> 
+			<value>DEPARTURE_TIME</value> 
+			<value>STOP_NAME</value> 
+			<value>GOAL</value> 
+			<value>GOAL_STOP</value> 
+			<value>GOAL_STREET</value> 
+			<value>SOURCE</value> 
+			<value>SOURCE_STOP</value> 
+			<value>SOURCE_STREET</value> 
+			<value>STREET_NUMBER</value>
+			<value>LINE_NUMBER</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="CONJUNCTION">
+			<attribute name="value" type="string">
+			<value>Alternative</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="CONNECTION_F">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Best</value> 
+			<value>Bus</value>   
+			<value>Direct</value> 
+			<value>Direct_Bus</value> 
+			<value>Good</value> 
+			<value>Longest</value> 
+			<value>No</value>  
+			<value>No_Direct</value> 
+			<value>Quicker</value>  
+			<value>Shortest</value>
+			<value>Simplest</value>
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="CONV_FORM">
+			<attribute name="value" type="string">
+			<value>BYE</value> 
+			<value>HELLO</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="COUNTRY">
+			<attribute name="value" type="string">
+			<value>Ameryka</value> 
+			<value>Polska</value>
+ 			<value>Ukraina</value>
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="CROSSROADS">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Korotyńskiego CROSS Pawińskiego</value> 
+			<value>CROSS Wałbrzyska</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DATE">
+			<attribute name="value" type="string">
+			<value>1.09</value> 
+			<value>wrzesień</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DATE_BEG">
+			<attribute name="value" type="string">
+			<value>31.08</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DATE_END">
+			<attribute name="value" type="string">
+			<value>1.09</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DATE_BEG_REL">
+			<attribute name="value" type="string">
+			<value>Tomorrow</value>
+			<value>Birthday</value>  
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DATE_END_REL">
+			<attribute name="value" type="string">
+			<value>EndOfHolidays</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DAYTIME_PERIOD_BEG">
+			<attribute name="value" type="string">
+			<value>10 : 00</value> 
+			<value>12 : 30</value> 
+			<value>9 : 00 am</value>
+			<value>11 : something</value>  
+			<value>Now</value> 
+			<value>Tomorrow</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DAYTIME_PERIOD_END">
+			<attribute name="value" type="string">
+			<value>12 : 00</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DAYTIME_PERIOD_SPAN">
+			<attribute name="value" type="string">
+			<value>13 : 00 - 15 : 00</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DEPARTURE">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Earlier</value> 
+			<value>First</value>
+			<value>First Bus</value>  
+			<value>First Tram</value>  
+			<value>Last</value> 
+			<value>Nearest</value> 
+			<value>Next</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DIRECTION">
+			<attribute name="value" type="string">
+			<value>Backwards</value> 
+			<value>Downwards</value>  
+			<value>Forward</value> 
+			<value>Left</value>  
+			<value>Opposite</value> 
+			<value>Right</value>
+			<value>Upwards</value> 
+			<value>Both</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DISCOUNT_TITLE">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>BloodDonation</value> 
+			<value>Disability</value> 
+			<value>SevereDisability</value> 
+			<value>SlightDisability</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DISTANCE">
+			<attribute name="value" type="string">
+			<value>400 m</value> 
+			<value>100 - 200 m</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DISTANCE_REL">
+			<attribute name="value" type="string">
+			<value>General</value>
+			<value>Long</value>  
+			<value>Short</value> 
+			<value>Further</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DOCUMENT">
+			<attribute name="value" type="string">
+			<value>BloodDonorCard</value> 
+			<value>Card</value> 
+			<value>IdentityCard</value> 
+			<value>SoldierCard</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="DOCUMENT_DISCOUNT_TITLE">
+			<attribute name="value" type="string">
+			<value>Card</value> 
+			<value>IdentityCard</value> 
+			<value>MedCertificate</value> 
+			<value>RetirementCard</value> 
+			<value>StudentCard</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="EDUC">
+			<attribute name="value" type="string">
+			<value>PrimarySchool</value> 
+			<value>SecondarySchool</value> 
+			<value>VocCollege</value> 
+			<value>Stud</value> 
+			<value>Stud_1stDegree</value> 
+			<value>Stud_2ndDegree</value> 
+			<value>StudD</value>  
+			<value>StudZ</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="EXCLAMATION">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="FARE">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Discount</value> 
+			<value>Discount48proc</value> 
+			<value>Discount50proc</value> 
+			<value>DiscountStud</value> 
+			<value>Free</value> 
+			<value>NoDiscount</value> 
+			<value>Normal</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_AREA">
+			<attribute name="value" type="string">
+			<value>Cmentarz Wolski</value> 
+			<value>Lasek Bielański</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_BLD">
+			<attribute name="value" type="string">
+			<value>Galeria Mokotów</value> 
+			<value>Hospital</value> 
+			<value>Szpital Wolski</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_BLDP">
+			<attribute name="value" type="string">
+			<value>Entry</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_CROSSROADS">
+			<attribute name="value" type="string">
+			<value>General</value>
+			<value>RelThatOne</value> 
+			<value>Hynka CROSS Słowicza</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_DIRECTION">
+			<attribute name="value" type="string">
+			<value>East</value> 
+			<value>RelThatOne</value> 
+			<value>TheSame</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_DIRECTION_AREA">
+			<attribute name="value" type="string">
+			<value>Cmentarz Wolski</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_DIRECTION_BLD">
+			<attribute name="value" type="string"/>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_DIRECTION_RS">
+			<attribute name="value" type="string">
+			<value>Dworzec Centralny</value> 
+			<value>Dworzec Wschodni</value> 
+			<value>Dworzec Zachodni</value> 
+			<value>RailwayStation</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_DIRECTION_STP">
+			<attribute name="value" type="string">
+			<value>LAST</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_DIRECTION_STR">
+			<attribute name="value" type="string">
+			<value>Aleje Jerozolimskie</value> 
+			<value>Ciupagi</value> 
+			<value>Górczewska</value> 
+			<value>Plac Unii Lubelskiej</value> 
+			<value>Rondo Wiatraczna</value> 
+			<value>Trakt Brzeski</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_DIRECTION_TD">
+			<attribute name="value" type="string">
+			<value>Nowe Włochy</value> 
+			<value>Osiedle Górczewska</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_DIRECTION_TOWN">
+			<attribute name="value" type="string"/>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_NEAR_BLD">
+			<attribute name="value" type="string">
+			<value>Blue City</value>
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_NEAR_STP">
+			<attribute name="value" type="string">
+			<value>General</value>
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_NEAR_STR">
+			<attribute name="value" type="string">
+			<value>Astronautów</value>
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_NEAR_TD">
+			<attribute name="value" type="string">
+			<value>Bielany</value>
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_REL">
+			<attribute name="value" type="string">
+			<value>Nearby</value>
+			<value>SameStop</value> 
+			<value>There</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_RS">
+			<attribute name="value" type="string">
+			<value>Dworzec Centralny</value> 
+			<value>Dworzec Zachodni</value> 
+			<value>Dworzec Śródmieście</value> 
+			<value>RailwayStation</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_STP">
+			<attribute name="value" type="string">
+			<value>General</value>
+			<value>RelThatOne</value> 
+			<value>Banacha</value> 
+			<value>Bielany</value> 
+			<value>Dworkowa</value> 
+			<value>Dworzec Wileński</value> 
+			<value>Fort Wola</value> 
+			<value>LAST</value> 
+			<value>LAST Dworzec Wschodni Lubelski</value> 
+			<value>NEAR Cepelia</value> 
+			<value>MetroStationGeneral</value> 
+			<value>RailStationGeneral</value> 
+			</attribute>
+		</annotation>
+			<annotation priority="90" color="Tan" name="GOAL_STR">
+			<attribute name="value" type="string">
+			<value>RelThatOne</value> 
+			<value>Aleje Jerozolimskie</value> 
+			<value>Górczewska</value> 
+			<value>Krasińskiego</value> 
+			<value>Plac Na Rozdrożu</value> 
+			<value>OPPSIDE Puławska</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_STREET_NUMB">
+			<attribute name="value" type="string">
+			<value>13</value>
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_TD">
+			<attribute name="value" type="string">
+			<value>General</value>
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="GOAL_TOWN">
+			<attribute name="value" type="string">
+			<value>Ożarów Mazowiecki</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="INFORMATION">
+			<attribute name="value" type="string">
+			<value>OPERATOR</value> 
+			<value>OPTIONS</value> 
+			<value>SOURCE_SEARCH</value> 
+			<value>GOAL_SEARCH</value> 
+			<value>GOAL/SOURCE_SEARCH</value> 
+			<value>ROUTE_SEARCH</value> 
+			<value>DEPARTURE_SEARCH</value> 
+			<value>FARE_PolishStudents</value> 
+			<value>FARE_ForeignStudents</value> 
+			<value>FARE_PhDStudents</value> 
+			<value>FARE_Pensioner</value> 
+			<value>FARE_AgeAbove70</value> 
+			<value>FARE_Child</value> 
+			<value>FARE_SchoolAgeChild</value> 
+			<value>FARE_Disabled</value> 
+			<value>FARE_Carer</value> 
+			<value>FARE_BloodDonors</value> 
+			<value>FARE_Unemployed</value> 
+			<value>FARE_Functionary</value> 
+			<value>FARE_NoDiscount</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="INF_YESNO">
+			<attribute name="value" type="string">
+			<value>NotExist</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="INSTITUTION">
+			<attribute name="value" type="string">
+			<value>ZUS</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="IN_X_HOURS">
+			<attribute name="value" type="string">
+			<value>1 godz</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="IN_X_MINUTES">
+			<attribute name="value" type="string">
+			<value>40 min</value> 
+			<value>0-60 min</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LINE_TYPE">
+			<attribute name="value" type="string">
+			<value>Night</value> 
+			<value>Normal</value>
+			<value>PeakHours</value> 
+			<value>Quick</value> 
+			<value>SubUrban</value> 
+			<value>Urban</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_AFTER_AREA">
+			<attribute name="value" type="string">
+			<value>Wisła</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_AFTER_BLD">
+			<attribute name="value" type="string">
+			<value>Hala Marymoncka</value> 
+			<value>kościół Świętej Anny</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_AFTER_RS">
+			<attribute name="value" type="string">
+			<value>Dworzec Zachodni</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_AFTER_STP">
+			<attribute name="value" type="string">
+			<value>Siekierki Sanktuarium</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_AFTER_STR">
+			<attribute name="value" type="string">
+			<value>Krasińskiego</value> 
+			<value>Plac Wilsona</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_AREA">
+			<attribute name="value" type="string">
+			<value>Cmentarz Wolski</value> 
+			<value>Park Żeromskiego</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_BEFORE_AREA">
+			<attribute name="value" type="string">
+			<value>Wisła</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_BEFORE_BLD">
+			<attribute name="value" type="string">
+			<value>kościół Świętej Anny</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_BEFORE_CROSS">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_BEFORE_RS">
+			<attribute name="value" type="string">
+			<value>Dworzec Centralny</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_BEFORE_STP">
+			<attribute name="value" type="string">
+			<value>LAST</value> 
+			<value>RelThatOne</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_BEFORE_STR">
+			<attribute name="value" type="string">
+			<value>Chałubińskiego</value> 
+			<value>Plac Krasińskiego</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_BEFORE_TOWN">
+			<attribute name="value" type="string">
+			<value>Otwock</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_BETW_BLD_RS">
+			<attribute name="value" type="string">
+			<value>Złote Tarasy and RailwayStation</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_BETW_BLD_STR">
+			<attribute name="value" type="string">
+			<value>kościół Świętego Krzyża and Nowy Świat</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_BETW_STP">
+			<attribute name="value" type="string">
+			<value>Metro Natolin AND Metro Imielin</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_BETW_STR">
+			<attribute name="value" type="string">
+			<value>Żelazna and Towarowa</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_BLD">
+			<attribute name="value" type="string">
+			<value>Hospital</value> 
+			<value>Sala Kongresowa</value> 
+			<value>School</value> 
+			<value>Stadion Legii</value> 
+			<value>Złote Tarasy</value> 
+			<value>bazarek Wolumen</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_CROSSROADS">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>RelThatOne</value> 
+			<value>TheSame</value> 
+			<value>CROSS Aleje Ujazdowskie</value> 
+			<value>Książęca CROSS  Rozbrat</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_NEAR_BLD">
+			<attribute name="value" type="string">
+			<value>Sala Kongresowa</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_NEAR_RS">
+			<attribute name="value" type="string">
+			<value>Dworzec Centralny</value> 
+			<value>RailwayStation</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_NEAR_STP">
+			<attribute name="value" type="string">
+			<value>LAST Górczewska</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_NEAR_STR">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Emilii Plater</value> 
+			<value>Grójecka</value> 
+			<value>Plac Narutowicza</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_NEAR_TD">
+			<attribute name="value" type="string">
+			<value>Centrum</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_NEAR_TOWN">
+			<attribute name="value" type="string"/>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_REL">
+			<attribute name="value" type="string">
+			<value>AtTheBottom</value> 
+			<value>AtTheTop</value> 
+			<value>Before Turn</value> 
+			<value>Behind Turn</value> 
+			<value>LeftSide</value> 
+			<value>Nearby</value> 
+			<value>NextStop</value> 
+			<value>Opposite</value> 
+			<value>Parallel</value>  
+			<value>RightSide</value> 
+			<value>SamePlace</value> 
+			<value>SameSide</value> 
+			<value>SameStop</value> 
+			<value>There</value> 
+			<value>TooFar</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_RS">
+			<attribute name="value" type="string">
+			<value>Dworzec Centralny</value> 
+			<value>Dworzec Zachodni</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_STP">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>RelThatOne</value> 
+			<value>Banacha</value> 
+			<value>Celichowska</value> 
+			<value>LAST Gocławek</value> 
+			<value>Metro Świętokrzyska</value> 
+			<value>MetroStationGeneral</value> 
+			<value>RailStationGeneral</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_STR">
+			<attribute name="value" type="string">
+			<value>Aleje Jerozolimskie</value> 
+			<value>Andersa</value> 
+			<value>Bonifraterska</value> 
+			<value>Most Poniatowski</value> 
+			<value>Plac Zamkowy</value> 
+			<value>Trasa Łazienkowska</value> 
+			<value>Wał Miedzeszyński</value> 
+			<value>Wisłostrada</value> 
+			<value>OPPSIDE Okopowa</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_TD">
+			<attribute name="value" type="string">
+			<value>Dolny Mokotów</value> 
+			<value>Przyczółek Grochowski</value> 
+			<value>Stara Miłosna</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOCATION_TOWN">
+			<attribute name="value" type="string"/>
+		</annotation>
+		<annotation priority="90" color="Tan" name="LOC_TIME_REL">
+			<attribute name="value" type="string">
+			<value>BETWEEN</value> 
+			<value>Somewhere</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="MEANS_OF_TRANSPORT">
+			<attribute name="value" type="string">
+			<value>General</value>
+			</attribute>
+		</annotation>
+ 		<annotation priority="90" color="Tan" name="METRO">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="MINUTE">
+			<attribute name="value" type="string">
+			<value>9 min</value> 
+			<value>43 min</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="NAME">
+			<attribute name="value" type="string"/>
+		</annotation>
+		<annotation priority="90" color="Tan" name="NUMB">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>17</value> 
+			<value>Both</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="NUMB_PERCENT">
+			<attribute name="value" type="string">
+			<value>48 proc</value> 
+			<value>100 proc</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="NUMB_SEQ">
+			<attribute name="value" type="string">
+			<value>1.</value>
+			<value>4.</value> 
+			<value>ostatni</value> 
+			<value>przedostatni</value>  
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="NUMB_VOLUME">
+			<attribute name="value" type="string">
+			<value>18</value> 
+			<value>15</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="NUM_BUS_PART">
+			<attribute name="value" type="string">
+			<value>17</value> 
+			<value>83</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="NUM_TRAM_PART">
+			<attribute name="value" type="string">
+			<value>5</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="OBJECT">
+			<attribute name="value" type="string">
+			<value>Cart</value> 
+			<value>ChildCart</value> 
+			<value>Luggage</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="OPTION">
+			<attribute name="value" type="string">
+			<value>Route</value> 
+			<value>DepartureTime</value> 
+			<value>Timetable</value> 
+			<value>Complaint</value> 
+			<value>DiscountRegulations</value> 
+			<value>LostLuggage</value> 
+			<value>OtherInformation</value> 
+			<value>PreviousOptions</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="OPTION_DEPARTURE">
+			<attribute name="value" type="string">
+			<value>Nearest</value> 
+			<value>AtHour</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="OPTION_ROUTE">
+			<attribute name="value" type="string">
+			<value>Street</value> 
+			<value>Stop</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="OPTION_ROUTESPEC">
+			<attribute name="value" type="string">
+			<value>Address</value> 
+			<value>StopName</value> 
+			<value>Crossroads</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="PATH_AREA">
+			<attribute name="value" type="string">
+			<value>Pola Mokotowskie</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="PATH_STP">
+			<attribute name="value" type="string">
+			<value>RelThatOne</value> 
+			<value>Plac Wilsona</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="PATH_STR">
+			<attribute name="value" type="string">
+			<value>RelThatOne</value> 
+			<value>Aleje Jerozolimskie</value> 
+			<value>Czerniakowska</value> 
+			<value>Mickiewicza</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="PATH_TD">
+			<attribute name="value" type="string">
+			<value>Osiedle Ostrobramski</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="PATH_TOWN">
+			<attribute name="value" type="string">
+			<value>Wesoła</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="PENSION">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="PERSON">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>BloodDonor</value> 
+			<value>Carer</value> 
+			<value>Child</value> 
+			<value>Disabled</value>
+			<value>BadlyDisabled</value>
+ 			<value>SlightlyDisabled</value>
+			<value>Foreigner</value> 
+			<value>ForeignStudent</value>
+			<value>Functionary</value> 
+			<value>Pensioner</value> 
+			<value>PolishStudent</value> 
+			<value>Pupil</value>
+			<value>SchoolAgeChild</value>
+ 			<value>Soldier</value> 
+			<value>Student</value> 
+			<value>Stud_PhD</value> 
+			<value>Teacher</value>
+ 			<value>Unemployed</value>
+			<value>UniformedSoldier</value>
+			<value>Veteran</value>
+			<value>OtherPerson</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="PERSON_NAME">
+			<attribute name="value" type="string">
+			<value>xxx</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="PRICE">
+			<attribute name="value" type="string">
+			<value>2,5</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="PUBLIC_TRANSPORT">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>TranspMean</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_BEGINNING_OF_PERIOD">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Trip</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_CONF">
+			<attribute name="value" type="string">
+			<value>Connection</value> 
+			<value>IsIt</value> 
+			<value>Route</value>
+			<value>YesNoQuestion</value>
+			<value>RepeatInformation</value>
+			<value>OtherInformation</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_DEPARTURE">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Earlier</value> 
+			<value>First</value> 
+			<value>Last</value> 
+			<value>Later</value> 
+			<value>Nearest</value> 
+			<value>Needed</value> 
+			<value>Next</value>
+			<value>Return</value> 
+			<value>AtHour</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_END_OF_PERIOD">
+			<attribute name="value" type="string">
+			<value>Trip</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_FARE">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>DOCUMENT_TITLE</value> 
+			<value>PAY_OBJECT ChildCart</value> 
+			<value>WHEN</value>
+			<value>WhenDiscount</value> 
+			<value>WHENFREE</value> 
+			<value>WHO</value>
+			<value>Age 26</value>
+			<value>Age 7</value> 
+			<value>Age 70</value> 
+			<value>BloodDonation</value> 
+			<value>Disability</value>
+			<value>SchoolAgeChild</value> 
+			<value>Student</value>
+			<value>Unemployed</value> 
+			<value>Person</value> 
+			<value>AGE</value> 
+			<value>EntitledToBenefit</value>    
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_HOW_FAR">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_HOW_LONG">
+			<attribute name="value" type="string">
+			<value>RideTime</value> 
+			<value>WalkTime</value> 
+			<value>General</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_HOW_MANY">
+			<attribute name="value" type="string">
+			<value>Number</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_HOW_OFTEN">
+			<attribute name="value" type="string">
+			<value>Departure</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_HOW_TO">
+			<attribute name="value" type="string">
+			<value>Reach</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_LINE">
+			<attribute name="value" type="string">
+			<value>General</value>
+			<value>autobus</value> 
+			<value>tramwaj</value>  
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_PERSONAL">
+			<attribute name="value" type="string">
+			<value>AGE</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_ROUTE">
+			<attribute name="value" type="string">
+			<value>Direction</value> 
+			<value>HowManyStops</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_WHAT_BLD">
+			<attribute name="value" type="string">
+			<value>Hospital</value> 
+			<value>ShoppingCenter</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_WHAT_CONNECTION">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_WHAT_NUMB">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_WHAT_ROUTE">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_WHAT_STP">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Last</value> 
+			<value>MetroStation</value> 
+			<value>Next</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_WHAT_STR">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_WHAT_STREET_NUMB">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_WHAT_TD">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_WHAT_TIME">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Trip</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_WHAT_TRM">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Bus</value> 
+			<value>Tram</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="Q_WHERE">
+			<attribute name="value" type="string">
+			<value>LOCATION</value> 
+			<value>NextStop</value> 
+			<value>Street Zwierzyniecka</value> 
+			<value>TransMeanStop</value> 
+			<value>TripEndPoint</value> 
+			<value>TripStartPoint</value>
+			<value>TRMEndPoint</value>  
+			<value>TRMStartPoint</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="RAILWAY_STATION">
+			<attribute name="value" type="string">
+			<value>Dworzec Centralny</value> 
+			<value>Dworzec Wileński</value> 
+			<value>Dworzec Wschodni</value> 
+			<value>RailwayStation</value> 
+			<value>Warszawa Ochota</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="REACTION">
+			<attribute name="value" type="string">
+			<value>Confirmation</value> 
+			<value>Negation</value> 
+			<value>Irrelevant</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="RIDE_DURATION">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="RIDE_DURATION_H">
+			<attribute name="value" type="string">
+			<value>1</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="RIDE_DURATION_M">
+			<attribute name="value" type="string">
+			<value>40</value> 
+			<value>20 - 25</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="RIDE_DURATION_REL">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>LongTime</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="ROAD_DISTURBANCE">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Detour</value> 
+			<value>Reconstruction</value> 
+			<value>TraficJam</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="ROUTE">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>OnePass</value> 
+			<value>PASSAGE</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="ROUTE_CHANGE">
+			<attribute name="value" type="string">
+			<value>No</value> 
+			<value>Yes</value> 
+			<value>Temporarily</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="ROUTE_COMP">
+			<attribute name="value" type="string">
+			<value>Identical</value> 
+			<value>Different</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="ROUTE_DIR">
+			<attribute name="value" type="string">
+			<value>Left</value> 
+			<value>Right</value> 
+			<value>Straight</value> 
+			<value>TheSame</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="ROUTE_ELEM">
+			<attribute name="value" type="string">
+			<value>Turn</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="ROUTE_LENGTH">
+			<attribute name="value" type="string">
+			<value>2 STOPS</value> 
+			<value>Several STOPS</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SKM">
+			<attribute name="value" type="string">
+			<value>SKM</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_AREA">
+			<attribute name="value" type="string">
+			<value>Cmentarz Wolski</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_BLD">
+			<attribute name="value" type="string">
+			<value>Hotel Marriott</value> 
+			<value>kościół seminarzystów</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_BLDP">
+			<attribute name="value" type="string">
+			<value>Entry</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_CROSSROADS">
+			<attribute name="value" type="string">
+			<value>RelThatOne</value> 
+			<value>CROSS  Aleje Ujazdowskie</value> 
+			<value>Książęca CROSS  Rozbrat</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_DIRECTION">
+			<attribute name="value" type="string">
+			<value>RelThatOne</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_DIRECTION_AREA">
+			<attribute name="value" type="string">
+			<value>cmentarz</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_DIRECTION_BLD">
+			<attribute name="value" type="string">
+			<value>kościół</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_DIRECTION_STP">
+			<attribute name="value" type="string">
+			<value>MetroStationGeneral</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_DIRECTION_STR">
+			<attribute name="value" type="string">
+			<value>Marszałkowska</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_DIRECTION_TD">
+			<attribute name="value" type="string"/>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_NEAR_BLD">
+			<attribute name="value" type="string">
+			<value>Kino Wisła</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_NEAR_STP">
+			<attribute name="value" type="string">
+			<value>Metro Świętokrzyska</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_NEAR_STR">
+			<attribute name="value" type="string">
+			<value>Piękna</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_NEAR_TD">
+			<attribute name="value" type="string">
+			<value>Saska Kępa</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_REL">
+			<attribute name="value" type="string">
+			<value>FromHere</value> 
+			<value>FromSomewhere</value> 
+			<value>FromThere</value> 
+			<value>SameStop</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_RS">
+			<attribute name="value" type="string">
+			<value>Dworzec Centralny</value> 
+			<value>Dworzec Ochota</value> 
+			<value>Dworzec Warszawa Śródmieście</value> 
+			<value>Dworzec Wschodni</value> 
+			<value>Dworzec Zachodni</value> 
+			<value>RailwayStation</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_STP">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>RelThatOne</value> 
+			<value>SameStop</value> 
+			<value>LAST</value> 
+			<value>LAST 181</value> 
+			<value>Metro Imielin</value> 
+			<value>MetroStationGeneral</value> 
+			<value>Broniewskiego</value> 
+			<value>Inżynierska</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_STR">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Anielewicza</value> 
+			<value>Armii Ludowej</value> 
+			<value>Grochowska</value> 
+			<value>Plac Zawiszy</value> 
+			<value>Trakt Brzeski</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_TD">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Dolny Mokotów</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SOURCE_TOWN">
+			<attribute name="value" type="string"/>
+		</annotation>
+		<annotation priority="90" color="Tan" name="SPELL_INSTR">
+			<attribute name="value" type="string"/>
+		</annotation>
+		<annotation priority="90" color="Tan" name="STOP_DESCRIPTION">
+			<attribute name="value" type="string">
+			<value>General</value>
+			<value>RelThatOne</value> 
+			<value>BusStop</value> 
+			<value>TramStop</value> 
+			<value>OnDemand</value> 
+			<value>Shared</value> 
+ 			<value>NEAR Blue City</value> 
+			<value>NEAREST</value> 
+			<value>LAST</value> 
+			<value>LAST Krasińskiego</value> 
+			<value>LAST 195</value> 
+			<value>LAST Gocławek</value> 
+			<value>Banacha 07</value> 
+			<value>Leszno</value> 
+			<value>ON Dobra CROSS  Karowa</value> 
+			<value>ON Foksal</value> 
+			<value>MetroStationGeneral</value> 
+			<value>RailStationGeneral</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="STOP_NUMB">
+			<attribute name="value" type="string">
+			<value>06</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="STREET">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>RelThatOne</value> 
+			<value>Viaduct</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="STREET_NUMB">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>RelThatOne</value> 
+			<value>12</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TICKET">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>TICKET_NORM_1</value> 
+			<value>TICKET_NORM_M</value> 
+			<value>TICKET_NORM_P</value> 
+			<value>TICKET_METRO_ENTR</value> 
+			<value>TICKET_REDUCED_FARE_1</value> 
+			<value>ALL-ZONE_TICKET</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TIME_DAYPERIOD">
+			<attribute name="value" type="string">
+			<value>Afternoon</value> 
+			<value>Day</value> 
+			<value>Evening</value> 
+			<value>Morning</value> 
+			<value>Night</value> 
+			<value>Off-PeakHours</value> 
+			<value>PeakHours</value> 
+			<value>WholeDay</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TIME_PERIOD">
+			<attribute name="value" type="string">
+			<value>Holiday</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TIME_REL">
+			<attribute name="value" type="string">
+			<value>AtThisTime</value> 
+			<value>Early</value> 
+			<value>Earlier</value>
+			<value>Earliest</value> 
+			<value>Later</value> 
+			<value>Now</value> 
+			<value>OnTime</value>  
+			<value>Soon</value>  
+			<value>TheSame</value> 
+			<value>Today</value> 
+			<value>Tomorrow</value> 
+			<value>TooEarly</value> 
+			<value>TooLate</value>
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TIME_SPAN">
+			<attribute name="value" type="string">
+			<value>20 min</value> 
+			<value>1 godz</value> 
+			<value>30 - 40 min</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TIMETABLE">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Bus</value> 
+			<value>Changed</value> 
+			<value>Holidays</value> 
+			<value>Metro</value> 
+			<value>Weekday</value> 
+			<value>Winter</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TIME_WEEKPERIOD">
+			<attribute name="value" type="string">
+			<value>Holiday</value> 
+			<value>Saturday</value> 
+			<value>Weekday</value> 
+			<value>Weekend</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TOWN">
+			<attribute name="value" type="string"/>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TOWN_DISTRICT">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>Natolin Północny</value> 
+			<value>Nowy Rembertów</value> 
+			<value>Przyczółek Grochowski</value> 
+			</attribute>
+		</annotation>
+ 		<annotation priority="90" color="Tan" name="TRAIN">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TRAM">
+			<attribute name="value" type="string">
+			<value>General</value> 
+			<value>22</value> 
+			<value>niskopodłogowy</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TRAM_REL">
+			<attribute name="value" type="string">
+			<value>AnyTram</value> 
+			<value>ThisTram</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TRANSP_INSTITUTION">
+			<attribute name="value" type="string">
+			<value>Zarząd Transportu Miejskiego</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TRANSPORT_RATE">
+			<attribute name="value" type="string">
+			<value>20 min</value> 
+			<value>1 godz</value> 
+			<value>3 - 4 min</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TRANSPORT_RATE_REL">
+			<attribute name="value" type="string">
+			<value>LessFreq</value> 
+			<value>MoreFreq</value> 
+			<value>Freq</value> 
+			<value>NoFreq</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TRIP_ELEM">
+			<attribute name="value" type="string">
+			<value>TRSP_CHANGE</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TRIP_END_REL">
+			<attribute name="value" type="string">
+			<value>8. STOP</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="TRSPM_CHANGE">
+			<attribute name="value" type="string">
+			<value>FROM</value> 
+			<value>TO</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="WALK_DURATION">
+			<attribute name="value" type="string">
+			<value>5 min</value> 
+			<value>5 - 7 min</value> 
+			</attribute>
+		</annotation>
+		<annotation priority="90" color="Tan" name="WKD">
+			<attribute name="value" type="string">
+			<value>WKD</value> 
+			</attribute>
+		</annotation>
+		</annotations>
+	</group>
+</annotations>

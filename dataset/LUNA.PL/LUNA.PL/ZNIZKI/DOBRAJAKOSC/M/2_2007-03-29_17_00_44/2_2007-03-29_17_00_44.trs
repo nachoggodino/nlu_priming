@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-29_17_00_44" version="2" version_date="070727">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="41.497" topic="to1">
+<Turn startTime="0" endTime="0.672">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.672" endTime="2.009">
+<Sync time="0.672"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.009" endTime="13.152">
+<Sync time="2.009"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="*" type="pronounce" extent="begin"/>dzień dobry<Event desc="*" type="pronounce" extent="end"/> proszę pana <Event desc="filler" type="lexical" extent="instantaneous"/> ja mam takie pytanie <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="fr" type="language" extent="begin"/>propos<Event desc="fr" type="language" extent="end"/> karty miejskiej <Event desc="filler" type="lexical" extent="instantaneous"/> tutaj którą można się posługiwać <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> przejaz<Event desc="~" type="lexical" extent="begin"/>d<Event desc="~" type="lexical" extent="end"/>y <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> metrem i tramwa<Event desc="~" type="lexical" extent="begin"/>jem<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="13.152" endTime="13.375">
+<Sync time="13.152"/>
+<Event desc="babble" type="noise" extent="begin"/> tak <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="13.375" endTime="27.285">
+<Sync time="13.375"/>
+prawda <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pana czy <Event desc="filler" type="lexical" extent="instantaneous"/> osoby niepełnosprawne <Event desc="filler" type="lexical" extent="instantaneous"/> z drugą grupą niepełnosprawności <Event desc="filler" type="lexical" extent="instantaneous"/> lub <Event desc="filler" type="lexical" extent="instantaneous"/> to inaczej jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> umiarkowany stopień niepełnosprawności <Event desc="filler" type="lexical" extent="instantaneous"/> mają jakąś zniżkę <Event desc="?" type="lexical" extent="instantaneous"/> czy tylko pierwsza grupa inwalidzka ma zniżkę <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="27.285" endTime="29.67">
+<Sync time="27.285"/>
+a taka osoba ma mniej niż dwadzieścia sześć lat <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="29.67" endTime="30.518">
+<Sync time="29.67"/>
+<Event desc="noise" type="noise" extent="begin"/> nie <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="30.518" endTime="33.932">
+<Sync time="30.518"/>
+to jeżeli ma rentę z ZUSu to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> ulga czterdzieści osiem procent
+</Turn>
+<Turn speaker="spk2" startTime="33.932" endTime="34.393">
+<Sync time="33.932"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="34.393" endTime="36.748">
+<Sync time="34.393"/>
+a jeżeli nie ma renty z ZUSu to nie ma też ulgi
+</Turn>
+<Turn speaker="spk2" startTime="36.748" endTime="38.354">
+<Sync time="36.748"/>
+aha rozumiem dobrze dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="38.354" endTime="38.982">
+<Sync time="38.354"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn startTime="38.982" endTime="41.497">
+<Sync time="38.982"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

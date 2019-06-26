@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-10_10_13_09" version="3" version_date="071001">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="38.498" topic="to1">
+<Turn startTime="0" endTime="0.687">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.687" endTime="2.721">
+<Sync time="0.687"/>
+<Event desc="~" type="lexical" extent="begin"/>dzień<Event desc="~" type="lexical" extent="end"/> dobry xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="2.721" endTime="4.436">
+<Sync time="2.721"/>
+dzień dobry ja chcia<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>am zapytać
+</Turn>
+<Turn speaker="spk1" startTime="4.436" endTime="4.605">
+<Sync time="4.436"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> tak
+</Turn>
+<Turn speaker="spk2" startTime="4.605" endTime="13.85">
+<Sync time="4.605"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> mając <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> czy mając legitymację <Event desc="filler" type="lexical" extent="instantaneous"/> rencisty <Event desc="int" type="noise" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="begin"/> czy mogę korzystać z tej ulgi <Event desc="filler" type="lexical" extent="instantaneous"/> kupując kartę miejską <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="13.85" endTime="16.317">
+<Sync time="13.85"/>
+proszę chwilę poczekać ja się skonsultuję <Event desc="babble" type="noise" extent="begin"/> ty<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>ko dobrze <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="16.317" endTime="25.525">
+<Sync time="16.317"/>
+dobrze <Event desc="int" type="noise" extent="instantaneous"/> <Event desc="jingle" type="noise" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="25.525" endTime="26.116">
+<Sync time="25.525"/>
+<Event desc="~" type="lexical" extent="begin"/>h<Event desc="~" type="lexical" extent="end"/>alo 
+</Turn>
+<Turn speaker="spk2" startTime="26.116" endTime="26.976">
+<Sync time="26.116"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> tak <Event desc="*" type="pronounce" extent="begin"/>słucham<Event desc="*" type="pronounce" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="26.976" endTime="28.682">
+<Sync time="26.976"/>
+pani ma legitymację rencisty tak <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="28.682" endTime="30.047">
+<Sync time="28.682"/>
+tak tak <Event desc="noise" type="noise" extent="begin"/> druga <Event desc="noise" type="noise" extent="end"/> grupa
+</Turn>
+<Turn speaker="spk1" startTime="30.047" endTime="34.051">
+<Sync time="30.047"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pani to ma <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> pani przejazdy z z ulgą czterdziestu ośmiu procent
+</Turn>
+<Turn speaker="spk2" startTime="34.051" endTime="36.129">
+<Sync time="34.051"/>
+<Event desc="noise" type="noise" extent="begin"/> aha <Event desc="noise" type="noise" extent="end"/> czyli jednak dziękuję bardzo
+</Turn>
+<Turn speaker="spk2 spk1" startTime="36.129" endTime="36.735">
+<Sync time="36.129"/>
+<Who nb="1"/>
+do widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="36.735" endTime="37.276">
+<Sync time="36.735"/>
+do usłyszenia
+</Turn>
+<Turn startTime="37.276" endTime="38.498">
+<Sync time="37.276"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

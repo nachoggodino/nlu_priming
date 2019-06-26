@@ -18,6 +18,7 @@ if __name__ == '__main__':
     dobra_kieps = ['DOBRAJAKOSC', 'KIEPSKAJAKOSC']
     f_m = ['F', 'M']
     resulting_array = []
+    tree_resulting_array = []
     for directory in directories:
         print('Exploring {}...'.format(directory))
         for folder in dobra_kieps:
@@ -67,6 +68,7 @@ if __name__ == '__main__':
                     # Phase 2. Add to the words DF two fields, the chunk (or attribute) they belong to and its BIO tag.
                     chunks_for_words_array = []
                     BIO_tags_array = []
+                    values_for_words_array = []
                     next_chunk = 1
                     tag = 'attribute'  # Tag for BIO tags.
 
@@ -85,6 +87,7 @@ if __name__ == '__main__':
 
                             if index in my_range:
                                 chunks_for_words_array.append(chunk + 1)
+                                values_for_words_array.append(att_df['value'][chunk])
                                 if chunk + 1 == next_chunk:
                                     BIO_tags_array.append('B-' + att_df[tag][next_chunk - 1])
                                     next_chunk += 1
@@ -94,9 +97,13 @@ if __name__ == '__main__':
                         if not gotcha:
                             BIO_tags_array.append('O')
                             chunks_for_words_array.append(0)
+                            values_for_words_array.append('O')
 
                     words_df['chunk'] = chunks_for_words_array
                     words_df['BIO_tag'] = BIO_tags_array
+                    words_df['value'] = values_for_words_array
+
+                    tree_resulting_array.append(pd.DataFrame({'word': words_df['word'], 'tag': BIO_tags_array, 'values': values_for_words_array}))
 
                     # Phase 3. Add two fields to the turns DF, array of belonging words and array of related tags.
                     words_in_turns_array = []
@@ -115,33 +122,11 @@ if __name__ == '__main__':
                             print("                Turning {} into {}".format(tags_in_turns_array[index][0], 'B' + tags_in_turns_array[index][0][1:]))
                             tags_in_turns_array[index][0] = 'B' + tags_in_turns_array[index][0][1:]
 
-
-
     resulting_df = pd.concat(resulting_array, ignore_index=True)
-    with open('./output.json', 'w', encoding='utf-8') as file:
-        print(resulting_df)
+    tree_resulting_df = pd.concat(tree_resulting_array, ignore_index=True)
+
+    with open('./csv/tree_df.csv', 'w', encoding='utf-8') as file:
+        tree_resulting_df.to_csv(file, sep='\t', encoding='utf-8')
+
+    with open('./json/output.json', 'w', encoding='utf-8') as file:
         resulting_df.to_json(file, orient='index', force_ascii=False)
-
-# Han hecho falta las siguientes ediciones de los datos, por erratas, en los archivos chunks.xml:
-#     - JAKDOJECHAC/F/00961: La última palabra se ha quitado por no estar tenida en cuenta en los demás ficheros.
-#     - ZNIZKI/F/20057: Las palabras 48 a 50 se han agrupado puesto que no aparecían la 49 y 50 en chunks.
-#     - ZNIZKI/F/20057: Las palabras 52 a 55 se han agrupado.
-#     - ZNIZKI/F/00693: Las palabras 116 a 119 se han agrupado.
-#     - ZNIZKI/F/00962: Las palabras 194 a 197 se han agrupado.
-#     - ZNIZKI/F/00962: Las palabras 146 a 149 se han agrupado.
-#     - ZNIZKI/F/00200: Las palabras 157 a 159 se han agrupado.
-#     - ZNIZKI/F/00024: Las palabras 159 a 162 se han agrupado.
-#     - ZNIZKI/F/20075: Las palabras 98 a 101 se han agrupado.
-#     - ZNIZKI/F/00021: Las palabras 265 a 268 y 134 a 137 se han agrupado.
-#     - ZNIZKI/F/00105: Las palabras 93 a 95 y 121 a 123 se han agrupado.
-#     - ZNIZKI/M/00761: Las palabras 129 a 132 se han agrupado.
-#     - ZNIZKI/M/10003: Las palabras 88 a 91 se han agrupado.
-#     - ZNIZKI/M/10014: Las palabras 70 a 72 se han agrupado.
-#     - ZNIZKI/M/20037: Las palabras 59 a 62 se han agrupado.
-#     - ZNIZKI/M/10023: Las palabras 130 a 133, 126 a 128 y 69 a 72 se han agrupado.
-#     - ZNIZKI/M/20021: Las palabras 50 a 52, 54 a 57, 110 a 113 y 106 a 108 se han agrupado.
-#     - ZNIZKI/M/10000: Las palabras 54 a 56 se han agrupado.
-
-
-
-

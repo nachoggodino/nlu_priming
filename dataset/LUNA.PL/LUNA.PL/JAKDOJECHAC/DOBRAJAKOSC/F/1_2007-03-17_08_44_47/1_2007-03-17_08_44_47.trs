@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-17_08_44_47" version="7" version_date="071205">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="59.996" topic="to1">
+<Turn startTime="0" endTime="0.439">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.439" endTime="2.752">
+<Sync time="0.439"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.752" endTime="10.509">
+<Sync time="2.752"/>
+proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jak ja mam dojechać z Placu Na Rozdrożu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na Spartańską do Instytutu Reumatologii 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.509" endTime="14.934">
+<Sync time="10.509"/>
+z Placu Na Rozdrożu proszę panią bezpośrednio autobus sto dwadzieścia dwa 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="14.934" endTime="17.106">
+<Sync time="14.934"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w kierunek na Mokotów 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="17.106" endTime="17.451">
+<Sync time="17.106"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="17.451" endTime="18.739">
+<Sync time="17.451"/>
+kierunek na Mokotów 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="18.739" endTime="25.853">
+<Sync time="18.739"/>
+dobrze a teraz jeszcze z 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Centrum tu przy Dworcu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Śródmieście
+</Turn>
+<Turn speaker="spk1" startTime="25.853" endTime="26.942">
+<Sync time="25.853"/>
+też na Spartańską ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.942" endTime="27.839">
+<Sync time="26.942"/>
+tak tak
+</Turn>
+<Turn speaker="spk1" startTime="27.839" endTime="33.902">
+<Sync time="27.839"/>
+proszę panią to z Centrum tutaj pod Hotelem Novotel dokładnie 
+<Event desc="babble" type="noise" extent="begin"/>
+ ewentualnie 
+<Event desc="babble" type="noise" extent="end"/>
+ z Dworca Centralnego z Alei Jerozolimskich
+</Turn>
+<Turn speaker="spk2" startTime="33.902" endTime="34.327">
+<Sync time="33.902"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="34.327" endTime="44.431">
+<Sync time="34.327"/>
+autobus sto osiemnaście 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chociaż nie przepraszam to będzie z przeciwnego przystanku 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to będzie przystanek proszę panią jeżeli 
+<Event desc="noise" type="noise" extent="begin"/>
+ chodzi o Centrum 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="fr" type="language" extent="begin"/>
+vis-a-vis
+<Event desc="fr" type="language" extent="end"/>
+ Polonii 
+<Event desc="fr" type="language" extent="begin"/>
+vis-a-vis
+<Event desc="fr" type="language" extent="end"/>
+ Hotelu Polonia 
+</Turn>
+<Turn speaker="spk2" startTime="44.431" endTime="44.892">
+<Sync time="44.431"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="44.892" endTime="46.886">
+<Sync time="44.892"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jest autobus sto osiemnaście 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="46.886" endTime="47.464">
+<Sync time="46.886"/>
+<Who nb="1"/>
+ w kierunku
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="47.464" endTime="51.816">
+<Sync time="47.464"/>
+Alei Niepodległości i on również dojeżdża bezpośrednio do 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ulicy Spartańskiej
+</Turn>
+<Turn speaker="spk2" startTime="51.816" endTime="52.142">
+<Sync time="51.816"/>
+ze 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="52.142" endTime="53.162">
+<Sync time="52.142"/>
+<Who nb="1"/>
+Spartańskiej te
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="53.162" endTime="53.774">
+<Sync time="53.162"/>
+dwa autobu
+<Event desc="~" type="lexical" extent="begin"/>
+sy
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="53.774" endTime="55.05">
+<Sync time="53.774"/>
+te dwa autobusy
+</Turn>
+<Turn speaker="spk2" startTime="55.05" endTime="55.588">
+<Sync time="55.05"/>
+dobrze bardzo 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="55.588" endTime="57.235">
+<Sync time="55.588"/>
+<Who nb="1"/>
+dziękuję do widzenia
+<Who nb="2"/>
+proszę bardzo do
+</Turn>
+<Turn speaker="spk2" startTime="57.235" endTime="57.604">
+<Sync time="57.235"/>
+widzenia
+</Turn>
+<Turn startTime="57.604" endTime="59.996">
+<Sync time="57.604"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

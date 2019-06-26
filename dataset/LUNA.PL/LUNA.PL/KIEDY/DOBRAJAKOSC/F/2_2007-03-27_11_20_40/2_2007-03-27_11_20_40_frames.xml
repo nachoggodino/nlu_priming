@@ -1,0 +1,17 @@
+<Frames>
+  <Set id="1" subset="1" span="word_24" frame="TOPIC" head="poprosić">
+    <Frame fe="1" span="word_8..word_10,word_11..word_13,word_14..word_16" concept_id="4,5,6" name="TOPIC" />
+    <Frame fe="2" span="word_17..word_18,word_19..word_22" concept_id="7,8" name="EXPLANATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_30" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_31..word_33" concept_id="14" name="TIME" />
+    <Frame fe="2" span="word_34..word_35" concept_id="15" name="TIME" />
+  </Set>
+  <Set id="3" subset="1" span="word_46" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_41..word_42" concept_id="17" name="TIME" />
+    <Frame fe="2" span="word_44..word_45" concept_id="18" name="THEME" />
+  </Set>
+  <Set id="4" subset="1" span="word_58" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_60..word_62" concept_id="27" name="TIME" />
+  </Set>
+</Frames>

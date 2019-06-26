@@ -1,0 +1,104 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_10..word_12" attribute="SOURCE_RS" value="Dworzec Ochota" />
+  <concept id="5" span="word_16" attribute="ACTION" value="Get" />
+  <concept id="6" span="word_17..word_19" attribute="GOAL_STR" value="Dzierzby" />
+  <concept id="7" span="word_20" attribute="REACTION" value="Negation" />
+  <concept id="8" span="word_22" attribute="ACTION" value="Find" />
+  <concept id="9" span="word_28" attribute="REACTION" value="Negation" />
+  <concept id="10" span="word_42" attribute="ACTION" value="ToBegin" />
+  <concept id="11" span="word_44" attribute="NAME" value="D" />
+  <concept id="12" span="word_45" attribute="NAME" value="DZ" />
+  <concept id="13" span="word_46" attribute="NAME" value="D" />
+  <concept id="14" span="word_47" attribute="STREET" value="Dzierzby" />
+  <concept id="15" span="word_48" attribute="REACTION" value="Confirmation" />
+  <concept id="16" span="word_49" attribute="ACTION" value="ToSee" />
+  <concept id="17" span="word_52" attribute="ACTION" value="ToBe" />
+  <concept id="18" span="word_53..word_55" attribute="GOAL_DIRECTION_TOWN" value="Piaseczno" />
+  <concept id="19" span="word_57" attribute="REACTION" value="Confirmation" />
+  <concept id="20" span="word_58" attribute="ACTION" value="Know" />
+  <concept id="21" span="word_61" attribute="ACTION" value="Go" />
+  <concept id="22" span="word_62" attribute="PATH_STR" value="Puławska" />
+  <concept id="23" span="word_65" attribute="MEANS_OF_TRANSPORT" value="Car" />
+  <concept id="24" span="word_66" attribute="REACTION" value="Negation" />
+  <concept id="25" span="word_68" attribute="ACTION" value="Go" />
+  <concept id="26" span="word_73..word_74" attribute="Q_LINE" value="Bus" />
+  <concept id="27" span="word_75" attribute="REACTION" value="Confirmation" />
+  <concept id="28" span="word_76" attribute="ACTION" value="ToSee" />
+  <concept id="29" span="word_78" attribute="ACTION" value="Get" />
+  <concept id="30" span="word_80..word_82" attribute="SOURCE_RS" value="Dworzec Ochota" />
+  <concept id="31" span="word_83..word_85" attribute="SOURCE_RS" value="Dworzec Śródmieście" />
+  <concept id="32" span="word_92" attribute="TRSPM_CHANGE" value="General" />
+  <concept id="33" span="word_96" attribute="LOCATION_REL" value="There" />
+  <concept id="34" span="word_97" attribute="ACTION" value="ToBe" />
+  <concept id="35" span="word_98..word_99" attribute="LOCATION_RS" value="Dworzec Śródmieście" />
+  <concept id="36" span="word_100" attribute="REACTION" value="Confirmation" />
+  <concept id="37" span="word_103" attribute="ACTION" value="GetIn" />
+  <concept id="38" span="word_105" attribute="METRO" value="General" />
+  <concept id="39" span="word_106" attribute="REACTION" value="Confirmation" />
+  <concept id="40" span="word_107" attribute="ACTION" value="Approach" />
+  <concept id="41" span="word_108..word_110" attribute="GOAL_STP" value="Metro Wilanowska" />
+  <concept id="42" span="word_111" attribute="REACTION" value="Confirmation" />
+  <concept id="43" span="word_112" attribute="LOCATION_REL" value="There" />
+  <concept id="44" span="word_113..word_115" attribute="LOCATION_STP" value="Metro Wilanowska" />
+  <concept id="45" span="word_116" attribute="ACTION" value="ToBe" />
+  <concept id="46" span="word_117..word_118" attribute="STOP_DESCRIPTION" value="LAST Bus" />
+  <concept id="47" span="word_119..word_120" attribute="BUS" value="709" />
+  <concept id="48" span="word_122..word_124" attribute="BUS" value="727" />
+  <concept id="49" span="word_125" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="50" span="word_127" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="51" span="word_129" attribute="LOCATION_REL" value="There" />
+  <concept id="52" span="word_130" attribute="ACTION" value="ToCarry" />
+  <concept id="53" span="word_132" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="54" span="word_134" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="55" span="word_137" attribute="ACTION" value="GetOut" />
+  <concept id="56" span="word_138..word_139" attribute="LOCATION_STP" value="General" />
+  <concept id="57" span="word_143" attribute="ACTION" value="Tell" />
+  <concept id="58" span="word_147" attribute="ACTION" value="BeCalled" />
+  <concept id="59" span="word_148" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="60" span="word_149..word_150" attribute="SKM" value="Puławska" />
+  <concept id="61" span="word_151..word_152" attribute="STOP_DESCRIPTION" value="Bogatki" />
+  <concept id="62" span="word_154" attribute="DISTANCE_REL" value="Short" />
+  <concept id="63" span="word_155" attribute="ACTION" value="GoBack" />
+  <concept id="64" span="word_157" attribute="STOP_DESCRIPTION" value="Bogatki" />
+  <concept id="65" span="word_158" attribute="DISTANCE_REL" value="Long" />
+  <concept id="66" span="word_160" attribute="REACTION" value="Negation" />
+  <concept id="67" span="word_161" attribute="ACTION" value="ToBe" />
+  <concept id="68" span="word_163" attribute="REACTION" value="Negation" />
+  <concept id="69" span="word_165..word_166" attribute="SOURCE_STP" value="RelThatOne" />
+  <concept id="70" span="word_172" attribute="LOCATION_REL" value="There" />
+  <concept id="71" span="word_173..word_175" attribute="LOCATION_STP" value="RelThatOne" />
+  <concept id="72" span="word_178..word_180" attribute="GOAL_REL" value="Opposite" />
+  <concept id="73" span="word_181" attribute="ACTION" value="ToPass" />
+  <concept id="74" span="word_183" attribute="ACTION" value="GoBack" />
+  <concept id="75" span="word_185..word_188" attribute="DISTANCE" value="150 m" />
+  <concept id="76" span="word_191" attribute="ACTION" value="Go" />
+  <concept id="77" span="word_192..word_193" attribute="SOURCE_RS" value="Dworzec Śródmieście" />
+  <concept id="78" span="word_194" attribute="ACTION" value="Come" />
+  <concept id="79" span="word_195..word_197" attribute="SOURCE_RS" value="Dworzec Centralny" />
+  <concept id="80" span="word_198" attribute="METRO" value="General" />
+  <concept id="81" span="word_199" attribute="STOP_DESCRIPTION" value="Metro Wilanowska" />
+  <concept id="82" span="word_201" attribute="DISTANCE_REL" value="Further" />
+  <concept id="83" span="word_202..word_203" attribute="BUS" value="709" />
+  <concept id="84" span="word_204" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="85" span="word_205..word_207" attribute="BUS" value="721" />
+  <concept id="86" span="word_208" attribute="NUM_BUS_PART" value="7" />
+  <concept id="87" span="word_209..word_211" attribute="BUS" value="727" />
+  <concept id="88" span="word_212..word_214" attribute="BUS" value="727" />
+  <concept id="89" span="word_215" attribute="NUM_BUS_PART" value="7" />
+  <concept id="90" span="word_216" attribute="REACTION" value="Confirmation" />
+  <concept id="91" span="word_217" attribute="REACTION" value="Confirmation" />
+  <concept id="92" span="word_219" attribute="ACTION" value="ToBe" />
+  <concept id="93" span="word_220..word_221" attribute="LINE_TYPE" value="SubUrban" />
+  <concept id="94" span="word_224" attribute="ACTION" value="ToPay" />
+  <concept id="95" span="word_225" attribute="REACTION" value="Negation" />
+  <concept id="96" span="word_227" attribute="ACTION" value="ToBe" />
+  <concept id="97" span="word_229..word_231" attribute="LOCATION_TOWN" value="Warszawa" />
+  <concept id="98" span="word_233" attribute="FARE" value="Normal" />
+  <concept id="99" span="word_235" attribute="FARE" value="Normal" />
+  <concept id="100" span="word_236" attribute="TICKET" value="General" />
+  <concept id="101" span="word_237" attribute="ACTION" value="ToBuy" />
+  <concept id="102" span="word_239" attribute="REACTION" value="Confirmation" />
+</concepts>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00040_in;00040_out" version="4" version_date="080623">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="261.056" topic="to1">
+<Turn startTime="0" endTime="0.457">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.457" endTime="19.038">
+<Sync time="0.457"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż zawsze możesz powiedzieć połącz mnie z operatorem
+</Turn>
+<Turn speaker="spk2" startTime="19.038" endTime="24.766">
+<Sync time="19.038"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ wyszukiwanie trasy
+</Turn>
+<Turn speaker="spk1" startTime="24.766" endTime="42.439">
+<Sync time="24.766"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ wyszukanie trasy ustalmy najpierw skąd chcesz jechać punkt początkowy można wyszukiwać według nazwy ulicy albo nazw przystanków żeby wyszukiwać według nazwy ulic powiedz słowo ulica żeby wyszukiwać według nazw przystanków powiedz słowo przystanek
+</Turn>
+<Turn speaker="spk2" startTime="42.439" endTime="45.011">
+<Sync time="42.439"/>
+ulica 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.011" endTime="50.044">
+<Sync time="45.011"/>
+wyszukiwanie po nazwach ulic powiedz nazwę ulicy w której chcesz zacząć podróż
+</Turn>
+<Turn speaker="spk2" startTime="50.044" endTime="52.586">
+<Sync time="50.044"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ Nocznickiego
+</Turn>
+<Turn speaker="spk1" startTime="52.586" endTime="55.711">
+<Sync time="52.586"/>
+podaj w przybliżeniu numer domu
+</Turn>
+<Turn speaker="spk2" startTime="55.711" endTime="59.437">
+<Sync time="55.711"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ siede
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+naście
+</Turn>
+<Turn speaker="spk1" startTime="59.437" endTime="75.235">
+<Sync time="59.437"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ ustalmy teraz dokąd chcesz jechać punkt końcowy można wyszukiwać według nazwy ulicy nazw przystanków żeby wyszukiwać według nazwy ulic powiedz słowo ulica żeby wyszukiwać według nazw przystanków powiedz słowo przystanek
+</Turn>
+<Turn speaker="spk2" startTime="75.235" endTime="76.701">
+<Sync time="75.235"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ ulica
+</Turn>
+<Turn speaker="spk1" startTime="76.701" endTime="83.143">
+<Sync time="76.701"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ wyszukiwanie po nazwach ulic powiedz nazwę ulicy przy której chcesz zakończyć podróż
+</Turn>
+<Turn speaker="spk2" startTime="83.143" endTime="85.163">
+<Sync time="83.143"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ Kłobucka
+</Turn>
+<Turn speaker="spk1" startTime="85.163" endTime="87.759">
+<Sync time="85.163"/>
+podaj w przybliżeniu numer domu
+</Turn>
+<Turn speaker="spk2" startTime="87.759" endTime="98.192">
+<Sync time="87.759"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ dwadzieścia trzy 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="98.192" endTime="104.25">
+<Sync time="98.192"/>
+ na końcu ustalmy czas odjazdu czy chcesz najbliższe połączenie czy chcesz sam podać godzinę
+</Turn>
+<Turn speaker="spk2" startTime="104.25" endTime="110.957">
+<Sync time="104.25"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chciałem podać godzinę
+</Turn>
+<Turn speaker="spk1" startTime="110.957" endTime="113.553">
+<Sync time="110.957"/>
+podaj przybliżony czas odjazdu
+</Turn>
+<Turn speaker="spk2" startTime="113.553" endTime="121.005">
+<Sync time="113.553"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ trzynasta
+</Turn>
+<Turn speaker="spk1" startTime="121.005" endTime="125.322">
+<Sync time="121.005"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ łączę z operatorem proszę czekać
+</Turn>
+<Turn speaker="spk3" startTime="125.322" endTime="255.431">
+<Sync time="125.322"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+
+
+</Turn>
+<Turn startTime="255.431" endTime="261.056">
+<Sync time="255.431"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

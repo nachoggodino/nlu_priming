@@ -1,0 +1,16 @@
+<Frames>
+  <Set id="1" subset="1" span="word_18" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_19..word_22" concept_id="8" name="ENTITY" />
+  </Set>
+  <Set id="2" subset="1" span="word_43" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_44,word_45..word_47,word_48..word_49" concept_id="18,19,20" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_60" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_56..word_58" concept_id="22" name="THEME" />
+    <Frame fe="2" span="word_62..word_64" concept_id="24" name="POSITION" />
+  </Set>
+  <Set id="4" subset="1" span="word_91" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_88..word_90" concept_id="35" name="PLACE" />
+    <Frame fe="2" span="word_92" concept_id="37" name="THEME" />
+  </Set>
+</Frames>

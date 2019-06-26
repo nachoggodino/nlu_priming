@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-28_14_34_36" version="4" version_date="080418">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="52.997" topic="to1">
+<Turn startTime="0" endTime="0.61">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.61" endTime="1.896">
+<Sync time="0.61"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.896" endTime="11.731">
+<Sync time="1.896"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry proszę pana 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ mam takie pytanie jestem emerytką i chcę se kupić miesięczny bilet to ile za jakie muszę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy sto procent 
+<Event desc="*" type="pronounce" extent="begin"/>
+płacić
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ czy połówkę
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.731" endTime="13.613">
+<Sync time="11.731"/>
+a nie ma pani 
+<Event desc="noise" type="noise" extent="begin"/>
+ jeszcze siedemdziesięciu lat 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="13.613" endTime="14.451">
+<Sync time="13.613"/>
+no nie mam 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.451" endTime="21.814">
+<Sync time="14.451"/>
+proszę pani jeśli jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ pani emerytką 
+<Event desc="babble" type="noise" extent="begin"/>
+ to na podstawie legitymacji emery
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ emeryta i rencisty i dokumentu tożsamości jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ ulga czterdzieści osiem procent 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.814" endTime="23.262">
+<Sync time="21.814"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ czterdzieści osiem procent 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.262" endTime="23.599">
+<Sync time="23.262"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="23.599" endTime="30.112">
+<Sync time="23.599"/>
+a teraz niech pan mi powie jak ja chcę kupić sobie bilet 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+miesięczny
+<Event desc="*" type="pronounce" extent="end"/>
+ na tą 
+<Event desc="*" type="pronounce" extent="begin"/>
+eskaemkę
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+to
+<Event desc="*" type="pronounce" extent="end"/>
+ ile 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.112" endTime="31.914">
+<Sync time="30.112"/>
+ale pani chce tylko na eskaemkę 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="31.914" endTime="34.014">
+<Sync time="31.914"/>
+na 
+<Event desc="*" type="pronounce" extent="begin"/>
+eskaemkę
+<Event desc="*" type="pronounce" extent="end"/>
+ i na tramwaje
+</Turn>
+<Turn speaker="spk1" startTime="34.014" endTime="36.593">
+<Sync time="34.014"/>
+aha a będzie pani jeździła eskaemką dokąd 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="36.593" endTime="38.213">
+<Sync time="36.593"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Pruszkowa do Warszawy
+</Turn>
+<Turn speaker="spk1" startTime="38.213" endTime="43.526">
+<Sync time="38.213"/>
+aha czyli musiałaby pani se taki na trzydzieści dni by kosztował panią czterdzieści sześć osiemdziesiąt
+</Turn>
+<Turn speaker="spk2" startTime="43.526" endTime="46.054">
+<Sync time="43.526"/>
+czterdzieści sześć osiem
+<Event desc="~" type="lexical" extent="begin"/>
+dziesiąt
+<Event desc="~" type="lexical" extent="end"/>
+ to taki bilet bym
+</Turn>
+<Turn speaker="spk1" startTime="46.054" endTime="48.816">
+<Sync time="46.054"/>
+tak to się nazywa bilet sieciowy imienny
+</Turn>
+<Turn speaker="spk2" startTime="48.816" endTime="50.028">
+<Sync time="48.816"/>
+bilet siecio
+<Event desc="~" type="lexical" extent="begin"/>
+wy
+<Event desc="~" type="lexical" extent="end"/>
+ dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="50.028" endTime="51.868">
+<Sync time="50.028"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+proszę bardzo do widzenia
+</Turn>
+<Turn startTime="51.868" endTime="52.997">
+<Sync time="51.868"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

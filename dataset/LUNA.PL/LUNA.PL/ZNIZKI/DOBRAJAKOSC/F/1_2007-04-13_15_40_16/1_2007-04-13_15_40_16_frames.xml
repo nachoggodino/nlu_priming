@@ -1,0 +1,27 @@
+<Frames>
+  <Set id="1" subset="1" span="word_34" frame="COMMERCE_PAY" head="skasować">
+    <Frame fe="1" span="word_30..word_31" concept_id="8" name="RATE" />
+    <Frame fe="2" span="word_36,word_37" concept_id="10,11" name="GOODS" />
+    <Frame fe="3" span="word_39" concept_id="12" name="GOODS" />
+  </Set>
+  <Set id="2" subset="1" span="word_42" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_41" concept_id="13" name="BENEFICIARY" />
+    <Frame fe="2" span="word_45..word_47" concept_id="15" name="CIRCUMSTANCES" />
+    <Frame fe="3" span="word_48" concept_id="16" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="1" span="word_53" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_50" concept_id="17" name="GOODS" />
+  </Set>
+  <Set id="4" subset="1" span="word_62" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_58" concept_id="20" name="GOODS" />
+  </Set>
+  <Set id="5" subset="1" span="word_80" frame="BECOMING" head="skończyć">
+    <Frame fe="1" span="word_77" concept_id="29" name="ENTITY" />
+    <Frame fe="2" span="word_81..word_83" concept_id="32" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="6" subset="2" span="word_91" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_85..word_90" concept_id="33" name="TITLE" />
+    <Frame fe="2" span="word_92..word_95" concept_id="35" name="PRIVILEGE" />
+    <Frame fe="3" span="word_98..word_99" concept_id="36" name="TITLE" />
+  </Set>
+</Frames>

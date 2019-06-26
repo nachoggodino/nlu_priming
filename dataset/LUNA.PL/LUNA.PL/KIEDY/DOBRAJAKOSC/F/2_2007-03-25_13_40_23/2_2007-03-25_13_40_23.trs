@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-25_13_40_23" version="3" version_date="100912">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="34.869" topic="to1">
+<Turn startTime="0" endTime="1.19">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.19" endTime="2.725">
+<Sync time="1.19"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.725" endTime="10.223">
+<Sync time="2.725"/>
+dzień dobry pięćset trzy autobus z Ursynowa tu 
+<Event desc="*" type="pronounce" extent="begin"/>
+przy
+<Event desc="*" type="pronounce" extent="end"/>
+ Targowiska Na Skraju w stronę Centrum o której jest teraz mniej więcej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.223" endTime="16.482">
+<Sync time="10.223"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ najbliższy jest trzynasta czterdzieści siedem i czternasta siedem 
+</Turn>
+<Turn speaker="spk2" startTime="16.482" endTime="17.945">
+<Sync time="16.482"/>
+czternasta 
+</Turn>
+<Turn speaker="spk1" startTime="17.945" endTime="18.92">
+<Sync time="17.945"/>
+zero siedem
+</Turn>
+<Turn speaker="spk2" startTime="18.92" endTime="19.532">
+<Sync time="18.92"/>
+siedem
+</Turn>
+<Turn speaker="spk1" startTime="19.532" endTime="20.09">
+<Sync time="19.532"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="20.09" endTime="22.626">
+<Sync time="20.09"/>
+a sto sześćdziesiąt sześć taki też jest 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="22.626" endTime="25.067">
+<Sync time="22.626"/>
+sto sześćdziesiąt sześć 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.067" endTime="25.858">
+<Sync time="25.067"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ jest chyba później 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.858" endTime="27.58">
+<Sync time="25.858"/>
+czternasta zero zero jest
+</Turn>
+<Turn speaker="spk2" startTime="27.58" endTime="29.14">
+<Sync time="27.58"/>
+czterna
+<Event desc="~" type="lexical" extent="begin"/>
+sta
+<Event desc="~" type="lexical" extent="end"/>
+ ale ten jest szybszy 
+</Turn>
+<Turn speaker="spk1" startTime="29.14" endTime="30.417">
+<Sync time="29.14"/>
+no tak ten 
+<Event desc="babble" type="noise" extent="begin"/>
+ szybsz
+<Event desc="~" type="lexical" extent="begin"/>
+y
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="30.417" endTime="30.837">
+<Sync time="30.417"/>
+dziękuję bar
+<Event desc="~" type="lexical" extent="begin"/>
+dzo
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.837" endTime="31.663">
+<Sync time="30.837"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="31.663" endTime="32.073">
+<Sync time="31.663"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+do
+<Event desc="*" type="pronounce" extent="end"/>
+ widze
+<Event desc="~" type="lexical" extent="begin"/>
+nia
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="32.073" endTime="32.769">
+<Sync time="32.073"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ do 
+<Event desc="babble" type="noise" extent="end"/>
+ widzenia
+</Turn>
+<Turn startTime="32.769" endTime="34.869">
+<Sync time="32.769"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

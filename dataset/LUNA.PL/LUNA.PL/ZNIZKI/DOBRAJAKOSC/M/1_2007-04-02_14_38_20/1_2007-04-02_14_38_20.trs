@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-02_14_38_20" version="4" version_date="070926">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="267.483" topic="to1">
+<Turn startTime="0" endTime="0.756">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.756" endTime="2.599">
+<Sync time="0.756"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.599" endTime="3.914">
+<Sync time="2.599"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry panie xxx 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3.914" endTime="4.389">
+<Sync time="3.914"/>
+dzień dobry
+</Turn>
+<Turn speaker="spk2 spk1" startTime="4.389" endTime="20.175">
+<Sync time="4.389"/>
+<Who nb="1"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.175" endTime="28.314">
+<Sync time="20.175"/>
+proszę mi powiedzieć taka sytuacja facet jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ rencistą znaczy nie jest rencistą w sensie 
+zusowskim ma ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ orzeczony stopień niepełnosprawności
+</Turn>
+<Turn speaker="spk1" startTime="28.314" endTime="30.878">
+<Sync time="28.314"/>
+a jaki to stopień 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="30.878" endTime="31.605">
+<Sync time="30.878"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ umiarkowany
+</Turn>
+<Turn speaker="spk1" startTime="31.605" endTime="32.316">
+<Sync time="31.605"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="32.316" endTime="50.691">
+<Sync time="32.316"/>
+i 
+<Event desc="*" type="pronounce" extent="begin"/>
+chciałbym
+<Event desc="*" type="pronounce" extent="end"/>
+ wykombinować takie rozwiązanie dla niego 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ żeby było dla niego jak najtaniej dojeżdżać od o kartę miejską chciałby chciałbym mieć na najlepszych warunkach 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jego problemem jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ też dojazd z Warszawy do Pruszkowa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ i i 
+<Event desc="noise" type="noise" extent="end"/>
+ chodzi o kolejkę 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+W K D
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ i 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+S K M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="50.691" endTime="60.606">
+<Sync time="50.691"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="60.606" endTime="64.524">
+<Sync time="60.606"/>
+proszę pana 
+<Event desc="*" type="pronounce" extent="begin"/>
+tutaj
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy ta osoba ukończyła dwudziesty szósty rok życia 
+<Event desc="babble" type="noise" extent="begin"/>
+ już 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="64.524" endTime="65.627">
+<Sync time="64.524"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+tak tak
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="65.627" endTime="69.616">
+<Sync time="65.627"/>
+oj to tutaj to niestety tylko bilety normalne będą przys
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+ugiwały jeżeli nie jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ rencistą
+</Turn>
+<Turn speaker="spk2" startTime="69.616" endTime="72.889">
+<Sync time="69.616"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha nie jest rencistą w sensie nie ma 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ świadczenia 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ rentowego 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="72.889" endTime="73.218">
+<Sync time="72.889"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="73.218" endTime="74.618">
+<Sync time="73.218"/>
+tak tak więc proszę 
+<Event desc="babble" type="noise" extent="begin"/>
+ pana 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="74.618" endTime="78.183">
+<Sync time="74.618"/>
+ legitymację 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ czyli samo 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ samo 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ orzeczenie
+</Turn>
+<Turn speaker="spk1" startTime="78.183" endTime="79.253">
+<Sync time="78.183"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ samo orzeczenie tutaj jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="79.253" endTime="79.865">
+<Sync time="79.253"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie wystarcza 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="79.865" endTime="81.423">
+<Sync time="79.865"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie wystarczy tutaj niestety 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="81.423" endTime="264.030">
+<Sync time="81.423"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="264.030" endTime="264.601">
+<Sync time="264.030"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="264.601" endTime="265.439">
+<Sync time="264.601"/>
+dziękuję do widzenia
+</Turn>
+<Turn startTime="265.439" endTime="267.483">
+<Sync time="265.439"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

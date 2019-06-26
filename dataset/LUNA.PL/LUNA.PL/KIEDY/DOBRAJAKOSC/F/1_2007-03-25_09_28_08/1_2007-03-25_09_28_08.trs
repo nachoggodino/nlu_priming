@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_09_28_08" version="4" version_date="091207">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="37.498" topic="to1">
+<Turn startTime="0" endTime="0.64">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="0.64" endTime="2.176">
+<Sync time="0.64"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.176" endTime="11.746">
+<Sync time="2.176"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry panu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chciałabym się dowiedzieć o której odjeżdża pięćset dziesięć autobus z 
+<Event desc="noise" type="noise" extent="begin"/>
+ przystanku nie wiem Świętokrzyska bodajże albo Femina się nazywa ten 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Tarchomina
+</Turn>
+<Turn speaker="spk1" startTime="11.746" endTime="13.644">
+<Sync time="11.746"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ten
+</Turn>
+<Turn speaker="spk2" startTime="13.644" endTime="14.01">
+<Sync time="13.644"/>
+oj
+</Turn>
+<Turn speaker="spk1" startTime="14.01" endTime="18.827">
+<Sync time="14.01"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ bo on ma w ogóle przystanek z Centralnego jak rusza potem ma przy Rondzie 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+O N Z
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ na Jana Pawła
+</Turn>
+<Turn speaker="spk2" startTime="18.827" endTime="23.204">
+<Sync time="18.827"/>
+tak tak a następ
+<Event desc="~" type="lexical" extent="begin"/>
+ny
+<Event desc="~" type="lexical" extent="end"/>
+ a następny na następnym 
+<Event desc="noise" type="noise" extent="begin"/>
+ mówię 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.204" endTime="24.396">
+<Sync time="23.204"/>
+przy kinie 
+<Event desc="noise" type="noise" extent="begin"/>
+ Femina 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.396" endTime="26.116">
+<Sync time="24.396"/>
+dokładnie 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.116" endTime="27.747">
+<Sync time="26.116"/>
+i to ma być teraz 
+<Event desc="noise" type="noise" extent="begin"/>
+ najbliższe 
+<Event desc="noise" type="noise" extent="end"/>
+ tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="27.747" endTime="28.695">
+<Sync time="27.747"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="28.695" endTime="32.017">
+<Sync time="28.695"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dziewiąta czterdzieści osiem potem dziesiąta osiem
+</Turn>
+<Turn speaker="spk2" startTime="32.017" endTime="34.284">
+<Sync time="32.017"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dziewiąta czterdzieści osiem 
+<Event desc="noise" type="noise" extent="end"/>
+ dobrze dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="34.284" endTime="35.175">
+<Sync time="34.284"/>
+<Who nb="1"/>
+panu bardzo 
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="35.175" endTime="35.74">
+<Sync time="35.175"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.74" endTime="36.242">
+<Sync time="35.74"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="36.242" endTime="37.498">
+<Sync time="36.242"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

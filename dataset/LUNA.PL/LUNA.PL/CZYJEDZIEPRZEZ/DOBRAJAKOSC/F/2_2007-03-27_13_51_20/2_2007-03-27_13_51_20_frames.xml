@@ -1,0 +1,93 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="GET" head="dostać">
+    <Frame fe="1" span="word_14..word_15" concept_id="6" name="GOAL" />
+    <Frame fe="2" span="word_16..word_18" concept_id="7" name="SOURCE" />
+  </Set>
+  <Set id="2" subset="1" span="word_31" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_30" concept_id="11" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="2" span="word_32..word_34" concept_id="13" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_54" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_53" concept_id="25" name="PLACE" />
+    <Frame fe="2" span="word_55..word_56" concept_id="27" name="ENTITY" />
+    <Frame fe="3" span="word_57..word_59" concept_id="28" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_66" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_68..word_69" concept_id="34" name="TOPIC" />
+  </Set>
+  <Set id="5" subset="3" span="word_72" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_71" concept_id="35" name="SELF_MOVER" />
+    <Frame fe="2" span="word_73..word_75" concept_id="37" name="GOAL" />
+    <Frame fe="3" span="word_78..word_79" concept_id="38" name="GOAL" />
+  </Set>
+  <Set id="6" subset="1" span="word_125" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_121..word_122" concept_id="56" name="THEME" />
+    <Frame fe="2" span="word_126" concept_id="59" name="POSITION" />
+    <Frame fe="3" span="word_127" concept_id="60" name="PLACE" />
+  </Set>
+  <Set id="7" subset="1" span="word_130" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_131" concept_id="63" name="POSITION" />
+  </Set>
+  <Set id="8" subset="2" span="word_143" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_140" concept_id="65" name="SELF_MOVER" />
+    <Frame fe="2" span="word_142" concept_id="66" name="FREQUENCY" />
+  </Set>
+  <Set id="9" subset="1" span="word_148" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_145..word_147" concept_id="69" name="FREQUENCY" />
+  </Set>
+  <Set id="10" subset="1" span="word_151" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_149..word_150" concept_id="71" name="THEME" />
+    <Frame fe="2" span="word_152" concept_id="73" name="FREQUENCY" />
+  </Set>
+  <Set id="11" subset="1" span="word_154" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_153" concept_id="74" name="THEME" />
+    <Frame fe="2" span="word_155" concept_id="76" name="FREQUENCY" />
+  </Set>
+  <Set id="12" subset="1" span="word_172" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_173,word_174..word_176" concept_id="87,88" name="PHENOMENON" />
+  </Set>
+  <Set id="13" subset="1" span="word_179" frame="DEPARTING" head="wyruszać">
+    <Frame fe="1" span="word_177" concept_id="89" name="TIME" />
+    <Frame fe="2" span="word_178" concept_id="90" name="THEME" />
+  </Set>
+  <Set id="14" subset="1" span="word_194" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_191..word_193" concept_id="95" name="THEME" />
+    <Frame fe="2" span="word_195..word_197" concept_id="97" name="TIME" />
+  </Set>
+  <Set id="15" subset="1" span="word_200" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_201..word_202" concept_id="101" name="TIME" />
+  </Set>
+  <Set id="16" subset="1" span="word_218" frame="DEPARTING" head="wychodzić">
+    <Frame fe="1" span="word_215..word_216" concept_id="109" name="PLACE" />
+    <Frame fe="2" span="word_220..word_221" concept_id="112" name="SOURCE" />
+  </Set>
+  <Set id="17" subset="3" span="word_225" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_226..word_227" concept_id="114" name="ENTITY" />
+  </Set>
+  <Set id="18" subset="1" span="word_240" frame="ARRIVING" head="dojeżdżać">
+    <Frame fe="1" span="word_233" concept_id="119" name="THEME" />
+    <Frame fe="2" span="word_234..word_237" concept_id="120" name="GOAL" />
+  </Set>
+  <Set id="19" subset="1" span="word_253" frame="MOTION" head="mieć">
+    <Frame fe="1" span="word_247" concept_id="124" name="THEME" />
+    <Frame fe="2" span="word_255" concept_id="126" name="PATH" />
+  </Set>
+  <Set id="20" subset="1" span="word_257" frame="MOTION" head="mieć">
+    <Frame fe="1" span="word_258" concept_id="128" name="PATH" />
+  </Set>
+  <Set id="21" subset="1" span="word_263" frame="MOTION" head="mieć">
+    <Frame fe="1" span="word_261" concept_id="129" name="THEME" />
+    <Frame fe="2" span="word_264" concept_id="131" name="PATH" />
+  </Set>
+  <Set id="22" subset="1" span="word_266" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_268" concept_id="133" name="POSITION" />
+    <Frame fe="2" span="word_269" concept_id="134" name="PLACE" />
+  </Set>
+  <Set id="23" subset="1" span="word_287" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_288" concept_id="143" name="GOAL" />
+  </Set>
+  <Set id="24" subset="2" span="word_316" frame="ARRIVING" head="dojeżdżać">
+    <Frame fe="1" span="word_313..word_315" concept_id="152" name="GOAL" />
+    <Frame fe="2" span="word_317" concept_id="154" name="GOAL" />
+  </Set>
+</Frames>

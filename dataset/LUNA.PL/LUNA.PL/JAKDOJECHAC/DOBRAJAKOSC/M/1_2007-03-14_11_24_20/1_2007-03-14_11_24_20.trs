@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_11_24_20" version="4" version_date="071227">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="40.498" topic="to1">
+<Turn startTime="0" endTime="1.208">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.208" endTime="2.703">
+<Sync time="1.208"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.703" endTime="9.614">
+<Sync time="2.703"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry panu chciałbym się dowiedzieć jak teraz najszybciej dojechać z przystanku Okopowa na przystanek Aspekt 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.614" endTime="25.624">
+<Sync time="9.614"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ na przystanek 
+<Event desc="noise" type="noise" extent="end"/>
+ Aspekt 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to najszybciej będzie z przesiadką proszę dojechać dwadzieścia dwa 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ na Broniewskiego proszę się przesiąść 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na Piaskach w pięćset dwadzieścia albo w 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dwieście jeden 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.624" endTime="29.13">
+<Sync time="25.624"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="en" type="language" extent="begin"/>
+okey
+<Event desc="en" type="language" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a teraz wsiadam w dwadzieścia dwa
+</Turn>
+<Turn speaker="spk1" startTime="29.13" endTime="32.906">
+<Sync time="29.13"/>
+no to tak no to proszę dojechać na 
+<Event desc="babble" type="noise" extent="begin"/>
+ Broniewskiego 
+<Event desc="babble" type="noise" extent="end"/>
+ do przystanku Piaski
+</Turn>
+<Turn speaker="spk2" startTime="32.906" endTime="33.402">
+<Sync time="32.906"/>
+dobra
+</Turn>
+<Turn speaker="spk1" startTime="33.402" endTime="34.689">
+<Sync time="33.402"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i tam się przesiąść 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="34.689" endTime="36.432">
+<Sync time="34.689"/>
+rozumiem bardzo serdecznie dziękuję 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="36.432" endTime="37.132">
+<Sync time="36.432"/>
+<Who nb="1"/>
+do widzenia
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="37.132" endTime="37.733">
+<Sync time="37.132"/>
+do widzenia
+</Turn>
+<Turn startTime="37.733" endTime="40.498">
+<Sync time="37.733"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,37 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_10" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_11" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_12..word_14" attribute="Q_FARE" value="DOCUMENT_TITLE" />
+  <concept id="7" span="word_16" attribute="REACTION" value="Negation" />
+  <concept id="8" span="word_23" attribute="PERSON" value="General" />
+  <concept id="9" span="word_24" attribute="ACTION" value="End" />
+  <concept id="10" span="word_25..word_26" attribute="AGE" value="70" />
+  <concept id="11" span="word_27" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="12" span="word_28..word_29" attribute="ACTION" value="BeEntitled" />
+  <concept id="13" span="word_30" attribute="PERSON" value="General" />
+  <concept id="14" span="word_31..word_32" attribute="FARE" value="Free" />
+  <concept id="15" span="word_34" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="16" span="word_35" attribute="REACTION" value="Confirmation" />
+  <concept id="17" span="word_36" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_41..word_44" attribute="DATE_BEG_REL" value="Birthday" />
+  <concept id="19" span="word_45..word_46" attribute="FARE" value="Free" />
+  <concept id="20" span="word_49..word_52" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="21" span="word_56" attribute="ACTION" value="Tell" />
+  <concept id="22" span="word_63" attribute="METRO" value="General" />
+  <concept id="23" span="word_67" attribute="METRO" value="General" />
+  <concept id="24" span="word_72" attribute="BUILDING_PART" value="Lift" />
+  <concept id="25" span="word_73" attribute="ACTION" value="Use" />
+  <concept id="26" span="word_76" attribute="ACTION" value="Come" />
+  <concept id="27" span="word_77..word_79" attribute="GOAL_BLD" value="CustomerService" />
+  <concept id="28" span="word_81" attribute="ACTION" value="Request" />
+  <concept id="29" span="word_83..word_86" attribute="TICKET" value="TICKET_METRO_ENTR" />
+  <concept id="30" span="word_87" attribute="REACTION" value="Confirmation" />
+  <concept id="31" span="word_92..word_93" attribute="TICKET" value="TICKET_METRO_ENTR" />
+  <concept id="32" span="word_94" attribute="REACTION" value="Confirmation" />
+  <concept id="33" span="word_95" attribute="REACTION" value="Confirmation" />
+  <concept id="34" span="word_103..word_104" attribute="CONV_FORM" value="BYE" />
+  <concept id="35" span="word_105..word_106" attribute="CONV_FORM" value="BYE" />
+</concepts>

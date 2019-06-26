@@ -1,0 +1,27 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="GET" head="dostać">
+    <Frame fe="1" span="word_11" concept_id="5" name="MANNER" />
+    <Frame fe="2" span="word_14..word_17" concept_id="7" name="SOURCE" />
+    <Frame fe="3" span="word_18..word_20" concept_id="8" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_25" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_24" concept_id="11" name="LOCATION" />
+    <Frame fe="2" span="word_27" concept_id="13" name="THEME" />
+  </Set>
+  <Set id="3" subset="1" span="word_39" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_33,word_34..word_36,word_37..word_38" concept_id="15,16,17" name="PLACE" />
+    <Frame fe="2" span="word_40..word_42" concept_id="19" name="THEME" />
+  </Set>
+  <Set id="4" subset="1" span="word_60" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_58" concept_id="27" name="THEME" />
+    <Frame fe="2" span="word_61" concept_id="29" name="POSITION" />
+    <Frame fe="3" span="word_62..word_66" concept_id="30" name="PLACE" />
+  </Set>
+  <Set id="5" subset="1" span="word_72" frame="REFFERING_BY_NAME" head="nazywać">
+    <Frame fe="1" span="word_70..word_71" concept_id="31" name="ENTITY" />
+    <Frame fe="2" span="word_74" concept_id="33" name="NAME" />
+  </Set>
+  <Set id="6" subset="1" span="word_83" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_84..word_86" concept_id="39" name="ENTITY" />
+  </Set>
+</Frames>

@@ -1,0 +1,14 @@
+<Frames>
+  <Set id="1" subset="1" span="word_14" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_11..word_13" concept_id="5" name="TIME" />
+    <Frame fe="2" span="word_15..word_17" concept_id="7" name="ENTITY" />
+    <Frame fe="3" span="word_18..word_21,word_22" concept_id="8,9" name="PLACE" />
+    <Frame fe="4" span="word_24..word_25" concept_id="10" name="PLACE" />
+    <Frame fe="5" span="word_26..word_28" concept_id="11" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="2" subset="2" span="word_30" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_31..word_32" concept_id="13" name="PLACE" />
+    <Frame fe="2" span="word_33..word_34" concept_id="14" name="CIRCUMSTANCES" />
+    <Frame fe="3" span="word_35..word_37" concept_id="15" name="TIME" />
+  </Set>
+</Frames>

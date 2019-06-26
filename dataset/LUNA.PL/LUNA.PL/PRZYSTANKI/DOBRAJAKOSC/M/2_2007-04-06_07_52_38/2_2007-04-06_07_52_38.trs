@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-06_07_52_38" version="4" version_date="080112">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="39.498" topic="to1">
+<Turn startTime="0" endTime="0.73">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.73" endTime="2.190">
+<Sync time="0.73"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.190" endTime="12.443">
+<Sync time="2.190"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry ja mam 
+<Event desc="*" type="pronounce" extent="begin"/>
+takie
+<Event desc="*" type="pronounce" extent="end"/>
+ pytanie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jadąc dwudziestką piątką z Dworca Wileńskiego żeby wysiąść koło Stadionu Dziesięciolecia 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to trza na jakim przystanku
+</Turn>
+<Turn speaker="spk1" startTime="12.443" endTime="16.67">
+<Sync time="12.443"/>
+ale pan chce do Stadionu Dziesięciolecia do 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+P K S
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+u 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.67" endTime="19.65">
+<Sync time="16.67"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to znaczy nie po prostu żeby na Stadion 
+</Turn>
+<Turn speaker="spk1" startTime="19.65" endTime="20.811">
+<Sync time="19.65"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ na ten 
+<Event desc="babble" type="noise" extent="end"/>
+ targ tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.811" endTime="21.239">
+<Sync time="20.811"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="21.239" endTime="27.278">
+<Sync time="21.239"/>
+to najlepiej wysiąść 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bo chodzi o samą tam żeby na górę na Stadion wejść 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="27.278" endTime="30.142">
+<Sync time="27.278"/>
+ to znaczy tam na te bazary na Stadion na koronę no
+</Turn>
+<Turn speaker="spk1" startTime="30.142" endTime="33.058">
+<Sync time="30.142"/>
+aha czyli to przystanek będzie Rondo Waszyngtona
+</Turn>
+<Turn speaker="spk2" startTime="33.058" endTime="35.144">
+<Sync time="33.058"/>
+Rondo Waszyngtona i stamtąd najbliżej tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.144" endTime="35.672">
+<Sync time="35.144"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="35.672" endTime="36.804">
+<Sync time="35.672"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+dobrze
+<Event desc="*" type="pronounce" extent="end"/>
+ dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="36.804" endTime="37.699">
+<Sync time="36.804"/>
+<Who nb="1"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ do widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="37.699" endTime="38.077">
+<Sync time="37.699"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="38.077" endTime="39.498">
+<Sync time="38.077"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

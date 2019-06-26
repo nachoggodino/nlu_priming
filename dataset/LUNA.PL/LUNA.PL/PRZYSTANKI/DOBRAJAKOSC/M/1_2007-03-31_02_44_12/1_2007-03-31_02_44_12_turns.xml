@@ -1,0 +1,24 @@
+<Turns>
+  <Turn id="1" speaker="spk1" startTime="0.754" endTime="2.627" words="word_1..word_2" />
+  <Turn id="2" speaker="spk2" startTime="2.627" endTime="2.881" words="word_3" />
+  <Turn id="3" speaker="spk2" startTime="2.881" endTime="3.477" words="word_4" />
+  <Turn id="4" speaker="spk1" startTime="2.881" endTime="3.477" words="word_5" />
+  <Turn id="5" speaker="spk1" startTime="3.477" endTime="3.945" words="word_6" />
+  <Turn id="6" speaker="spk2" startTime="3.945" endTime="12.011" words="word_7..word_24" />
+  <Turn id="7" speaker="spk1" startTime="12.011" endTime="14.184" words="word_25..word_28" />
+  <Turn id="8" speaker="spk2" startTime="14.184" endTime="14.611" words="word_29" />
+  <Turn id="9" speaker="spk1" startTime="14.184" endTime="14.611" words="word_30" />
+  <Turn id="10" speaker="spk1" startTime="14.611" endTime="18.355" words="word_31..word_33" />
+  <Turn id="11" speaker="spk2" startTime="18.355" endTime="20.072" words="word_34..word_39" />
+  <Turn id="12" speaker="spk1" startTime="20.072" endTime="21.901" words="word_40..word_43" />
+  <Turn id="13" speaker="spk2" startTime="21.901" endTime="24.107" words="word_44..word_47" />
+  <Turn id="14" speaker="spk1" startTime="24.107" endTime="27.449" words="word_48..word_55" />
+  <Turn id="15" speaker="spk2" startTime="27.449" endTime="30.453" words="word_56..word_64" />
+  <Turn id="16" speaker="spk1" startTime="30.453" endTime="35.307" words="word_65..word_73" />
+  <Turn id="17" speaker="spk2" startTime="35.307" endTime="35.597" words="word_74..word_75" />
+  <Turn id="18" speaker="spk1" startTime="35.597" endTime="37.755" words="word_76..word_81" />
+  <Turn id="19" speaker="spk2" startTime="37.755" endTime="38.736" words="word_82..word_84" />
+  <Turn id="20" speaker="spk1" startTime="38.736" endTime="39.532" words="word_85..word_86" />
+  <Turn id="21" speaker="spk1" startTime="39.532" endTime="40.628" words="word_87..word_89" />
+  <Turn id="22" speaker="spk2" startTime="39.532" endTime="40.628" words="word_90" />
+</Turns>

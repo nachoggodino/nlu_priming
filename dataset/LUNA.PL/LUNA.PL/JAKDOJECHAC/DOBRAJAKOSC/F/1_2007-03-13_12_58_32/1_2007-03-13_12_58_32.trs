@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-13_12_58_32" version="6" version_date="071204">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="79.495" topic="to1">
+<Turn startTime="0" endTime="0.388">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.388" endTime="1.838">
+<Sync time="0.388"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.838" endTime="13.098">
+<Sync time="1.838"/>
+dzień dobry ja chcę zapytać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ żeby być na Dworcu Zachodnim 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Sadyby na Dworzec Zachodni na piętnastą trzydzieści to jak mam jechać i
+</Turn>
+<Turn speaker="spk1" startTime="13.098" endTime="15.346">
+<Sync time="13.098"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale od pętli 
+<Event desc="babble" type="noise" extent="end"/>
+ Sadyba 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.346" endTime="16.334">
+<Sync time="15.346"/>
+od Sadyby
+</Turn>
+<Turn speaker="spk1" startTime="16.334" endTime="19.453">
+<Sync time="16.334"/>
+ale z pętli tej na Sadybie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="19.453" endTime="22.161">
+<Sync time="19.453"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ z pętli 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ od ulicy Bonifacego
+</Turn>
+<Turn speaker="spk1" startTime="22.161" endTime="25.291">
+<Sync time="22.161"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Bonifacego gdzie przy Klarysewskiej przy Sobieskiego 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.291" endTime="26.086">
+<Sync time="25.291"/>
+przy Klarysews
+<Event desc="~" type="lexical" extent="begin"/>
+kiej
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.086" endTime="29.068">
+<Sync time="26.086"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ przy 
+<Event desc="babble" type="noise" extent="end"/>
+ Klarysewskiej i na którą ma pani być 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="29.068" endTime="30.598">
+<Sync time="29.068"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na piętnastą trzydzieści
+</Turn>
+<Turn speaker="spk2 spk1" startTime="30.598" endTime="31.417">
+<Sync time="30.598"/>
+<Who nb="1"/>
+już mam 
+<Who nb="2"/>
+na piętnastą
+</Turn>
+<Turn speaker="spk1" startTime="31.417" endTime="38.667">
+<Sync time="31.417"/>
+ trzydzieści 
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy jest bezpośredni autobus tam na pętlę na Zachodni sto siedemdziesiąt dwa on jedzie oko
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+o czterdziestu minut
+</Turn>
+<Turn speaker="spk2" startTime="38.667" endTime="40.544">
+<Sync time="38.667"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.544" endTime="45.465">
+<Sync time="40.544"/>
+z Klarysewskiej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ piętnasta trzydzieści tam 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ na miejscu tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="45.465" endTime="47.482">
+<Sync time="45.465"/>
+tak 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="47.482" endTime="54.449">
+<Sync time="47.482"/>
+proszę pani no jest czternasta czterdzieści dwa wtedy chyba byłby najbezpieczniejszy bo później jest 
+<Event desc="*" type="pronounce" extent="begin"/>
+pięćdziesiąt 
+<Event desc="*" type="pronounce" extent="end"/>
+ jeden 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="54.449" endTime="56.129">
+<Sync time="54.449"/>
+czternasta czterdzieści dwa
+</Turn>
+<Turn speaker="spk1" startTime="56.129" endTime="62.027">
+<Sync time="56.129"/>
+tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ trzydzieści pięć do czterdziestu minut jedzie 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="62.027" endTime="62.889">
+<Sync time="62.027"/>
+a wcześniejszy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="62.889" endTime="65.268">
+<Sync time="62.889"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czternasta dwadzieścia dziewięć
+</Turn>
+<Turn speaker="spk2" startTime="65.268" endTime="69.671">
+<Sync time="65.268"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+czternasta
+<Event desc="*" type="pronounce" extent="end"/>
+ dwadzieścia dziewięć 
+<Event desc="noise" type="noise" extent="begin"/>
+ dwadzieścia dziewięć czterdzieści dwa i pięćdziesiąt jeden 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="69.671" endTime="70.15">
+<Sync time="69.671"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="70.15" endTime="76.034">
+<Sync time="70.15"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ dobrze to dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="76.034" endTime="76.982">
+<Sync time="76.034"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2 spk1" startTime="76.982" endTime="77.845">
+<Sync time="76.982"/>
+<Who nb="1"/>
+do widzenia
+<Who nb="2"/>
+do widzenia
+</Turn>
+<Turn startTime="77.845" endTime="79.495">
+<Sync time="77.845"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

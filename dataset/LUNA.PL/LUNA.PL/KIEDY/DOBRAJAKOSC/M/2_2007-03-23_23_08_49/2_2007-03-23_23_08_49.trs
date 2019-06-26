@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_23_08_49" version="3" version_date="070907">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="49.997" topic="to1">
+<Turn startTime="0" endTime="1.047">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.047" endTime="3.167">
+<Sync time="1.047"/>
+<Event desc="noise" type="noise" extent="begin"/> dobry wieczór xxx słucham <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.167" endTime="22.225">
+<Sync time="3.167"/>
+dobry wieczór proszę pana <Event desc="noise" type="noise" extent="begin"/> z ulicy <Event desc="filler" type="lexical" extent="instantaneous"/> Puławskiej <Event desc="noise" type="noise" extent="end"/> róg Wałbrzyskiej <Event desc="filler" type="lexical" extent="instantaneous"/> Lotników właściwie gdzie proszę pana <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> do Piaseczna autobus siedemset dziewięć lub siedemset dwadzieścia siedem o której godzinie będę miał teraz <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="22.225" endTime="33.301">
+<Sync time="22.225"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> patrzę <Event desc="silence" type="noise" extent="instantaneous"/> proszę pana siedemset dziewięć <Event desc="filler" type="lexical" extent="instantaneous"/> dwudziesta trzecia czterdzieści trzy <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="33.301" endTime="40.511">
+<Sync time="33.301"/>
+tak <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="40.511" endTime="44.491">
+<Sync time="40.511"/>
+dwudziesta trzecia trzynaście siedemset dwadzieścia siedem
+</Turn>
+<Turn speaker="spk2" startTime="44.491" endTime="45.578">
+<Sync time="44.491"/>
+dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="45.578" endTime="46.108">
+<Sync time="45.578"/>
+proszę bardzo
+</Turn>
+<Turn startTime="46.108" endTime="49.997">
+<Sync time="46.108"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

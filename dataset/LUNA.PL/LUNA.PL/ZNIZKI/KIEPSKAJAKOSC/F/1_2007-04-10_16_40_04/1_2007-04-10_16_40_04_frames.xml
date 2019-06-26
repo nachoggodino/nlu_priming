@@ -1,0 +1,24 @@
+<Frames>
+  <Set id="1" subset="1" span="word_18" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_14..word_17" concept_id="6" name="BENEFICIARY" />
+    <Frame fe="2" span="word_19" concept_id="8" name="PRIVILEGE" />
+    <Frame fe="3" span="word_22" concept_id="9" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="2" subset="1" span="word_40" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_26..word_29" concept_id="10" name="BENEFICIARY" />
+    <Frame fe="2" span="word_31..word_34" concept_id="11" name="TITLE" />
+    <Frame fe="3" span="word_41..word_44" concept_id="13" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="1" span="word_56" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_57" concept_id="18" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_63" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_67" concept_id="22" name="ENTITY" />
+  </Set>
+  <Set id="5" subset="2" span="word_101" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_104" concept_id="29" name="POSSESSION" />
+  </Set>
+  <Set id="6" subset="1" span="word_119" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_120" concept_id="33" name="ENTITY" />
+  </Set>
+</Frames>

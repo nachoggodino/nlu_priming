@@ -1,0 +1,35 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_13" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_15" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_16..word_18" attribute="SOURCE_STP" value="Hallera" />
+  <concept id="7" span="word_19..word_20" attribute="GOAL_TOWN" value="Warszawa" />
+  <concept id="8" span="word_21..word_22" attribute="SOURCE_TOWN" value="Marki" />
+  <concept id="9" span="word_23..word_24" attribute="BUS" value="718" />
+  <concept id="10" span="word_25..word_26" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="11" span="word_28" attribute="ACTION" value="ToHave" />
+  <concept id="12" span="word_31" attribute="ACTION" value="Check" />
+  <concept id="13" span="word_34" attribute="DEPARTURE" value="Nearest" />
+  <concept id="14" span="word_35" attribute="ACTION" value="ToBe" />
+  <concept id="15" span="word_36..word_37" attribute="AT_HOUR" value="15 : 09" />
+  <concept id="16" span="word_38" attribute="TIME_REL" value="Later" />
+  <concept id="17" span="word_39..word_41" attribute="AT_HOUR" value="15 : 33" />
+  <concept id="18" span="word_42..word_43" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="19" span="word_44" attribute="ACTION" value="ToBe" />
+  <concept id="20" span="word_45..word_47" attribute="TIME_REL" value="Now" />
+  <concept id="21" span="word_48" attribute="ACTION" value="Excuse" />
+  <concept id="22" span="word_50..word_52" attribute="AT_HOUR" value="14 : 59" />
+  <concept id="23" span="word_56" attribute="ACTION" value="BeInTime" />
+  <concept id="24" span="word_57..word_59" attribute="TIME_SPAN" value="10 min" />
+  <concept id="25" span="word_60..word_61" attribute="TIME_SPAN" value="10 min" />
+  <concept id="26" span="word_62" attribute="REACTION" value="Confirmation" />
+  <concept id="27" span="word_63" attribute="REACTION" value="Negation" />
+  <concept id="28" span="word_64" attribute="ACTION" value="Know" />
+  <concept id="29" span="word_65" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="30" span="word_66" attribute="ACTION" value="BeInTime" />
+  <concept id="31" span="word_67" attribute="REACTION" value="Confirmation" />
+  <concept id="32" span="word_73..word_74" attribute="CONV_FORM" value="BYE" />
+  <concept id="33" span="word_75..word_76" attribute="CONV_FORM" value="BYE" />
+</concepts>

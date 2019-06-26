@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-26_14_34_20" version="4" version_date="100914">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="43.997" topic="to1">
+<Turn startTime="0" endTime="0.487">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.487" endTime="1.846">
+<Sync time="0.487"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.846" endTime="7.826">
+<Sync time="1.846"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry ja chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am 
+<Event desc="*" type="pronounce" extent="begin"/>
+ustalić
+<Event desc="*" type="pronounce" extent="end"/>
+ najszybsze połączenie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Ronda 
+<Event desc="fr" type="language" extent="begin"/>
+de Gaulle
+<Event desc="fr" type="language" extent="end"/>
+a na ulicę Długą
+</Turn>
+<Turn speaker="spk1" startTime="7.826" endTime="12.738">
+<Sync time="7.826"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a ma pani numer ulicy Długiej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ bo to można albo od Placu Bankowego albo Krakowskiego 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="12.738" endTime="13.904">
+<Sync time="12.738"/>
+<Who nb="1"/>
+Przedmieścia
+<Who nb="2"/>
+to chodzi
+</Turn>
+<Turn speaker="spk2" startTime="13.904" endTime="16.423">
+<Sync time="13.904"/>
+tak od cmentarza tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ czy 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ kościoła 
+<Event desc="*" type="pronounce" extent="begin"/>
+jak
+<Event desc="*" type="pronounce" extent="end"/>
+ tam jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.423" endTime="27.004">
+<Sync time="16.423"/>
+o jeżeli od kościoła to proszę wsiąść tutaj na na Nowym Świecie przy Foksal w autobus 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto szesnaście sto dwadzieścia dwa sto osiemdziesiąt albo sto dziewięćdziesiąt pięć
+</Turn>
+<Turn speaker="spk2" startTime="27.004" endTime="29.495">
+<Sync time="27.004"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto szesnaście sto dwadzieścia dwa
+</Turn>
+<Turn speaker="spk1" startTime="29.495" endTime="36.4">
+<Sync time="29.495"/>
+sto osiemdziesiąt i sto dziewięćdziesiąt pięć i proszę dojechać do przystanku Plac Krasińskich 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="36.4" endTime="37.126">
+<Sync time="36.4"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.126" endTime="38.967">
+<Sync time="37.126"/>
+i to będzie na skrzyżowaniu z Długą
+</Turn>
+<Turn speaker="spk2" startTime="38.967" endTime="40.497">
+<Sync time="38.967"/>
+dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="40.497" endTime="41.364">
+<Sync time="40.497"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="41.364" endTime="41.996">
+<Sync time="41.364"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do usłyszenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="41.996" endTime="42.563">
+<Sync time="41.996"/>
+do usłyszenia
+</Turn>
+<Turn startTime="42.563" endTime="43.997">
+<Sync time="42.563"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

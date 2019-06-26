@@ -1,0 +1,14 @@
+<Frames>
+  <Set id="1" subset="1" span="word_7" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_10..word_13" concept_id="4" name="TOPIC" />
+    <Frame fe="2" span="word_15..word_16,word_17..word_19,word_20..word_23,word_24..word_26,word_27..word_29" concept_id="5,6,7,8,9" name="EXPLANATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_31" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_32" concept_id="12" name="ENTITY" />
+    <Frame fe="2" span="word_33..word_34" concept_id="13" name="TIME" />
+  </Set>
+  <Set id="3" subset="1" span="word_52" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_53..word_55" concept_id="22" name="TIME" />
+    <Frame fe="2" span="word_57..word_58" concept_id="23" name="TIME" />
+  </Set>
+</Frames>

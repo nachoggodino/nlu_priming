@@ -1,0 +1,39 @@
+<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_11" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="3" span="word_12..word_13" attribute="OPTION" value="DepartureTime" />
+  <concept id="4" span="word_14..word_15" attribute="OPTION" value="Route" />
+  <concept id="5" span="word_16..word_17" attribute="OPTION" value="Complaint" />
+  <concept id="6" span="word_18..word_20" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="7" span="word_21..word_22" attribute="OPTION" value="LostLuggage" />
+  <concept id="8" span="word_23..word_24" attribute="OPTION" value="OtherInformation" />
+  <concept id="9" span="word_25..word_28" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="10" span="word_29..word_30" attribute="OPTION" value="DepartureTime" />
+  <concept id="11" span="word_31..word_32" attribute="OPTION" value="Route" />
+  <concept id="12" span="word_33..word_34" attribute="OPTION" value="Complaint" />
+  <concept id="13" span="word_35..word_37" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="14" span="word_38..word_39" attribute="OPTION" value="LostLuggage" />
+  <concept id="15" span="word_40..word_41" attribute="OPTION" value="OtherInformation" />
+  <concept id="16" span="word_42..word_44" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="17" span="word_45..word_47" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="18" span="word_48..word_61" attribute="Q_FARE" value="Age 70" />
+  <concept id="19" span="word_62" attribute="REACTION" value="Negation" />
+  <concept id="20" span="word_63..word_64" attribute="REACTION" value="Negation" />
+  <concept id="21" span="word_65..word_78" attribute="Q_FARE" value="Person" />
+  <concept id="22" span="word_79..word_80" attribute="PERSON" value="OtherPerson" />
+  <concept id="23" span="word_81..word_82" attribute="PERSON" value="OtherPerson" />
+  <concept id="24" span="word_83..word_92" attribute="Q_FARE" value="Person" />
+  <concept id="25" span="word_93" attribute="PERSON" value="Disabled" />
+  <concept id="26" span="word_94" attribute="PERSON" value="Disabled" />
+  <concept id="27" span="word_95..word_109" attribute="Q_FARE" value="Age 26" />
+  <concept id="28" span="word_110" attribute="REACTION" value="Confirmation" />
+  <concept id="29" span="word_111..word_154" attribute="INFORMATION" value="FARE_Disabled" />
+  <concept id="30" span="word_155..word_157" attribute="Q_CONF" value="RepeatInformation" />
+  <concept id="31" span="word_158" attribute="REACTION" value="Confirmation" />
+  <concept id="32" span="word_159..word_202" attribute="INFORMATION" value="FARE_Disabled" />
+  <concept id="33" span="word_203..word_205" attribute="Q_CONF" value="RepeatInformation" />
+  <concept id="34" span="word_206" attribute="REACTION" value="Negation" />
+  <concept id="35" span="word_207..word_211" attribute="Q_CONF" value="OtherInformation" />
+  <concept id="36" span="word_212" attribute="REACTION" value="Negation" />
+  <concept id="37" span="word_216..word_217" attribute="CONV_FORM" value="BYE" />
+</concepts>

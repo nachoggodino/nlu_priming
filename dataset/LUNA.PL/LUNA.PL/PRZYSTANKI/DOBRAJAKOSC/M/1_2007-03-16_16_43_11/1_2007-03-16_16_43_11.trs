@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-16_16_43_11" version="1" version_date="070523">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="37.4976875" topic="to1">
+<Turn startTime="0" endTime="2.077">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2.077" endTime="2.872">
+<Sync time="2.077"/>
+dzień dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.872" endTime="20.34">
+<Sync time="2.872"/>
+dzień dobry <Event desc="noise" type="noise" extent="begin"/> ja mam takie pytanie jestem na przystanku Świętego <Event desc="*" type="pronounce" extent="begin"/>Wincentego<Event desc="*" type="pronounce" extent="end"/>  <Event desc="filler" type="lexical" extent="instantaneous"/> Świętego Wincentego przepraszam <Event desc="babble" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> Malborska dokładnie dojazd <Event desc="*" type="pronounce" extent="begin"/>Malborska<Event desc="*" type="pronounce" extent="end"/> to jest Malborska  <Event desc="babble" type="noise" extent="end"/> nie wiem i <Event desc="filler" type="lexical" extent="instantaneous"/> autobus sto dwadzieścia siedem tutaj się zatrzymuje tak <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> gdy pan mógł sprawdzić <Event desc="silence" type="noise" extent="instantaneous"/>  <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="20.34" endTime="22.016">
+<Sync time="20.34"/>
+a w jakim kierunku
+</Turn>
+<Turn speaker="spk2" startTime="22.016" endTime="28.536">
+<Sync time="22.016"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="begin"/> mówię już <Event desc="babble" type="noise" extent="begin"/> w kierunku dokładnie  <Event desc="filler" type="lexical" extent="instantaneous"/> Nowe Włochy <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="28.536" endTime="32.722">
+<Sync time="28.536"/>
+tak zatrzymuje się z tym że to jest przystanek na żądanie <Event desc="babble" type="noise" extent="begin"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> więc trzeba pomachać <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="32.722" endTime="33.018">
+<Sync time="32.722"/>
+<Event desc="noise" type="noise" extent="begin"/> tak <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="33.018" endTime="33.661">
+<Sync time="33.018"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="33.661" endTime="34.535">
+<Sync time="33.661"/>
+<Event desc="noise" type="noise" extent="begin"/> dobrze panie dziękuję <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="34.535" endTime="35.179">
+<Sync time="34.535"/>
+<Event desc="babble" type="noise" extent="begin"/> bardzo proszę <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="35.179" endTime="37.4976875">
+<Sync time="35.179"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

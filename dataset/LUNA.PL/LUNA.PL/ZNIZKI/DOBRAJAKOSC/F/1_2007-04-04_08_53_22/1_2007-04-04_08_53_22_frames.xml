@@ -1,0 +1,36 @@
+<Frames>
+  <Set id="1" subset="1" span="word_9" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_10,word_11..word_12" concept_id="4,5" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_27" frame="ENTITLED" head="należeć">
+    <Frame fe="1" span="word_20..word_22" concept_id="7" name="PRIVILEGE" />
+    <Frame fe="2" span="word_24,word_25" concept_id="8,9" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="3" subset="1" span="word_34" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_35..word_36" concept_id="14" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_45" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_40" concept_id="16" name="PRIVILEGE" />
+    <Frame fe="2" span="word_42,word_43..word_44" concept_id="17,18" name="BENEFICIARY" />
+    <Frame fe="3" span="word_48..word_52" concept_id="20" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="5" subset="1" span="word_55" frame="BECOMING" head="ukończyć">
+    <Frame fe="1" span="word_57..word_59" concept_id="22" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="6" subset="1" span="word_63..word_65" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_67..word_68" concept_id="25" name="PRIVILEGE" />
+  </Set>
+  <Set id="7" subset="1" span="word_85" frame="ENTITLED" head="korzystać">
+    <Frame fe="1" span="word_87..word_89" concept_id="33" name="TITLE" />
+  </Set>
+  <Set id="8" subset="1" span="word_93" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_95..word_96" concept_id="36" name="ENTITY" />
+  </Set>
+  <Set id="9" subset="1" span="word_114" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_110..word_113" concept_id="44" name="PRIVILEGE" />
+  </Set>
+  <Set id="10" subset="1" span="word_129" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_128" concept_id="53" name="PRIVILEGE" />
+    <Frame fe="2" span="word_130..word_134" concept_id="55" name="CIRCUMSTANCES" />
+  </Set>
+</Frames>

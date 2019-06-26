@@ -1,0 +1,37 @@
+<Frames>
+  <Set id="1" subset="1" span="word_23" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_21" concept_id="9" name="MANNER" />
+    <Frame fe="2" span="word_24..word_27" concept_id="11" name="GOAL" />
+    <Frame fe="3" span="word_28..word_30" concept_id="12" name="SOURCE" />
+  </Set>
+  <Set id="2" subset="1" span="word_40" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_36..word_38" concept_id="13" name="PLACE" />
+    <Frame fe="2" span="word_41..word_42" concept_id="16" name="ENTITY" />
+  </Set>
+  <Set id="3" subset="1" span="word_53" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_50..word_52" concept_id="18" name="SOURCE" />
+    <Frame fe="2" span="word_55..word_56" concept_id="20" name="MODE_OF_TRANSPORTATION" />
+  </Set>
+  <Set id="4" subset="1" span="word_59" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_57" concept_id="21" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="2" span="word_58" concept_id="22" name="MANNER" />
+  </Set>
+  <Set id="5" subset="1" span="word_70" frame="LASTING" head="potrwać">
+    <Frame fe="1" span="word_68..word_69" concept_id="28" name="TIME_DISTANCE" />
+  </Set>
+  <Set id="6" subset="1" span="word_85" frame="LASTING" head="potrwać">
+    <Frame fe="1" span="word_83..word_84" concept_id="31" name="TIME_DISTANCE" />
+  </Set>
+  <Set id="7" subset="1" span="word_101" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_98..word_100" concept_id="39" name="PLACE" />
+    <Frame fe="2" span="word_102..word_103" concept_id="41" name="ENTITY" />
+  </Set>
+  <Set id="8" subset="1" span="word_119" frame="HALT" head="zatrzymywać">
+    <Frame fe="1" span="word_117" concept_id="46" name="THEME" />
+    <Frame fe="2" span="word_120,word_121..word_124" concept_id="48,49" name="PLACE" />
+  </Set>
+  <Set id="9" subset="3" span="word_133" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_132" concept_id="53" name="SELF_MOVER" />
+    <Frame fe="2" span="word_134" concept_id="55" name="PATH" />
+  </Set>
+</Frames>

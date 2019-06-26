@@ -1,0 +1,34 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_12" attribute="ACTION" value="Approach" />
+  <concept id="5" span="word_13..word_15" attribute="GOAL_STR" value="Nowy Świat" />
+  <concept id="6" span="word_17" attribute="ACTION" value="GetIn" />
+  <concept id="7" span="word_18" attribute="LOCATION_REL" value="There" />
+  <concept id="8" span="word_21..word_22" attribute="BUS" value="116" />
+  <concept id="9" span="word_23" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="10" span="word_25" attribute="NUM_BUS_PART" value="2" />
+  <concept id="11" span="word_26..word_28" attribute="GOAL_DIRECTION_TD" value="Żoliborz" />
+  <concept id="12" span="word_29" attribute="ACTION" value="Request" />
+  <concept id="13" span="word_30" attribute="ACTION" value="GetOut" />
+  <concept id="14" span="word_31..word_33" attribute="LOCATION_STR" value="Plac Zamkowy" />
+  <concept id="15" span="word_34" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="16" span="word_35" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="17" span="word_36" attribute="LOCATION_REL" value="There" />
+  <concept id="18" span="word_37" attribute="ACTION" value="ToPass" />
+  <concept id="19" span="word_39" attribute="ACTION" value="ByPass" />
+  <concept id="20" span="word_40" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="21" span="word_41" attribute="ACTION" value="GoBack" />
+  <concept id="22" span="word_42..word_44" attribute="GOAL_STR" value="Plac Zamkowy" />
+  <concept id="23" span="word_46" attribute="REACTION" value="Confirmation" />
+  <concept id="24" span="word_47" attribute="REACTION" value="Confirmation" />
+  <concept id="25" span="word_50" attribute="LOCATION_REL" value="There" />
+  <concept id="26" span="word_51" attribute="ACTION" value="ByPass" />
+  <concept id="27" span="word_53" attribute="PATH_STR" value="Mazowiecka" />
+  <concept id="28" span="word_58" attribute="ACTION" value="GoBack" />
+  <concept id="29" span="word_59..word_61" attribute="GOAL_STR" value="Plac Zamkowy" />
+  <concept id="30" span="word_62" attribute="Q_CONF" value="IsIt" />
+  <concept id="31" span="word_64" attribute="REACTION" value="Confirmation" />
+  <concept id="32" span="word_65" attribute="REACTION" value="Confirmation" />
+</concepts>

@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_15_41_43" version="7" version_date="071218">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="173.989" topic="to1">
+<Turn startTime="0" endTime="0.708">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.708" endTime="1.756">
+<Sync time="0.708"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.756" endTime="4.316">
+<Sync time="1.756"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry chciałabym połączenia mogę się dowiedzieć od
+</Turn>
+<Turn speaker="spk2 spk1" startTime="4.316" endTime="4.765">
+<Sync time="4.316"/>
+<Who nb="1"/>
+pana
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="4.765" endTime="7.469">
+<Sync time="4.765"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ jest sytuacja taka jestem przy Żółkiewskiego 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="7.469" endTime="8.927">
+<Sync time="7.469"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tutaj przy Grochowskiej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="8.927" endTime="9.49">
+<Sync time="8.927"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="9.49" endTime="9.872">
+<Sync time="9.49"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="9.872" endTime="19.352">
+<Sync time="9.872"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ potrzebuję się dostać przez Most Siekierkowski najlepiej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ale potrzebuję na ulicę Zaciszną a to jest przy Świętego Bonifacego albo Bonifacego bo nie mogłam się doczytać 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="19.352" endTime="20.53">
+<Sync time="19.352"/>
+<Who nb="1"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+z Zaciszna 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.53" endTime="26.773">
+<Sync time="20.53"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ z Zacisznej tam na pewno nie ma przystanku to jest niedaleko
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Sadyba to zna
+<Event desc="~" type="lexical" extent="begin"/>
+czy
+<Event desc="~" type="lexical" extent="end"/>
+ Powsińską jedzie się 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.773" endTime="28.883">
+<Sync time="26.773"/>
+aha 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ blisko tego Sadyba 
+<Event desc="en" type="language" extent="begin"/>
+Best Mall
+<Event desc="en" type="language" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="28.883" endTime="35.606">
+<Sync time="28.883"/>
+no 
+<Event desc="*" type="pronounce" extent="begin"/>
+tylko
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="sta" type="noise" extent="begin"/>
+ potrzebuję teraz 
+<Event desc="sta" type="noise" extent="end"/>
+ tak od stu czterdziestu trzech gdzie wysiąść żeby przeciął Powsińską i pojechać w kierunku Wilanowa
+</Turn>
+<Turn speaker="spk2 spk1" startTime="35.606" endTime="37.49">
+<Sync time="35.606"/>
+<Who nb="1"/>
+jakie przystanki 
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto
+</Turn>
+<Turn speaker="spk1" startTime="37.49" endTime="42.001">
+<Sync time="37.49"/>
+czterdzieści trzy no to przystanek Aleja Witosa tak jak ZUS na Czerniakowskiej
+</Turn>
+<Turn speaker="spk2" startTime="42.001" endTime="42.701">
+<Sync time="42.001"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="42.701" endTime="44.363">
+<Sync time="42.701"/>
+i tam trzeba przesiąść się
+</Turn>
+<Turn speaker="spk2" startTime="44.363" endTime="44.819">
+<Sync time="44.363"/>
+na co
+</Turn>
+<Turn speaker="spk1" startTime="44.819" endTime="47.586">
+<Sync time="44.819"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ linia sto osiemdziesiąt pięć
+</Turn>
+<Turn speaker="spk2" startTime="47.586" endTime="47.987">
+<Sync time="47.586"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="47.987" endTime="49.843">
+<Sync time="47.987"/>
+sto trzydzieści jeden
+</Turn>
+<Turn speaker="spk2" startTime="49.843" endTime="50.130">
+<Sync time="49.843"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="50.130" endTime="53.409">
+<Sync time="50.130"/>
+sto osiemdziesiąt siedem sto osiemdziesiąt 
+</Turn>
+<Turn speaker="spk2" startTime="53.409" endTime="54.953">
+<Sync time="53.409"/>
+i to wszystko leci w tą samą
+</Turn>
+<Turn speaker="spk2 spk1" startTime="54.953" endTime="55.594">
+<Sync time="54.953"/>
+<Who nb="1"/>
+stronę
+<Who nb="2"/>
+prosto w
+</Turn>
+<Turn speaker="spk1" startTime="55.594" endTime="57.838">
+<Sync time="55.594"/>
+Powsińską jadą w kierunku właśnie tam na Sadybę
+</Turn>
+<Turn speaker="spk2" startTime="57.838" endTime="64.146">
+<Sync time="57.838"/>
+dobrze to jeszcze mógłby pan sprawdzić mi sto czterdzieści trzy o której tak mniej więcej w granicach godziny siedemna
+<Event desc="~" type="lexical" extent="begin"/>
+stej
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ szesnastej czterdzieści pię
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="64.146" endTime="65.308">
+<Sync time="64.146"/>
+a wsiadałaby pani wtedy na 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="65.308" endTime="66.981">
+<Sync time="65.308"/>
+<Who nb="1"/>
+przystanku
+<Who nb="2"/>
+Żółkiewskiego
+</Turn>
+<Turn speaker="spk1" startTime="66.981" endTime="68.967">
+<Sync time="66.981"/>
+ale on nie ma przystanku Żółkiewskiego
+</Turn>
+<Turn speaker="spk2" startTime="68.967" endTime="70.491">
+<Sync time="68.967"/>
+
+<Event desc="int" type="noise" extent="instantaneous"/>
+ a gdzie on ma w tej chwili
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="70.491" endTime="72.241">
+<Sync time="70.491"/>
+on w ogóle nie jedzie Grochowską
+</Turn>
+<Turn speaker="spk2" startTime="72.241" endTime="73.218">
+<Sync time="72.241"/>
+a on jedzie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="73.218" endTime="73.605">
+<Sync time="73.218"/>
+<Who nb="1"/>
+on jedzie
+<Who nb="2"/>
+on
+</Turn>
+<Turn speaker="spk2" startTime="73.605" endTime="74.8">
+<Sync time="73.605"/>
+tam dalej Ostrobramską 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="74.8" endTime="76.153">
+<Sync time="74.8"/>
+tak tak tak tak
+</Turn>
+<Turn speaker="spk2" startTime="76.153" endTime="80.178">
+<Sync time="76.153"/>
+dobrze czyli od od Ostrobramska róg o Jezu 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Połczyńska 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="80.178" endTime="80.86">
+<Sync time="80.178"/>
+Płowiecka róg
+</Turn>
+<Turn speaker="spk2 spk1" startTime="80.86" endTime="82.32">
+<Sync time="80.86"/>
+<Who nb="1"/>
+Płowiecka dobrze
+<Who nb="2"/>
+Płowiecka czyli przystanek
+</Turn>
+<Turn speaker="spk1" startTime="82.32" endTime="85.86">
+<Sync time="82.32"/>
+Płowiecka ten na Ostrobramskiej już i to miałoby być po której po siedemnastej tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="85.86" endTime="87.191">
+<Sync time="85.86"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie nie szesnasta czterdzieści 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="87.191" endTime="90.495">
+<Sync time="87.191"/>
+<Who nb="1"/>
+pięć że połączenia po prostu złapać
+<Who nb="2"/>
+aha szesnas
+<Event desc="~" type="lexical" extent="begin"/>
+ta
+<Event desc="~" type="lexical" extent="end"/>
+ szesnasta
+</Turn>
+<Turn speaker="spk1" startTime="90.495" endTime="92.987">
+<Sync time="90.495"/>
+czterdzieści jeden kolejny jest pięćdziesiąt sześć
+</Turn>
+<Turn speaker="spk2" startTime="92.987" endTime="94.914">
+<Sync time="92.987"/>
+dobrze to jest sto czterdzieści sześć pięćdziesiąt
+</Turn>
+<Turn speaker="spk1" startTime="94.914" endTime="96.034">
+<Sync time="94.914"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+sto czterdzieści 
+<Event desc="babble" type="noise" extent="end"/>
+ trzy
+</Turn>
+<Turn speaker="spk2" startTime="96.034" endTime="97.998">
+<Sync time="96.034"/>
+dobrze to jest sto czterdzieści trzy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="97.998" endTime="98.146">
+<Sync time="97.998"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="98.146" endTime="101.076">
+<Sync time="98.146"/>
+wysiadam na Witosa i jakbym złapała połączenie to na którą jest 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="101.076" endTime="103.181">
+<Sync time="101.076"/>
+a zaraz zobaczę ile on będzie jechał
+</Turn>
+<Turn speaker="spk2" startTime="103.181" endTime="104.227">
+<Sync time="103.181"/>
+no właśnie
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="104.227" endTime="122.742">
+<Sync time="104.227"/>
+do przystanku Aleja Witosa dwadzieścia minut 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ no i stamtąd cztery autobusy to na pewno zaraz coś będzie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ linia sto osiemdziesiąt 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ ten jeździ co dwanaście minut jest siedemnasta zero jeden 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="122.742" endTime="123.664">
+<Sync time="122.742"/>
+<Who nb="1"/>
+trzynaście
+<Who nb="2"/>
+ile 
+</Turn>
+<Turn speaker="spk2" startTime="123.664" endTime="126.13">
+<Sync time="123.664"/>
+to jest przystanków mniej więcej do tego 
+<Event desc="en" type="language" extent="begin"/>
+Best Mall
+<Event desc="en" type="language" extent="end"/>
+a ja tam nie pamiętam jak
+</Turn>
+<Turn speaker="spk1" startTime="126.13" endTime="127.526">
+<Sync time="126.13"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="127.526" endTime="128.535">
+<Sync time="127.526"/>
+to się na nie z Wincentego
+</Turn>
+<Turn speaker="spk1" startTime="128.535" endTime="155.85">
+<Sync time="128.535"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ Świętego Bonifacego 
+<Event desc="babble" type="noise" extent="end"/>
+ tak do
+<Event desc="~" type="lexical" extent="previous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ musi pani przy wysiąść na przystanku Goraszewska 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jakby pani wsiadła w sto osiemdziesiąt to jest raz dwa trzy przystanki i dla tych innych zaraz sprawdzę chyba tyle 
+<Event desc="sta" type="noise" extent="begin"/>
+samo będzie momencik 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="sta" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w przypadku linii sto osiemdziesiąt siedem i sto osiemdziesiąt pięć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to musi pani wysiąść albo przystanek Limanowskiego albo Klarysewska
+</Turn>
+<Turn speaker="spk2" startTime="155.85" endTime="157.903">
+<Sync time="155.85"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ bo ja piszę Limanowskiego
+</Turn>
+<Turn speaker="spk1" startTime="157.903" endTime="159.072">
+<Sync time="157.903"/>
+lub Klarysewska
+</Turn>
+<Turn speaker="spk2" startTime="159.072" endTime="159.592">
+<Sync time="159.072"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="159.592" endTime="162.264">
+<Sync time="159.592"/>
+od jednego do przodu od drugiego cofnąć się 
+</Turn>
+<Turn speaker="spk2" startTime="162.264" endTime="164.764">
+<Sync time="162.264"/>
+aha Klarysewska ile to minut mniej więcej
+</Turn>
+<Turn speaker="spk1" startTime="164.764" endTime="167.494">
+<Sync time="164.764"/>
+ proszę pani to jest dwa trzy przystanki
+</Turn>
+<Turn speaker="spk2 spk1" startTime="167.494" endTime="168.819">
+<Sync time="167.494"/>
+<Who nb="1"/>
+czyli do pięciu minut
+<Who nb="2"/>
+do do pięciu
+</Turn>
+<Turn speaker="spk1" startTime="168.819" endTime="169.954">
+<Sync time="168.819"/>
+minut maksymalnie
+</Turn>
+<Turn speaker="spk2" startTime="169.954" endTime="170.705">
+<Sync time="169.954"/>
+dobrze dziękuję
+</Turn>
+<Turn speaker="spk1 spk2" startTime="170.705" endTime="172.183">
+<Sync time="170.705"/>
+<Who nb="1"/>
+proszę do widzenia
+<Who nb="2"/>
+bardzo do widzenia 
+<Event desc="*" type="pronounce" extent="begin"/>
+miłego dnia
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="172.183" endTime="172.827">
+<Sync time="172.183"/>
+dziękuję wzajemnie
+</Turn>
+<Turn startTime="172.827" endTime="173.989">
+<Sync time="172.827"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

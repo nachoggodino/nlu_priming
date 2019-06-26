@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-27_12_03_36" version="4" version_date="100912">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="33.998" topic="to1">
+<Turn startTime="0" endTime="0.646">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.646" endTime="1.958">
+<Sync time="0.646"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.958" endTime="9.835">
+<Sync time="1.958"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry ja chciałem uzyskać informację autobus siedemset 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to jest przystanek Polskie Radio w stronę Śródmieścia
+</Turn>
+<Turn speaker="spk2 spk1" startTime="9.835" endTime="10.363">
+<Sync time="9.835"/>
+<Who nb="1"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+na
+</Turn>
+<Turn speaker="spk1" startTime="10.363" endTime="11.465">
+<Sync time="10.363"/>
+na Centralny jak jedzie
+</Turn>
+<Turn speaker="spk2" startTime="11.465" endTime="13.531">
+<Sync time="11.465"/>
+tak tak tak tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.531" endTime="14.503">
+<Sync time="13.531"/>
+od której 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="14.503" endTime="17.135">
+<Sync time="14.503"/>
+no nie wiem od dwunastej trzydzieści
+</Turn>
+<Turn speaker="spk1" startTime="17.135" endTime="24.419">
+<Sync time="17.135"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to jest po dwunastej trzydzieści to jest trzynasta trzydzieści trzy najbliższy a wcześniej dwunasta osiemnaście
+</Turn>
+<Turn speaker="spk2" startTime="24.419" endTime="27.37">
+<Sync time="24.419"/>
+aha dwunasta osiemnaście a później trzynasta trzydzieści tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="27.37" endTime="28.889">
+<Sync time="27.37"/>
+trzynasta trzydzieści trzy
+</Turn>
+<Turn speaker="spk2" startTime="28.889" endTime="31.627">
+<Sync time="28.889"/>
+aha trzynasta trzydzieści trzy i dwunasta osiemnaście dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="31.627" endTime="32.285">
+<Sync time="31.627"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę bardzo 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="32.285" endTime="33.998">
+<Sync time="32.285"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

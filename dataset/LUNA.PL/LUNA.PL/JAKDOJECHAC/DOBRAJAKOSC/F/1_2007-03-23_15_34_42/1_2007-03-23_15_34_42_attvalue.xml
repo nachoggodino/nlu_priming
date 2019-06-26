@@ -1,0 +1,61 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_13..word_15" attribute="PUBLIC_TRANSPORT" value="TranspMean" />
+  <concept id="6" span="word_16" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="7" span="word_22" attribute="Q_CONF" value="IsIt" />
+  <concept id="8" span="word_24" attribute="REACTION" value="Confirmation" />
+  <concept id="9" span="word_25" attribute="ACTION" value="Request" />
+  <concept id="10" span="word_26" attribute="ACTION" value="Request" />
+  <concept id="11" span="word_28" attribute="Q_HOW_TO" value="Reach" />
+  <concept id="12" span="word_29" attribute="ACTION" value="Approach" />
+  <concept id="13" span="word_30..word_32" attribute="GOAL_STR" value="Leszno" />
+  <concept id="14" span="word_33..word_39" attribute="SOURCE_CROSSROADS" value="Nowy Świat CROSS Świętokrzyska" />
+  <concept id="15" span="word_40..word_43" attribute="CROSSROADS" value="Nowy Świat CROSS Świętokrzyska" />
+  <concept id="16" span="word_44" attribute="REACTION" value="Confirmation" />
+  <concept id="17" span="word_47" attribute="ACTION" value="Go" />
+  <concept id="18" span="word_54" attribute="ACTION" value="GetIn" />
+  <concept id="19" span="word_56..word_59" attribute="BUS" value="178" />
+  <concept id="20" span="word_60..word_61" attribute="BUS" value="150" />
+  <concept id="21" span="word_62..word_64" attribute="BUS" value="155" />
+  <concept id="22" span="word_65" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="23" span="word_66..word_67" attribute="BUS" value="506" />
+  <concept id="24" span="word_68" attribute="REACTION" value="Confirmation" />
+  <concept id="25" span="word_69" attribute="ACTION" value="Go" />
+  <concept id="26" span="word_71..word_72" attribute="GOAL_STR" value="Marszałkowska" />
+  <concept id="27" span="word_73" attribute="Q_WHERE" value="TripEndPoint" />
+  <concept id="28" span="word_75..word_76" attribute="GOAL_STR" value="Marszałkowska" />
+  <concept id="29" span="word_78" attribute="REACTION" value="Confirmation" />
+  <concept id="30" span="word_79..word_82" attribute="GOAL_STP" value="Metro Świętokrzyska" />
+  <concept id="31" span="word_85" attribute="REACTION" value="Confirmation" />
+  <concept id="32" span="word_87" attribute="ACTION" value="ToPass" />
+  <concept id="33" span="word_88" attribute="STREET" value="Marszałkowska" />
+  <concept id="34" span="word_89" attribute="REACTION" value="Confirmation" />
+  <concept id="35" span="word_90" attribute="LOCATION_REL" value="There" />
+  <concept id="36" span="word_94" attribute="ACTION" value="GoBack" />
+  <concept id="37" span="word_95..word_96" attribute="GOAL_STR" value="Marszałkowska" />
+  <concept id="38" span="word_98..word_101" attribute="LOCATION_BLD" value="Domy Towarowe Centrum" />
+  <concept id="39" span="word_102..word_103" attribute="LOCATION_BLD" value="Sezam" />
+  <concept id="40" span="word_104..word_105" attribute="LOCATION_STR" value="Marszałkowska" />
+  <concept id="41" span="word_107" attribute="LOCATION_REL" value="There" />
+  <concept id="42" span="word_108..word_109" attribute="LOCATION_NEAR_BLD" value="McDonald" />
+  <concept id="43" span="word_110" attribute="REACTION" value="Confirmation" />
+  <concept id="44" span="word_111" attribute="ACTION" value="ToBe" />
+  <concept id="45" span="word_112..word_115" attribute="BUS" value="171" />
+  <concept id="46" span="word_116..word_117" attribute="NUM_BUS_PART" value="170" />
+  <concept id="47" span="word_118" attribute="Q_WHAT_NUMB" value="General" />
+  <concept id="48" span="word_120" attribute="ACTION" value="Excuse" />
+  <concept id="49" span="word_121" attribute="REACTION" value="Confirmation" />
+  <concept id="50" span="word_122..word_124" attribute="BUS" value="171" />
+  <concept id="51" span="word_125" attribute="REACTION" value="Confirmation" />
+  <concept id="52" span="word_127..word_128" attribute="BUS_REL" value="ThisBus" />
+  <concept id="53" span="word_129" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="54" span="word_131..word_133" attribute="GOAL_STR" value="Leszno" />
+  <concept id="55" span="word_134" attribute="ACTION" value="GoIn" />
+  <concept id="56" span="word_135" attribute="REACTION" value="Confirmation" />
+  <concept id="57" span="word_137" attribute="REACTION" value="Confirmation" />
+  <concept id="58" span="word_143..word_144" attribute="CONV_FORM" value="BYE" />
+  <concept id="59" span="word_147..word_148" attribute="CONV_FORM" value="BYE" />
+</concepts>

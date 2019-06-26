@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-30_14_25_56" version="4" version_date="070907">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="62.496" topic="to1">
+<Turn startTime="0" endTime="0.493">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.493" endTime="1.745">
+<Sync time="0.493"/>
+xxx dzień dobry<Event desc="int" type="noise" extent="previous"/> <Event desc="int" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="1.745" endTime="8.202">
+<Sync time="1.745"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pana chcia<Event desc="~" type="lexical" extent="begin"/>łe<Event desc="~" type="lexical" extent="end"/>m zapytać o zniżki studenckie na tramwaje i metro
+</Turn>
+<Turn speaker="spk1" startTime="8.202" endTime="8.487">
+<Sync time="8.202"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="8.487" endTime="13.077">
+<Sync time="8.487"/>
+czy cz<Event desc="~" type="lexical" extent="begin"/>y<Event desc="~" type="lexical" extent="end"/> takowe zniżki obowiązują do dwudziestego szóstego roku życia <Event desc="?" type="lexical" extent="instantaneous"/> czy czy <Event desc="int" type="noise" extent="next"/>przez cały czas <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="13.077" endTime="16.456">
+<Sync time="13.077"/>
+dla studentów uczelni polskich nie ma ograniczenia wieku
+</Turn>
+<Turn speaker="spk2" startTime="16.456" endTime="20.69">
+<Sync time="16.456"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> to znaczy nawe<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> dla uczelni prywatnych <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1 spk2" startTime="20.69" endTime="21.886">
+<Sync time="20.69"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+studiów
+</Turn>
+<Turn speaker="spk2" startTime="21.886" endTime="27.272">
+<Sync time="21.886"/>
+zaocznych <Event desc="?" type="lexical" extent="instantaneous"/> bo bo <Event desc="filler" type="lexical" extent="instantaneous"/> legitymacji studenckiej tam jest coś napisane że do dwudziestego szóstego roku życia <Event desc="int" type="noise" extent="instantaneous"/> to <Event desc="noise" type="noise" extent="begin"/> obowiązuje <Event desc="int" type="noise" extent="instantaneous"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="27.272" endTime="30.115">
+<Sync time="27.272"/>
+ale tam jest napisane że w komunikacji miejskiej <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="int" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="30.115" endTime="45.949">
+<Sync time="30.115"/>
+zaraz <Event desc="noise" type="noise" extent="begin"/> panu przeczytam <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/> <Event desc="*" type="pronounce" extent="begin"/>tu jest<Event desc="*" type="pronounce" extent="end"/> zapisane że a także uprawnia do korzystania do ukończenia dwudziestego szóstego <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> roku życia z ulgowych przejazdów środkami publicznego transportu zbiorowego autobusowego i kolejowego na podstawie odrębnych <Event desc="*" type="pronounce" extent="begin"/>przepisów<Event desc="*" type="pronounce" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="45.949" endTime="51.171">
+<Sync time="45.949"/>
+no tak to to środki tu są pekaesy i <Event desc="SPELLED" type="pronounce" extent="begin"/>P K P<Event desc="SPELLED" type="pronounce" extent="end"/> a komunikacja to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> zupełnie co innego
+</Turn>
+<Turn speaker="spk2" startTime="51.171" endTime="51.713">
+<Sync time="51.171"/>
+aha czyli
+</Turn>
+<Turn speaker="spk1" startTime="51.713" endTime="56.401">
+<Sync time="51.713"/>
+<Event desc="babble" type="noise" extent="begin"/> dla studentów <Event desc="babble" type="noise" extent="end"/> uczelni polskich nieważne czy to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> prywatna czy państwowa nie ma ograniczenia wieku
+</Turn>
+<Turn speaker="spk2" startTime="56.401" endTime="58.574">
+<Sync time="56.401"/>
+rozumiem i zniżka jest pięćdziesiąt procent
+</Turn>
+<Turn speaker="spk1" startTime="58.574" endTime="58.931">
+<Sync time="58.574"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="58.931" endTime="59.841">
+<Sync time="58.931"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dobrze dziękuję <Event desc="babble" type="noise" extent="begin"/> panu <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="59.841" endTime="60.851">
+<Sync time="59.841"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+proszę do widzenia
+</Turn>
+<Turn startTime="60.851" endTime="62.496">
+<Sync time="60.851"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

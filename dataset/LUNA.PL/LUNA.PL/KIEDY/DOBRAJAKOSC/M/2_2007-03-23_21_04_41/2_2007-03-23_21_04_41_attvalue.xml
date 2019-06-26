@@ -1,0 +1,28 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_10" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_11..word_12" attribute="CONV_FORM" value="HELLO" />
+  <concept id="6" span="word_14" attribute="ACTION" value="Request" />
+  <concept id="7" span="word_16..word_18" attribute="SKM" value="SKM" />
+  <concept id="8" span="word_19..word_20" attribute="SOURCE_TOWN" value="Pruszków" />
+  <concept id="9" span="word_21" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="10" span="word_22..word_23" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="11" span="word_24..word_25" attribute="SOURCE_TOWN" value="Pruszków" />
+  <concept id="12" span="word_26" attribute="REACTION" value="Confirmation" />
+  <concept id="13" span="word_27..word_29" attribute="Q_BEGINNING_OF_PERIOD" value="Trip" />
+  <concept id="14" span="word_31..word_33" attribute="DAYTIME_PERIOD_BEG" value="8 : 00" />
+  <concept id="15" span="word_34..word_36" attribute="DAYTIME_PERIOD_BEG" value="8 : 00" />
+  <concept id="16" span="word_37" attribute="REACTION" value="Confirmation" />
+  <concept id="17" span="word_41" attribute="ACTION" value="ToHave" />
+  <concept id="18" span="word_43..word_45" attribute="AT_HOUR" value="8 : 05" />
+  <concept id="19" span="word_46" attribute="REACTION" value="Confirmation" />
+  <concept id="20" span="word_47..word_49" attribute="AT_HOUR" value="8 : 42" />
+  <concept id="21" span="word_50" attribute="REACTION" value="Confirmation" />
+  <concept id="22" span="word_51..word_53" attribute="AT_HOUR" value="9 : 07" />
+  <concept id="23" span="word_54" attribute="REACTION" value="Confirmation" />
+  <concept id="24" span="word_57" attribute="REACTION" value="Confirmation" />
+  <concept id="25" span="word_60" attribute="CONV_FORM" value="BYE" />
+  <concept id="26" span="word_63" attribute="CONV_FORM" value="BYE" />
+</concepts>

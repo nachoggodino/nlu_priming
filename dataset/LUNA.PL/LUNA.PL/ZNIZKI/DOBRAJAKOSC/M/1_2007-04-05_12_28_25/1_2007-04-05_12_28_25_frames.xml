@@ -1,0 +1,17 @@
+<Frames>
+  <Set id="1" subset="1" span="word_7" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_10..word_12" concept_id="5" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="1" span="word_14" frame="RESIDENCE" head="mieszkać">
+    <Frame fe="1" span="word_15..word_16" concept_id="8" name="LOCATION" />
+  </Set>
+  <Set id="3" subset="1" span="word_17" frame="BECOMING" head="skończyć">
+    <Frame fe="1" span="word_18..word_19" concept_id="10" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="4" subset="1" span="word_21..word_22" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_24..word_25" concept_id="13" name="PRIVILEGE" />
+  </Set>
+  <Set id="5" subset="1" span="word_30..word_32" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_34..word_35" concept_id="16" name="PRIVILEGE" />
+  </Set>
+</Frames>

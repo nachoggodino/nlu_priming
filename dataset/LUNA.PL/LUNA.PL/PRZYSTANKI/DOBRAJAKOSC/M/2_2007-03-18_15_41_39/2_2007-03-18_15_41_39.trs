@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-18_15_41_39" version="8" version_date="091202">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="55.497" topic="to1">
+<Turn startTime="0" endTime="0.934">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.934" endTime="2.916">
+<Sync time="0.934"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx w czym 
+<Event desc="~" type="lexical" extent="begin"/>
+mo
+<Event desc="~" type="lexical" extent="end"/>
+gę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.916" endTime="8.985">
+<Sync time="2.916"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry eskaemka ten piętnasta czterdzieści coś 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z którego 
+<Event desc="*" type="pronounce" extent="begin"/>
+peronu
+<Event desc="*" type="pronounce" extent="end"/>
+ ono odjeżdża z Centrum 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="8.985" endTime="12.058">
+<Sync time="8.985"/>
+proszę pana on odjeżdża ze Śródmieścia 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="12.058" endTime="13.949">
+<Sync time="12.058"/>
+a to one nie odjeżdżają z Centrum w ogóle 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.949" endTime="20.027">
+<Sync time="13.949"/>
+nie no z przysta
+<Event desc="~" type="lexical" extent="begin"/>
+nku
+<Event desc="~" type="lexical" extent="end"/>
+ ze stacji Śródmieście odjeżdżają już od ponad dwóch miesięcy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.027" endTime="23.389">
+<Sync time="20.027"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a gdzie to matko gdzie to 
+<Event desc="~" type="lexical" extent="begin"/>
+jest
+<Event desc="~" type="lexical" extent="end"/>
+ to Śródmieście bo 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.389" endTime="28.906">
+<Sync time="23.389"/>
+Śródmieście jest obok Dworca Centralnego 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ jest 
+<Event desc="babble" type="noise" extent="end"/>
+ przejście przez perony
+</Turn>
+<Turn speaker="spk2" startTime="28.906" endTime="29.37">
+<Sync time="28.906"/>
+aha no
+</Turn>
+<Turn speaker="spk2 spk1" startTime="29.37" endTime="29.582">
+<Sync time="29.37"/>
+<Who nb="1"/>
+dobrze
+<Who nb="2"/>
+trze
+<Event desc="~" type="lexical" extent="begin"/>
+ba
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.582" endTime="35.504">
+<Sync time="29.582"/>
+peronami w kierunku w kierunku Centrum iść i będą i będzie przejście na 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Dworzec 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Śródmieście
+</Turn>
+<Turn speaker="spk2" startTime="35.504" endTime="38.86">
+<Sync time="35.504"/>
+a nim 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ piętnasta czterdzieści 
+<Event desc="*" type="pronounce" extent="begin"/>
+ile
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ dok
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+adnie ten pociąg 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.86" endTime="40.14">
+<Sync time="38.86"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w którym kierunku 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="40.14" endTime="45.765">
+<Sync time="40.14"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w kierunku Ursusa 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.765" endTime="47.834">
+<Sync time="45.765"/>
+dokładnie piętnasta czterdzieści ze 
+<Event desc="babble" type="noise" extent="begin"/>
+ Śródmieścia 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="47.834" endTime="49.176">
+<Sync time="47.834"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+następny
+<Event desc="*" type="pronounce" extent="end"/>
+ o której jest 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="49.176" endTime="50.722">
+<Sync time="49.176"/>
+szesnasta zero trzy
+</Turn>
+<Turn speaker="spk2" startTime="50.722" endTime="52.428">
+<Sync time="50.722"/>
+szesnasta zero trzy dobrze dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="52.428" endTime="52.821">
+<Sync time="52.428"/>
+bardzo
+</Turn>
+<Turn startTime="52.821" endTime="55.497">
+<Sync time="52.821"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

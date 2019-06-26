@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-04_16_01_57" version="4" version_date="071002">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="98.865" topic="to1">
+<Turn startTime="0" endTime="0.664">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.664" endTime="3.617">
+<Sync time="0.664"/>
+dzień dobry przy telefonie xxx s<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>ucham
+</Turn>
+<Turn speaker="spk2" startTime="3.617" endTime="10.356">
+<Sync time="3.617"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pana ja chciałam zapytać czy emeryci i renciści mają jakieś zniżki na przejazd <Event desc="filler" type="lexical" extent="instantaneous"/> komunikacją miejską
+</Turn>
+<Turn speaker="spk1" startTime="10.356" endTime="11.865">
+<Sync time="10.356"/>
+ta<Event desc="~" type="lexical" extent="begin"/>k<Event desc="~" type="lexical" extent="end"/> oczywiście
+</Turn>
+<Turn speaker="spk2" startTime="11.865" endTime="12.346">
+<Sync time="11.865"/>
+ile <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="12.346" endTime="24.648">
+<Sync time="12.346"/>
+emeryci i renciści mają przejazd ze z ulgą czterdzieści osiem procent <Event desc="filler" type="lexical" extent="instantaneous"/> i <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> musi być ta imienna legitymacja <Event desc="babble" type="noise" extent="begin"/> emeryta rencisty <Event desc="babble" type="noise" extent="end"/> oczywiście wraz z dokumentem <Event desc="filler" type="lexical" extent="instantaneous"/> tożsamości <Event desc="filler" type="lexical" extent="instantaneous"/> i to się prosi bilet z ulgą czterdzieści osiem procent
+</Turn>
+<Turn speaker="spk2 spk1" startTime="24.648" endTime="25.546">
+<Sync time="24.648"/>
+<Who nb="1"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dobra a
+<Who nb="2"/>
+i to takie są
+</Turn>
+<Turn speaker="spk2" startTime="25.546" endTime="28.83">
+<Sync time="25.546"/>
+<Event desc="~" type="lexical" extent="begin"/>o<Event desc="~" type="lexical" extent="end"/>soby które posiadają orzeczenie <Event desc="babble" type="noise" extent="begin"/> o niepełnosprawności <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="28.83" endTime="35.691">
+<Sync time="28.83"/>
+to znaczy musi być to orzeczenie <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> o <Event desc="*" type="pronounce" extent="begin"/>niepełnosprawności<Event desc="*" type="pronounce" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> w niepełnosprawność w stopniu znacznym
+</Turn>
+<Turn speaker="spk2" startTime="35.691" endTime="35.967">
+<Sync time="35.691"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="35.967" endTime="39.435">
+<Sync time="35.967"/>
+<Event desc="babble" type="noise" extent="begin"/> czyli <Event desc="babble" type="noise" extent="end"/> całkowita niezdolność do pracy oraz samodzielnej <Event desc="noise" type="noise" extent="begin"/> egzystencji <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="39.435" endTime="39.758">
+<Sync time="39.435"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="39.758" endTime="42.074">
+<Sync time="39.758"/>
+<Event desc="babble" type="noise" extent="begin"/> wtedy <Event desc="babble" type="noise" extent="end"/> by były przejazdy bezpłatne
+</Turn>
+<Turn speaker="spk2" startTime="42.074" endTime="45.185">
+<Sync time="42.074"/>
+tak a jeżeli nie jest po prostu o o umiarkow<Event desc="~" type="lexical" extent="begin"/>any<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="45.185" endTime="46.7">
+<Sync time="45.185"/>
+<Event desc="babble" type="noise" extent="begin"/> umiarkowany <Event desc="babble" type="noise" extent="end"/> to nie to<Event desc="int" type="noise" extent="previous"/>
+</Turn>
+<Turn speaker="spk1 spk2" startTime="46.7" endTime="47.553">
+<Sync time="46.7"/>
+<Who nb="1"/>
+ <Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+<Who nb="2"/>
+ <Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="47.553" endTime="51.521">
+<Sync time="47.553"/>
+to znaczy jeżeli ktoś pobiera rentę to na podstawie renty z tego tytułu <Event desc="filler" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="51.521" endTime="53.18">
+<Sync time="51.521"/>
+nie nie <Event desc="noise" type="noise" extent="instantaneous"/> ma tylko samą legityma<Event desc="~" type="lexical" extent="begin"/>cję<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="53.18" endTime="55.922">
+<Sync time="53.18"/>
+<Event desc="babble" type="noise" extent="begin"/> to nie proszę pani to nie ma <Event desc="babble" type="noise" extent="end"/> wtedy żadnych ulg
+</Turn>
+<Turn speaker="spk1 spk2" startTime="55.922" endTime="56.576">
+<Sync time="55.922"/>
+<Who nb="1"/>
+w opłatach
+<Who nb="2"/>
+żadnych
+</Turn>
+<Turn speaker="spk2" startTime="56.576" endTime="56.92">
+<Sync time="56.576"/>
+ul<Event desc="~" type="lexical" extent="begin"/>g<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="56.92" endTime="72.224">
+<Sync time="56.92"/>
+tak opłata normalna tylko ten <Event desc="filler" type="lexical" extent="instantaneous"/> ta niepełnosprawnoś<Event desc="~" type="lexical" extent="begin"/>ć<Event desc="~" type="lexical" extent="end"/> w stopniu znacznym <Event desc="noise" type="noise" extent="begin"/> jest <Event desc="noise" type="noise" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> tutaj bezpłatna <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> umiarkowane i lekkie to są <Event desc="filler" type="lexical" extent="instantaneous"/> no tylko jeżeli emerytura <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="begin"/> renta <Event desc="babble" type="noise" extent="end"/> jest pobierana to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> zniżka jeżeli nie jest pobierana renta nie ma żadnych
+</Turn>
+<Turn speaker="spk2" startTime="72.224" endTime="78.678">
+<Sync time="72.224"/>
+<Event desc="babble" type="noise" extent="begin"/> <Event desc="*" type="pronounce" extent="begin"/>dobra<Event desc="*" type="pronounce" extent="end"/> <Event desc="babble" type="noise" extent="end"/> <Event desc="noise" type="noise" extent="begin"/> <Event desc="*" type="pronounce" extent="begin"/>bo<Event desc="*" type="pronounce" extent="end"/> mi kiedyś właśnie w kiosku powiedziano że <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> <Event desc="int" type="noise" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> no i ja tak mówię no <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="78.678" endTime="85.639">
+<Sync time="78.678"/>
+<Event desc="babble" type="noise" extent="begin"/> no wie pani <Event desc="babble" type="noise" extent="end"/> może w kiosku się pomylili albo <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> byli niedoinformowani proszę zawsze do nas dzwonić my tu udziel<Event desc="~" type="lexical" extent="begin"/>i<Event desc="~" type="lexical" extent="end"/>my <Event desc="*" type="pronounce" extent="begin"/>informa<Event desc="~" type="lexical" extent="begin"/>cji<Event desc="~" type="lexical" extent="end"/><Event desc="*" type="pronounce" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="85.639" endTime="89.485">
+<Sync time="85.639"/>
+dobra <Event desc="babble" type="noise" extent="begin"/> czyli <Event desc="babble" type="noise" extent="end"/> tylko i wyłącznie ta jedna grupa ma
+</Turn>
+<Turn speaker="spk1" startTime="89.485" endTime="90.907">
+<Sync time="89.485"/>
+<Event desc="babble" type="noise" extent="begin"/> tak tak tak <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="90.907" endTime="92.979">
+<Sync time="90.907"/>
+<Event desc="babble" type="noise" extent="begin"/> <Event desc="~" type="lexical" extent="begin"/>na<Event desc="~" type="lexical" extent="end"/>tomiast <Event desc="babble" type="noise" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> pozostałe nie
+</Turn>
+<Turn speaker="spk1" startTime="92.979" endTime="93.563">
+<Sync time="92.979"/>
+tak <Event desc="int" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="93.563" endTime="94.458">
+<Sync time="93.563"/>
+dobra dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="94.458" endTime="95.086">
+<Sync time="94.458"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn startTime="95.086" endTime="98.865">
+<Sync time="95.086"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

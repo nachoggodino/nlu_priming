@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-03_10_10_26" version="3" version_date="071001">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="70.496" topic="to1">
+<Turn startTime="0" endTime="0.707">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.707" endTime="2.735">
+<Sync time="0.707"/>
+dzień dobry przy telefonie xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.735" endTime="14.614">
+<Sync time="2.735"/>
+no xxx z drugiej strony mam pytanie <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="begin"/> jak <Event desc="babble" type="noise" extent="end"/> w tej chwili <Event desc="filler" type="lexical" extent="instantaneous"/> jeździ sto pięćdziesiąt dziewięć od Górczewskiej w stronę Koła w sto pięćdziesiąt dziewięć dlatego że tam z tego co wiem Ciołka jest w przebudo<Event desc="~" type="lexical" extent="begin"/>wie<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="14.614" endTime="17.501">
+<Sync time="14.614"/>
+<Event desc="babble" type="noise" extent="begin"/> tak <Event desc="babble" type="noise" extent="end"/> dokładnie <Event desc="*" type="pronounce" extent="begin"/>proszę<Event desc="*" type="pronounce" extent="end"/> pana w stronę Koła tak <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="17.501" endTime="17.873">
+<Sync time="17.501"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="17.873" endTime="21.139">
+<Sync time="17.873"/>
+bo od Koła <Event desc="*" type="pronounce" extent="begin"/>jeździ<Event desc="*" type="pronounce" extent="end"/> inaczej i w stronę Koła również 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="21.139" endTime="21.618">
+<Sync time="21.139"/>
+<Who nb="1"/>
+inaczej
+<Who nb="2"/>
+no właśnie
+</Turn>
+<Turn speaker="spk2" startTime="21.618" endTime="35.468">
+<Sync time="21.618"/>
+chodzi mi o to jak ja będę chciał dojechać <Event desc="filler" type="lexical" extent="instantaneous"/> róg Ciołka <Event desc="~" type="lexical" extent="begin"/>z<Event desc="~" type="lexical" extent="end"/>naczy Ciołka <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> Ciołka z Obozową tam jest przychodnia akurat <Event desc="filler" type="lexical" extent="instantaneous"/> m<Event desc="~" type="lexical" extent="begin"/>n<Event desc="~" type="lexical" extent="end"/>ie to interesuje <Event desc="filler" type="lexical" extent="instantaneous"/> a będę chciał dojechać z Olbrachta z Redutowej tutaj
+</Turn>
+<Turn speaker="spk1" startTime="35.468" endTime="41.127">
+<Sync time="35.468"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> to znaczy proszę pana on w zamiast ulicą Ciołka będzie jechał <Event desc="filler" type="lexical" extent="instantaneous"/> ulicą Księcia Janusza
+</Turn>
+<Turn speaker="spk2" startTime="41.127" endTime="41.521">
+<Sync time="41.127"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="41.521" endTime="43.943">
+<Sync time="41.521"/>
+to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/><Event desc="int" type="noise" extent="previous"/> ulica równoległa do <Event desc="babble" type="noise" extent="begin"/> Ciołka <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="43.943" endTime="44.332">
+<Sync time="43.943"/>
+tak no
+</Turn>
+<Turn speaker="spk1" startTime="44.332" endTime="47.7">
+<Sync time="44.332"/>
+i Księcia Janusza dojedzie pan oczywiście do pętli Koło
+</Turn>
+<Turn speaker="spk2" startTime="47.7" endTime="49.629">
+<Sync time="47.7"/>
+aha do tego samego przystanku
+</Turn>
+<Turn speaker="spk1 spk2" startTime="49.629" endTime="50.257">
+<Sync time="49.629"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+którędy
+</Turn>
+<Turn speaker="spk2" startTime="50.257" endTime="51.526">
+<Sync time="50.257"/>
+bym dojechał ja<Event desc="~" type="lexical" extent="begin"/>dąc<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="51.526" endTime="55.629">
+<Sync time="51.526"/>
+<Event desc="babble" type="noise" extent="begin"/> tak tak <Event desc="babble" type="noise" extent="end"/> tylko po prostu nie będzie jechał ulicą Ciołka ty<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>ko Księcia Janusza
+</Turn>
+<Turn speaker="spk2" startTime="55.629" endTime="58.864">
+<Sync time="55.629"/>
+jasne czyli nic się nie zmieniło ani rozkład ani 
+</Turn>
+<Turn speaker="spk1" startTime="58.864" endTime="64.286">
+<Sync time="58.864"/>
+nie nie nie <Event desc="babble" type="noise" extent="begin"/> tylko <Event desc="babble" type="noise" extent="end"/> tutaj zmiana w <Event desc="filler" type="lexical" extent="instantaneous"/> na czas remontu ulicy Ciołk<Event desc="~" type="lexical" extent="begin"/>a<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="64.286" endTime="65.493">
+<Sync time="64.286"/>
+jasne dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="65.493" endTime="66.093">
+<Sync time="65.493"/>
+<Event desc="babble" type="noise" extent="begin"/> proszę <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="66.093" endTime="67.026">
+<Sync time="66.093"/>
+<Event desc="noise" type="noise" extent="begin"/> miłego dnia życzę <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="67.026" endTime="67.883">
+<Sync time="67.026"/>
+dzięku<Event desc="~" type="lexical" extent="begin"/>j<Event desc="~" type="lexical" extent="end"/>ę wza<Event desc="~" type="lexical" extent="begin"/>j<Event desc="~" type="lexical" extent="end"/>emnie
+</Turn>
+<Turn startTime="67.883" endTime="70.496">
+<Sync time="67.883"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

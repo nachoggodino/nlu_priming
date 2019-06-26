@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-31_08_53_19" version="3" version_date="071001">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="15.999" topic="to1">
+<Turn startTime="0" endTime="0.539">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.539" endTime="1.456">
+<Sync time="0.539"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry xxx
+</Turn>
+<Turn speaker="spk2" startTime="1.456" endTime="2.455">
+<Sync time="1.456"/>
+<Event desc="babble" type="noise" extent="begin"/> dzień dobry halo <Event desc="?" type="lexical" extent="instantaneous"/><Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="2.455" endTime="3.016">
+<Sync time="2.455"/>
+tak słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.016" endTime="9.144">
+<Sync time="3.016"/>
+proszę pana jaki tramwaj z ulicy Nowowi<Event desc="~" type="lexical" extent="begin"/>e<Event desc="~" type="lexical" extent="end"/>jskiej idzie <Event desc="filler" type="lexical" extent="instantaneous"/> do pętli Banacha trzydzieści pięć czy piętnastka <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="9.144" endTime="10.848">
+<Sync time="9.144"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> trzydzieści pięć do
+</Turn>
+<Turn speaker="spk1 spk2" startTime="10.848" endTime="11.829">
+<Sync time="10.848"/>
+<Who nb="1"/>
+pętli na Banacha
+<Who nb="2"/>
+trzydzieści pięć
+</Turn>
+<Turn speaker="spk1" startTime="11.829" endTime="12.173">
+<Sync time="11.829"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="12.173" endTime="12.865">
+<Sync time="12.173"/>
+dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="12.865" endTime="13.45">
+<Sync time="12.865"/>
+proszę bardzo
+</Turn>
+<Turn startTime="13.45" endTime="15.999">
+<Sync time="13.45"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

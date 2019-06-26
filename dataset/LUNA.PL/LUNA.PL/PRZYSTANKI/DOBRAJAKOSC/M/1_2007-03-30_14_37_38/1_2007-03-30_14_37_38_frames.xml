@@ -1,0 +1,29 @@
+<Frames>
+  <Set id="1" subset="1" span="word_12" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_10..word_11" concept_id="4" name="TIME" />
+    <Frame fe="2" span="word_13..word_15" concept_id="6" name="THEME" />
+  </Set>
+  <Set id="2" subset="1" span="word_16" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_17" concept_id="8" name="THEME" />
+    <Frame fe="2" span="word_18..word_21" concept_id="9" name="SOURCE" />
+    <Frame fe="3" span="word_22..word_24" concept_id="10" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_65" frame="START" head="zaczynać">
+    <Frame fe="1" span="word_62" concept_id="27" name="PLACE" />
+    <Frame fe="2" span="word_66..word_67" concept_id="30" name="THEME" />
+    <Frame fe="3" span="word_68,word_69..word_71" concept_id="31,32" name="PLACE" />
+  </Set>
+  <Set id="4" subset="2" span="word_73" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_72" concept_id="33" name="PLACE" />
+    <Frame fe="2" span="word_75,word_76" concept_id="36,37" name="POSITION" />
+    <Frame fe="3" span="word_77..word_79" concept_id="38" name="THEME" />
+  </Set>
+  <Set id="5" subset="1" span="word_87" frame="START" head="zaczynać">
+    <Frame fe="1" span="word_83..word_84" concept_id="39" name="THEME" />
+    <Frame fe="2" span="word_88..word_90" concept_id="41" name="PLACE" />
+  </Set>
+  <Set id="6" subset="1" span="word_100" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_98..word_99" concept_id="43" name="TIME" />
+    <Frame fe="2" span="word_101..word_103,word_104" concept_id="45,46" name="THEME" />
+  </Set>
+</Frames>

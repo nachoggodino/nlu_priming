@@ -1,0 +1,28 @@
+<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_10..word_13" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="3" span="word_14..word_15" attribute="OPTION" value="DepartureTime" />
+  <concept id="4" span="word_16..word_17" attribute="OPTION" value="Route" />
+  <concept id="5" span="word_18..word_19" attribute="OPTION" value="Complaint" />
+  <concept id="6" span="word_20..word_22" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="7" span="word_23..word_24" attribute="OPTION" value="LostLuggage" />
+  <concept id="8" span="word_25..word_26" attribute="OPTION" value="OtherInformation" />
+  <concept id="9" span="word_32" attribute="ACTION" value="Go" />
+  <concept id="10" span="word_35..word_43" attribute="ACTION_REQUIRED" value="Repeat" />
+  <concept id="11" span="word_44..word_47" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="12" span="word_48..word_49" attribute="OPTION" value="DepartureTime" />
+  <concept id="13" span="word_50..word_51" attribute="OPTION" value="Route" />
+  <concept id="14" span="word_52..word_53" attribute="OPTION" value="Complaint" />
+  <concept id="15" span="word_54..word_56" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="16" span="word_57..word_58" attribute="OPTION" value="LostLuggage" />
+  <concept id="17" span="word_59..word_60" attribute="OPTION" value="OtherInformation" />
+  <concept id="18" span="word_62..word_66" attribute="OPTION" value="Route" />
+  <concept id="19" span="word_67..word_68" attribute="OPTION" value="Route" />
+  <concept id="20" span="word_69..word_72" attribute="COMMAND_GIVE" value="SOURCE" />
+  <concept id="21" span="word_73..word_74" attribute="STREET" value="Plac Wilsona" />
+  <concept id="22" span="word_75..word_78" attribute="GOAL_DIRECTION_STR" value="Wybrzeże Gdańskie" />
+  <concept id="23" span="word_79..word_82" attribute="COMMAND_GIVE" value="GOAL" />
+  <concept id="24" span="word_85..word_86" attribute="STREET" value="Wybrzeże Gdańskie" />
+  <concept id="25" span="word_87..word_89" attribute="STREET" value="Aleja Armia" />
+  <concept id="26" span="word_90..word_92" attribute="ACTION_PLANNED" value="Connect" />
+</concepts>

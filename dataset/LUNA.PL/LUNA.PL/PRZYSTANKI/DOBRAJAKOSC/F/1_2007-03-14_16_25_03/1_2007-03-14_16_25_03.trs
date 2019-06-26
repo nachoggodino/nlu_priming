@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_16_25_03" version="8" version_date="100912">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="53.997" topic="to1">
+<Turn startTime="0" endTime="0.402">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.402" endTime="2.544">
+<Sync time="0.402"/>
+dzień dobry xxx 
+<Event desc="babble" type="noise" extent="begin"/>
+ słucham 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.544" endTime="15.686">
+<Sync time="2.544"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana chciałabym się zapytać czy jeżeli się tramwajem jedzie w kierunku Pragi czy ten przystanek przy Solcu jest czynny bo tam jakiś był remont na tych schodach 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ czy tam można zejść na dół
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.686" endTime="17.958">
+<Sync time="15.686"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ ale o jakim przystanku mówi 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.958" endTime="20.215">
+<Sync time="17.958"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ w Alejach Jerozolimskich przy Sol
+<Event desc="~" type="lexical" extent="begin"/>
+cu
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.215" endTime="24.042">
+<Sync time="20.215"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ przystanek 
+<Event desc="babble" type="noise" extent="end"/>
+ tak jest czynny 
+<Event desc="babble" type="noise" extent="begin"/>
+ tam na 
+<Event desc="babble" type="noise" extent="end"/>
+ na Moście Poniatowskiego
+</Turn>
+<Turn speaker="spk2" startTime="24.042" endTime="24.664">
+<Sync time="24.042"/>
+tak 
+<Event desc="noise" type="noise" extent="begin"/>
+ i te 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="24.664" endTime="25.622">
+<Sync time="24.664"/>
+<Who nb="1"/>
+schody są 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak jest czynne
+</Turn>
+<Turn speaker="spk2" startTime="25.622" endTime="26.666">
+<Sync time="25.622"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ czynne 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.666" endTime="31.016">
+<Sync time="26.666"/>
+proszę pani o schodach to niestety nie posiadam informacji przystanek normalnie funkcjonuje
+</Turn>
+<Turn speaker="spk2" startTime="31.016" endTime="35.827">
+<Sync time="31.016"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ bo tam jakiś remont był ale to musi by
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+ muszą być czynne bo inaczej by nie było przystanku 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.827" endTime="39.302">
+<Sync time="35.827"/>
+no prawdopodobnie 
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="39.302" endTime="40.963">
+<Sync time="39.302"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ i można zejść na dół na Solec 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.963" endTime="48.013">
+<Sync time="40.963"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pani tak jak powiedziałem 
+<Event desc="*" type="pronounce" extent="begin"/>
+takich
+<Event desc="*" type="pronounce" extent="end"/>
+ dokładnych informacji o remoncie schodów niestety nie posiadam przystanek działa normalnie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="48.013" endTime="49.334">
+<Sync time="48.013"/>
+i autobusowe też
+</Turn>
+<Turn speaker="spk1" startTime="49.334" endTime="50.814">
+<Sync time="49.334"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ autobusowe także 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="50.814" endTime="51.569">
+<Sync time="50.814"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dziękuję bar
+<Event desc="~" type="lexical" extent="begin"/>
+dzo
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="51.569" endTime="52.389">
+<Sync time="51.569"/>
+bardzo proszę
+</Turn>
+<Turn startTime="52.389" endTime="53.997">
+<Sync time="52.389"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

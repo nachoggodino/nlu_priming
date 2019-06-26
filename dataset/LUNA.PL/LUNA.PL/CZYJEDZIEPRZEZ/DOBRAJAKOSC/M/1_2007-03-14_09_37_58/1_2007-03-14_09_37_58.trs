@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_09_37_58" version="2" version_date="080104">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="21.998625" topic="to1">
+<Turn startTime="0" endTime="0.758">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.758" endTime="2.245">
+<Sync time="0.758"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.245" endTime="8.003">
+<Sync time="2.245"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana ja chciałem 
+<Event desc="*" type="pronounce" extent="begin"/>
+zapytać
+<Event desc="*" type="pronounce" extent="end"/>
+ o linię siedemset 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ idzie do Konstancina tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="8.003" endTime="10.572">
+<Sync time="8.003"/>
+siedemset tak od Centralnego do 
+<Event desc="babble" type="noise" extent="begin"/>
+ Konstancina 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="10.572" endTime="12.769">
+<Sync time="10.572"/>
+tak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ którędy on jedzie od Centralnego
+</Turn>
+<Turn speaker="spk1" startTime="12.769" endTime="17.326">
+<Sync time="12.769"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+on
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="next"/>
+jedzie 
+<Event desc="int" type="noise" extent="next"/>
+przez Chałubińskiego Aleję Niepodległości 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.326" endTime="18.912">
+<Sync time="17.326"/>
+aha dzię
+<Event desc="~" type="lexical" extent="begin"/>
+kuję
+<Event desc="~" type="lexical" extent="end"/>
+ dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="18.912" endTime="19.643">
+<Sync time="18.912"/>
+dziękuję
+</Turn>
+<Turn startTime="19.643" endTime="21.998625">
+<Sync time="19.643"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

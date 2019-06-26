@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-12_10_42_53" version="2" version_date="080113">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="32.998" topic="to1">
+<Turn startTime="0" endTime="0.677">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.677" endTime="2.655">
+<Sync time="0.677"/>
+dzień dobry przy telefonie xxx 
+<Event desc="*" type="pronounce" extent="begin"/>
+słucham
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.655" endTime="7.384">
+<Sync time="2.655"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę pana karta 
+<Event desc="en" type="language" extent="begin"/>
+ ISIC 
+<Event desc="en" type="language" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ międzynarodowa upoważnia do 
+<Event desc="babble" type="noise" extent="begin"/>
+ zniżki 
+<Event desc="babble" type="noise" extent="end"/>
+ prawda 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="7.384" endTime="7.781">
+<Sync time="7.384"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="7.781" endTime="8.181">
+<Sync time="7.781"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="8.181" endTime="8.405">
+<Sync time="8.181"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="8.405" endTime="11.284">
+<Sync time="8.405"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ karta Euro dwadzieścia sześć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="11.284" endTime="11.969">
+<Sync time="11.284"/>
+<Who nb="1"/>
+też 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+nie 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.969" endTime="12.547">
+<Sync time="11.969"/>
+nie
+</Turn>
+<Turn speaker="spk2 spk1" startTime="12.547" endTime="12.949">
+<Sync time="12.547"/>
+<Who nb="1"/>
+nie
+<Who nb="2"/>
+nie
+</Turn>
+<Turn speaker="spk1" startTime="12.949" endTime="17.529">
+<Sync time="12.949"/>
+upoważnia tylko ważna na dany rok kalendarzowy międzynarodowa legitymacja 
+<Event desc="en" type="language" extent="begin"/>
+ ISIC 
+<Event desc="en" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.529" endTime="17.819">
+<Sync time="17.529"/>
+ah
+<Event desc="~" type="lexical" extent="begin"/>
+a
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.819" endTime="26.079">
+<Sync time="17.819"/>
+upoważnia studentów i uczniów zagranicznych do dwudziestego 
+<Event desc="noise" type="noise" extent="begin"/>
+ szóstego 
+<Event desc="noise" type="noise" extent="end"/>
+ roku 
+<Event desc="babble" type="noise" extent="begin"/>
+ życia 
+<Event desc="babble" type="noise" extent="end"/>
+ i to jest przejazd z ulgą czterdzieści osiem procent tylko od 
+<Event desc="en" type="language" extent="begin"/>
+ ISIC 
+<Event desc="en" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.079" endTime="27.39">
+<Sync time="26.079"/>
+dobrze dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="27.39" endTime="29.157">
+<Sync time="27.39"/>
+<Who nb="1"/>
+panu bardzo
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="29.157" endTime="29.822">
+<Sync time="29.157"/>
+do usłyszenia
+</Turn>
+<Turn startTime="29.822" endTime="32.998">
+<Sync time="29.822"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

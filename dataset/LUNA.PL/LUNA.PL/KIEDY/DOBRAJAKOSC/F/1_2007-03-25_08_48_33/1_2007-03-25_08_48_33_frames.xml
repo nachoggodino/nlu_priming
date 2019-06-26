@@ -1,0 +1,10 @@
+<Frames>
+  <Set id="1" subset="1" span="word_8" frame="TOPIC" head="dowiedzieć">
+    <Frame fe="1" span="word_9..word_11,word_12..word_13,word_14..word_15,word_16..word_17" concept_id="6,7,8,9" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="1" span="word_20" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_18..word_19" concept_id="10" name="TIME" />
+    <Frame fe="2" span="word_21" concept_id="12" name="THEME" />
+    <Frame fe="3" span="word_22..word_25" concept_id="13" name="TIME" />
+  </Set>
+</Frames>

@@ -1,0 +1,36 @@
+<Frames>
+  <Set id="1" subset="2" span="word_13" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_14" concept_id="5" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_16" frame="RECEIVING" head="dostać">
+    <Frame fe="1" span="word_18" concept_id="7" name="THEME" />
+  </Set>
+  <Set id="3" subset="1" span="word_20" frame="PERMITTING" head="uprawniać">
+    <Frame fe="1" span="word_26" concept_id="9" name="STATE_OF_AFFAIRS" />
+    <Frame fe="2" span="word_28" concept_id="10" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="4" subset="1" span="word_38" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_36" concept_id="13" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="5" subset="1" span="word_39" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_41" concept_id="16" name="TOPIC" />
+  </Set>
+  <Set id="6" subset="1" span="word_45" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_46" concept_id="20" name="ENTITY" />
+    <Frame fe="2" span="word_48..word_49" concept_id="21" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="7" subset="1" span="word_69" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_65..word_66" concept_id="26" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_67" concept_id="27" name="BENEFICIARY" />
+    <Frame fe="3" span="word_70" concept_id="30" name="PRIVILEGE" />
+  </Set>
+  <Set id="8" subset="1" span="word_82" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_84,word_85..word_87" concept_id="33,34" name="PRIVILEGE" />
+  </Set>
+  <Set id="9" subset="1" span="word_99" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_101" concept_id="37" name="TOPIC" />
+  </Set>
+  <Set id="10" subset="1" span="word_109" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_111" concept_id="41" name="ENTITY" />
+  </Set>
+</Frames>

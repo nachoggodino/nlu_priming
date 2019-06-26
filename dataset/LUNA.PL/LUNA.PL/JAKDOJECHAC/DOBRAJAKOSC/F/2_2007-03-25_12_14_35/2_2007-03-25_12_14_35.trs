@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-25_12_14_35" version="7" version_date="100914">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="105.493" topic="to1">
+<Turn startTime="0" endTime="1.255">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.255" endTime="3.038">
+<Sync time="1.255"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="3.038" endTime="7.416">
+<Sync time="3.038"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry po raz kolejny panu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja w takiej sprawie dzwonię do pana
+</Turn>
+<Turn speaker="spk1" startTime="7.416" endTime="7.666">
+<Sync time="7.416"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="7.666" endTime="25.901">
+<Sync time="7.666"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+jak
+<Event desc="~" type="lexical" extent="end"/>
+ ja bym miała dojechać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na Aleję Niepodległości sto 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ dokładnie mi chodzi tam jest Komenda Główna Straży Granicznej 
+<Event desc="babble" type="noise" extent="end"/>
+ ponieważ ja tam się mam jutro stawić 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ i czy jest jakiś 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ znaczy tak ja będę jechała może powiedzmy z Bora Komorowskiego 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to jest na Gocławiu czy jest tu 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ bezpośredni autobus na Aleję Niepodległości 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.901" endTime="28.908">
+<Sync time="25.901"/>
+sto osiemdziesiąt dwa z przystanku Saska
+</Turn>
+<Turn speaker="spk2" startTime="28.908" endTime="30.886">
+<Sync time="28.908"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ sto osiemdziesiąt dwa od Saskiej 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.886" endTime="31.355">
+<Sync time="30.886"/>
+od Sas
+<Event desc="~" type="lexical" extent="begin"/>
+kiej
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="31.355" endTime="35.132">
+<Sync time="31.355"/>
+to będzie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ będę musiała wysiąść tutaj 
+<Event desc="*" type="pronounce" extent="begin"/>
+na
+<Event desc="*" type="pronounce" extent="end"/>
+ przystanku Saska na moście i 
+<Event desc="noise" type="noise" extent="end"/>
+ przejść pod most ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.132" endTime="42.248">
+<Sync time="35.132"/>
+i tak nad na dole na Trasie Łazienkowskiej jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ przystanek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i tym autobusem musi pani dojechać do stacji metra Racławicka
+</Turn>
+<Turn speaker="spk2" startTime="42.248" endTime="51.864">
+<Sync time="42.248"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="SYL" type="pronounce" extent="begin"/>
+Metro Racławicka
+<Event desc="SYL" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko tak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mogę wiedzieć to jaka jest nazwa przystanku 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="51.864" endTime="53.078">
+<Sync time="51.864"/>
+Metro Racławicka właśnie
+</Turn>
+<Turn speaker="spk2" startTime="53.078" endTime="59.497">
+<Sync time="53.078"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to tak tak ale chodzi mi na którym mam wsiąść to będzie tam pod spodem ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko że tam są te dwa przystanki 
+<Event desc="*" type="pronounce" extent="begin"/>
+ja
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ nie wiem po prostu po której stronie mam 
+<Event desc="*" type="pronounce" extent="begin"/>
+stanąć
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="59.497" endTime="62.254">
+<Sync time="59.497"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ w kierunku 
+<Event desc="babble" type="noise" extent="end"/>
+ Wisły się jedzie bo to będzie po drugiej stronie 
+</Turn>
+<Turn speaker="spk2" startTime="62.254" endTime="66.369">
+<Sync time="62.254"/>
+po drugiej stronie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czyli 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ on jedzie na jaki końcowy przystanek sto osiemdziesiąt dwa
+</Turn>
+<Turn speaker="spk1" startTime="66.369" endTime="67.497">
+<Sync time="66.369"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ Okęcie 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="67.497" endTime="68.246">
+<Sync time="67.497"/>
+Okęcie tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="68.246" endTime="69.044">
+<Sync time="68.246"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="69.044" endTime="76.585">
+<Sync time="69.044"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czyli tak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ o 
+<Event desc="*" type="pronounce" extent="begin"/>
+jejku
+<Event desc="*" type="pronounce" extent="end"/>
+ jeszcze tak sto osiemdziesiąt dwa będę musiała wysiąść na przystanku 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Metro 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="76.585" endTime="77.92">
+<Sync time="76.585"/>
+<Who nb="1"/>
+Racławicka
+<Who nb="2"/>
+Racławicka
+</Turn>
+<Turn speaker="spk2" startTime="77.92" endTime="81.758">
+<Sync time="77.92"/>
+za 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ dobrze 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i to będzie daleko od tego przystanku gdzieś tam
+</Turn>
+<Turn speaker="spk1" startTime="81.758" endTime="83.107">
+<Sync time="81.758"/>
+po drugiej stronie ulicy dokładnie
+</Turn>
+<Turn speaker="spk2" startTime="83.107" endTime="84.118">
+<Sync time="83.107"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ po 
+<Event desc="babble" type="noise" extent="end"/>
+ drugiej stronie ulicy tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="84.118" endTime="84.523">
+<Sync time="84.118"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="84.523" endTime="95.042">
+<Sync time="84.523"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czyli 
+<Event desc="*" type="pronounce" extent="begin"/>
+na
+<Event desc="*" type="pronounce" extent="end"/>
+ na Łazienko
+<Event desc="~" type="lexical" extent="begin"/>
+wskiej
+<Event desc="~" type="lexical" extent="end"/>
+ i 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja jeszcze raz 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Boże już się pytam się plączę dla pana tutaj sama siebie 
+<Event desc="*" type="pronounce" extent="begin"/>
+już
+<Event desc="*" type="pronounce" extent="end"/>
+ zaplątałam z powrotem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jeszcze raz 
+<Event desc="*" type="pronounce" extent="begin"/>
+nazwa przystanku
+<Event desc="*" type="pronounce" extent="end"/>
+ na którym muszę wsiąść
+</Turn>
+<Turn speaker="spk1" startTime="95.042" endTime="96.122">
+<Sync time="95.042"/>
+Saska
+</Turn>
+<Turn speaker="spk2" startTime="96.122" endTime="97.133">
+<Sync time="96.122"/>
+Saska
+</Turn>
+<Turn speaker="spk1" startTime="97.133" endTime="98.867">
+<Sync time="97.133"/>
+a wysiąść na Metro Racławicka
+</Turn>
+<Turn speaker="spk2" startTime="98.867" endTime="101.292">
+<Sync time="98.867"/>
+to już wiem to już sobie zapisałam dobrze dziękuję panu 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="101.292" endTime="102.273">
+<Sync time="101.292"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="102.273" endTime="102.765">
+<Sync time="102.273"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="102.765" endTime="103.353">
+<Sync time="102.765"/>
+do widzenia
+</Turn>
+<Turn startTime="103.353" endTime="105.493">
+<Sync time="103.353"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

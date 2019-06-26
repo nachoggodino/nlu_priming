@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-13_15_32_12" version="5" version_date="071204">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="73.995" topic="to1">
+<Turn startTime="0" endTime="1.048">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.048" endTime="2.88">
+<Sync time="1.048"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.88" endTime="10.421">
+<Sync time="2.88"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ dzień 
+<Event desc="babble" type="noise" extent="begin"/>
+ dobry proszę pana czy ja u pana otrzymam taką informację jak dojechać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ skądś tam 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ gdzieś tam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.421" endTime="10.662">
+<Sync time="10.421"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="10.662" endTime="19.78">
+<Sync time="10.662"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chciałabym się dowiedzieć jak dojechać 
+<Event desc="babble" type="noise" extent="begin"/>
+ z Placu Narutowicza do Salgrosu ulica Przylesia na Białołękę a to jest dalej 
+<Event desc="noise" type="noise" extent="begin"/>
+ chyba niż Białołęka 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="19.78" endTime="23.211">
+<Sync time="19.78"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a w jakich godzinach będzie pani jechała 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="23.211" endTime="36.719">
+<Sync time="23.211"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+a to godziny też są 
+<Event desc="*" type="pronounce" extent="end"/>
+ potrzebne mi potrzebny jest autobus jaki numer 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ w 
+<Event desc="en" type="language" extent="begin"/>
+weekend
+<Event desc="en" type="language" extent="end"/>
+ znaczy to będzie piątek sobota niedziela 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.719" endTime="46.59">
+<Sync time="36.719"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę pani tak najprościej do Dworca Centralnego autobusami przepraszam tramwajami dziewiątką dwadzieścia pięć stamtąd linią pięćset dziesięć 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="46.59" endTime="47.353">
+<Sync time="46.59"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="47.353" endTime="50.170182726">
+<Sync time="47.353"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ do przystanku Konwaliowa 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="50.170182726" endTime="51.397">
+<Sync time="50.170182726"/>
+Konwaliowa
+<Sync time="51.847"/>
+</Turn>
+<Turn speaker="spk1" startTime="51.397" endTime="55.342">
+<Sync time="51.397"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i z Konwaliowej autobusem siedemset dwadzieścia trzy 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="55.342" endTime="64.777">
+<Sync time="55.342"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ siedemset dwadzieścia trzy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ a pan się orientuje 
+<Event desc="*" type="pronounce" extent="begin"/>
+mniej więcej
+<Event desc="*" type="pronounce" extent="end"/>
+ z Centrum jak długo się i by jechało 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ koło godziny
+</Turn>
+<Turn speaker="spk2 spk1" startTime="64.777" endTime="65.263">
+<Sync time="64.777"/>
+<Who nb="1"/>
+pewnie
+<Who nb="2"/>
+pięćset
+</Turn>
+<Turn speaker="spk1" startTime="65.263" endTime="70.146">
+<Sync time="65.263"/>
+dziesięć 
+<Event desc="babble" type="noise" extent="begin"/>
+ około trzydziestu minut 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ siedemset dwadzieścia trzy około dwudziestu minut 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ około godziny 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="70.146" endTime="70.844">
+<Sync time="70.146"/>
+<Who nb="1"/>
+koło godziny
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="70.844" endTime="71.773">
+<Sync time="70.844"/>
+dobra dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="71.773" endTime="73.062">
+<Sync time="71.773"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+proszę bardzo do usłyszenia
+</Turn>
+<Turn startTime="73.062" endTime="73.995">
+<Sync time="73.062"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

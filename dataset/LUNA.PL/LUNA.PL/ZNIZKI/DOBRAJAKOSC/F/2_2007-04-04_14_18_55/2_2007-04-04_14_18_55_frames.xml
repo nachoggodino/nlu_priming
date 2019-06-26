@@ -1,0 +1,28 @@
+<Frames>
+  <Set id="1" subset="1" span="word_37" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_39" concept_id="11" name="POSSESSION" />
+  </Set>
+  <Set id="2" subset="1" span="word_70" frame="COMMERCE_BUY" head="wykupywać">
+    <Frame fe="1" span="word_64" concept_id="20" name="BUYER" />
+    <Frame fe="2" span="word_71" concept_id="22" name="GOODS" />
+    <Frame fe="3" span="word_74..word_75" concept_id="23" name="PLACE" />
+  </Set>
+  <Set id="3" subset="3" span="word_86" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_88..word_90" concept_id="27" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_110" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_112..word_113" concept_id="33" name="PRIVILEGE" />
+  </Set>
+  <Set id="5" subset="1" span="word_115" frame="BRINGING" head="wozić">
+    <Frame fe="1" span="word_119" concept_id="35" name="THEME" />
+  </Set>
+  <Set id="6" subset="1" span="word_132" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_130" concept_id="38" name="THEME" />
+  </Set>
+  <Set id="7" subset="1" span="word_143" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_144..word_145" concept_id="42" name="PRIVILEGE" />
+  </Set>
+  <Set id="8" subset="1" span="word_166" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_165" concept_id="47" name="THEME" />
+  </Set>
+</Frames>

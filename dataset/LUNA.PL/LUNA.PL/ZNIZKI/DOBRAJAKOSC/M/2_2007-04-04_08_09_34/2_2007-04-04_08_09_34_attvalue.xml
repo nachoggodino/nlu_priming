@@ -1,0 +1,28 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_12" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_14" attribute="ACTION" value="ToAsk" />
+  <concept id="6" span="word_15..word_16" attribute="LOCATION_TOWN" value="Warszawa" />
+  <concept id="7" span="word_20..word_22" attribute="AGE" value="Above70" />
+  <concept id="8" span="word_25" attribute="ACTION" value="Go" />
+  <concept id="9" span="word_26..word_27" attribute="FARE" value="Free" />
+  <concept id="10" span="word_42" attribute="REACTION" value="Confirmation" />
+  <concept id="11" span="word_43" attribute="REACTION" value="Confirmation" />
+  <concept id="12" span="word_45" attribute="ACTION" value="ToAsk" />
+  <concept id="13" span="word_49" attribute="REACTION" value="Negation" />
+  <concept id="14" span="word_53" attribute="LOCATION_REL" value="There" />
+  <concept id="15" span="word_57" attribute="ACTION" value="ToHave" />
+  <concept id="16" span="word_58..word_59" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="17" span="word_61..word_62" attribute="PERSON" value="Foreigner" />
+  <concept id="18" span="word_63" attribute="REACTION" value="Negation" />
+  <concept id="19" span="word_64" attribute="ACTION" value="ToHave" />
+  <concept id="20" span="word_65" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="21" span="word_66" attribute="ACTION" value="ToHave" />
+  <concept id="22" span="word_69" attribute="ACTION" value="ToHave" />
+  <concept id="23" span="word_70" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="24" span="word_71" attribute="REACTION" value="Confirmation" />
+  <concept id="25" span="word_79" attribute="REACTION" value="Confirmation" />
+  <concept id="26" span="word_83" attribute="REACTION" value="Confirmation" />
+</concepts>

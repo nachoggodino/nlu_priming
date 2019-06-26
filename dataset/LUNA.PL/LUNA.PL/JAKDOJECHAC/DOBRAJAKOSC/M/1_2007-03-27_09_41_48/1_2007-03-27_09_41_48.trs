@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-27_09_41_48" version="4" version_date="080124">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="71.996" topic="to1">
+<Turn startTime="0" endTime="0.805">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.805" endTime="2.844">
+<Sync time="0.805"/>
+dzień dobry xxx 
+<Event desc="noise" type="noise" extent="begin"/>
+ słucham 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.844" endTime="16.43">
+<Sync time="2.844"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja mam taki problem 
+<Event desc="babble" type="noise" extent="begin"/>
+ jestem 
+<Event desc="babble" type="noise" extent="end"/>
+ na na Dworcu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Centralnym chciałbym się dostać na na Saską Kępę 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ w okolicy ulicy Saskiej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jakim autobusem mógłbym tam 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.43" endTime="18.269">
+<Sync time="16.43"/>
+w okolice Saskiej
+<Event desc="int" type="noise" extent="previous"/>
+ tak już 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="18.269" endTime="18.717">
+<Sync time="18.269"/>
+<Who nb="1"/>
+ patrzę
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="18.717" endTime="26.013">
+<Sync time="18.717"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dokładnie 
+<Event desc="babble" type="noise" extent="end"/>
+ to Złoczowska ulica ale 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ale ale tam w z jedna z większych obok niej to jest Saska 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.013" endTime="29.644">
+<Sync time="26.013"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana bo tak bo mamy autobus pięćset siedem
+</Turn>
+<Turn speaker="spk2" startTime="29.644" endTime="30.262">
+<Sync time="29.644"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="30.262" endTime="34.85">
+<Sync time="30.262"/>
+i zaraz panu powiem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+dworcu
+<Event desc="*" type="pronounce" extent="end"/>
+ przy Dworcu Centralnym 
+<Event desc="noise" type="noise" extent="begin"/>
+ gdzie ma przystanek dobrze 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="34.85" endTime="41.432">
+<Sync time="34.85"/>
+dobrze 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="41.432" endTime="55.634">
+<Sync time="41.432"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana przystanek jest 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na ulicy Emilii Plater 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ na wysokości Dworca Centralnego tutaj tej pętli zadaszonej ale na ulicy Emilii Plater 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ Dworzec Centralny 
+<Event desc="babble" type="noise" extent="end"/>
+ siedemnaście mamy autobus pięćset siedem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="55.634" endTime="56.175">
+<Sync time="55.634"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="56.175" endTime="61.129">
+<Sync time="56.175"/>
+i proszę pana od przystanku Stacja Krwiodawstwa już jest ulica Saska
+</Turn>
+<Turn speaker="spk2" startTime="61.129" endTime="61.486">
+<Sync time="61.129"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ aha 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="61.486" endTime="65.259">
+<Sync time="61.486"/>
+to jest bliziutko stą
+<Event desc="~" type="lexical" extent="begin"/>
+d
+<Event desc="~" type="lexical" extent="end"/>
+ czy
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+i na ulicę Emilii Plater jest przystanek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="65.259" endTime="65.649">
+<Sync time="65.259"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="65.649" endTime="67.729">
+<Sync time="65.649"/>
+tutaj na wysokości tej pętli
+</Turn>
+<Turn speaker="spk2" startTime="67.729" endTime="69.806">
+<Sync time="67.729"/>
+dobrze dobrze dziękuję bardzo
+</Turn>
+<Turn speaker="spk2 spk1" startTime="69.806" endTime="70.77">
+<Sync time="69.806"/>
+<Who nb="1"/>
+do widzenia
+<Who nb="2"/>
+dziękuję do widzenia
+</Turn>
+<Turn startTime="70.77" endTime="71.996">
+<Sync time="70.77"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

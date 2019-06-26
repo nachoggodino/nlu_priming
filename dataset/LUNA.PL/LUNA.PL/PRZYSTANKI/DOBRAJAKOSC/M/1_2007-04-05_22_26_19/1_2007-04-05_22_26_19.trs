@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-05_22_26_19" version="4" version_date="080112">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="38.498" topic="to1">
+<Turn startTime="0" endTime="0.574">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.574" endTime="2.472">
+<Sync time="0.574"/>
+dobry wieczór xxx 
+<Event desc="babble" type="noise" extent="begin"/>
+ w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.472" endTime="6.408">
+<Sync time="2.472"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+wieczór
+<Event desc="*" type="pronounce" extent="end"/>
+ proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tramwaj 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ numer osiem
+</Turn>
+<Turn speaker="spk1" startTime="6.408" endTime="7.334">
+<Sync time="6.408"/>
+tak 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="7.334" endTime="13.485">
+<Sync time="7.334"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ zatrzymuje się przy przy przystanku metra Centrum
+</Turn>
+<Turn speaker="spk1" startTime="13.485" endTime="13.936">
+<Sync time="13.485"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="13.936" endTime="16.525">
+<Sync time="13.936"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+kierunku
+<Event desc="*" type="pronounce" extent="end"/>
+ Dworca Gdańskiego
+</Turn>
+<Turn speaker="spk1" startTime="16.525" endTime="21.071">
+<Sync time="16.525"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to z
+<Event desc="~" type="lexical" extent="begin"/>
+n
+<Event desc="~" type="lexical" extent="end"/>
+aczy w kierunku w kierunku Dworca 
+<Event desc="int" type="noise" extent="next"/>
+Gdańskiego 
+<Event desc="*" type="pronounce" extent="begin"/>
+znaczy
+<Event desc="*" type="pronounce" extent="end"/>
+ on przez Dworzec Gdański to on nie przejeżdża 
+</Turn>
+<Turn speaker="spk2" startTime="21.071" endTime="23.506">
+<Sync time="21.071"/>
+ale w tam w tamtym kierunku jedzie tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.506" endTime="28.229">
+<Sync time="23.506"/>
+no niezupełnie on 
+<Event desc="babble" type="noise" extent="begin"/>
+ będzie jechał Alejami 
+<Event desc="babble" type="noise" extent="end"/>
+ do Placu Zawiszy i potem tam na Wolę jedzie do 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="28.229" endTime="29.131">
+<Sync time="28.229"/>
+<Who nb="1"/>
+Osiedla Górczewska
+<Who nb="2"/>
+a jak a jak
+</Turn>
+<Turn speaker="spk2" startTime="29.131" endTime="32.609">
+<Sync time="29.131"/>
+stoi 
+<Event desc="*" type="pronounce" extent="begin"/>
+przy
+<Event desc="*" type="pronounce" extent="end"/>
+ tym przystanku metra Centrum to na jakiej jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ ulicy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="32.609" endTime="34.227">
+<Sync time="32.609"/>
+na Alejach Jerozolimskich
+</Turn>
+<Turn speaker="spk2" startTime="34.227" endTime="35.076">
+<Sync time="34.227"/>
+dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="35.076" endTime="35.674">
+<Sync time="35.076"/>
+proszę bardzo
+</Turn>
+<Turn startTime="35.674" endTime="38.498">
+<Sync time="35.674"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

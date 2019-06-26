@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_15_20_20" version="5" version_date="070928">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="54.997" topic="to1">
+<Turn startTime="0" endTime="0.589">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.589" endTime="2.819">
+<Sync time="0.589"/>
+dzień dobry xxx 
+<Event desc="int" type="noise" extent="next"/>
+słucham 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.819" endTime="3.672">
+<Sync time="2.819"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ dzień dobry pani 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3.672" endTime="4.335">
+<Sync time="3.672"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ dzień dobry 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="4.335" endTime="17.255">
+<Sync time="4.335"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ proszę pani ja 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chciałem zapytać czy 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ taki autobus 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ kiedyś jeździł na 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Woli chyba na Kierbedzia sto dziewiętnaście czy on nadal jeździ bo ja wczoraj szukałem nie znalazłem 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.255" endTime="20.881">
+<Sync time="17.255"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana tak z tym że on teraz jedzie z Dworca Centralnego 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.881" endTime="21.568">
+<Sync time="20.881"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+tak
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="21.568" endTime="28.689">
+<Sync time="21.568"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+i też dojeżdża 
+<Event desc="*" type="pronounce" extent="begin"/>
+tutaj
+<Event desc="*" type="pronounce" extent="end"/>
+ proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ jak Bobrowiecka bo to tutaj 
+<Event desc="babble" type="noise" extent="begin"/>
+ pan potrzebuje prawda 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="28.689" endTime="30.072">
+<Sync time="28.689"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ tylko o której to on jedzie od 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="30.072" endTime="31.033">
+<Sync time="30.072"/>
+<Who nb="1"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ Centralnego 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="sta" type="noise" extent="end"/>
+
+<Who nb="2"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.033" endTime="32.589">
+<Sync time="31.033"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ proszę pana rusza z Dworca 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="32.589" endTime="33.642">
+<Sync time="32.589"/>
+<Who nb="1"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ Centralnego 
+<Event desc="sta" type="noise" extent="end"/>
+
+<Who nb="2"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ tak 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="33.642" endTime="42.412">
+<Sync time="33.642"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ze Złotych Tarasów 
+<Event desc="babble" type="noise" extent="begin"/>
+ tutaj jest taka 
+<Event desc="*" type="pronounce" extent="begin"/>
+żółta
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ pętla a potem proszę pana jedzie Alejami Jerozolimskimi skręca w prawo w Marszałkowską 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="42.412" endTime="45.7348338853">
+<Sync time="42.412"/>
+<Who nb="1"/>
+dojeżdża tak do Placu Konstytucji
+<Who nb="2"/>
+w Marszałkowską bo on kiedyś jeździł 
+</Turn>
+<Turn speaker="spk2" startTime="45.7348338853" endTime="47.332">
+<Sync time="45.7348338853"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ tam przez Plac Trzech Krzyży ja
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="47.332" endTime="47.615">
+<Sync time="47.332"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="47.615" endTime="50.188">
+<Sync time="47.615"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tam koło tego 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a tu już ja go znajdę 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="50.188" endTime="50.798">
+<Sync time="50.188"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ dobrze 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="50.798" endTime="51.9">
+<Sync time="50.798"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ bardzo uprzejmie 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="51.9" endTime="53.076">
+<Sync time="51.9"/>
+<Who nb="1"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ dziękuję do widzenia 
+<Event desc="sta" type="noise" extent="end"/>
+
+<Who nb="2"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ dziękuję pięknie do widzenia 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="53.076" endTime="54.997">
+<Sync time="53.076"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

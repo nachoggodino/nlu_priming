@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_15_19_56" version="6" version_date="080117">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="45.997" topic="to1">
+<Turn startTime="0" endTime="0.91">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.91" endTime="3.163">
+<Sync time="0.91"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.163" endTime="21.169">
+<Sync time="3.163"/>
+dzień dobry proszę pana ja z Dworca Wschodniego chcę dojechać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jakimś autobusem czy tramwajem nie wiem właśnie czym 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i ile przystanków do na osiedle Gocław 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ulica bo Boya Bora Bora Komorowskiego
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="21.169" endTime="25.848">
+<Sync time="21.169"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ Bora Komorowskiego proszę pani dojedzie pani autobusem sto dwadzieścia trzy 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.848" endTime="29.768">
+<Sync time="25.848"/>
+ile przystanków 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.768" endTime="32.003">
+<Sync time="29.768"/>
+p
+<Event desc="~" type="lexical" extent="begin"/>
+ro
+<Event desc="~" type="lexical" extent="end"/>
+szę pani około dwudziestu
+</Turn>
+<Turn speaker="spk2" startTime="32.003" endTime="33.376">
+<Sync time="32.003"/>
+aż dwadzieścia przystanków 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="33.376" endTime="33.988">
+<Sync time="33.376"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="33.988" endTime="36.29">
+<Sync time="33.988"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ na 
+<Event desc="babble" type="noise" extent="end"/>
+ Gocław tam na tą ulicę tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.29" endTime="37.108">
+<Sync time="36.29"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="37.108" endTime="40.852">
+<Sync time="37.108"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+o
+<Event desc="*" type="pronounce" extent="end"/>
+ dużo ale autobus sto dwadzieścia trzy tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.852" endTime="41.949">
+<Sync time="40.852"/>
+tak proszę pani
+</Turn>
+<Turn speaker="spk2" startTime="41.949" endTime="42.613">
+<Sync time="41.949"/>
+dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="42.613" endTime="43.122">
+<Sync time="42.613"/>
+<Who nb="1"/>
+uprzejmie
+<Who nb="2"/>
+bardzo 
+</Turn>
+<Turn speaker="spk1" startTime="43.122" endTime="43.531">
+<Sync time="43.122"/>
+proszę
+</Turn>
+<Turn speaker="spk2" startTime="43.531" endTime="43.971">
+<Sync time="43.531"/>
+widzenia
+</Turn>
+<Turn speaker="spk1" startTime="43.971" endTime="44.669">
+<Sync time="43.971"/>
+do usłyszenia
+</Turn>
+<Turn startTime="44.669" endTime="45.997">
+<Sync time="44.669"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

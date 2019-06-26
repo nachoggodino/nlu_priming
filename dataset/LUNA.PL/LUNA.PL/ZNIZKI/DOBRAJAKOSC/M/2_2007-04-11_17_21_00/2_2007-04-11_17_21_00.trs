@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-11_17_21_00" version="1" version_date="070809">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="27.4983125" topic="to1">
+<Turn startTime="0" endTime="1.123">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.123" endTime="3.62">
+<Sync time="1.123"/>
+dzień dobry <Event desc="noise" type="noise" extent="begin"/> xxx <Event desc="noise" type="noise" extent="end"/> w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.62" endTime="13.007">
+<Sync time="3.62"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry ja mam takie pytanie <Event desc="filler" type="lexical" extent="instantaneous"/> jestem żołnierzem nadterminowych służby wojskowej czy jakieś w mieście Warszawa mam zniżki <Event desc="?" type="lexical" extent="instantaneous"/> czy muszę stuprocentowy bilet <Event desc="*" type="pronounce" extent="begin"/>wykupywać<Event desc="*" type="pronounce" extent="end"/> <Event desc="noise" type="noise" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/>  
+</Turn>
+<Turn speaker="spk1" startTime="13.007" endTime="17.765">
+<Sync time="13.007"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> niestety nie pan mówił że nadterminowej tak <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="17.765" endTime="19.100">
+<Sync time="17.765"/>
+tak tak
+</Turn>
+<Turn speaker="spk1" startTime="19.100" endTime="21.683">
+<Sync time="19.100"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> no to niestety nie przysługują je pa<Event desc="~" type="lexical" extent="begin"/>ni<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="21.683" endTime="22.535">
+<Sync time="21.683"/>
+<Event desc="babble" type="noise" extent="begin"/> zniżki tak <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="22.535" endTime="23.229">
+<Sync time="22.535"/>
+ <Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="23.229" endTime="24.671">
+<Sync time="23.229"/>
+<Event desc="babble" type="noise" extent="begin"/> dobrze <Event desc="babble" type="noise" extent="end"/> dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="24.671" endTime="25.433">
+<Sync time="24.671"/>
+proszę bardzo do
+</Turn>
+<Turn startTime="25.433" endTime="27.4983125">
+<Sync time="25.433"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

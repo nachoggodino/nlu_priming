@@ -1,0 +1,71 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_7..word_8" attribute="CONV_FORM" value="HELLO" />
+  <concept id="5" span="word_10" attribute="NUMB" value="2" />
+  <concept id="6" span="word_13" attribute="NUMB" value="2" />
+  <concept id="7" span="word_17" attribute="NUMB_SEQ" value="1." />
+  <concept id="8" span="word_21" attribute="Q_HOW_LONG" value="RideTime" />
+  <concept id="9" span="word_22" attribute="ACTION" value="Go" />
+  <concept id="10" span="word_23..word_24" attribute="SOURCE_RS" value="Dworzec Centralny" />
+  <concept id="11" span="word_25..word_26" attribute="LINE_TYPE" value="Night" />
+  <concept id="12" span="word_27..word_29" attribute="BUS" value="605" />
+  <concept id="13" span="word_31" attribute="ACTION" value="ToStart" />
+  <concept id="14" span="word_34..word_36" attribute="AT_HOUR" value="0 : 15" />
+  <concept id="15" span="word_37" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="16" span="word_39..word_40" attribute="AT_HOUR" value="2 : 15" />
+  <concept id="17" span="word_41" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="18" span="word_42" attribute="REACTION" value="Confirmation" />
+  <concept id="19" span="word_43" attribute="NUM_BUS_PART" value="5" />
+  <concept id="20" span="word_45..word_48" attribute="SOURCE_STP" value="Dworzec Centralny" />
+  <concept id="21" span="word_49..word_51" attribute="GOAL_STP" value="Siłaczki" />
+  <concept id="22" span="word_57..word_59" attribute="GOAL_STP" value="Siłaczki" />
+  <concept id="23" span="word_61" attribute="ACTION" value="ToBe" />
+  <concept id="24" span="word_62..word_64" attribute="RIDE_DURATION_M" value="35" />
+  <concept id="25" span="word_65..word_67" attribute="RIDE_DURATION_M" value="35" />
+  <concept id="26" span="word_68" attribute="REACTION" value="Confirmation" />
+  <concept id="27" span="word_69..word_70" attribute="SOURCE_RS" value="Dworzec Centralny" />
+  <concept id="28" span="word_71..word_72" attribute="GOAL_STP" value="RelThatOne" />
+  <concept id="29" span="word_73" attribute="REACTION" value="Confirmation" />
+  <concept id="30" span="word_74" attribute="REACTION" value="Confirmation" />
+  <concept id="31" span="word_80" attribute="ACTION" value="Tell" />
+  <concept id="32" span="word_81" attribute="ACTION" value="Concern" />
+  <concept id="33" span="word_84..word_87" attribute="BUS" value="609" />
+  <concept id="34" span="word_88" attribute="REACTION" value="Confirmation" />
+  <concept id="35" span="word_89" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="36" span="word_90..word_91" attribute="BUS" value="613" />
+  <concept id="37" span="word_92..word_94" attribute="SOURCE_STP" value="Inżynierska" />
+  <concept id="38" span="word_96..word_99" attribute="GOAL_DIRECTION_RS" value="Dworzec Centralny" />
+  <concept id="39" span="word_101..word_103" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="40" span="word_106" attribute="ACTION" value="Concern" />
+  <concept id="41" span="word_110" attribute="LOCATION_REL" value="There" />
+  <concept id="42" span="word_115..word_116" attribute="BUS" value="609" />
+  <concept id="43" span="word_117" attribute="ACTION" value="ToBe" />
+  <concept id="44" span="word_118" attribute="AT_HOUR_MINPART" value="15" />
+  <concept id="45" span="word_120..word_122" attribute="DAYTIME_PERIOD_BEG" value="0 : 15" />
+  <concept id="46" span="word_123..word_124" attribute="TRANSPORT_RATE" value="1 godz" />
+  <concept id="47" span="word_129..word_130" attribute="BUS" value="609" />
+  <concept id="48" span="word_131" attribute="ACTION" value="ToBe" />
+  <concept id="49" span="word_132..word_133" attribute="AT_HOUR_MINPART" value="15" />
+  <concept id="50" span="word_136..word_137" attribute="BUS" value="613" />
+  <concept id="51" span="word_138..word_139" attribute="AT_HOUR_MINPART" value="45" />
+  <concept id="52" span="word_140" attribute="REACTION" value="Confirmation" />
+  <concept id="53" span="word_141..word_142" attribute="AT_HOUR_MINPART" value="45" />
+  <concept id="54" span="word_143..word_145" attribute="SOURCE_STP" value="RelThatOne" />
+  <concept id="55" span="word_146" attribute="Q_CONF" value="IsIt" />
+  <concept id="56" span="word_148" attribute="REACTION" value="Confirmation" />
+  <concept id="57" span="word_149" attribute="STOP_DESCRIPTION" value="Inżynierska" />
+  <concept id="58" span="word_150..word_152" attribute="GOAL_DIRECTION_RS" value="Dworzec Centralny" />
+  <concept id="59" span="word_157..word_158" attribute="BUS" value="602" />
+  <concept id="60" span="word_162..word_164" attribute="GOAL_DIRECTION_RS" value="Dworzec Centralny" />
+  <concept id="61" span="word_165..word_167" attribute="SOURCE_STP" value="Szwedzka" />
+  <concept id="62" span="word_168" attribute="REACTION" value="Confirmation" />
+  <concept id="63" span="word_169" attribute="AT_HOUR_MINPART" value="13" />
+  <concept id="64" span="word_171..word_172" attribute="AT_HOUR_MINPART" value="43" />
+  <concept id="65" span="word_173" attribute="AT_HOUR_MINPART" value="13" />
+  <concept id="66" span="word_175..word_176" attribute="AT_HOUR_MINPART" value="43" />
+  <concept id="67" span="word_177" attribute="REACTION" value="Confirmation" />
+  <concept id="68" span="word_185" attribute="CONV_FORM" value="BYE" />
+  <concept id="69" span="word_187" attribute="CONV_FORM" value="BYE" />
+</concepts>

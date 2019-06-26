@@ -1,0 +1,39 @@
+<Frames>
+  <Set id="1" subset="1" span="word_15" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_13" concept_id="5" name="MANNER" />
+    <Frame fe="2" span="word_16..word_17" concept_id="7" name="SOURCE" />
+    <Frame fe="3" span="word_18..word_20,word_21..word_22" concept_id="8,9" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_27" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_28..word_29,word_30..word_32" concept_id="12,13" name="LOCATION" />
+  </Set>
+  <Set id="3" subset="1" span="word_49" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_45" concept_id="20" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="2" span="word_46" concept_id="21" name="MANNER" />
+  </Set>
+  <Set id="4" subset="1" span="word_56" frame="ESCAPING" head="wysiąść">
+    <Frame fe="1" span="word_52..word_54" concept_id="25" name="PLACE" />
+  </Set>
+  <Set id="5" subset="1" span="word_74" frame="REFFERING_BY_NAME" head="nazywać">
+    <Frame fe="1" span="word_68..word_69,word_70..word_71" concept_id="33,34" name="ENTITY" />
+    <Frame fe="2" span="word_72" concept_id="35" name="NAME" />
+  </Set>
+  <Set id="6" subset="1" span="word_78" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_79..word_80,word_81..word_83" concept_id="38,39" name="PLACE" />
+  </Set>
+  <Set id="7" subset="1" span="word_93" frame="MOTION" head="wybierać">
+    <Frame fe="1" span="word_90" concept_id="42" name="TIME" />
+    <Frame fe="2" span="word_92" concept_id="43" name="GOAL" />
+  </Set>
+  <Set id="8" subset="1" span="word_99" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_98" concept_id="46" name="LOCATION" />
+    <Frame fe="2" span="word_101..word_102" concept_id="48" name="PLACE" />
+  </Set>
+  <Set id="9" subset="1" span="word_108" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_109..word_111" concept_id="51" name="PLACE" />
+  </Set>
+  <Set id="10" subset="1" span="word_126" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_121..word_122,word_123..word_125" concept_id="56,57" name="PLACE" />
+    <Frame fe="2" span="word_127..word_128" concept_id="59" name="ENTITY" />
+  </Set>
+</Frames>

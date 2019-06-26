@@ -1,0 +1,35 @@
+<Frames>
+  <Set id="1" subset="2" span="word_22" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_15..word_16,word_17..word_18" concept_id="4,5" name="GOAL" />
+    <Frame fe="2" span="word_20" concept_id="6" name="SELF_MOVER" />
+    <Frame fe="3" span="word_23" concept_id="8" name="SELF_MOVER" />
+  </Set>
+  <Set id="2" subset="1" span="word_35" frame="END" head="kończyć">
+    <Frame fe="1" span="word_27..word_29" concept_id="10" name="AGENT" />
+    <Frame fe="2" span="word_31..word_33" concept_id="11" name="AGENT" />
+    <Frame fe="3" span="word_34" concept_id="12" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_42" frame="END" head="kończyć">
+    <Frame fe="1" span="word_37..word_39" concept_id="15" name="AGENT" />
+    <Frame fe="2" span="word_41" concept_id="16" name="PLACE" />
+    <Frame fe="3" span="word_43" concept_id="18" name="PROCESS" />
+  </Set>
+  <Set id="4" subset="1" span="word_50" frame="END" head="kończyć">
+    <Frame fe="1" span="word_45..word_47" concept_id="19" name="AGENT" />
+    <Frame fe="2" span="word_49" concept_id="20" name="PLACE" />
+  </Set>
+  <Set id="5" subset="3" span="word_64" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_60" concept_id="25" name="SOURCE" />
+    <Frame fe="2" span="word_61..word_63" concept_id="26" name="SELF_MOVER" />
+  </Set>
+  <Set id="6" subset="1" span="word_69" frame="START" head="zaczynać">
+    <Frame fe="1" span="word_66..word_68" concept_id="28" name="AGENT" />
+    <Frame fe="2" span="word_70..word_71" concept_id="30" name="PLACE" />
+  </Set>
+  <Set id="7" subset="1" span="word_89" frame="END" head="kończyć">
+    <Frame fe="1" span="word_83" concept_id="35" name="AGENT" />
+    <Frame fe="2" span="word_88" concept_id="36" name="AGENT" />
+    <Frame fe="3" span="word_90" concept_id="38" name="PLACE" />
+    <Frame fe="4" span="word_91" concept_id="39" name="PROCESS" />
+  </Set>
+</Frames>

@@ -1,0 +1,84 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_10" attribute="Q_HOW_TO" value="Reach" />
+  <concept id="5" span="word_11..word_12" attribute="SOURCE_TD" value="Ochota" />
+  <concept id="6" span="word_13..word_14" attribute="LOCATION_NEAR_STR" value="Grójecka" />
+  <concept id="7" span="word_16..word_18" attribute="CROSSROADS" value="Pawińskiego CROSS  Korotyńskiego" />
+  <concept id="8" span="word_19" attribute="LOCATION_REL" value="There" />
+  <concept id="9" span="word_20" attribute="REACTION" value="Confirmation" />
+  <concept id="10" span="word_21" attribute="ACTION" value="Approach" />
+  <concept id="11" span="word_24..word_26" attribute="GOAL_STR" value="Równoległa" />
+  <concept id="12" span="word_27" attribute="STREET_NUMB" value="5" />
+  <concept id="13" span="word_30..word_31" attribute="GOAL_STR" value="Instalatorów" />
+  <concept id="14" span="word_32" attribute="ACTION" value="GoIn" />
+  <concept id="15" span="word_33..word_35" attribute="GOAL_STR" value="Instalatorów" />
+  <concept id="16" span="word_36..word_38" attribute="GOAL_DIRECTION_TOWN" value="Janki" />
+  <concept id="17" span="word_42" attribute="NUMB" value="1" />
+  <concept id="18" span="word_43" attribute="BUS" value="General" />
+  <concept id="19" span="word_44" attribute="LOCATION_REL" value="There" />
+  <concept id="20" span="word_45" attribute="ACTION" value="GoIn" />
+  <concept id="21" span="word_47" attribute="REACTION" value="Negation" />
+  <concept id="22" span="word_48" attribute="ACTION" value="Know" />
+  <concept id="23" span="word_54" attribute="REACTION" value="Confirmation" />
+  <concept id="24" span="word_55..word_56" attribute="GOAL_STR" value="Instalatorów" />
+  <concept id="25" span="word_59" attribute="ACTION" value="GoIn" />
+  <concept id="26" span="word_60..word_62" attribute="BUS" value="128" />
+  <concept id="27" span="word_63" attribute="Q_WHERE" value="LOCATION" />
+  <concept id="28" span="word_65" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="29" span="word_66" attribute="ACTION" value="Find" />
+  <concept id="30" span="word_67..word_68" attribute="LOCATION_STR" value="Grójecka" />
+  <concept id="31" span="word_69" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="32" span="word_70" attribute="ACTION" value="Go" />
+  <concept id="33" span="word_72" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="34" span="word_73" attribute="ACTION" value="Go" />
+  <concept id="35" span="word_74" attribute="PATH_STR" value="Grójecka" />
+  <concept id="36" span="word_75" attribute="LOCATION_REL" value="There" />
+  <concept id="37" span="word_77..word_80" attribute="STOP_DESCRIPTION" value="Bitwy Warszawskiej" />
+  <concept id="38" span="word_81..word_82" attribute="CROSSROADS" value="CROSS Grójecka" />
+  <concept id="39" span="word_84" attribute="ACTION" value="GetIn" />
+  <concept id="40" span="word_87..word_88" attribute="LOCATION_STR" value="Grójecka" />
+  <concept id="41" span="word_91" attribute="ACTION" value="Go" />
+  <concept id="42" span="word_93..word_95" attribute="GOAL_DIRECTION_TD" value="Okęcie" />
+  <concept id="43" span="word_98" attribute="DISTANCE_REL" value="Short" />
+  <concept id="44" span="word_100" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="45" span="word_101" attribute="ACTION" value="ToHave" />
+  <concept id="46" span="word_102..word_103" attribute="LOCATION_STR" value="Korotyńskiego" />
+  <concept id="47" span="word_104" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="48" span="word_105" attribute="REACTION" value="Confirmation" />
+  <concept id="49" span="word_107..word_109" attribute="LOCATION_CROSSROADS" value="CROSS Korotyńskiego" />
+  <concept id="50" span="word_112" attribute="LOCATION_REL" value="There" />
+  <concept id="51" span="word_116" attribute="ACTION" value="ToBe" />
+  <concept id="52" span="word_117" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="53" span="word_118..word_119" attribute="LOCATION_CROSSROADS" value="General" />
+  <concept id="54" span="word_122" attribute="ACTION" value="ToBe" />
+  <concept id="55" span="word_123" attribute="DISTANCE_REL" value="Short" />
+  <concept id="56" span="word_125..word_127" attribute="CROSSROADS" value="Korotyńskiego CROSS  Pawińskiego" />
+  <concept id="57" span="word_128..word_129" attribute="CROSSROADS" value="CROSS Grójecka" />
+  <concept id="58" span="word_130" attribute="STREET" value="Grójecka" />
+  <concept id="59" span="word_133" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="60" span="word_134" attribute="ACTION" value="ToHave" />
+  <concept id="61" span="word_135" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="62" span="word_138" attribute="ACTION" value="ToSee" />
+  <concept id="63" span="word_141" attribute="CROSSROADS" value="General" />
+  <concept id="64" span="word_147" attribute="DISTANCE_REL" value="Short" />
+  <concept id="65" span="word_149..word_152" attribute="LOCATION_BEFORE_CROSS" value="CROSS Korotyńskiego" />
+  <concept id="66" span="word_153" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="67" span="word_159" attribute="ACTION" value="ToSee" />
+  <concept id="68" span="word_163" attribute="REACTION" value="Negation" />
+  <concept id="69" span="word_167" attribute="REACTION" value="Confirmation" />
+  <concept id="70" span="word_168" attribute="LOCATION_REL" value="There" />
+  <concept id="71" span="word_170" attribute="ACTION" value="ToBe" />
+  <concept id="72" span="word_171" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="73" span="word_172" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="74" span="word_174..word_175" attribute="LOCATION_BEFORE_CROSS" value="General" />
+  <concept id="75" span="word_176..word_178" attribute="LOCATION_BEFORE_CROSS" value="CROSS Korotyńskiego" />
+  <concept id="76" span="word_179" attribute="REACTION" value="Confirmation" />
+  <concept id="77" span="word_183..word_184" attribute="LOCATION_NEAR_TD" value="Centrum" />
+  <concept id="78" span="word_185..word_187" attribute="LOCATION_REL" value="SameSide" />
+  <concept id="79" span="word_188" attribute="REACTION" value="Confirmation" />
+  <concept id="80" span="word_189" attribute="REACTION" value="Confirmation" />
+  <concept id="81" span="word_195..word_196" attribute="CONV_FORM" value="BYE" />
+  <concept id="82" span="word_197..word_198" attribute="CONV_FORM" value="BYE" />
+</concepts>

@@ -1,0 +1,25 @@
+<Frames>
+  <Set id="1" subset="1" span="word_25" frame="COMMERCE_PAY" head="kasować">
+    <Frame fe="1" span="word_20..word_22" concept_id="7" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_23..word_24" concept_id="8" name="PLACE" />
+    <Frame fe="3" span="word_27" concept_id="10" name="GOODS" />
+    <Frame fe="4" span="word_29" concept_id="11" name="CIRCUMSTANCES" />
+    <Frame fe="5" span="word_31" concept_id="12" name="CIRCUMSTANCES" />
+    <Frame fe="6" span="word_34" concept_id="14" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="2" subset="2" span="word_39" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_38" concept_id="15" name="BENEFICIARY" />
+    <Frame fe="2" span="word_40..word_41" concept_id="17" name="PRIVILEGE" />
+    <Frame fe="3" span="word_44..word_46" concept_id="18" name="CIRCUMSTANCES" />
+    <Frame fe="4" span="word_48..word_51" concept_id="19" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="3" subset="1" span="word_60" frame="ACTIVITY_START" head="chodzić">
+    <Frame fe="1" span="word_61" concept_id="25" name="AGE" />
+  </Set>
+  <Set id="4" subset="1" span="word_74" frame="ACTIVITY_START" head="iść">
+    <Frame fe="1" span="word_76..word_77" concept_id="30" name="AGE" />
+  </Set>
+  <Set id="5" subset="1" span="word_88" frame="COMMERCE_PAY" head="kasować">
+    <Frame fe="1" span="word_89" concept_id="34" name="GOODS" />
+  </Set>
+</Frames>

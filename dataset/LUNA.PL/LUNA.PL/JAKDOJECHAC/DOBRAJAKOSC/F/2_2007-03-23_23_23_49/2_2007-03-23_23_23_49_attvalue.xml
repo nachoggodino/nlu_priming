@@ -1,0 +1,64 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_11" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_20..word_22" attribute="GOAL_BLD" value="Szpital Orłowskiego" />
+  <concept id="6" span="word_23" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="7" span="word_24" attribute="TIME_DAYPERIOD" value="Morning" />
+  <concept id="8" span="word_26" attribute="ACTION" value="Approach" />
+  <concept id="9" span="word_32" attribute="LOCATION_REL" value="There" />
+  <concept id="10" span="word_33" attribute="ACTION" value="ToBe" />
+  <concept id="11" span="word_35" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="12" span="word_37" attribute="LOCATION_REL" value="There" />
+  <concept id="13" span="word_39" attribute="ACTION" value="ToBe" />
+  <concept id="14" span="word_40..word_42" attribute="SOURCE_RS" value="Dworzec Centralny" />
+  <concept id="15" span="word_44" attribute="ACTION" value="Request" />
+  <concept id="16" span="word_45" attribute="ACTION" value="Go" />
+  <concept id="17" span="word_46..word_47" attribute="SOURCE_RS" value="Dworzec Centralny" />
+  <concept id="18" span="word_50..word_52" attribute="BUS" value="118" />
+  <concept id="19" span="word_53..word_54" attribute="BUS" value="118" />
+  <concept id="20" span="word_56" attribute="REACTION" value="Confirmation" />
+  <concept id="21" span="word_59..word_65" attribute="GOAL_DIRECTION_STR" value="Plac Trzech Krzyży" />
+  <concept id="22" span="word_68" attribute="LOCATION_REL" value="There" />
+  <concept id="23" span="word_69" attribute="TIME_REL" value="Later" />
+  <concept id="24" span="word_70" attribute="PATH_STR" value="Książęca" />
+  <concept id="25" span="word_71..word_72" attribute="DIRECTION" value="Downwards" />
+  <concept id="26" span="word_73" attribute="REACTION" value="Confirmation" />
+  <concept id="27" span="word_76" attribute="NUMB" value="1" />
+  <concept id="28" span="word_77" attribute="BUS" value="General" />
+  <concept id="29" span="word_78" attribute="REACTION" value="Confirmation" />
+  <concept id="30" span="word_81" attribute="Q_WHERE" value="TripStartPoint" />
+  <concept id="31" span="word_83..word_84" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="32" span="word_86" attribute="ACTION" value="GetIn" />
+  <concept id="33" span="word_87..word_88" attribute="LOCATION_BLD" value="Marriott" />
+  <concept id="34" span="word_89..word_90" attribute="LOCATION_STR" value="Aleje Jerozolimskie" />
+  <concept id="35" span="word_91" attribute="REACTION" value="Confirmation" />
+  <concept id="36" span="word_92..word_93" attribute="LOCATION_BLD" value="Marriott" />
+  <concept id="37" span="word_94" attribute="REACTION" value="Confirmation" />
+  <concept id="38" span="word_95" attribute="ACTION" value="GetOut" />
+  <concept id="39" span="word_98..word_99" attribute="BUS_REL" value="ThisBus" />
+  <concept id="40" span="word_100..word_104" attribute="LOCATION_STP" value="Czerniakowska" />
+  <concept id="41" span="word_106" attribute="ACTION" value="ToBe" />
+  <concept id="42" span="word_107" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="43" span="word_108..word_110" attribute="LOCATION_STR" value="Ludna" />
+  <concept id="44" span="word_113" attribute="SOURCE_REL" value="FromHere" />
+  <concept id="45" span="word_117" attribute="LOCATION_REL" value="There" />
+  <concept id="46" span="word_118" attribute="DISTANCE_REL" value="Short" />
+  <concept id="47" span="word_119" attribute="ACTION" value="GoBack" />
+  <concept id="48" span="word_120..word_122" attribute="GOAL_BLD" value="Hospital" />
+  <concept id="49" span="word_123" attribute="DISTANCE_REL" value="Short" />
+  <concept id="50" span="word_124..word_125" attribute="DISTANCE" value="100 m" />
+  <concept id="51" span="word_126" attribute="REACTION" value="Confirmation" />
+  <concept id="52" span="word_131" attribute="NUMB" value="1" />
+  <concept id="53" span="word_133..word_135" attribute="SOURCE_STP" value="RelThatOne" />
+  <concept id="54" span="word_139" attribute="NUMB" value="1" />
+  <concept id="55" span="word_148" attribute="REACTION" value="Confirmation" />
+  <concept id="56" span="word_149..word_150" attribute="SOURCE_BLD" value="Novotel" />
+  <concept id="57" span="word_151..word_153" attribute="BUS" value="171" />
+  <concept id="58" span="word_157..word_158" attribute="LOCATION_REL" value="TooFar" />
+  <concept id="59" span="word_159" attribute="REACTION" value="Negation" />
+  <concept id="60" span="word_160" attribute="REACTION" value="Negation" />
+  <concept id="61" span="word_162..word_163" attribute="BUS_REL" value="ThisBus" />
+  <concept id="62" span="word_172" attribute="CONV_FORM" value="BYE" />
+</concepts>

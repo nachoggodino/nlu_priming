@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-26_22_46_02" version="3" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="78.495125" topic="to1">
+<Turn startTime="0" endTime="1.011">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.011" endTime="2.751">
+<Sync time="1.011"/>
+dobry wieczór xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.751" endTime="7.804">
+<Sync time="2.751"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobry wieczór tramwaj 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Targowa Lubelska tutaj 
+<Event desc="noise" type="noise" extent="begin"/>
+ w stronę Gocławia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="7.804" endTime="8.736">
+<Sync time="7.804"/>
+a jaka linia
+</Turn>
+<Turn speaker="spk2" startTime="8.736" endTime="12.679">
+<Sync time="8.736"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dwadzieścia sześć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ co może jeszcze jeździć ósemka
+</Turn>
+<Turn speaker="spk1" startTime="12.679" endTime="13.949">
+<Sync time="12.679"/>
+w stronę 
+<Event desc="babble" type="noise" extent="begin"/>
+ Gocławka 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="13.949" endTime="15.671">
+<Sync time="13.949"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+sz
+<Event desc="~" type="lexical" extent="end"/>
+óstka w stronę Gocławia 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.671" endTime="16.951">
+<Sync time="15.671"/>
+Gocławka
+</Turn>
+<Turn speaker="spk2" startTime="16.951" endTime="22.478">
+<Sync time="16.951"/>
+Gocławka 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ wie pan potrzebuję do Ronda Wiatraczna 
+<Event desc="noise" type="noise" extent="begin"/>
+ dojechać 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="22.478" endTime="24.352">
+<Sync time="22.478"/>
+z jakiego przystanku na Targowej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.352" endTime="26.142">
+<Sync time="24.352"/>
+Lubelska 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.142" endTime="27.386">
+<Sync time="26.142"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to już jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ na Grochowskiej 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="27.386" endTime="31.362">
+<Sync time="27.386"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ Zamoyskiego Lubelska to będzie chyba nie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.362" endTime="34.146">
+<Sync time="31.362"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ no tu 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ kończy się Zamoyskiego zaczyna Grochowska 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="34.146" endTime="37.825">
+<Sync time="34.146"/>
+tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.825" endTime="40.489">
+<Sync time="37.825"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ czy trójki to już nie będzie bo ona w teraz już wcześniej 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="40.489" endTime="41.131">
+<Sync time="40.489"/>
+<Who nb="1"/>
+ kończy
+<Who nb="2"/>
+szóstka 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="41.131" endTime="54.628">
+<Sync time="41.131"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ szóstka może być 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dwudziesta trzecia trzy ostatnia szóstka ósemki też już nie będzie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="54.628" endTime="66.45">
+<Sync time="54.628"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ a dwadzieścia sześć 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="66.45" endTime="72.63">
+<Sync time="66.45"/>
+dwudziesta 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ druga pięćdziesiąt osiem dwudziesta trzecia osiemnaście trzydzieści osi
+<Event desc="~" type="lexical" extent="begin"/>
+em
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="72.63" endTime="73.961">
+<Sync time="72.63"/>
+dobrze dziękuję uprzejmie
+</Turn>
+<Turn speaker="spk1" startTime="73.961" endTime="74.139">
+<Sync time="73.961"/>
+proszę
+</Turn>
+<Turn speaker="spk1 spk2" startTime="74.139" endTime="74.795">
+<Sync time="74.139"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+dobranoc
+</Turn>
+<Turn speaker="spk1" startTime="74.795" endTime="75.294">
+<Sync time="74.795"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobranoc 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="75.294" endTime="78.495125">
+<Sync time="75.294"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

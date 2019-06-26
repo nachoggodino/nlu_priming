@@ -1,0 +1,14 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="BECOMING" head="skończyć">
+    <Frame fe="1" span="word_12" concept_id="6" name="ENTITY" />
+    <Frame fe="2" span="word_14..word_15" concept_id="8" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="2" subset="1" span="word_20" frame="COMMERCE_PAY" head="kasować">
+    <Frame fe="1" span="word_17" concept_id="10" name="BUYER" />
+    <Frame fe="2" span="word_21" concept_id="12" name="GOODS" />
+  </Set>
+  <Set id="3" subset="2" span="word_32" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_28..word_30" concept_id="14" name="TITLE" />
+    <Frame fe="2" span="word_31" concept_id="15" name="PRIVILEGE" />
+  </Set>
+</Frames>

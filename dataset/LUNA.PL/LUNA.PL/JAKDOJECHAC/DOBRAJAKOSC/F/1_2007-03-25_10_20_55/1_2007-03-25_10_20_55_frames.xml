@@ -1,0 +1,38 @@
+<Frames>
+  <Set id="1" subset="1" span="word_19" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_18" concept_id="9" name="LOCATION" />
+    <Frame fe="2" span="word_20..word_21" concept_id="11" name="THEME" />
+  </Set>
+  <Set id="2" subset="2" span="word_30" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_34..word_35" concept_id="18" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_43" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_40" concept_id="21" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="2" span="word_41" concept_id="22" name="GOAL" />
+  </Set>
+  <Set id="4" subset="1" span="word_53" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_50" concept_id="25" name="SOURCE" />
+  </Set>
+  <Set id="5" subset="1" span="word_62" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_63..word_64" concept_id="32" name="LOCATION" />
+    <Frame fe="2" span="word_65..word_67" concept_id="33" name="PLACE" />
+  </Set>
+  <Set id="6" subset="1" span="word_75" frame="MOTION" head="podjechać">
+    <Frame fe="1" span="word_76..word_79" concept_id="37" name="MEANS" />
+  </Set>
+  <Set id="7" subset="1" span="word_84" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_85..word_86" concept_id="40" name="GOAL" />
+    <Frame fe="2" span="word_87..word_89,word_90..word_92" concept_id="41,42" name="GOAL" />
+  </Set>
+  <Set id="8" subset="1" span="word_98" frame="CAUSE_CHANGE" head="przesiąść">
+    <Frame fe="1" span="word_95" concept_id="44" name="PLACE" />
+    <Frame fe="2" span="word_99,word_100" concept_id="46,47" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="9" subset="1" span="word_108" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_106" concept_id="50" name="MODE_OF_TRANSPORTATION" />
+  </Set>
+  <Set id="10" subset="1" span="word_115" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_113" concept_id="54" name="THEME" />
+    <Frame fe="2" span="word_116" concept_id="56" name="DISTANCE" />
+  </Set>
+</Frames>

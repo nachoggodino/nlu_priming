@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-26_16_43_55" version="4" version_date="071219">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="78.995" topic="to1">
+<Turn startTime="0" endTime="0.955">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.955" endTime="2.470">
+<Sync time="0.955"/>
+dzień dobry xxx w czym mogę 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2.470" endTime="3.008">
+<Sync time="2.470"/>
+<Who nb="1"/>
+pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień
+</Turn>
+<Turn speaker="spk2" startTime="3.008" endTime="9.097">
+<Sync time="3.008"/>
+dobry 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana 
+<Event desc="noise" type="noise" extent="begin"/>
+ ja mam 
+<Event desc="noise" type="noise" extent="end"/>
+ prośbę proszę mi pomóc dojechać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ spod Królikarni na ulicę Malarskiego to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ obok Postępu
+</Turn>
+<Turn speaker="spk1" startTime="9.097" endTime="10.175">
+<Sync time="9.097"/>
+jeszcze raz proszę ulicę 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="10.175" endTime="13.21">
+<Sync time="10.175"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ Malarskiego 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ obok Postępu gdzieś to je
+<Event desc="~" type="lexical" extent="begin"/>
+st
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.21" endTime="46.212">
+<Sync time="13.21"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ dobrze 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ żadnej takiej 
+<Event desc="*" type="pronounce" extent="begin"/>
+ulicy
+<Event desc="*" type="pronounce" extent="end"/>
+ proszę pani 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+w okolicach Postępu nie mam jeszcze raz proszę ulicę powoli 
+</Turn>
+<Turn speaker="spk2" startTime="46.212" endTime="47.660">
+<Sync time="46.212"/>
+podobno Malarskie
+<Event desc="~" type="lexical" extent="begin"/>
+go
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="47.660" endTime="48.63">
+<Sync time="47.660"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ Malarskiego 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="48.63" endTime="50.734">
+<Sync time="48.63"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="50.734" endTime="51.763">
+<Sync time="50.734"/>
+jest Malawskiego
+</Turn>
+<Turn speaker="spk2" startTime="51.763" endTime="53.187">
+<Sync time="51.763"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+być
+<Event desc="*" type="pronounce" extent="end"/>
+ może
+</Turn>
+<Turn speaker="spk1" startTime="53.187" endTime="55.151">
+<Sync time="53.187"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ Malawskiego 
+<Event desc="babble" type="noise" extent="end"/>
+ to jest przy Woronicza
+</Turn>
+<Turn speaker="spk2" startTime="55.151" endTime="56.361">
+<Sync time="55.151"/>
+to 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest
+<Event desc="*" type="pronounce" extent="end"/>
+ przy Woronicza 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="56.361" endTime="60.643">
+<Sync time="56.361"/>
+tak jak 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ jak zajezdnia tramwajowa na Woro
+<Event desc="~" type="lexical" extent="begin"/>
+nicza
+<Event desc="~" type="lexical" extent="end"/>
+ jak zajezdnia autobusowa na Woronicza
+</Turn>
+<Turn speaker="spk2" startTime="60.643" endTime="62.095">
+<Sync time="60.643"/>
+obok Postępu to jest jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="62.095" endTime="65.489">
+<Sync time="62.095"/>
+no to nie jest obok Postępu 
+<Event desc="babble" type="noise" extent="begin"/>
+ od Postępu 
+<Event desc="babble" type="noise" extent="end"/>
+ to jeszcze trochę
+</Turn>
+<Turn speaker="spk2" startTime="65.489" endTime="68.93">
+<Sync time="65.489"/>
+aha 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ to jak ta zajezdnia mówi pan 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="68.93" endTime="69.857">
+<Sync time="68.93"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="69.857" endTime="71.105">
+<Sync time="69.857"/>
+
+<Event desc="int" type="noise" extent="instantaneous"/>
+ na Woronicza 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="71.105" endTime="71.681">
+<Sync time="71.105"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="71.681" endTime="72.965">
+<Sync time="71.681"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="72.965" endTime="73.631">
+<Sync time="72.965"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="73.631" endTime="74.203">
+<Sync time="73.631"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dziękuję
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn startTime="74.203" endTime="78.995">
+<Sync time="74.203"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

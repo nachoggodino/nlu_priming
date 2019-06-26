@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_23_16_01" version="4" version_date="071114">
+<Topics>
+<Topic id="to1" desc="male user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="45.497" topic="to1">
+<Turn startTime="0" endTime="1.185">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.185" endTime="3.008">
+<Sync time="1.185"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dobry wieczór xxx słucham 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.008" endTime="7.719">
+<Sync time="3.008"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+dobry wieczór z Centrum Optyki w stronę Międzylesia pięć dwa pięć 
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="7.719" endTime="10.064">
+<Sync time="7.719"/>
+z jakiego przystanku bo nie zrozumiałem
+</Turn>
+<Turn speaker="spk2" startTime="10.064" endTime="21.781">
+<Sync time="10.064"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ z Centrum Optyki w stronę Międzylesia 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ pięć dwa pięć 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="21.781" endTime="23.498">
+<Sync time="21.781"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ no niestety 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="23.498" endTime="38.564">
+<Sync time="23.498"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ sześćset dziesięć 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.564" endTime="41.346">
+<Sync time="38.564"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sześćset dziesięć dwudziesta trzecia trzydzieści osiem
+</Turn>
+<Turn speaker="spk2" startTime="41.346" endTime="42.148">
+<Sync time="41.346"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="42.148" endTime="42.801">
+<Sync time="42.148"/>
+proszę bardzo
+</Turn>
+<Turn startTime="42.801" endTime="45.497">
+<Sync time="42.801"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

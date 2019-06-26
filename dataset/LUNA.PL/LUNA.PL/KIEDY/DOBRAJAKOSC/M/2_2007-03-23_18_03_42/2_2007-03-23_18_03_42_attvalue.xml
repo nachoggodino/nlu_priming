@@ -1,0 +1,59 @@
+<concepts>
+  <concept id="1" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_4" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_6..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_10..word_11" attribute="CONV_FORM" value="HELLO" />
+  <concept id="5" span="word_12" attribute="ACTION" value="Concern" />
+  <concept id="6" span="word_14..word_16" attribute="BUS" value="120" />
+  <concept id="7" span="word_17" attribute="REACTION" value="Confirmation" />
+  <concept id="8" span="word_18..word_19" attribute="BUS" value="120" />
+  <concept id="9" span="word_20" attribute="REACTION" value="Confirmation" />
+  <concept id="10" span="word_23..word_25" attribute="SOURCE_STP" value="Trocka" />
+  <concept id="11" span="word_28" attribute="STREET" value="Radzymińska" />
+  <concept id="12" span="word_29..word_30" attribute="LOCATION_STR" value="Trocka" />
+  <concept id="13" span="word_31" attribute="REACTION" value="Confirmation" />
+  <concept id="14" span="word_35..word_37" attribute="GOAL_DIRECTION" value="East" />
+  <concept id="15" span="word_40" attribute="REACTION" value="Negation" />
+  <concept id="16" span="word_41" attribute="TIME_REL" value="Today" />
+  <concept id="17" span="word_43..word_44" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="18" span="word_45" attribute="REACTION" value="Confirmation" />
+  <concept id="19" span="word_48" attribute="REACTION" value="Confirmation" />
+  <concept id="20" span="word_49" attribute="ACTION" value="ToHave" />
+  <concept id="21" span="word_50" attribute="STOP_DESCRIPTION" value="Trocka" />
+  <concept id="22" span="word_52..word_53" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="23" span="word_54..word_56" attribute="Q_BEGINNING_OF_PERIOD" value="Trip" />
+  <concept id="24" span="word_58" attribute="ACTION" value="Wish" />
+  <concept id="25" span="word_60" attribute="TIME_DAYPERIOD" value="Morning" />
+  <concept id="26" span="word_61..word_62" attribute="AFTER_HOUR" value="7 : 00" />
+  <concept id="27" span="word_63" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="28" span="word_64..word_65" attribute="AFTER_HOUR" value="7 : 00" />
+  <concept id="29" span="word_66" attribute="REACTION" value="Confirmation" />
+  <concept id="30" span="word_67" attribute="REACTION" value="Confirmation" />
+  <concept id="31" span="word_69" attribute="ACTION" value="Check" />
+  <concept id="32" span="word_73" attribute="ACTION" value="ToHave" />
+  <concept id="33" span="word_75..word_77" attribute="AT_HOUR" value="7 : 24" />
+  <concept id="34" span="word_78" attribute="REACTION" value="Confirmation" />
+  <concept id="35" span="word_79..word_81" attribute="AT_HOUR" value="7 : 54" />
+  <concept id="36" span="word_87" attribute="ACTION" value="ToHave" />
+  <concept id="37" span="word_89" attribute="NUMB_SEQ" value="2." />
+  <concept id="38" span="word_90..word_92" attribute="BUS" value="718" />
+  <concept id="39" span="word_95..word_97" attribute="LOCATION_REL" value="SameStop" />
+  <concept id="40" span="word_98" attribute="REACTION" value="Confirmation" />
+  <concept id="41" span="word_100..word_102" attribute="GOAL_DIRECTION_RS" value="RailwayStation" />
+  <concept id="42" span="word_103" attribute="Q_CONF" value="IsIt" />
+  <concept id="43" span="word_107..word_108" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="44" span="word_109" attribute="REACTION" value="Confirmation" />
+  <concept id="45" span="word_111" attribute="ACTION" value="Give" />
+  <concept id="46" span="word_112" attribute="REACTION" value="Confirmation" />
+  <concept id="47" span="word_113" attribute="ACTION" value="ToHave" />
+  <concept id="48" span="word_114" attribute="STREET" value="Trocka" />
+  <concept id="49" span="word_115" attribute="ACTION" value="ToHave" />
+  <concept id="50" span="word_116" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="51" span="word_118..word_119" attribute="AFTER_HOUR" value="7 : 00" />
+  <concept id="52" span="word_121" attribute="ACTION" value="ToBe" />
+  <concept id="53" span="word_124..word_126" attribute="AT_HOUR" value="7 : 38" />
+  <concept id="54" span="word_128..word_129" attribute="AT_HOUR" value="8 : 19" />
+  <concept id="55" span="word_130" attribute="REACTION" value="Confirmation" />
+  <concept id="56" span="word_135..word_136" attribute="CONV_FORM" value="BYE" />
+  <concept id="57" span="word_137..word_138" attribute="CONV_FORM" value="BYE" />
+</concepts>

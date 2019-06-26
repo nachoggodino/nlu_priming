@@ -1,0 +1,35 @@
+<Frames>
+  <Set id="1" subset="1" span="word_18" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_16" concept_id="5" name="BENEFICIARY" />
+    <Frame fe="2" span="word_19..word_21" concept_id="7" name="TITLE" />
+  </Set>
+  <Set id="2" subset="1" span="word_23" frame="ENTITLED" head="korzystać">
+    <Frame fe="1" span="word_26" concept_id="9" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="1" span="word_29" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_32..word_33" concept_id="11" name="TOPIC" />
+  </Set>
+  <Set id="4" subset="1" span="word_41" frame="GETTING" head="pobierać">
+    <Frame fe="1" span="word_42" concept_id="13" name="THEME" />
+  </Set>
+  <Set id="5" subset="2" span="word_44" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_45..word_50" concept_id="15" name="PRIVILEGE" />
+    <Frame fe="2" span="word_51..word_54" concept_id="16" name="TITLE" />
+  </Set>
+  <Set id="6" subset="1" span="word_63" frame="BECOMING" head="ukończyć">
+    <Frame fe="1" span="word_61..word_62" concept_id="20" name="ENTITY" />
+    <Frame fe="2" span="word_64..word_67" concept_id="22" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="7" subset="1" span="word_78" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_79..word_80" concept_id="29" name="PRIVILEGE" />
+  </Set>
+  <Set id="8" subset="1" span="word_86" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_88..word_89" concept_id="31" name="TITLE" />
+  </Set>
+  <Set id="9" subset="1" span="word_93" frame="GETTING" head="pobierać">
+    <Frame fe="1" span="word_95" concept_id="34" name="THEME" />
+  </Set>
+  <Set id="10" subset="1" span="word_100" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_101..word_104" concept_id="37" name="PRIVILEGE" />
+  </Set>
+</Frames>

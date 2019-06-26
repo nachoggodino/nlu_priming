@@ -1,0 +1,69 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_6" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_7" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_10..word_11" attribute="TIMETABLE" value="General" />
+  <concept id="7" span="word_12..word_14" attribute="BUS" value="107" />
+  <concept id="8" span="word_15" attribute="REACTION" value="Confirmation" />
+  <concept id="9" span="word_16..word_18" attribute="SOURCE_STP" value="Metro Wilanowska" />
+  <concept id="10" span="word_19..word_21" attribute="GOAL_DIRECTION_TD" value="Ursynów" />
+  <concept id="11" span="word_22..word_23" attribute="AT_HOUR" value="7 : 00 am" />
+  <concept id="12" span="word_25..word_27" attribute="LOCATION_STP" value="Metro Wilanowska" />
+  <concept id="13" span="word_28" attribute="REACTION" value="Negation" />
+  <concept id="14" span="word_29" attribute="ACTION" value="ToHave" />
+  <concept id="15" span="word_30..word_32" attribute="GOAL_DIRECTION" value="RelThatOne" />
+  <concept id="16" span="word_33" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="17" span="word_34" attribute="ACTION" value="ToBe" />
+  <concept id="18" span="word_35" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="19" span="word_37..word_40" attribute="LOCATION_CROSSROADS" value="Wałbrzyska" />
+  <concept id="20" span="word_41" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="21" span="word_43" attribute="STREET" value="Wilanowska" />
+  <concept id="22" span="word_44" attribute="ACTION" value="Tell" />
+  <concept id="23" span="word_45..word_46" attribute="STOP_DESCRIPTION" value="Metro Wilanowska" />
+  <concept id="24" span="word_47" attribute="LOCATION_REL" value="SamePlace" />
+  <concept id="25" span="word_48" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="26" span="word_49" attribute="ACTION" value="Go" />
+  <concept id="27" span="word_50..word_53" attribute="GOAL_DIRECTION_STR" value="Madalińskiego" />
+  <concept id="28" span="word_55..word_57" attribute="GOAL_DIRECTION_STR" value="Madalińskiego" />
+  <concept id="29" span="word_58" attribute="STREET" value="Madalińskiego" />
+  <concept id="30" span="word_60..word_62" attribute="GOAL_DIRECTION_TD" value="Ursynów" />
+  <concept id="31" span="word_63" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="32" span="word_64" attribute="TIME_REL" value="Later" />
+  <concept id="33" span="word_65" attribute="ACTION" value="Go" />
+  <concept id="34" span="word_67" attribute="REACTION" value="Negation" />
+  <concept id="35" span="word_68" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="36" span="word_71" attribute="ACTION" value="Go" />
+  <concept id="37" span="word_72..word_73" attribute="GOAL_TD" value="Centrum" />
+  <concept id="38" span="word_75" attribute="REACTION" value="Confirmation" />
+  <concept id="39" span="word_78" attribute="ACTION" value="Know" />
+  <concept id="40" span="word_81" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="41" span="word_82" attribute="ACTION" value="Concern" />
+  <concept id="42" span="word_84..word_85" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="43" span="word_86..word_87" attribute="AT_HOUR" value="7 : 00 am" />
+  <concept id="44" span="word_88" attribute="REACTION" value="Confirmation" />
+  <concept id="45" span="word_90" attribute="ACTION" value="ToBe" />
+  <concept id="46" span="word_92..word_94" attribute="AT_HOUR" value="6 : 58" />
+  <concept id="47" span="word_95..word_97" attribute="AT_HOUR" value="6 : 58" />
+  <concept id="48" span="word_98" attribute="REACTION" value="Confirmation" />
+  <concept id="49" span="word_99..word_100" attribute="AT_HOUR" value="7 : 16" />
+  <concept id="50" span="word_101" attribute="REACTION" value="Confirmation" />
+  <concept id="51" span="word_102..word_103" attribute="AT_HOUR_MINPART" value="36" />
+  <concept id="52" span="word_104" attribute="REACTION" value="Confirmation" />
+  <concept id="53" span="word_106..word_107" attribute="AT_HOUR_MINPART" value="56" />
+  <concept id="54" span="word_108..word_109" attribute="AT_HOUR_MINPART" value="56" />
+  <concept id="55" span="word_112" attribute="ACTION" value="Request" />
+  <concept id="56" span="word_113" attribute="REACTION" value="Confirmation" />
+  <concept id="57" span="word_114..word_115" attribute="TRAM" value="19" />
+  <concept id="58" span="word_116..word_117" attribute="STOP_DESCRIPTION" value="Morskie Oko" />
+  <concept id="59" span="word_119..word_121" attribute="GOAL_DIRECTION_TD" value="Centrum" />
+  <concept id="60" span="word_122" attribute="REACTION" value="Confirmation" />
+  <concept id="61" span="word_124..word_125" attribute="AT_HOUR" value="18 : 00" />
+  <concept id="62" span="word_126..word_127" attribute="AT_HOUR" value="18 : 12" />
+  <concept id="63" span="word_128" attribute="REACTION" value="Confirmation" />
+  <concept id="64" span="word_129..word_130" attribute="AT_HOUR_MINPART" value="27" />
+  <concept id="65" span="word_131" attribute="REACTION" value="Confirmation" />
+  <concept id="66" span="word_132..word_133" attribute="AT_HOUR_MINPART" value="42" />
+  <concept id="67" span="word_137..word_138" attribute="CONV_FORM" value="BYE" />
+</concepts>

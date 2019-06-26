@@ -1,0 +1,16 @@
+<Frames>
+  <Set id="1" subset="1" span="word_14" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_15..word_17" concept_id="4" name="SOURCE" />
+    <Frame fe="2" span="word_18..word_22,word_23..word_26" concept_id="5,6" name="GOAL" />
+  </Set>
+  <Set id="2" subset="2" span="word_30" frame="ESCAPING" head="wysiąść">
+    <Frame fe="1" span="word_27" concept_id="7" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_35" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_34" concept_id="10" name="LOCATION" />
+    <Frame fe="2" span="word_36..word_37" concept_id="12" name="THEME" />
+  </Set>
+  <Set id="4" subset="1" span="word_51" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_52..word_54" concept_id="17" name="PLACE" />
+  </Set>
+</Frames>

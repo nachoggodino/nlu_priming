@@ -1,0 +1,26 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_11" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="5" span="word_15" attribute="ACTION" value="Tell" />
+  <concept id="6" span="word_16" attribute="Q_FARE" value="Price" />
+  <concept id="7" span="word_17" attribute="ACTION" value="Cost" />
+  <concept id="8" span="word_18..word_19" attribute="TICKET" value="TICKET_NORM_M" />
+  <concept id="9" span="word_20" attribute="TICKET" value="ALL-ZONE_TICKET" />
+  <concept id="10" span="word_21" attribute="TICKET" value="TICKET_REDUCED_FARE_1" />
+  <concept id="11" span="word_23..word_25" attribute="TICKET" value="TICKET_NORM_M" />
+  <concept id="12" span="word_26" attribute="REACTION" value="Confirmation" />
+  <concept id="13" span="word_27" attribute="TICKET" value="ALL-ZONE_TICKET" />
+  <concept id="14" span="word_28" attribute="TICKET" value="TICKET_REDUCED_FARE_1" />
+  <concept id="15" span="word_29..word_31" attribute="Q_FARE" value="Price" />
+  <concept id="16" span="word_34" attribute="FARE" value="Discount" />
+  <concept id="17" span="word_36" attribute="PERSON" value="Pensioner" />
+  <concept id="18" span="word_37..word_38" attribute="TICKET" value="TICKET_NORM_M" />
+  <concept id="19" span="word_39" attribute="TICKET" value="ALL-ZONE_TICKET" />
+  <concept id="20" span="word_41..word_44" attribute="FARE" value="Discount48proc" />
+  <concept id="21" span="word_45" attribute="REACTION" value="Confirmation" />
+  <concept id="22" span="word_46" attribute="ACTION" value="Cost" />
+  <concept id="23" span="word_47..word_51" attribute="PRICE" value="46,80" />
+  <concept id="24" span="word_52" attribute="REACTION" value="Confirmation" />
+</concepts>

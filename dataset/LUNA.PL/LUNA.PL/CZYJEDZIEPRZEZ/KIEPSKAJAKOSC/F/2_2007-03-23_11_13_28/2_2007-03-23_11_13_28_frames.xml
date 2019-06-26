@@ -1,0 +1,35 @@
+<Frames>
+  <Set id="1" subset="1" span="word_18" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_15..word_17" concept_id="4" name="SOURCE" />
+    <Frame fe="2" span="word_19..word_21" concept_id="6" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_28" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_27" concept_id="11" name="LOCATION" />
+    <Frame fe="2" span="word_29..word_30" concept_id="13" name="THEME" />
+  </Set>
+  <Set id="3" subset="1" span="word_36" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_32..word_33" concept_id="14" name="LOCATION" />
+    <Frame fe="2" span="word_34..word_35" concept_id="15" name="LOCATION" />
+  </Set>
+  <Set id="4" subset="1" span="word_45" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_43..word_44" concept_id="17" name="SELF_MOVER" />
+  </Set>
+  <Set id="5" subset="1" span="word_53" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_57..word_58" concept_id="26" name="MODE_OF_TRANSPORTATION" />
+  </Set>
+  <Set id="6" subset="1" span="word_65" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_67..word_68" concept_id="29" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="7" subset="1" span="word_76" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_75" concept_id="32" name="MANNER" />
+    <Frame fe="2" span="word_77" concept_id="34" name="SOURCE" />
+  </Set>
+  <Set id="8" subset="1" span="word_91" frame="PATH_SHAPE" head="biegnąć">
+    <Frame fe="1" span="word_87..word_88" concept_id="39" name="GOAL" />
+    <Frame fe="2" span="word_89..word_90" concept_id="40" name="ROAD" />
+    <Frame fe="3" span="word_92..word_93" concept_id="42" name="PATH" />
+  </Set>
+  <Set id="9" subset="1" span="word_109" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_104..word_105" concept_id="45" name="MODE_OF_TRANSPORTATION" />
+  </Set>
+</Frames>

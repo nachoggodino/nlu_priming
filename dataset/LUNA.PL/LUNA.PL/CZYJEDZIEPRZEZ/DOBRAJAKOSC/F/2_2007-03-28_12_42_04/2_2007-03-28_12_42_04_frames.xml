@@ -1,0 +1,34 @@
+<Frames>
+  <Set id="1" subset="1" span="word_16" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_15" concept_id="6" name="SELF_MOVER" />
+    <Frame fe="2" span="word_17..word_18" concept_id="8" name="PATH" />
+  </Set>
+  <Set id="2" subset="1" span="word_23" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_21" concept_id="10" name="SELF_MOVER" />
+    <Frame fe="2" span="word_24..word_25" concept_id="13" name="PATH" />
+  </Set>
+  <Set id="3" subset="1" span="word_44" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_42" concept_id="19" name="SELF_MOVER" />
+  </Set>
+  <Set id="4" subset="2" span="word_58" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_52" concept_id="21" name="SELF_MOVER" />
+    <Frame fe="2" span="word_55..word_56" concept_id="22" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_74" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_75..word_76" concept_id="33" name="PATH" />
+  </Set>
+  <Set id="6" subset="1" span="word_79" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_80..word_81" concept_id="36" name="PATH" />
+    <Frame fe="2" span="word_84..word_85" concept_id="38" name="PATH" />
+    <Frame fe="3" span="word_88..word_89" concept_id="39" name="PATH" />
+  </Set>
+  <Set id="7" subset="1" span="word_98" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_94..word_95" concept_id="41" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_99..word_100" concept_id="43" name="ENTITY" />
+    <Frame fe="3" span="word_102..word_104" concept_id="44" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="8" subset="1" span="word_112" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_106..word_107" concept_id="45" name="PLACE" />
+    <Frame fe="2" span="word_113..word_114" concept_id="47" name="ENTITY" />
+  </Set>
+</Frames>

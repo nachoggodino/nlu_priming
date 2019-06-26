@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="20055_in;20055_out" version="2" version_date="080724">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="44.384" topic="to1">
+<Turn startTime="0" endTime="0.643">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.643" endTime="8.292">
+<Sync time="0.643"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ kim jest osoba ubiegająca się o zniżkę
+</Turn>
+<Turn speaker="spk2" startTime="8.292" endTime="14.413">
+<Sync time="8.292"/>
+dzień dobry jestem osobą 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bezrobotną chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am się dowiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy przysługuje mi zniżka
+</Turn>
+<Turn speaker="spk1" startTime="14.413" endTime="16.897">
+<Sync time="14.413"/>
+czy przysługuje prawo do zasiłku
+</Turn>
+<Turn speaker="spk2" startTime="16.897" endTime="17.788">
+<Sync time="16.897"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak
+</Turn>
+<Turn speaker="spk1" startTime="17.788" endTime="23.268">
+<Sync time="17.788"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ czy osoba jest objęta programem szansa na pracę
+</Turn>
+<Turn speaker="spk2" startTime="23.268" endTime="25.252">
+<Sync time="23.268"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak jestem
+<Event desc="int" type="noise" extent="previous"/>
+ objęta
+<Event desc="int" type="noise" extent="previous"/>
+ tym programem
+</Turn>
+<Turn speaker="spk1" startTime="25.252" endTime="40.13">
+<Sync time="25.252"/>
+ bezrobotni objęci programem szansa na pracę są uprawnieni do bezpłatnych przejazdów na podstawie zaświadczenia wydanego przez urząd pracy wraz z dokumentem tożsamości ze zdjęciem czy udzielić jeszcze innych informacji
+</Turn>
+<Turn speaker="spk2" startTime="40.13" endTime="41.13">
+<Sync time="40.13"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="41.13" endTime="44.107">
+<Sync time="41.13"/>
+dziękuję za rozmowę do usłyszenia
+</Turn>
+<Turn startTime="44.107" endTime="44.384">
+<Sync time="44.107"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

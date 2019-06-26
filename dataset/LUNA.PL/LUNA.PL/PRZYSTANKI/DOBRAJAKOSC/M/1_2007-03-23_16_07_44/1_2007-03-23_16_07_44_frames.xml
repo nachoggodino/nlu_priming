@@ -1,0 +1,23 @@
+<Frames>
+  <Set id="1" subset="1" span="word_11" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_16..word_17,word_18..word_20,word_21..word_25" concept_id="5,6,7" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="1" span="word_34" frame="HALT" head="zatrzymywać">
+    <Frame fe="1" span="word_35..word_36" concept_id="10" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_55" frame="HALT" head="zatrzymywać">
+    <Frame fe="1" span="word_50..word_51" concept_id="16" name="PLACE" />
+  </Set>
+  <Set id="4" subset="1" span="word_58" frame="HALT" head="zatrzymywać">
+    <Frame fe="1" span="word_56" concept_id="19" name="THEME" />
+  </Set>
+  <Set id="5" subset="2" span="word_60" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_61,word_62..word_63" concept_id="22,23" name="ENTITY" />
+  </Set>
+  <Set id="6" subset="1" span="word_67" frame="HALT" head="zatrzymywać">
+    <Frame fe="1" span="word_64..word_65" concept_id="24" name="PLACE" />
+  </Set>
+  <Set id="7" subset="1" span="word_81" frame="HALT" head="zatrzymywać">
+    <Frame fe="1" span="word_77..word_78" concept_id="28" name="PLACE" />
+  </Set>
+</Frames>

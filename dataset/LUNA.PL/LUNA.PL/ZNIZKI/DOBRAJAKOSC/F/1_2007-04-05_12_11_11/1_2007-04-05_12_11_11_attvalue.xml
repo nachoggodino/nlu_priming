@@ -1,0 +1,34 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_13" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="5" span="word_14" attribute="PERSON" value="Pensioner" />
+  <concept id="6" span="word_16" attribute="PERSON" value="Foreigner" />
+  <concept id="7" span="word_17" attribute="COUNTRY" value="Ukraina" />
+  <concept id="8" span="word_19" attribute="ACTION" value="Go" />
+  <concept id="9" span="word_20" attribute="FARE" value="Free" />
+  <concept id="10" span="word_21..word_22" attribute="LOCATION_TOWN" value="Warszawa" />
+  <concept id="11" span="word_24" attribute="ACTION" value="End" />
+  <concept id="12" span="word_25..word_27" attribute="AGE" value="70" />
+  <concept id="13" span="word_29" attribute="REACTION" value="Confirmation" />
+  <concept id="14" span="word_30" attribute="Q_HOW_MANY" value="Number" />
+  <concept id="15" span="word_32..word_34" attribute="AGE" value="70" />
+  <concept id="16" span="word_35" attribute="REACTION" value="Confirmation" />
+  <concept id="17" span="word_36" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_41" attribute="REACTION" value="Confirmation" />
+  <concept id="19" span="word_44" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="20" span="word_47" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="21" span="word_48" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="22" span="word_49" attribute="TICKET" value="General" />
+  <concept id="23" span="word_53..word_61" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="24" span="word_62" attribute="REACTION" value="Confirmation" />
+  <concept id="25" span="word_63" attribute="REACTION" value="Confirmation" />
+  <concept id="26" span="word_66" attribute="DOCUMENT" value="General" />
+  <concept id="27" span="word_67" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="28" span="word_68" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="29" span="word_69" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="30" span="word_72" attribute="REACTION" value="Confirmation" />
+  <concept id="31" span="word_73" attribute="REACTION" value="Confirmation" />
+  <concept id="32" span="word_79..word_80" attribute="CONV_FORM" value="BYE" />
+</concepts>

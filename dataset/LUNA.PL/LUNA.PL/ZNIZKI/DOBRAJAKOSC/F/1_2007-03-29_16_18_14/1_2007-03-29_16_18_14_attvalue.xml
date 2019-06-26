@@ -1,0 +1,71 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_14" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_15" attribute="ACTION" value="ToAsk" />
+  <concept id="6" span="word_19" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="7" span="word_21..word_23" attribute="BUS" value="801" />
+  <concept id="8" span="word_24..word_26" attribute="BUS" value="726" />
+  <concept id="9" span="word_27..word_28" attribute="ACTION" value="ToBeEntitled" />
+  <concept id="10" span="word_30" attribute="FARE" value="Discount" />
+  <concept id="11" span="word_33" attribute="Q_HOW_MANY" value="Number" />
+  <concept id="12" span="word_34" attribute="ACTION" value="ToHave" />
+  <concept id="13" span="word_35" attribute="PERSON" value="General" />
+  <concept id="14" span="word_36" attribute="AGE" value="General" />
+  <concept id="15" span="word_39" attribute="ACTION" value="ToHave" />
+  <concept id="16" span="word_40..word_41" attribute="AGE" value="77" />
+  <concept id="17" span="word_48" attribute="ACTION" value="ToHave" />
+  <concept id="18" span="word_49..word_50" attribute="FARE" value="Free" />
+  <concept id="19" span="word_54..word_55" attribute="BUS_REL" value="ThisBus" />
+  <concept id="20" span="word_56" attribute="Q_CONF" value="IsIt" />
+  <concept id="21" span="word_58" attribute="REACTION" value="Confirmation" />
+  <concept id="22" span="word_62" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="23" span="word_66" attribute="ACTION" value="Tell" />
+  <concept id="24" span="word_67..word_68" attribute="BUS" value="801" />
+  <concept id="25" span="word_69..word_70" attribute="Q_HOW_OFTEN" value="Departure" />
+  <concept id="26" span="word_71" attribute="ACTION" value="Go" />
+  <concept id="27" span="word_72..word_73" attribute="GOAL_TOWN" value="Legionowo" />
+  <concept id="28" span="word_76" attribute="ACTION" value="Concern" />
+  <concept id="29" span="word_78" attribute="AREA" value="cmentarz" />
+  <concept id="30" span="word_79..word_81" attribute="Q_WHAT_TIME" value="Trip" />
+  <concept id="31" span="word_92..word_93" attribute="TIME_DAYPERIOD" value="WholeDay" />
+  <concept id="32" span="word_99..word_100" attribute="BUS" value="801" />
+  <concept id="33" span="word_101" attribute="ACTION" value="Go" />
+  <concept id="34" span="word_103..word_107" attribute="DAYTIME_PERIOD_SPAN" value="5 : 00 - 8 : 30" />
+  <concept id="35" span="word_108" attribute="REACTION" value="Confirmation" />
+  <concept id="36" span="word_110" attribute="TIME_REL" value="Later" />
+  <concept id="37" span="word_111..word_116" attribute="DAYTIME_PERIOD_SPAN" value="13 : 30 - 23 : 00" />
+  <concept id="38" span="word_117..word_119" attribute="DAYTIME_PERIOD_BEG" value="5 : 30" />
+  <concept id="39" span="word_120" attribute="Q_CONF" value="IsIt" />
+  <concept id="40" span="word_122..word_124" attribute="DAYTIME_PERIOD_BEG" value="5 : 00 am" />
+  <concept id="41" span="word_125" attribute="REACTION" value="Confirmation" />
+  <concept id="42" span="word_128..word_130" attribute="DAYTIME_PERIOD_END" value="8 : 30" />
+  <concept id="43" span="word_131" attribute="REACTION" value="Confirmation" />
+  <concept id="44" span="word_133" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="45" span="word_134" attribute="ACTION" value="Go" />
+  <concept id="46" span="word_136..word_138" attribute="TRANSPORT_RATE" value="8 min" />
+  <concept id="47" span="word_140..word_141" attribute="TRANSPORT_RATE" value="8 min" />
+  <concept id="48" span="word_142..word_143" attribute="TIME_REL" value="Later" />
+  <concept id="49" span="word_145" attribute="TRANSPORT_RATE_REL" value="LessFreq" />
+  <concept id="50" span="word_146..word_147" attribute="TIME_REL" value="Later" />
+  <concept id="51" span="word_148" attribute="ACTION" value="ToBegin" />
+  <concept id="52" span="word_150..word_153" attribute="DAYTIME_PERIOD_BEG" value="13 : 30" />
+  <concept id="53" span="word_154" attribute="REACTION" value="Confirmation" />
+  <concept id="54" span="word_157..word_161" attribute="DAYTIME_PERIOD_END" value="23 : 00" />
+  <concept id="55" span="word_162" attribute="ACTION" value="ToRun" />
+  <concept id="56" span="word_163..word_165" attribute="DAYTIME_PERIOD_END" value="23 : 00" />
+  <concept id="57" span="word_167..word_168" attribute="Q_HOW_OFTEN" value="Departure" />
+  <concept id="58" span="word_169" attribute="ACTION" value="Go" />
+  <concept id="59" span="word_173..word_179" attribute="DAYTIME_PERIOD_SPAN" value="5 : 00 - 8 : 00 am" />
+  <concept id="60" span="word_180" attribute="ACTION" value="ToRun" />
+  <concept id="61" span="word_182..word_184" attribute="TRANSPORT_RATE" value="10 min" />
+  <concept id="62" span="word_185..word_186" attribute="TRANSPORT_RATE" value="10 min" />
+  <concept id="63" span="word_187" attribute="REACTION" value="Confirmation" />
+  <concept id="64" span="word_188" attribute="REACTION" value="Confirmation" />
+  <concept id="65" span="word_190..word_194" attribute="DAYTIME_PERIOD_SPAN" value="14 : 00 - 18 : 00" />
+  <concept id="66" span="word_196..word_198" attribute="TRANSPORT_RATE" value="10 min" />
+  <concept id="67" span="word_204" attribute="TRANSPORT_RATE_REL" value="LessFreq" />
+  <concept id="68" span="word_210..word_211" attribute="CONV_FORM" value="BYE" />
+  <concept id="69" span="word_212..word_213" attribute="CONV_FORM" value="BYE" />
+</concepts>

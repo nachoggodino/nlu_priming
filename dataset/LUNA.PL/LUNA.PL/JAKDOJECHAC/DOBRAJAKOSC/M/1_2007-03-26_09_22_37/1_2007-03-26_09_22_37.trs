@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-26_09_22_37" version="3" version_date="071227">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="54.9965625" topic="to1">
+<Turn startTime="0" endTime="0.519">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.519" endTime="2.922">
+<Sync time="0.519"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.922" endTime="3.564">
+<Sync time="2.922"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+dzień
+<Event desc="~" type="lexical" extent="end"/>
+ dobry panu
+</Turn>
+<Turn speaker="spk1" startTime="3.564" endTime="4.533">
+<Sync time="3.564"/>
+dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="4.533" endTime="9.462">
+<Sync time="4.533"/>
+proszę pana z Placu Wilsona do szpitala do Przemienienia Pańskiego 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.462" endTime="11.263">
+<Sync time="9.462"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Szpitala pod wez
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+aniem Przemienienia Pańs
+<Event desc="~" type="lexical" extent="begin"/>
+kiego
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="11.263" endTime="13.248">
+<Sync time="11.263"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ jak dojechać 
+<Event desc="babble" type="noise" extent="end"/>
+ najlepiej 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.248" endTime="26.194">
+<Sync time="13.248"/>
+z Placu Wilsona już momencik 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ proszę pana to najlepiej byłoby metrem do Ratusza dojechać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ słyszy mnie pan 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.194" endTime="27.317">
+<Sync time="26.194"/>
+ah tak tak 
+</Turn>
+<Turn speaker="spk1" startTime="27.317" endTime="49.964">
+<Sync time="27.317"/>
+dobrze bo myślałem 
+<Event desc="*" type="pronounce" extent="begin"/>
+że się
+<Event desc="*" type="pronounce" extent="end"/>
+ coś stało na linii proszę pana metrem do Ratusza dojeżdżamy i z Alei Solidarności 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w kierunku na Pragę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mamy takie tramwaje jak trzynastka 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ dwadzieścia trzy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ dwadzieścia sześć i trzydzieści dwa 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ i dojeżdżamy do przystanku Park Praski tu już 
+<Event desc="*" type="pronounce" extent="begin"/>
+prawie
+<Event desc="*" type="pronounce" extent="end"/>
+ jest pod samym szpitalem 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="49.964" endTime="51.284">
+<Sync time="49.964"/>
+dziękuję panu uprzejmie do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="51.284" endTime="52.228">
+<Sync time="51.284"/>
+proszę bardzo do widzenia
+</Turn>
+<Turn startTime="52.228" endTime="54.9965625">
+<Sync time="52.228"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

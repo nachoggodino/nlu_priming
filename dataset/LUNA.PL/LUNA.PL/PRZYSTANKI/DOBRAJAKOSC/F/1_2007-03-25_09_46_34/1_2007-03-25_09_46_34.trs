@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_09_46_34" version="4" version_date="070926">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="31.498" topic="to1">
+<Turn startTime="0" endTime="0.537">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.537" endTime="1.814">
+<Sync time="0.537"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.814" endTime="9.543">
+<Sync time="1.814"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry chciałam się dowiedzieć w Warszawie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ który numer autobusu jeździ do Wilanowa z Centrum
+</Turn>
+<Turn speaker="spk1" startTime="9.543" endTime="13.195">
+<Sync time="9.543"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Centrum 
+<Event desc="*" type="pronounce" extent="begin"/>
+pięćset
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przepraszam pięćset dwadzieścia dwa
+</Turn>
+<Turn speaker="spk2" startTime="13.195" endTime="16.661">
+<Sync time="13.195"/>
+a ale 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to jest przystanek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tu przy Cepelii 
+<Event desc="babble" type="noise" extent="begin"/>
+ czy 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="16.661" endTime="17.777">
+<Sync time="16.661"/>
+<Who nb="1"/>
+ z Dworca Centralnego
+<Who nb="2"/>
+nie
+</Turn>
+<Turn speaker="spk1" startTime="17.777" endTime="25.974">
+<Sync time="17.777"/>
+z nie on ma przystanek vis-a-vis Domów Centrum na Marszałkowskiej od strony wejścia do metra 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.974" endTime="26.848">
+<Sync time="25.974"/>
+pięćset dwadzieścia dwa 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="26.848" endTime="27.966">
+<Sync time="26.848"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="27.966" endTime="28.544">
+<Sync time="27.966"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dziękuję 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.544" endTime="29.174">
+<Sync time="28.544"/>
+proszę bardzo
+</Turn>
+<Turn startTime="29.174" endTime="31.498">
+<Sync time="29.174"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

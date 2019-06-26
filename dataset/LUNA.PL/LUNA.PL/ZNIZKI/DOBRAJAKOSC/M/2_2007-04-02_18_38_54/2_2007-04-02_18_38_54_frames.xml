@@ -1,0 +1,16 @@
+<Frames>
+  <Set id="1" subset="1" span="word_23" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_21" concept_id="5" name="BENEFICIARY" />
+    <Frame fe="2" span="word_24" concept_id="7" name="PRIVILEGE" />
+    <Frame fe="3" span="word_25,word_26,word_27" concept_id="8,9,10" name="MANNER" />
+  </Set>
+  <Set id="2" subset="1" span="word_85" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_82..word_83" concept_id="23" name="ENTITY" />
+  </Set>
+  <Set id="3" subset="1" span="word_133" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_127..word_128" concept_id="34" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_138" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_142" concept_id="40" name="ENTITY" />
+  </Set>
+</Frames>

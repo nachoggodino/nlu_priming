@@ -1,0 +1,22 @@
+<concepts>
+  <concept id="1" span="word_2" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_6..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_9..word_10" attribute="Q_DEPARTURE" value="Last" />
+  <concept id="5" span="word_11" attribute="TIME_REL" value="Today" />
+  <concept id="6" span="word_12" attribute="ACTION" value="ToRun" />
+  <concept id="7" span="word_13" attribute="METRO" value="General" />
+  <concept id="8" span="word_15..word_17" attribute="GOAL_DIRECTION_TD" value="Młociny" />
+  <concept id="9" span="word_22..word_23" attribute="TIMETABLE" value="Winter" />
+  <concept id="10" span="word_26" attribute="REACTION" value="Confirmation" />
+  <concept id="11" span="word_27..word_29" attribute="GOAL_DIRECTION_TD" value="Młociny" />
+  <concept id="12" span="word_31..word_33" attribute="Q_WHERE" value="TripStartPoint" />
+  <concept id="13" span="word_35" attribute="STOP_DESCRIPTION" value="Metro Racławicka" />
+  <concept id="14" span="word_36" attribute="REACTION" value="Confirmation" />
+  <concept id="15" span="word_38" attribute="STOP_DESCRIPTION" value="Metro Racławicka" />
+  <concept id="16" span="word_42..word_44" attribute="AT_HOUR" value="2 : 44" />
+  <concept id="17" span="word_45" attribute="ACTION" value="ToBe" />
+  <concept id="18" span="word_46" attribute="DEPARTURE" value="Last" />
+  <concept id="19" span="word_52..word_54" attribute="AT_HOUR" value="3 : 44" />
+  <concept id="20" span="word_57..word_58" attribute="CONV_FORM" value="BYE" />
+</concepts>

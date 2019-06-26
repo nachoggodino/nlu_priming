@@ -1,0 +1,30 @@
+<Frames>
+  <Set id="1" subset="1" span="word_19" frame="DEPARTING" head="odchodzić">
+    <Frame fe="1" span="word_15..word_16" concept_id="8" name="THEME" />
+    <Frame fe="2" span="word_17..word_18" concept_id="9" name="TIME" />
+    <Frame fe="3" span="word_20..word_22" concept_id="11" name="GOAL" />
+    <Frame fe="4" span="word_24" concept_id="13" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_44" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_45" concept_id="22" name="ENTITY" />
+  </Set>
+  <Set id="3" subset="1" span="word_49" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_48" concept_id="24" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_55" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_56..word_57" concept_id="28" name="ENTITY" />
+  </Set>
+  <Set id="5" subset="1" span="word_61" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_60" concept_id="29" name="THEME" />
+    <Frame fe="2" span="word_62..word_64" concept_id="31" name="TIME" />
+  </Set>
+  <Set id="6" subset="1" span="word_82" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_80..word_81" concept_id="37" name="ENTITY" />
+    <Frame fe="2" span="word_85..word_89" concept_id="39" name="TIME" />
+    <Frame fe="3" span="word_91..word_92" concept_id="40" name="TIME" />
+  </Set>
+  <Set id="7" subset="1" span="word_106" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_105" concept_id="45" name="ENTITY" />
+    <Frame fe="2" span="word_107..word_109" concept_id="47" name="TIME" />
+  </Set>
+</Frames>

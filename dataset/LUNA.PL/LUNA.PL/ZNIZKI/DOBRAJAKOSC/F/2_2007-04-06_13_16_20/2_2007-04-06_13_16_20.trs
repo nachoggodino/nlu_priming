@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-06_13_16_20" version="3" version_date="071002">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="127.492" topic="to1">
+<Turn startTime="0" endTime="0.719">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.719" endTime="1.972">
+<Sync time="0.719"/>
+xxx dzień dobry <Event desc="babble" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="1.972" endTime="10.211">
+<Sync time="1.972"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry <Event desc="babble" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> proszę <Event desc="babble" type="noise" extent="end"/> pana ja mam takie pytanie czy w Warszawie jak się jedzie komunikacją miejską czy honorowi dawcy krwi mają ulgi<Event desc="int" type="noise" extent="previous"/>
+</Turn>
+<Turn speaker="spk1" startTime="10.211" endTime="20.112">
+<Sync time="10.211"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> tak ale musi być wpis w <Event desc="*" type="pronounce" extent="begin"/>legitymacji<Event desc="*" type="pronounce" extent="end"/> honorowego dawcy krwi <Event desc="filler" type="lexical" extent="instantaneous"/> że się oddało dla kobiety piętnaście litrów honorowo a dla mężczyzny osiemnaście
+</Turn>
+<Turn speaker="spk2" startTime="20.112" endTime="23.35">
+<Sync time="20.112"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> a mniejszy jak mniejsza ilość to nie ma żadnych ul<Event desc="~" type="lexical" extent="begin"/>g<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="23.35" endTime="23.885">
+<Sync time="23.35"/>
+<Who nb="1"/>
+tak <Event desc="?" type="lexical" extent="instantaneous"/>
+<Who nb="2"/>
+nie
+</Turn>
+<Turn speaker="spk1" startTime="23.885" endTime="24.707">
+<Sync time="23.885"/>
+nie <Event desc="noise" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="24.707" endTime="123.378">
+<Sync time="24.707"/>
+<Event desc="no annotated" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="123.378" endTime="124.883">
+<Sync time="123.378"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> no dobrze dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="124.883" endTime="125.176">
+<Sync time="124.883"/>
+proszę 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="125.176" endTime="125.848">
+<Sync time="125.176"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="125.848" endTime="127.492">
+<Sync time="125.848"/>
+do widzenia
+</Turn>
+</Section>
+</Episode>
+</Trans>

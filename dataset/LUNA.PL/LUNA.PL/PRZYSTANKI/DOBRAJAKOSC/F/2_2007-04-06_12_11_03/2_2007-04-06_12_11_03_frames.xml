@@ -1,0 +1,37 @@
+<Frames>
+  <Set id="1" subset="1" span="word_12" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_6..word_8" concept_id="3" name="PLACE" />
+    <Frame fe="2" span="word_9..word_11" concept_id="4" name="LOCATION" />
+    <Frame fe="3" span="word_13..word_15,word_16..word_18" concept_id="6,7" name="THEME" />
+  </Set>
+  <Set id="2" subset="1" span="word_36" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_35" concept_id="11" name="THEME" />
+    <Frame fe="2" span="word_37..word_38" concept_id="13" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_49" frame="BOARD_VEHICLE" head="wsiadać">
+    <Frame fe="1" span="word_45" concept_id="15" name="PLACE" />
+  </Set>
+  <Set id="4" subset="1" span="word_52" frame="MOTION" head="podjeżdżać">
+    <Frame fe="1" span="word_51" concept_id="18" name="THEME" />
+    <Frame fe="2" span="word_53..word_55" concept_id="20" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_60" frame="HALT" head="stanąć">
+    <Frame fe="1" span="word_61..word_63" concept_id="23" name="PLACE" />
+  </Set>
+  <Set id="6" subset="1" span="word_69" frame="DEPARTING" head="wychodzić">
+    <Frame fe="1" span="word_67..word_68" concept_id="24" name="SOURCE" />
+  </Set>
+  <Set id="7" subset="1" span="word_75" frame="DEPARTING" head="wychodzić">
+    <Frame fe="1" span="word_76..word_77" concept_id="27" name="SOURCE" />
+  </Set>
+  <Set id="8" subset="1" span="word_103" frame="HALT" head="stanąć">
+    <Frame fe="1" span="word_104..word_105" concept_id="38" name="PLACE" />
+  </Set>
+  <Set id="9" subset="1" span="word_119" frame="ESCAPING" head="wysiadać">
+    <Frame fe="1" span="word_121" concept_id="46" name="UNDESIRABLE_LOCATION" />
+  </Set>
+  <Set id="10" subset="1" span="word_125" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_123" concept_id="48" name="PHENOMENON" />
+    <Frame fe="2" span="word_126..word_129,word_130..word_131" concept_id="50,51" name="CHARACTERIZATION" />
+  </Set>
+</Frames>

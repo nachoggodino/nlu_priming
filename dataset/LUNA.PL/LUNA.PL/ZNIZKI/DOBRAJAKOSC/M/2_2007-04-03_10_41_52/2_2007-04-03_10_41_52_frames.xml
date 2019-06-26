@@ -1,0 +1,54 @@
+<Frames>
+  <Set id="1" subset="1" span="word_19" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_20" concept_id="5" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_23" frame="USING" head="korzystać">
+    <Frame fe="1" span="word_28" concept_id="8" name="INSTRUMENT" />
+    <Frame fe="2" span="word_30" concept_id="9" name="INSTRUMENT" />
+  </Set>
+  <Set id="3" subset="1" span="word_50" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_51..word_52" concept_id="18" name="RATE" />
+    <Frame fe="2" span="word_53..word_55" concept_id="19" name="MONEY" />
+    <Frame fe="3" span="word_57..word_58" concept_id="21" name="MONEY" />
+  </Set>
+  <Set id="4" subset="1" span="word_62" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_63" concept_id="23" name="ENTITY" />
+  </Set>
+  <Set id="5" subset="1" span="word_75" frame="BOARD_VEHICLE" head="wsiąść">
+    <Frame fe="1" span="word_76..word_77" concept_id="27" name="PLACE" />
+  </Set>
+  <Set id="6" subset="1" span="word_84" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_85..word_88" concept_id="31" name="PRIVILEGE" />
+  </Set>
+  <Set id="7" subset="1" span="word_98" frame="COMMERCE_PAY" head="zapłacić">
+    <Frame fe="1" span="word_94..word_95" concept_id="35" name="MONEY" />
+  </Set>
+  <Set id="8" subset="1" span="word_102" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_103" concept_id="39" name="ENTITY" />
+    <Frame fe="2" span="word_108" concept_id="41" name="STATE" />
+    <Frame fe="3" span="word_109" concept_id="42" name="STATE" />
+  </Set>
+  <Set id="9" subset="1" span="word_111" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_112" concept_id="44" name="ENTITY" />
+    <Frame fe="2" span="word_115..word_116" concept_id="45" name="STATE" />
+  </Set>
+  <Set id="10" subset="1" span="word_130" frame="USING" head="korzystać">
+    <Frame fe="1" span="word_124..word_126" concept_id="48" name="TIME" />
+    <Frame fe="2" span="word_133" concept_id="50" name="INSTRUMENT" />
+  </Set>
+  <Set id="11" subset="1" span="word_137" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_136" concept_id="51" name="MANNER" />
+    <Frame fe="2" span="word_138" concept_id="53" name="MANNER" />
+  </Set>
+  <Set id="12" subset="1" span="word_142" frame="BECOMING" head="ukończyć">
+    <Frame fe="1" span="word_143..word_145" concept_id="57" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="13" subset="1" span="word_146" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_140" concept_id="55" name="BENEFICIARY" />
+    <Frame fe="2" span="word_147..word_148" concept_id="59" name="PRIVILEGE" />
+  </Set>
+  <Set id="14" subset="1" span="word_167" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_161..word_164" concept_id="62" name="TITLE" />
+    <Frame fe="2" span="word_168..word_169" concept_id="64" name="PRIVILEGE" />
+  </Set>
+</Frames>

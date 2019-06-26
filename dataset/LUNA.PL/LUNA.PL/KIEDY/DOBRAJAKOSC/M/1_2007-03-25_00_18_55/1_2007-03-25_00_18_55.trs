@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_00_18_55" version="3" version_date="070928">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="65.996" topic="to1">
+<Turn startTime="0" endTime="0.32">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.32" endTime="2.105">
+<Sync time="0.32"/>
+dobry wieczór xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.105" endTime="13.52">
+<Sync time="2.105"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobry wieczór ja mam 
+<Event desc="babble" type="noise" extent="begin"/>
+ takie pytanie 
+<Event desc="babble" type="noise" extent="end"/>
+ czy z Dworca Centralnego odjeżdża teraz 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+bo o której godzinie odjeżdża autobus 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto siedemdziesiąt pięć w kierunku 
+<Event desc="noise" type="noise" extent="begin"/>
+ ulicy Żwirki Wigury 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.52" endTime="20.769">
+<Sync time="13.52"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana o tej porze to nie mamy ewentualnie autobus sześćset jedenaście jeśli w nocy a gdzie pan potrzebuje dojechać 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.769" endTime="21.654">
+<Sync time="20.769"/>
+na Żwirki i Wigury
+</Turn>
+<Turn speaker="spk1" startTime="21.654" endTime="32.566">
+<Sync time="21.654"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na Żwirki i Wigury to proszę pana mamy autobus sześćset jedenaście 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ jadący w kierunku Palucha i on tutaj jedzie tą częścią tak jak jedzie autobus sto siedemdziesiąt pięć
+</Turn>
+<Turn speaker="spk2" startTime="32.566" endTime="34.671">
+<Sync time="32.566"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ a o 
+<Event desc="babble" type="noise" extent="end"/>
+ której on godzinie będzie odjeżdżał 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="34.671" endTime="45.418">
+<Sync time="34.671"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana on odjeżdża piętnaście i czterdzieści pięć po każdej pełnej godzinie czyli teraz zero czterdzieści pięć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i potem pierwsza piętnaście i czterdzieści pięć 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="45.418" endTime="46.134">
+<Sync time="45.418"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="46.134" endTime="50.726">
+<Sync time="46.134"/>
+i druga też piętnaście i czterdzieści pięć i tak do czwartej włącznie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="50.726" endTime="53.773">
+<Sync time="50.726"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a jeszcze takie pytanie
+</Turn>
+<Turn speaker="spk1" startTime="53.773" endTime="61.887">
+<Sync time="53.773"/>
+kierunek Paluch Dworzec Centralny trzydzieści cztery jest nazwa przystanku i kierunek Paluch musi być na 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na autobusie napisane
+</Turn>
+<Turn speaker="spk2" startTime="61.887" endTime="63.193">
+<Sync time="61.887"/>
+dobrze to dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="63.193" endTime="63.589">
+<Sync time="63.193"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="63.589" endTime="64.067">
+<Sync time="63.589"/>
+<Who nb="1"/>
+dobranoc
+<Who nb="2"/>
+uprzejmie
+</Turn>
+<Turn speaker="spk1" startTime="64.067" endTime="64.772">
+<Sync time="64.067"/>
+dobranoc pa
+<Event desc="~" type="lexical" extent="begin"/>
+nu
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn startTime="64.772" endTime="65.996">
+<Sync time="64.772"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

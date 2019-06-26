@@ -1,0 +1,16 @@
+<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_14" attribute="Q_FARE" value="Person" />
+  <concept id="3" span="word_17" attribute="PERSON" value="Unemployed" />
+  <concept id="4" span="word_19..word_23" attribute="Q_FARE" value="EntitledToBenefit" />
+  <concept id="5" span="word_25" attribute="REACTION" value="Confirmation" />
+  <concept id="6" span="word_26" attribute="REACTION" value="Confirmation" />
+  <concept id="7" span="word_27..word_34" attribute="Q_FARE" value="Unemployed" />
+  <concept id="8" span="word_35" attribute="REACTION" value="Confirmation" />
+  <concept id="9" span="word_36" attribute="REACTION" value="Confirmation" />
+  <concept id="10" span="word_39..word_62" attribute="INFORMATION" value="FARE_Unemployed" />
+  <concept id="11" span="word_63..word_67" attribute="Q_CONF" value="OtherInformation" />
+  <concept id="12" span="word_69" attribute="REACTION" value="Negation" />
+  <concept id="13" span="word_71" attribute="REACTION" value="Negation" />
+  <concept id="14" span="word_72" attribute="ACTION" value="Request" />
+</concepts>

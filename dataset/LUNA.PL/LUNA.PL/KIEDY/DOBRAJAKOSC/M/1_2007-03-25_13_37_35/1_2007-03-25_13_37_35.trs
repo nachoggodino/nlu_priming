@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_13_37_35" version="5" version_date="100912">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="66.496" topic="to1">
+<Turn startTime="0" endTime="0.634">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.634" endTime="2.273">
+<Sync time="0.634"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.273" endTime="8.309">
+<Sync time="2.273"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę pana ja chciałem się dowiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z przystanku Osiedle Konstancja 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="8.309" endTime="8.820">
+<Sync time="8.309"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="8.820" endTime="27.349">
+<Sync time="8.820"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do przystanku Wilanów o której muszę wyjechać żeby gdzieś tak koło godziny 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ czternastej trzydzieści powiedzmy być w Wilanowie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="27.349" endTime="33.011">
+<Sync time="27.349"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+jeśli
+<Event desc="*" type="pronounce" extent="end"/>
+ chodzi o linię siedemset dziesięć to jest czternasta zero jeden 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="33.011" endTime="33.562">
+<Sync time="33.011"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="33.562" endTime="60.282">
+<Sync time="33.562"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ zaraz sprawdzę po kolei te siedemsetki 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czterysta dwadzieścia cztery no nie pasuje 
+<Event desc="noise" type="noise" extent="end"/>
+ bo jest dopiero o wpół do piętnastej 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ może sto trzydzieści dziewięć 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ czternasta zero dwa któryś z tych albo
+</Turn>
+<Turn speaker="spk2 spk1" startTime="60.282" endTime="60.638">
+<Sync time="60.282"/>
+<Who nb="1"/>
+dobrze
+<Who nb="2"/>
+ten
+</Turn>
+<Turn speaker="spk1" startTime="60.638" endTime="63.027">
+<Sync time="60.638"/>
+czternasta zero jeden albo 
+<Event desc="noise" type="noise" extent="begin"/>
+ czternasta zero dwa 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="63.027" endTime="63.774">
+<Sync time="63.027"/>
+
+<Event desc="en" type="language" extent="begin"/>
+okey
+<Event desc="en" type="language" extent="end"/>
+ dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="63.774" endTime="64.436">
+<Sync time="63.774"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę bardzo 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="64.436" endTime="66.496">
+<Sync time="64.436"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

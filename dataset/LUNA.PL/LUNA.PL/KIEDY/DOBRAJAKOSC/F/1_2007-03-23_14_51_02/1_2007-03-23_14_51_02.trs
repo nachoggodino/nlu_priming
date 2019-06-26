@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_14_51_02" version="1" version_date="070426">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to3" desc="female user, good recording quality"/>
+<Topic id="to4" desc="female user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="43.4973125" topic="to2">
+<Turn startTime="0" endTime="0.59">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.59" endTime="1.728">
+<Sync time="0.59"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.728" endTime="16.322">
+<Sync time="1.728"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry proszę pana chciałam się dowiedzieć jak długo jedzie autobus <Event desc="silence" type="noise" extent="instantaneous"/> linii sto pięćdziesiąt siedem z ulicy Grójeckiej przy Bitwy Warszawskiej na Plac <Event desc="en" type="language" extent="begin"/>Wilson<Event desc="en" type="language" extent="end"/>a
+</Turn>
+<Turn speaker="spk1" startTime="16.322" endTime="20.491">
+<Sync time="16.322"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> do Placu <Event desc="en" type="language" extent="begin"/>Wilson<Event desc="en" type="language" extent="end"/>a jedzie od dwudziestu sześciu do trzydziestu dwóch minut 
+</Turn>
+<Turn speaker="spk2" startTime="20.491" endTime="22.091">
+<Sync time="20.491"/>
+około trzydziestu minut 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="22.091" endTime="22.599">
+<Sync time="22.091"/>
+<Who nb="1"/>
+tak <Event desc="?" type="lexical" extent="instantaneous"/>
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="22.599" endTime="23.115">
+<Sync time="22.599"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="23.115" endTime="27.209">
+<Sync time="23.115"/>
+a jak jedzie autobus <Event desc="noise" type="noise" extent="begin"/> linii sto osiemdziesiąt jeden <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="27.209" endTime="27.907">
+<Sync time="27.209"/>
+<Event desc="noise" type="noise" extent="begin"/> tak <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="27.907" endTime="29.913">
+<Sync time="27.907"/>
+<Event desc="noise" type="noise" extent="begin"/> z Placu <Event desc="en" type="language" extent="begin"/>Wilson<Event desc="en" type="language" extent="end"/>a na Wólkę <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="29.913" endTime="31.876">
+<Sync time="29.913"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="babble" type="noise" extent="begin"/> do samej pętli i tam  pod cmentarz pod <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1 spk2" startTime="31.876" endTime="32.662">
+<Sync time="31.876"/>
+<Who nb="1"/>
+pod bramę główną <Event desc="?" type="lexical" extent="instantaneous"/>
+<Who nb="2"/>
+tak pod cmen<Event desc="~" type="lexical" extent="begin"/>tarz<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="32.662" endTime="33.842">
+<Sync time="32.662"/>
+pod bramę 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="33.842" endTime="34.395">
+<Sync time="33.842"/>
+<Who nb="1"/>
+główną
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="34.395" endTime="38.679">
+<Sync time="34.395"/>
+pani jeś<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>i nie będzie miał korka to w dwadzieścia minut powinien się wyrobić
+</Turn>
+<Turn speaker="spk2" startTime="38.679" endTime="40.551">
+<Sync time="38.679"/>
+<Event desc="noise" type="noise" extent="begin"/> dwadzieścia minut dobrze dziękuję  <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="40.551" endTime="41.903">
+<Sync time="40.551"/>
+<Who nb="1"/>
+panu bardzo do widzenia
+<Who nb="2"/>
+proszę do widzenia
+</Turn>
+<Turn startTime="41.903" endTime="43.4973125">
+<Sync time="41.903"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

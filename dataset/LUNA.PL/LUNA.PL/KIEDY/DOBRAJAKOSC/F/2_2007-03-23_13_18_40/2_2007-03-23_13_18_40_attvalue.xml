@@ -1,0 +1,119 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_13" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_14" attribute="BUS" value="General" />
+  <concept id="6" span="word_17" attribute="ACTION" value="Request" />
+  <concept id="7" span="word_19" attribute="ACTION" value="Request" />
+  <concept id="8" span="word_20..word_21" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="9" span="word_22" attribute="ACTION" value="Go" />
+  <concept id="10" span="word_23" attribute="BUS" value="General" />
+  <concept id="11" span="word_24..word_26" attribute="SOURCE_STP" value="Sobocka" />
+  <concept id="12" span="word_28" attribute="ACTION" value="Approach" />
+  <concept id="13" span="word_29..word_31" attribute="GOAL_RS" value="Dworzec Gdański" />
+  <concept id="14" span="word_33" attribute="REACTION" value="Negation" />
+  <concept id="15" span="word_35" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="16" span="word_36..word_37" attribute="NUM_BUS_PART" value="28" />
+  <concept id="17" span="word_38" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="18" span="word_39..word_41" attribute="BUS" value="157" />
+  <concept id="19" span="word_43..word_45" attribute="AROUND_HOUR" value="14 : 00" />
+  <concept id="20" span="word_46" attribute="REACTION" value="Confirmation" />
+  <concept id="21" span="word_48" attribute="ACTION" value="Need" />
+  <concept id="22" span="word_49" attribute="ACTION" value="ToBe" />
+  <concept id="23" span="word_55..word_57" attribute="AT_HOUR" value="14 : 15" />
+  <concept id="24" span="word_58..word_59" attribute="AT_HOUR_MINPART" value="15" />
+  <concept id="25" span="word_60" attribute="REACTION" value="Confirmation" />
+  <concept id="26" span="word_61..word_62" attribute="RIDE_DURATION_M" value="15" />
+  <concept id="27" span="word_64" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="28" span="word_66" attribute="ACTION" value="Go" />
+  <concept id="29" span="word_69..word_71" attribute="AT_HOUR" value="14 : 49" />
+  <concept id="30" span="word_72" attribute="ACTION" value="ToBe" />
+  <concept id="31" span="word_74" attribute="ACTION" value="Tell" />
+  <concept id="32" span="word_76..word_78" attribute="BUS" value="128" />
+  <concept id="33" span="word_80" attribute="REACTION" value="Negation" />
+  <concept id="34" span="word_82" attribute="TIME_REL" value="Earlier" />
+  <concept id="35" span="word_84" attribute="ACTION" value="Excuse" />
+  <concept id="36" span="word_87" attribute="ACTION" value="ToBe" />
+  <concept id="37" span="word_88..word_90" attribute="AT_HOUR" value="14 : 15" />
+  <concept id="38" span="word_92" attribute="ACTION" value="ToBe" />
+  <concept id="39" span="word_93..word_94" attribute="LOCATION_RS" value="Dworzec Gdański" />
+  <concept id="40" span="word_95" attribute="ACTION" value="Excuse" />
+  <concept id="41" span="word_97..word_99" attribute="AT_HOUR" value="13 : 33" />
+  <concept id="42" span="word_101..word_102" attribute="Q_DEPARTURE" value="Later" />
+  <concept id="43" span="word_103..word_105" attribute="AT_HOUR" value="14 : 02" />
+  <concept id="44" span="word_108..word_109" attribute="AT_HOUR_MINPART" value="02" />
+  <concept id="45" span="word_112" attribute="ACTION" value="BeInTime" />
+  <concept id="46" span="word_113" attribute="Q_CONF" value="IsIt" />
+  <concept id="47" span="word_115" attribute="REACTION" value="Confirmation" />
+  <concept id="48" span="word_116" attribute="REACTION" value="Confirmation" />
+  <concept id="49" span="word_118..word_120" attribute="BUS" value="157" />
+  <concept id="50" span="word_122" attribute="ACTION" value="ToBe" />
+  <concept id="51" span="word_123..word_125" attribute="BUS" value="128" />
+  <concept id="52" span="word_126" attribute="Q_CONF" value="IsIt" />
+  <concept id="53" span="word_127" attribute="REACTION" value="Confirmation" />
+  <concept id="54" span="word_129" attribute="ACTION" value="ToBe" />
+  <concept id="55" span="word_130..word_132" attribute="BUS" value="128" />
+  <concept id="56" span="word_133" attribute="REACTION" value="Confirmation" />
+  <concept id="57" span="word_134..word_136" attribute="BUS" value="157" />
+  <concept id="58" span="word_139" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="59" span="word_140" attribute="ACTION" value="Go" />
+  <concept id="60" span="word_141..word_143" attribute="TRANSPORT_RATE" value="15 min" />
+  <concept id="61" span="word_146" attribute="ACTION" value="Go" />
+  <concept id="62" span="word_147..word_148" attribute="RIDE_DURATION_M" value="12" />
+  <concept id="63" span="word_154" attribute="DEPARTURE" value="General" />
+  <concept id="64" span="word_155" attribute="ACTION" value="ToBe" />
+  <concept id="65" span="word_156..word_157" attribute="AT_HOUR" value="13 : 08" />
+  <concept id="66" span="word_158" attribute="TIME_REL" value="Later" />
+  <concept id="67" span="word_159..word_160" attribute="AT_HOUR_MINPART" value="23" />
+  <concept id="68" span="word_161..word_162" attribute="AT_HOUR_MINPART" value="37" />
+  <concept id="69" span="word_163" attribute="REACTION" value="Confirmation" />
+  <concept id="70" span="word_164..word_165" attribute="AT_HOUR_MINPART" value="52" />
+  <concept id="71" span="word_167..word_169" attribute="AT_HOUR" value="14 : 07" />
+  <concept id="72" span="word_170..word_171" attribute="AT_HOUR_MINPART" value="07" />
+  <concept id="73" span="word_174" attribute="REACTION" value="Confirmation" />
+  <concept id="74" span="word_175..word_176" attribute="AT_HOUR_MINPART" value="22" />
+  <concept id="75" span="word_184" attribute="ACTION" value="Tell" />
+  <concept id="76" span="word_185..word_187" attribute="BUS" value="128" />
+  <concept id="77" span="word_190..word_192" attribute="AFTER_HOUR" value="15 : 00" />
+  <concept id="78" span="word_193..word_195" attribute="AT_HOUR" value="15 : 04" />
+  <concept id="79" span="word_196..word_197" attribute="AT_HOUR_MINPART" value="04" />
+  <concept id="80" span="word_198" attribute="REACTION" value="Confirmation" />
+  <concept id="81" span="word_199..word_200" attribute="Q_DEPARTURE" value="Later" />
+  <concept id="82" span="word_202..word_204" attribute="AT_HOUR" value="15 : 33" />
+  <concept id="83" span="word_205" attribute="REACTION" value="Confirmation" />
+  <concept id="84" span="word_212..word_214" attribute="BUS" value="157" />
+  <concept id="85" span="word_216" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="86" span="word_217..word_219" attribute="BUS" value="185" />
+  <concept id="87" span="word_223..word_226" attribute="AFTER_HOUR" value="15 : 00" />
+  <concept id="88" span="word_227" attribute="REACTION" value="Confirmation" />
+  <concept id="89" span="word_228..word_229" attribute="AT_HOUR" value="15 : 00" />
+  <concept id="90" span="word_230..word_231" attribute="AT_HOUR" value="15 : 07" />
+  <concept id="91" span="word_233" attribute="ACTION" value="ToBe" />
+  <concept id="92" span="word_234..word_236" attribute="BUS" value="157" />
+  <concept id="93" span="word_238" attribute="ACTION" value="Tell" />
+  <concept id="94" span="word_239" attribute="REACTION" value="Confirmation" />
+  <concept id="95" span="word_240" attribute="REACTION" value="Confirmation" />
+  <concept id="96" span="word_241" attribute="REACTION" value="Confirmation" />
+  <concept id="97" span="word_242" attribute="REACTION" value="Confirmation" />
+  <concept id="98" span="word_244..word_246" attribute="AT_HOUR" value="15 : 07" />
+  <concept id="99" span="word_247..word_248" attribute="AT_HOUR_MINPART" value="22" />
+  <concept id="100" span="word_249..word_250" attribute="AT_HOUR_MINPART" value="37" />
+  <concept id="101" span="word_251" attribute="REACTION" value="Confirmation" />
+  <concept id="102" span="word_256..word_258" attribute="BUS" value="185" />
+  <concept id="103" span="word_259" attribute="REACTION" value="Confirmation" />
+  <concept id="104" span="word_262..word_264" attribute="BUS" value="185" />
+  <concept id="105" span="word_267" attribute="REACTION" value="Negation" />
+  <concept id="106" span="word_268" attribute="ACTION" value="ToHave" />
+  <concept id="107" span="word_269..word_270" attribute="LOCATION_STR" value="Sobocka" />
+  <concept id="108" span="word_271" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="109" span="word_275" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="110" span="word_276" attribute="ACTION" value="ToHave" />
+  <concept id="111" span="word_277" attribute="LOCATION_REL" value="There" />
+  <concept id="112" span="word_278..word_279" attribute="STOP_DESCRIPTION" value="Osiedle Ruda" />
+  <concept id="113" span="word_280..word_281" attribute="STOP_DESCRIPTION" value="Osiedle Ruda" />
+  <concept id="114" span="word_284..word_285" attribute="AT_HOUR" value="15 : 06" />
+  <concept id="115" span="word_286..word_287" attribute="AT_HOUR_MINPART" value="21" />
+  <concept id="116" span="word_288" attribute="REACTION" value="Confirmation" />
+  <concept id="117" span="word_300..word_301" attribute="CONV_FORM" value="BYE" />
+</concepts>

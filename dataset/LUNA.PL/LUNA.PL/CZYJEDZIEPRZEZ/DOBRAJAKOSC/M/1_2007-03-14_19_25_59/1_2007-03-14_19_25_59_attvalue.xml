@@ -1,0 +1,111 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_9" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_10" attribute="ACTION" value="Approach" />
+  <concept id="6" span="word_11..word_13" attribute="GOAL_STR" value="Nehru" />
+  <concept id="7" span="word_15" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="8" span="word_17" attribute="ACTION" value="ToBe" />
+  <concept id="9" span="word_19..word_20" attribute="STOP_DESCRIPTION" value="Czerniakowska" />
+  <concept id="10" span="word_21" attribute="STOP_DESCRIPTION" value="Gagarina" />
+  <concept id="11" span="word_22" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="12" span="word_25" attribute="ACTION" value="BeCalled" />
+  <concept id="13" span="word_28" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="14" span="word_29..word_30" attribute="SOURCE_TD" value="Centrum" />
+  <concept id="15" span="word_31..word_32" attribute="LOCATION_REL" value="There" />
+  <concept id="16" span="word_33" attribute="RAILWAY_STATION" value="Dworzec Centralny" />
+  <concept id="17" span="word_34" attribute="BUILDING" value="Hotel Forum" />
+  <concept id="18" span="word_36" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="19" span="word_37..word_38" attribute="STOP_DESCRIPTION" value="Metro Centrum" />
+  <concept id="20" span="word_39" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="21" span="word_40..word_41" attribute="SOURCE_TD" value="Muranów" />
+  <concept id="22" span="word_45" attribute="TOWN_DISTRICT" value="Muranów" />
+  <concept id="23" span="word_46" attribute="ACTION" value="Know" />
+  <concept id="24" span="word_48..word_49" attribute="SOURCE_STR" value="Wisłostrada" />
+  <concept id="25" span="word_50" attribute="ACTION" value="Go" />
+  <concept id="26" span="word_51" attribute="LOCATION_REL" value="There" />
+  <concept id="27" span="word_52..word_54" attribute="BUS" value="185" />
+  <concept id="28" span="word_56" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="29" span="word_57" attribute="REACTION" value="Negation" />
+  <concept id="30" span="word_58" attribute="ACTION" value="Go" />
+  <concept id="31" span="word_59" attribute="LOCATION_REL" value="There" />
+  <concept id="32" span="word_62..word_63" attribute="SOURCE_STR" value="Anielewicza" />
+  <concept id="33" span="word_65..word_66" attribute="BUS" value="180" />
+  <concept id="34" span="word_68" attribute="REACTION" value="Confirmation" />
+  <concept id="35" span="word_69" attribute="ACTION" value="Go" />
+  <concept id="36" span="word_70..word_71" attribute="BUS" value="180" />
+  <concept id="37" span="word_72..word_73" attribute="BUS" value="180" />
+  <concept id="38" span="word_75" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="39" span="word_77..word_78" attribute="LOCATION_STR" value="Anielewicza" />
+  <concept id="40" span="word_79..word_80" attribute="LOCATION_STR" value="Andersa" />
+  <concept id="41" span="word_81" attribute="REACTION" value="Confirmation" />
+  <concept id="42" span="word_85..word_87" attribute="AROUND_HOUR" value="9 : 00" />
+  <concept id="43" span="word_88..word_89" attribute="AT_HOUR" value="9 : 00 am" />
+  <concept id="44" span="word_90" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="45" span="word_93..word_94" attribute="AT_HOUR" value="21 : 00" />
+  <concept id="46" span="word_95" attribute="TIME_DAYPERIOD" value="Morning" />
+  <concept id="47" span="word_96" attribute="TIME_DAYPERIOD" value="Morning" />
+  <concept id="48" span="word_97..word_98" attribute="AT_HOUR" value="9 : 06" />
+  <concept id="49" span="word_99..word_100" attribute="Q_DEPARTURE" value="Next" />
+  <concept id="50" span="word_102..word_103" attribute="AT_HOUR" value="9 : 18" />
+  <concept id="51" span="word_104" attribute="AT_HOUR_MINPART" value="6" />
+  <concept id="52" span="word_106" attribute="AT_HOUR_MINPART" value="18" />
+  <concept id="53" span="word_111" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="54" span="word_112" attribute="Q_HOW_LONG" value="RideTime" />
+  <concept id="55" span="word_113" attribute="LOCATION_REL" value="There" />
+  <concept id="56" span="word_114" attribute="ACTION" value="Go" />
+  <concept id="57" span="word_116..word_118" attribute="Q_DEPARTURE" value="Nearest" />
+  <concept id="58" span="word_119" attribute="Q_ROUTE" value="General" />
+  <concept id="59" span="word_120" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="60" span="word_121" attribute="ACTION" value="Go" />
+  <concept id="61" span="word_122" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="62" span="word_123..word_124" attribute="PATH_TD" value="Centrum" />
+  <concept id="63" span="word_126" attribute="PATH_STR" value="Marszałkowska" />
+  <concept id="64" span="word_128..word_129" attribute="LOCATION_REL" value="There" />
+  <concept id="65" span="word_130..word_131" attribute="PATH_STR" value="Krakowskie Przedmieście" />
+  <concept id="66" span="word_132" attribute="ACTION" value="Go" />
+  <concept id="67" span="word_134..word_135" attribute="PATH_STR" value="Krakowskie Przedmieście" />
+  <concept id="68" span="word_146..word_151" attribute="Q_ROUTE" value="HowManyStops" />
+  <concept id="69" span="word_154" attribute="REACTION" value="Negation" />
+  <concept id="70" span="word_155" attribute="ACTION" value="ToSee" />
+  <concept id="71" span="word_159" attribute="REACTION" value="Negation" />
+  <concept id="72" span="word_163" attribute="ACTION" value="ToAsk" />
+  <concept id="73" span="word_166" attribute="ACTION" value="GetIn" />
+  <concept id="74" span="word_167..word_168" attribute="LOCATION_STR" value="Anielewicza" />
+  <concept id="75" span="word_171" attribute="REACTION" value="Negation" />
+  <concept id="76" span="word_172" attribute="REACTION" value="Negation" />
+  <concept id="77" span="word_173" attribute="ACTION" value="Count" />
+  <concept id="78" span="word_177" attribute="ACTION" value="Count" />
+  <concept id="79" span="word_181" attribute="LOCATION_REL" value="There" />
+  <concept id="80" span="word_182" attribute="ACTION" value="ToHave" />
+  <concept id="81" span="word_183" attribute="TIME_REL" value="Later" />
+  <concept id="82" span="word_184" attribute="REACTION" value="Negation" />
+  <concept id="83" span="word_185" attribute="ACTION" value="Know" />
+  <concept id="84" span="word_186" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="85" span="word_188..word_189" attribute="LOCATION_STR" value="Świętojerska" />
+  <concept id="86" span="word_190" attribute="ACTION" value="ToHave" />
+  <concept id="87" span="word_191" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="88" span="word_193" attribute="ACTION" value="ToBe" />
+  <concept id="89" span="word_194..word_195" attribute="ROUTE_LENGTH" value="16 STOPS" />
+  <concept id="90" span="word_197" attribute="REACTION" value="Negation" />
+  <concept id="91" span="word_198" attribute="ACTION" value="Count" />
+  <concept id="92" span="word_199" attribute="STOP_DESCRIPTION" value="Anielewicza" />
+  <concept id="93" span="word_201" attribute="ACTION" value="ToBe" />
+  <concept id="94" span="word_202..word_203" attribute="TRIP_END_REL" value="16. STOP" />
+  <concept id="95" span="word_204" attribute="Q_CONF" value="IsIt" />
+  <concept id="96" span="word_206" attribute="REACTION" value="Confirmation" />
+  <concept id="97" span="word_207" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="98" span="word_208" attribute="ACTION" value="BeCalled" />
+  <concept id="99" span="word_210" attribute="STOP_DESCRIPTION" value="Gagarina" />
+  <concept id="100" span="word_212" attribute="TOWN_DISTRICT" value="Sielce" />
+  <concept id="101" span="word_214" attribute="TOWN_DISTRICT" value="Sielce" />
+  <concept id="102" span="word_215" attribute="REACTION" value="Confirmation" />
+  <concept id="103" span="word_217" attribute="ACTION" value="Go" />
+  <concept id="104" span="word_218..word_221" attribute="RIDE_DURATION_M" value="20" />
+  <concept id="105" span="word_222..word_224" attribute="RIDE_DURATION_M" value="20 - 29" />
+  <concept id="106" span="word_225..word_228" attribute="RIDE_DURATION_M" value="25" />
+  <concept id="107" span="word_229" attribute="REACTION" value="Confirmation" />
+  <concept id="108" span="word_234..word_235" attribute="CONV_FORM" value="BYE" />
+  <concept id="109" span="word_236..word_237" attribute="CONV_FORM" value="BYE" />
+</concepts>

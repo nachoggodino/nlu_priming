@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-04_12_37_54" version="4" version_date="080421">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="74.495" topic="to1">
+<Turn startTime="0" endTime="0.914">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.914" endTime="2.698">
+<Sync time="0.914"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.698" endTime="6.582">
+<Sync time="2.698"/>
+dzień dobry xxx z tej strony 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana ja mam takie pytanie 
+</Turn>
+<Turn speaker="spk2" startTime="6.582" endTime="45.645">
+<Sync time="6.582"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="45.645" endTime="52.376">
+<Sync time="45.645"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana jestem studentem i chciał
+<Event desc="~" type="lexical" extent="begin"/>
+by
+<Event desc="~" type="lexical" extent="end"/>
+m się dowiedzieć jaka zniżka 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mnie dotyczy na przeja
+<Event desc="~" type="lexical" extent="begin"/>
+zd
+<Event desc="~" type="lexical" extent="end"/>
+ środkami transportu mie
+<Event desc="~" type="lexical" extent="begin"/>
+j
+<Event desc="~" type="lexical" extent="end"/>
+skiego 
+<Event desc="babble" type="noise" extent="begin"/>
+ w 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="52.376" endTime="52.996">
+<Sync time="52.376"/>
+<Who nb="1"/>
+
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+M Z K
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+
+<Who nb="2"/>
+pan jest
+</Turn>
+<Turn speaker="spk1" startTime="52.996" endTime="55.194">
+<Sync time="52.996"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ studentem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jakich studiów 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="55.194" endTime="56.387">
+<Sync time="55.194"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ zaocznych
+</Turn>
+<Turn speaker="spk1" startTime="56.387" endTime="58.078">
+<Sync time="56.387"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ zaocznych ale magisterskich 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="58.078" endTime="59.843">
+<Sync time="58.078"/>
+nie pierwszego stopnia
+</Turn>
+<Turn speaker="spk1" startTime="59.843" endTime="60.928">
+<Sync time="59.843"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ czyli lice
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ licencjat 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="60.928" endTime="62.6">
+<Sync time="60.928"/>
+tak tak 
+<Event desc="babble" type="noise" extent="begin"/>
+ inżynierskie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="62.6" endTime="67.66">
+<Sync time="62.6"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ na podstawie 
+<Event desc="babble" type="noise" extent="end"/>
+ ważnej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ legitymacji studenckiej pięćdziesiąt procent bez względu na wiek
+</Turn>
+<Turn speaker="spk2" startTime="67.66" endTime="71.094">
+<Sync time="67.66"/>
+bez względu na wiek tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ w
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+aśnie o to mnie chodziło 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ no dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="71.094" endTime="71.339">
+<Sync time="71.094"/>
+proszę
+</Turn>
+<Turn speaker="spk1 spk2" startTime="71.339" endTime="71.898">
+<Sync time="71.339"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="71.898" endTime="72.488">
+<Sync time="71.898"/>
+do usłyszenia
+</Turn>
+<Turn startTime="72.488" endTime="74.495">
+<Sync time="72.488"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

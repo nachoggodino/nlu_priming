@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_10_29_42" version="6" version_date="071227">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="47.997">
+<Turn startTime="0" endTime="0.896">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.896" endTime="2.458">
+<Sync time="0.896"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.458" endTime="11.394">
+<Sync time="2.458"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry 
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę pana chciałem uzyskać 
+<Event desc="noise" type="noise" extent="end"/>
+ informację jak się dostać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Dworca Warszawa Śródmieście na ulicę Karową 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.394" endTime="13.597">
+<Sync time="11.394"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ulica Karowa
+</Turn>
+<Turn speaker="spk2" startTime="13.597" endTime="16.664">
+<Sync time="13.597"/>
+tak tam jest 
+<Event desc="*" type="pronounce" extent="begin"/>
+taki
+<Event desc="*" type="pronounce" extent="end"/>
+ szpital 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.664" endTime="23.618">
+<Sync time="16.664"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a tak już kojarzę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to tutaj pod hotelem Marriott 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na przystanku jest autobus sto osiemnaście
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="23.618" endTime="24.635">
+<Sync time="23.618"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ sto osiemnaście 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="24.635" endTime="24.997">
+<Sync time="24.635"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="24.997" endTime="38.624">
+<Sync time="24.997"/>
+pod samym hotelem Marriott przystanek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i tym autobusem proszę wysiąść on będzie miał przystanek na Dobrej róg 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ róg Karowej i te
+<Event desc="~" type="lexical" extent="begin"/>
+n
+<Event desc="~" type="lexical" extent="end"/>
+ się ten przystanek nazywa właśnie Dobra 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="38.624" endTime="40.128">
+<Sync time="38.624"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha i przystanek 
+<Event desc="noise" type="noise" extent="end"/>
+ Dobra
+</Turn>
+<Turn speaker="spk1" startTime="40.128" endTime="41.359">
+<Sync time="40.128"/>
+Dobra tak
+</Turn>
+<Turn speaker="spk2" startTime="41.359" endTime="43.521">
+<Sync time="41.359"/>
+czyli to jest autobus sto osiemnaście dziękuję panu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="43.521" endTime="44.326">
+<Sync time="43.521"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn startTime="44.326" endTime="47.997">
+<Sync time="44.326"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

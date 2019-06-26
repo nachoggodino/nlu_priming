@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_07_11_09" version="6" version_date="100914">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="105.993" topic="to1">
+<Turn startTime="0" endTime="1.165">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.165" endTime="3.01">
+<Sync time="1.165"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.01" endTime="19.436">
+<Sync time="3.01"/>
+dzień dobry panu proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja mam takie pytanie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ muszę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dojechać na ulicę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Kłobucką 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chciałem się zapytać czy to na przykład pięćset dwadzieścia cztery czy ja tam dojadę 
+<Event desc="sta" type="noise" extent="begin"/>
+ albo gdzieś tam przynajmniej w pobliżu 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+ulica
+<Event desc="*" type="pronounce" extent="end"/>
+ Kłobucka 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="19.436" endTime="26.232">
+<Sync time="19.436"/>
+proszę pana 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ w pobliżu ulicy Kłobuckiej tak bo pięćset dwadzieścia cztery 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ kończy na Bokserskiej
+</Turn>
+<Turn speaker="spk2" startTime="26.232" endTime="26.852">
+<Sync time="26.232"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="26.852" endTime="30.232">
+<Sync time="26.852"/>
+a ulica Kłobucka odchodzi od Bokserskiej
+</Turn>
+<Turn speaker="spk2" startTime="30.232" endTime="43.072">
+<Sync time="30.232"/>
+aha 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ aha czyli a to 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bo ja tam nie bardzo 
+<Event desc="*" type="pronounce" extent="begin"/>
+właśnie
+<Event desc="*" type="pronounce" extent="end"/>
+ orientuję tam w tamtych rejonach to to 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest
+<Event desc="*" type="pronounce" extent="end"/>
+ jakoś 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ czy
+<Event desc="~" type="lexical" extent="begin"/>
+li
+<Event desc="~" type="lexical" extent="end"/>
+ można sobie jechać tym pięćset dwadzieścia cztery jakoś tam przejść później tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ czy to jest kawał drogi 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="43.072" endTime="45.089">
+<Sync time="43.072"/>
+zależy jeszcze w które miejsce na Kłobuckiej 
+</Turn>
+<Turn speaker="spk2" startTime="45.089" endTime="45.921">
+<Sync time="45.089"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="45.921" endTime="57.085">
+<Sync time="45.921"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ Kłobucka ma 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ około dwóch kilometrów no tak mniej więcej całą długością ulicy Kłobuckiej jadą 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ autobusy w sumie może pan się przesiąść na Bokserskiej
+</Turn>
+<Turn speaker="spk2" startTime="57.085" endTime="58.068">
+<Sync time="57.085"/>
+aha i tam sobie
+</Turn>
+<Turn speaker="spk1" startTime="58.068" endTime="60.554">
+<Sync time="58.068"/>
+sto sześćdziesiąt pięć albo sto dziewięćdziesiąt dwa
+</Turn>
+<Turn speaker="spk2" startTime="60.554" endTime="65.41">
+<Sync time="60.554"/>
+aha aha aha 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ aha i na Bokserskiej one one mają tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="65.41" endTime="70.177">
+<Sync time="65.41"/>
+tak mają na na przystanku 
+<Event desc="*" type="pronounce" extent="begin"/>
+tym
+<Event desc="*" type="pronounce" extent="end"/>
+ ostatnim dla wsiadających dla pięćset dwadzieścia cztery
+</Turn>
+<Turn speaker="spk2" startTime="70.177" endTime="70.602">
+<Sync time="70.177"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="70.602" endTime="75.527">
+<Sync time="70.602"/>
+jednocześnie jest przystankiem dla sto sześćdziesiąt pięć i sto dziewięćdziesiąt dwa jadących w kierunku właśnie Kłobuckiej
+</Turn>
+<Turn speaker="spk2" startTime="75.527" endTime="87.589">
+<Sync time="75.527"/>
+aha i sto dziewięćdziesiąt dwa dobra dobra aha a jeszcze mam pytanie ile będzie ten pięćset dwadzieścia cztery tak z metra Politechnika jechał tam na Bokserską 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ tak no tak ile 
+<Event desc="*" type="pronounce" extent="begin"/>
+gdzieś tak jedzie 
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="87.589" endTime="88.965">
+<Sync time="87.589"/>
+w godzinach szczytu czy
+</Turn>
+<Turn speaker="spk2" startTime="88.965" endTime="90.826">
+<Sync time="88.965"/>
+no tak od od ósmej
+</Turn>
+<Turn speaker="spk1" startTime="90.826" endTime="91.855">
+<Sync time="90.826"/>
+czyli w godzinach szczytu
+</Turn>
+<Turn speaker="spk2" startTime="91.855" endTime="94.919">
+<Sync time="91.855"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="94.919" endTime="97.335">
+<Sync time="94.919"/>
+rozkładowo powinien dwadzieścia dwie minuty jechać
+</Turn>
+<Turn speaker="spk2" startTime="97.335" endTime="100.53">
+<Sync time="97.335"/>
+aha a to to duży zapas 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest
+<Event desc="*" type="pronounce" extent="end"/>
+ dobra to dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="100.53" endTime="101.35">
+<Sync time="100.53"/>
+<Who nb="1"/>
+panu bardzo serdecznie
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="101.35" endTime="101.916">
+<Sync time="101.35"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="101.916" endTime="102.435">
+<Sync time="101.916"/>
+do usłyszenia
+</Turn>
+<Turn startTime="102.435" endTime="105.993">
+<Sync time="102.435"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

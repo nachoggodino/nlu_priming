@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_23_23_49" version="5" version_date="071220">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="72.995" topic="to1">
+<Turn startTime="0" endTime="1.06">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.06" endTime="2.933">
+<Sync time="1.06"/>
+dobry wieczór xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.933" endTime="20.615">
+<Sync time="2.933"/>
+dobry wieczór panu proszę pana ja chciałam prosić o poradę żeby pan mnie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pokierował jak do Szpitala Orłowskiego jutro rano mam dojechać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bo 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ podobno moja siostra się tam znalazła i jutro muszę tam się znaleźć od Dworca Centralnego będę chciała jechać 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.615" endTime="24.287">
+<Sync time="20.615"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ od Centralnego to tylko autobus sto osiemnaście
+</Turn>
+<Turn speaker="spk2" startTime="24.287" endTime="26.049">
+<Sync time="24.287"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+s
+<Event desc="~" type="lexical" extent="end"/>
+to osiemnaście 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.049" endTime="32.685">
+<Sync time="26.049"/>
+tak w jadący w 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ kierunku proszę pani Placu Trzech Krzyży i zjeżdżający tam później Książęcą na dół
+</Turn>
+<Turn speaker="spk2" startTime="32.685" endTime="34.324">
+<Sync time="32.685"/>
+aha tylko ten jeden autobus
+</Turn>
+<Turn speaker="spk1" startTime="34.324" endTime="35.132">
+<Sync time="34.324"/>
+tak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="35.132" endTime="35.526">
+<Sync time="35.132"/>
+<Who nb="1"/>
+i
+<Who nb="2"/>
+i
+</Turn>
+<Turn speaker="spk2" startTime="35.526" endTime="37.491">
+<Sync time="35.526"/>
+gdzie ja w niego mogę wsiąść
+</Turn>
+<Turn speaker="spk1" startTime="37.491" endTime="39.652">
+<Sync time="37.491"/>
+pod Marriottem na Jerozolimskich
+</Turn>
+<Turn speaker="spk2" startTime="39.652" endTime="40.99">
+<Sync time="39.652"/>
+aha przy Marriotcie
+</Turn>
+<Turn speaker="spk1" startTime="40.99" endTime="51.439">
+<Sync time="40.99"/>
+tak wysiądzie pani z tego autobusu na przystanku o nazwie Czerniakowska to będzie przystanek na ulicy Ludnej no i stąd będzie się trzeba tam kawalątek cofną
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+ do tego szpitala niedużo około stu
+</Turn>
+<Turn speaker="spk2" startTime="51.439" endTime="53.632">
+<Sync time="51.439"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ aha ale tylko na pewno 
+<Event desc="babble" type="noise" extent="end"/>
+ jeden 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="53.632" endTime="56.253">
+<Sync time="53.632"/>
+z tego przystanku tylko na pewno jeden 
+</Turn>
+<Turn speaker="spk2" startTime="56.253" endTime="59.718">
+<Sync time="56.253"/>
+aj aj gdzieś obok 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ który bo może akurat 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="59.718" endTime="63.803">
+<Sync time="59.718"/>
+tak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ spod 
+<Event desc="la" type="language" extent="begin"/>
+Novotel
+<Event desc="la" type="language" extent="end"/>
+u sto siedemdziesiąt jeden dodatkowo
+</Turn>
+<Turn speaker="spk2" startTime="63.803" endTime="66.337">
+<Sync time="63.803"/>
+ah to 
+<Event desc="noise+" type="noise" extent="instantaneous"/>
+za daleko nie nie to ten jeden dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="66.337" endTime="67.353">
+<Sync time="66.337"/>
+<Who nb="1"/>
+panu uprzejmie dobrej 
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="67.353" endTime="67.671">
+<Sync time="67.353"/>
+nocy
+</Turn>
+<Turn speaker="spk2 spk1" startTime="67.671" endTime="68.124">
+<Sync time="67.671"/>
+<Who nb="1"/>
+życzę
+<Who nb="2"/>
+dobranoc
+</Turn>
+<Turn startTime="68.124" endTime="72.995">
+<Sync time="68.124"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_12_17_36" version="4" version_date="080113">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="47.997" topic="to1">
+<Turn startTime="0" endTime="1.087">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.087" endTime="2.625">
+<Sync time="1.087"/>
+xxx dzień dobry
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.625" endTime="12.049">
+<Sync time="2.625"/>
+dzień dobry xxx z tej strony proszę pana ja w tym roku kończę dwadzieścia siedem lat 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jestem studentką czy mogę korzystać ze zniżki studenckiej na przejazdy komunikacją miejską 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.049" endTime="16.292">
+<Sync time="12.049"/>
+jeżeli to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ to polska uczelnia to tak to zniżka przysługuje niezależnie od wie
+<Event desc="~" type="lexical" extent="begin"/>
+ku
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.292" endTime="21.599">
+<Sync time="16.292"/>
+czy
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+i mogę śmiało kupować połówkowy bilet 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i nie zapłacę żadnego mandatu żadnej kary
+</Turn>
+<Turn speaker="spk2 spk1" startTime="21.599" endTime="21.794">
+<Sync time="21.599"/>
+<Who nb="1"/>
+jeże
+<Event desc="~" type="lexical" extent="begin"/>
+li
+<Event desc="~" type="lexical" extent="end"/>
+
+<Who nb="2"/>
+pod
+</Turn>
+<Turn speaker="spk1" startTime="21.794" endTime="25.65">
+<Sync time="21.794"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ warunkiem 
+<Event desc="babble" type="noise" extent="end"/>
+ to są oczywiście studia magisterskie licencjackie czy
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+i te 
+<Event desc="babble" type="noise" extent="begin"/>
+ pierwsz
+<Event desc="~" type="lexical" extent="begin"/>
+ego
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.65" endTime="27.934">
+<Sync time="25.65"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ magisterskie 
+<Event desc="babble" type="noise" extent="end"/>
+ uzupełniające studia
+</Turn>
+<Turn speaker="spk1" startTime="27.934" endTime="29.529">
+<Sync time="27.934"/>
+ale ma pani 
+<Event desc="babble" type="noise" extent="begin"/>
+ legitymację 
+<Event desc="babble" type="noise" extent="end"/>
+ studencką 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="29.529" endTime="30.616">
+<Sync time="29.529"/>
+tak tak tak 
+</Turn>
+<Turn speaker="spk1" startTime="30.616" endTime="31.793">
+<Sync time="30.616"/>
+to 
+<Event desc="babble" type="noise" extent="begin"/>
+ oczywiście 
+<Event desc="babble" type="noise" extent="end"/>
+ tak
+</Turn>
+<Turn speaker="spk2" startTime="31.793" endTime="35.534">
+<Sync time="31.793"/>
+aha czy
+<Event desc="~" type="lexical" extent="begin"/>
+li
+<Event desc="~" type="lexical" extent="end"/>
+ nie ma 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tutaj jakiegoś ograniczenia wiekowego dwadzieścia pięć lat i tak dalej
+</Turn>
+<Turn speaker="spk1" startTime="35.534" endTime="36.09">
+<Sync time="35.534"/>
+nie ma
+</Turn>
+<Turn speaker="spk2" startTime="36.09" endTime="39.707">
+<Sync time="36.09"/>
+spokojnie mogę kupować połówkowy bilet i i nie zapłacę 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.707" endTime="40.304">
+<Sync time="39.707"/>
+<Who nb="1"/>
+żadnej kary
+<Who nb="2"/>
+w komunikacji
+</Turn>
+<Turn speaker="spk1" startTime="40.304" endTime="41.128">
+<Sync time="40.304"/>
+miejskiej nie ma takiego 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="41.128" endTime="41.575">
+<Sync time="41.128"/>
+<Who nb="1"/>
+ograniczenia
+<Who nb="2"/>
+czyli
+</Turn>
+<Turn speaker="spk2" startTime="41.575" endTime="42.59">
+<Sync time="41.575"/>
+tramwaje autobusy 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="42.59" endTime="43.634">
+<Sync time="42.59"/>
+<Who nb="1"/>
+nie ma problemu
+<Who nb="2"/>
+i metro
+</Turn>
+<Turn speaker="spk1" startTime="43.634" endTime="43.802">
+<Sync time="43.634"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="43.802" endTime="45.548">
+<Sync time="43.802"/>
+
+<Event desc="en" type="language" extent="begin"/>
+ okey 
+<Event desc="en" type="language" extent="end"/>
+ bardzo dziękuję do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="45.548" endTime="46.108">
+<Sync time="45.548"/>
+do widzenia
+</Turn>
+<Turn startTime="46.108" endTime="47.997">
+<Sync time="46.108"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

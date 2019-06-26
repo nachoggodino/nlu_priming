@@ -1,0 +1,31 @@
+<Frames>
+  <Set id="1" subset="1" span="word_17" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_13" concept_id="7" name="MANNER" />
+    <Frame fe="2" span="word_14..word_15" concept_id="8" name="SOURCE" />
+    <Frame fe="3" span="word_18,word_19" concept_id="10,11" name="MANNER" />
+    <Frame fe="4" span="word_21..word_22,word_23..word_24" concept_id="12,13" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_61" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_60" concept_id="27" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_62" concept_id="29" name="PHENOMENON" />
+  </Set>
+  <Set id="3" subset="2" span="word_65" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_63" concept_id="30" name="DURATION" />
+    <Frame fe="2" span="word_64" concept_id="31" name="SELF_MOVER" />
+  </Set>
+  <Set id="4" subset="1" span="word_71" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_67..word_69" concept_id="33" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_77" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_74" concept_id="36" name="DURATION" />
+    <Frame fe="2" span="word_75" concept_id="37" name="SELF_MOVER" />
+    <Frame fe="3" span="word_76" concept_id="38" name="GOAL" />
+  </Set>
+  <Set id="6" subset="1" span="word_84" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_85..word_89" concept_id="42" name="ENTITY" />
+  </Set>
+  <Set id="7" subset="1" span="word_95" frame="HALT" head="zatrzymywać">
+    <Frame fe="1" span="word_92..word_93" concept_id="43" name="THEME" />
+    <Frame fe="2" span="word_97..word_99" concept_id="46" name="PLACE" />
+  </Set>
+</Frames>

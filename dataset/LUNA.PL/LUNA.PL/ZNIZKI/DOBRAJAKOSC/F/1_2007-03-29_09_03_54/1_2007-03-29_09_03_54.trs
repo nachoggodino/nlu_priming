@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-29_09_03_54" version="5" version_date="080125">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="43.997" topic="to1">
+<Turn startTime="0" endTime="0.565">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.565" endTime="2.473">
+<Sync time="0.565"/>
+dzień dobry xxx w czym mogę
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.473" endTime="12.551">
+<Sync time="2.473"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry mam takie uprzejme 
+<Event desc="noise" type="noise" extent="begin"/>
+ pytanie czy osoba 
+<Event desc="noise" type="noise" extent="end"/>
+ która ma umiarkowany stopień niepełnosprawności może korzystać z jakichś zniżek w 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jeżeli chodzi o o 
+<Event desc="babble" type="noise" extent="begin"/>
+ transport miejski 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.551" endTime="20.397">
+<Sync time="12.551"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę panią 
+<Event desc="babble" type="noise" extent="begin"/>
+ jeżeli z tego tytułu pobierałaby rentę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to ma przejazdy z ulgą czterdzieści osiem procent na podstawie legitymacji zusowskiej 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.397" endTime="20.95">
+<Sync time="20.397"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ rozumiem 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.95" endTime="24.316">
+<Sync time="20.95"/>
+natomiast jeszcze się zapytam czy ta osoba ukończyła dwudziesty szósty rok życia 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.316" endTime="24.826">
+<Sync time="24.316"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.826" endTime="28.316">
+<Sync time="24.826"/>
+aha ukończyła bo 
+<Event desc="*" type="pronounce" extent="begin"/>
+jeżeliby
+<Event desc="*" type="pronounce" extent="end"/>
+ nie ukończyła to by miała bezpłatne 
+<Event desc="noise" type="noise" extent="begin"/>
+ przejazdy wtedy 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="28.316" endTime="31.544">
+<Sync time="28.316"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ a jeśli pracuje i ma ustalony umiarkowany stopień 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.544" endTime="35.731">
+<Sync time="31.544"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to jeżeli nie pobiera tej renty no to niestety nie 
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+a 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ żadnych praw do ulg wtedy
+</Turn>
+<Turn speaker="spk2" startTime="35.731" endTime="38.165">
+<Sync time="35.731"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha rozumiem i to tylko można 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.165" endTime="39.522">
+<Sync time="38.165"/>
+tutaj w tym przypadku tak 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="39.522" endTime="40.877">
+<Sync time="39.522"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ rozumiem dziękuję serde
+<Event desc="~" type="lexical" extent="begin"/>
+cznie
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.877" endTime="41.932">
+<Sync time="40.877"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę bardzo 
+<Event desc="babble" type="noise" extent="end"/>
+ do widzenia
+</Turn>
+<Turn startTime="41.932" endTime="43.997">
+<Sync time="41.932"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

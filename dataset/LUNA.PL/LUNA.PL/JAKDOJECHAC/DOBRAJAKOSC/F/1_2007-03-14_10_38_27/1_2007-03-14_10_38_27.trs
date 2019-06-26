@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_10_38_27" version="4" version_date="070907">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="39.998" topic="to1">
+<Turn startTime="0" endTime="1.229">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.229" endTime="2.573">
+<Sync time="1.229"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.573" endTime="10.901">
+<Sync time="2.573"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry proszę pana jeszcze raz do pana dzwonię dzisiaj jak dojechać z Imielina do na ulicę <Event desc="*" type="pronounce" extent="begin"/>Kostrzewskiego<Event desc="*" type="pronounce" extent="end"/> to jest na Dolnym Mokotowie gdzieś przy Sobieskiego
+</Turn>
+<Turn speaker="spk1" startTime="10.901" endTime="12.998">
+<Sync time="10.901"/>
+<Event desc="*" type="pronounce" extent="begin"/>ale<Event desc="*" type="pronounce" extent="end"/> proszę jeszcze raz mi powiedzieć jaka to jest nazwa ulicy<Event desc="int" type="noise" extent="previous"/> <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="12.998" endTime="14.159">
+<Sync time="12.998"/>
+<Event desc="noise" type="noise" extent="begin"/> Kostrzewskiego <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="14.159" endTime="14.403">
+<Sync time="14.159"/>
+Kostrzewskiego
+</Turn>
+<Turn speaker="spk1 spk2" startTime="14.403" endTime="15.352">
+<Sync time="14.403"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="15.352" endTime="18.863">
+<Sync time="15.352"/>
+no to to jest na Sobieskiego <Event desc="filler" type="lexical" extent="instantaneous"/> i tutaj bezpośrednio to miałaby 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="18.863" endTime="19.236">
+<Sync time="18.863"/>
+<Who nb="1"/>
+pani
+<Who nb="2"/>
+pięćset
+</Turn>
+<Turn speaker="spk2" startTime="19.236" endTime="20.22">
+<Sync time="19.236"/>
+trzy <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="20.22" endTime="25.961">
+<Sync time="20.22"/>
+pięćset trzy ale trzeba wysiąść przy Dolnej i się cofnąć jeden przystanek a sto sześćdziesiąt sześć albo sto dziewięćdziesiąt pięć to mają
+</Turn>
+<Turn speaker="spk1 spk2" startTime="25.961" endTime="26.89">
+<Sync time="25.961"/>
+<Who nb="1"/>
+przy Kostrzewskiego
+<Who nb="2"/>
+aha
+</Turn>
+<Turn speaker="spk2" startTime="26.89" endTime="29.209">
+<Sync time="26.89"/>
+sto dziewięćdziesiąt pięć i gdzie wysiąść <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="29.209" endTime="31.733">
+<Sync time="29.209"/>
+Kostrzewskiego właśnie <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="31.733" endTime="33.283">
+<Sync time="31.733"/>
+aha czyli wysiąść przystanek Kostrzewskie<Event desc="~" type="lexical" extent="begin"/>go<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="33.283" endTime="33.77">
+<Sync time="33.283"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="33.77" endTime="36.67">
+<Sync time="33.77"/>
+dobra dobra sto dziewięćdziesiąt pięć dziękuję uprzej<Event desc="~" type="lexical" extent="begin"/>mie<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="36.67" endTime="37.983">
+<Sync time="36.67"/>
+<Event desc="babble" type="noise" extent="begin"/> dziękuję <Event desc="babble" type="noise" extent="end"/> do widzenia
+</Turn>
+<Turn startTime="37.983" endTime="39.998">
+<Sync time="37.983"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

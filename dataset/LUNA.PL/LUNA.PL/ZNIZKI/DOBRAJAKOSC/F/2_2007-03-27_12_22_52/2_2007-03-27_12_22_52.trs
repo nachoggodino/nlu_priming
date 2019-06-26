@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-27_12_22_52" version="3" version_date="080418">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="23.999" topic="to1">
+<Turn startTime="0" endTime="0.722">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.722" endTime="2.176">
+<Sync time="0.722"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.176" endTime="15.076">
+<Sync time="2.176"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry mam pytanie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę mi powiedzieć czy studenci powyżej dwudziestego szóstego roku życia mogą korzystać z pięciopro
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ z pięćdziesięcioprocentowej zniżki na bilety 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ komunikacji 
+<Event desc="*" type="pronounce" extent="begin"/>
+miejskiej
+<Event desc="*" type="pronounce" extent="end"/>
+ czy nie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.076" endTime="18.85">
+<Sync time="15.076"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ mogą 
+<Event desc="babble" type="noise" extent="end"/>
+ o ile to są studenci szkół uczelni polskich
+</Turn>
+<Turn speaker="spk2" startTime="18.85" endTime="20.969">
+<Sync time="18.85"/>
+
+<Event desc="en" type="language" extent="begin"/>
+okey 
+<Event desc="en" type="language" extent="end"/>
+ jasne dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="20.969" endTime="21.805">
+<Sync time="20.969"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę bardzo 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.805" endTime="22.287">
+<Sync time="21.805"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="22.287" endTime="22.684">
+<Sync time="22.287"/>
+do widzenia
+</Turn>
+<Turn startTime="22.684" endTime="23.999">
+<Sync time="22.684"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

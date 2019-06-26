@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-29_13_17_02" version="2" version_date="070724">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="35.869" topic="to1">
+<Turn startTime="0" endTime="0.413">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.413" endTime="2.538">
+<Sync time="0.413"/>
+dzień dobry xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="int" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="2.538" endTime="3.287">
+<Sync time="2.538"/>
+dzień dobry panu
+</Turn>
+<Turn speaker="spk1" startTime="3.287" endTime="3.541">
+<Sync time="3.287"/>
+dzień 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3.541" endTime="3.867">
+<Sync time="3.541"/>
+<Who nb="1"/>
+dobry
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk2" startTime="3.867" endTime="10.464">
+<Sync time="3.867"/>
+pana mam takie pytanie <Event desc="filler" type="lexical" extent="instantaneous"/> czy <Event desc="noise" type="noise" extent="begin"/> za <Event desc="noise" type="noise" extent="end"/> wózek dziecięcy <Event desc="filler" type="lexical" extent="instantaneous"/> przewożony w autobusie czy tramwaju to się płaci <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="10.464" endTime="14.178">
+<Sync time="10.464"/>
+nie proszę <Event desc="*" type="pronounce" extent="begin"/>panią<Event desc="*" type="pronounce" extent="end"/> wózek podlega pod bagaż więc on jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> bezpłatnie przewożony
+</Turn>
+<Turn speaker="spk2" startTime="14.178" endTime="16.06">
+<Sync time="14.178"/>
+jak dziecko jest w wózku też <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="16.06" endTime="21.115">
+<Sync time="16.06"/>
+również dziecko również ma bezpłatne przejazdy <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> do czasu objęcia obowiązkiem szkolnym <Event desc="filler" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="21.115" endTime="23.658">
+<Sync time="21.115"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> czyli do od ilu lat dziecko płaci <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="23.658" endTime="30.477">
+<Sync time="23.658"/>
+proszę panią jak skończy siódmy rok życia i od <Event desc="*" type="pronounce" extent="begin"/>września<Event desc="*" type="pronounce" extent="end"/> pójdzie do pierwszej klasy dopiero od tego momentu kasuje bilety z ulgą czterdzieści osiem procent
+</Turn>
+<Turn speaker="spk2" startTime="30.477" endTime="32.728">
+<Sync time="30.477"/>
+aha <Event desc="filler" type="lexical" extent="instantaneous"/> no dobrze dziękuję panu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="32.728" endTime="33.633">
+<Sync time="32.728"/>
+<Who nb="1"/>
+uprzejmie do widzenia
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="33.633" endTime="34.206">
+<Sync time="33.633"/>
+do widzenia
+</Turn>
+<Turn startTime="34.206" endTime="35.869">
+<Sync time="34.206"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-16_13_16_52" version="3" version_date="080721">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="88.494" topic="to1">
+<Turn startTime="0" endTime="0.298">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.298" endTime="1.957">
+<Sync time="0.298"/>
+dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="1.957" endTime="2.886">
+<Sync time="1.957"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2.886" endTime="3.542">
+<Sync time="2.886"/>
+<Who nb="1"/>
+chciałem się dowiedzieć
+<Who nb="2"/>
+dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="3.542" endTime="9.248">
+<Sync time="3.542"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ autobus sto czterdzieści pięć 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ z przystanku Bazyliańska
+<Event desc="int" type="noise" extent="previous"/>
+ niskopodłogowy 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+do Szpitala Bródnowskiego
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.248" endTime="23.761">
+<Sync time="9.248"/>
+do Szpitala Bródnowskiego 
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze momencik 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+i tak z Bazyliańskiej już patrzę co tu mam niskopodłogowego proszę pana mam tak trzynasta siedemnaście
+</Turn>
+<Turn speaker="spk2" startTime="23.761" endTime="24.326">
+<Sync time="23.761"/>
+to już się
+</Turn>
+<Turn speaker="spk2 spk1" startTime="24.326" endTime="24.665">
+<Sync time="24.326"/>
+<Who nb="1"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+zdąży
+<Event desc="*" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+i
+</Turn>
+<Turn speaker="spk1" startTime="24.665" endTime="25.742">
+<Sync time="24.665"/>
+pięćdziesiąt siedem
+</Turn>
+<Turn speaker="spk2" startTime="25.742" endTime="27.98">
+<Sync time="25.742"/>
+to nie a sto dwanaście 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="27.98" endTime="49.959">
+<Sync time="27.98"/>
+a sto 
+<Event desc="noise" type="noise" extent="begin"/>
+ dwanaście już momencik 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ już już momencik 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana
+<Event desc="babble" type="noise" extent="end"/>
+ tutaj mam tak trzynasta trzydzieści cztery
+</Turn>
+<Turn speaker="spk2" startTime="49.959" endTime="51.316">
+<Sync time="49.959"/>
+trzydzieści cztery
+</Turn>
+<Turn speaker="spk2 spk1" startTime="51.316" endTime="51.753">
+<Sync time="51.316"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+albo
+</Turn>
+<Turn speaker="spk1" startTime="51.753" endTime="53.863">
+<Sync time="51.753"/>
+czternasta dziesięć 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="53.863" endTime="56.465">
+<Sync time="53.863"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak trzydzieści cztery czternasta dziesięć dobrze
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="56.465" endTime="56.85">
+<Sync time="56.465"/>
+<Who nb="1"/>
+a
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="56.85" endTime="57.953">
+<Sync time="56.85"/>
+sto pięćdziesiąt sześć 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="57.953" endTime="80.412">
+<Sync time="57.953"/>
+a sto pięćdziesiąt sześć już momencik 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ a sto pięćdziesiąt sześć 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ już momencik 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+Bazy
+<Event desc="~" type="lexical" extent="end"/>
+liańska
+<Event desc="babble" type="noise" extent="end"/>
+ proszę pana mamy tak trzynasta 
+<Event desc="int" type="noise" extent="next"/>
+dwadzieścia trzy
+</Turn>
+<Turn speaker="spk1 spk2" startTime="80.412" endTime="81.292">
+<Sync time="80.412"/>
+<Who nb="1"/>
+i
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="81.292" endTime="83.357">
+<Sync time="81.292"/>
+czternasta dziewiętnaście 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="83.357" endTime="85.885">
+<Sync time="83.357"/>
+a dobrze dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="85.885" endTime="87.549">
+<Sync time="85.885"/>
+dziękuję uprzejmie do us
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+yszenia
+</Turn>
+<Turn speaker="spk2" startTime="87.549" endTime="88.33">
+<Sync time="87.549"/>
+do usłyszenia
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn startTime="88.33" endTime="88.494">
+<Sync time="88.33"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

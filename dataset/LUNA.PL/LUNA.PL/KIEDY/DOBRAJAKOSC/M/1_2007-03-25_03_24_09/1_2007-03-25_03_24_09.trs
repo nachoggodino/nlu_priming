@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_03_24_09" version="3" version_date="070927">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="32.498" topic="to1">
+<Turn startTime="0" endTime="0.821">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.821" endTime="2.446">
+<Sync time="0.821"/>
+xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.446" endTime="3.168">
+<Sync time="2.446"/>
+dobry wieczór
+</Turn>
+<Turn speaker="spk1" startTime="3.168" endTime="3.95">
+<Sync time="3.168"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dobry 
+<Event desc="babble" type="noise" extent="end"/>
+ wieczór
+</Turn>
+<Turn speaker="spk2" startTime="3.95" endTime="7.413">
+<Sync time="3.95"/>
+ja mam takie pytanko autobus sześćset dwanaście nocny 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="7.413" endTime="8.179">
+<Sync time="7.413"/>
+<Who nb="1"/>
+w kierunku 
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="8.179" endTime="10.647">
+<Sync time="8.179"/>
+Międzylesia o której będzie teraz z Centralnego 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.647" endTime="14.113">
+<Sync time="10.647"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w kierunku Międzylesia sześćset dwanaście
+</Turn>
+<Turn speaker="spk2" startTime="14.113" endTime="14.558">
+<Sync time="14.113"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.558" endTime="17.461">
+<Sync time="14.558"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę 
+<Event desc="babble" type="noise" extent="end"/>
+ pana piętnaście po czyli będzie
+</Turn>
+<Turn speaker="spk2" startTime="17.461" endTime="18.674">
+<Sync time="17.461"/>
+zawsze jest piętnaście po 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.674" endTime="19.879">
+<Sync time="18.674"/>
+zawsze jest 
+<Event desc="babble" type="noise" extent="begin"/>
+ piętnaście 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="19.879" endTime="20.243">
+<Sync time="19.879"/>
+<Who nb="1"/>
+po
+<Who nb="2"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+a
+<Event desc="~" type="lexical" extent="end"/>
+ha
+</Turn>
+<Turn speaker="spk2" startTime="20.243" endTime="22.88">
+<Sync time="20.243"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ o to mi właśnie chodziło myślałem że co pół godziny jeździ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="22.88" endTime="26.265">
+<Sync time="22.88"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ nie nie tylko piętnaście po 
+<Event desc="babble" type="noise" extent="begin"/>
+ sześćset 
+<Event desc="babble" type="noise" extent="end"/>
+ dwanaście
+</Turn>
+<Turn speaker="spk2" startTime="26.265" endTime="30.461">
+<Sync time="26.265"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ przepraszam 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ to dziękuję bardzo do 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="30.461" endTime="31.058">
+<Sync time="30.461"/>
+<Who nb="1"/>
+widzenia
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="31.058" endTime="31.646">
+<Sync time="31.058"/>
+do widzenia
+</Turn>
+<Turn startTime="31.646" endTime="32.498">
+<Sync time="31.646"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

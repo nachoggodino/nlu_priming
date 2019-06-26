@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-13_13_33_59" version="7" version_date="100914">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="98.494" topic="to1">
+<Turn startTime="0" endTime="0.691">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.691" endTime="2.037">
+<Sync time="0.691"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.037" endTime="9.758">
+<Sync time="2.037"/>
+dzień dobry ja mam pytanie jak najłatwiej jest dojechać z 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ z 
+<Event desc="en" type="language" extent="begin"/>
+Marriott
+<Event desc="en" type="language" extent="end"/>
+a do 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tu 
+<Event desc="SYL" type="pronounce" extent="begin"/>
+Grenadierów
+<Event desc="SYL" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.758" endTime="11.074">
+<Sync time="9.758"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ spod Hotelu 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="en" type="language" extent="begin"/>
+Marriott
+<Event desc="en" type="language" extent="end"/>
+ tutaj
+</Turn>
+<Turn speaker="spk2" startTime="11.074" endTime="11.306">
+<Sync time="11.074"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="11.306" endTime="12.345">
+<Sync time="11.306"/>
+w Alejach 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="12.345" endTime="13.121">
+<Sync time="12.345"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.121" endTime="15.126">
+<Sync time="13.121"/>
+na Grenadierów numer dziewięć pani mó
+<Event desc="~" type="lexical" extent="begin"/>
+wi
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.126" endTime="15.646">
+<Sync time="15.126"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="15.646" endTime="16.732">
+<Sync time="15.646"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze proszę poczekać 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="16.732" endTime="22.334">
+<Sync time="16.732"/>
+<Who nb="1"/>
+sprawdzę
+<Who nb="2"/>
+dobrze
+</Turn>
+<Turn speaker="spk1" startTime="22.334" endTime="58.159">
+<Sync time="22.334"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ spod samego Hotelu 
+<Event desc="en" type="language" extent="begin"/>
+Marriott
+<Event desc="en" type="language" extent="end"/>
+ to nic nie pasuje ale tu z Ce
+<Event desc="~" type="lexical" extent="begin"/>
+ntralnego
+<Event desc="~" type="lexical" extent="end"/>
+ Dworca Centralnego z pętli 
+</Turn>
+<Turn speaker="spk2" startTime="58.159" endTime="59.875">
+<Sync time="58.159"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przy tych Złotych Tarasa
+<Event desc="~" type="lexical" extent="begin"/>
+ch
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="59.875" endTime="67.173">
+<Sync time="59.875"/>
+tak tak tu między Złotymi Tarasami a Dworcem jest tak są przystanki z żółtymi wiatami i można wsiąść w linię pięćset dwa
+</Turn>
+<Turn speaker="spk2" startTime="67.173" endTime="67.755">
+<Sync time="67.173"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="67.755" endTime="73.208">
+<Sync time="67.755"/>
+pięćset czternaście pięćset dwadzieścia pięć i trza dojechać do przystanku Rawar
+</Turn>
+<Turn speaker="spk2" startTime="73.208" endTime="73.925">
+<Sync time="73.208"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="73.925" endTime="76.969">
+<Sync time="73.925"/>
+i tam w lewo w Grenadierów wejść podejść już na piechotę
+</Turn>
+<Turn speaker="spk2" startTime="76.969" endTime="79.919">
+<Sync time="76.969"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobra pięćset dwa pięćset czternaście pięćset dwadzieścia pięć 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="79.919" endTime="80.241">
+<Sync time="79.919"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="80.241" endTime="83.556">
+<Sync time="80.241"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ ile to będzie przystanków mniej więcej czy to różnie ale zależy jaki autobus 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="83.556" endTime="94.890">
+<Sync time="83.556"/>
+nie one jadą tak tyle samo mają przystanków 
+<Event desc="babble" type="noise" extent="begin"/>
+ tą samą trasą 
+<Event desc="babble" type="noise" extent="end"/>
+ jadą 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ osiem
+</Turn>
+<Turn speaker="spk2" startTime="94.890" endTime="95.76">
+<Sync time="94.890"/>
+na ósmym wysiąść 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="95.76" endTime="96.216">
+<Sync time="95.76"/>
+<Who nb="1"/>
+dobra
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="96.216" endTime="96.543">
+<Sync time="96.216"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="96.543" endTime="97.204">
+<Sync time="96.543"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+proszę 
+</Turn>
+<Turn speaker="spk1" startTime="97.204" endTime="97.612">
+<Sync time="97.204"/>
+do widzenia
+</Turn>
+<Turn startTime="97.612" endTime="98.494">
+<Sync time="97.612"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

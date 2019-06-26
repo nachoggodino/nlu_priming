@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-26_10_31_29" version="3" version_date="071221">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="53.497" topic="to1">
+<Turn startTime="0" endTime="0.563">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.563" endTime="1.75">
+<Sync time="0.563"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.75" endTime="7.563">
+<Sync time="1.75"/>
+dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jak się dostać z Ochoty na Książęcą 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ jakim środkiem lokomocji 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="7.563" endTime="9.004">
+<Sync time="7.563"/>
+z Ochoty na Książęcą 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="9.004" endTime="11.688">
+<Sync time="9.004"/>
+tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.688" endTime="15.15">
+<Sync time="11.688"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Ochoty a z którego miejsca z Ochoty by pani jechała 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.15" endTime="23.969">
+<Sync time="15.15"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z o to tutaj 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ko
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+o Hotelu 
+<Event desc="noise" type="noise" extent="begin"/>
+ Sobieskich z tego miejsca 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ do szpitala konkretnie na 
+<Event desc="noise" type="noise" extent="begin"/>
+ Książęcą 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.969" endTime="27.532">
+<Sync time="23.969"/>
+a pani chodzi do tego Szpitala Orłowskiego 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="27.532" endTime="29.864">
+<Sync time="27.532"/>
+na Książęcą tak
+</Turn>
+<Turn speaker="spk1" startTime="29.864" endTime="35.620">
+<Sync time="29.864"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pani na samą Książęcą od szpi
+<Event desc="~" type="lexical" extent="begin"/>
+tala
+<Event desc="~" type="lexical" extent="end"/>
+ od Hotelu Sobieskiego nic nie ma od Centralnego ma pani sto osiemnaście
+</Turn>
+<Turn speaker="spk2" startTime="35.620" endTime="40.171">
+<Sync time="35.620"/>
+aha 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ al
+<Event desc="~" type="lexical" extent="begin"/>
+e
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto osiemnaście i co i idzie na Książęcą 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.171" endTime="44.981">
+<Sync time="40.171"/>
+on jedzie Książęcą albo jak pani podjedzie do Centrum to jest jeszcze sto siedemdziesiąt jeden
+</Turn>
+<Turn speaker="spk2" startTime="44.981" endTime="45.755">
+<Sync time="44.981"/>
+ile 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.755" endTime="47.484">
+<Sync time="45.755"/>
+sto siedemdziesiąt jeden
+</Turn>
+<Turn speaker="spk2" startTime="47.484" endTime="50.347">
+<Sync time="47.484"/>
+tutaj sto osiemnaście a tam sto siedemdziesiąt jeden
+</Turn>
+<Turn speaker="spk2 spk1" startTime="50.347" endTime="50.833">
+<Sync time="50.347"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="50.833" endTime="51.467">
+<Sync time="50.833"/>
+dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="51.467" endTime="51.801">
+<Sync time="51.467"/>
+proszę
+</Turn>
+<Turn startTime="51.801" endTime="53.497">
+<Sync time="51.801"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

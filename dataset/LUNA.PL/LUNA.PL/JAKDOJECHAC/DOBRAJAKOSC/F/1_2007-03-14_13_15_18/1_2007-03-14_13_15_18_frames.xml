@@ -1,0 +1,15 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_14..word_19" concept_id="5" name="LOCATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_28" frame="GET" head="dostać">
+    <Frame fe="1" span="word_30..word_31,word_32..word_33" concept_id="10,11" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_43" frame="ARRIVING" head="dojść">
+    <Frame fe="1" span="word_44..word_46" concept_id="13" name="GOAL" />
+  </Set>
+  <Set id="4" subset="1" span="word_60" frame="ARRIVING" head="dojeżdżać">
+    <Frame fe="1" span="word_56" concept_id="20" name="THEME" />
+    <Frame fe="2" span="word_57..word_59" concept_id="21" name="GOAL" />
+  </Set>
+</Frames>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-26_09_51_40" version="6" version_date="080104">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="71.496" topic="to1">
+<Turn startTime="0" endTime="0.634">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.634" endTime="2.097">
+<Sync time="0.634"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.097" endTime="11.475">
+<Sync time="2.097"/>
+o dzień dobry nie wiem czy to akurat dobrze 
+<Event desc="*" type="pronounce" extent="begin"/>
+mnie
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mam 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ numer proszę pana jeżeli chodzi o informację 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ komunikacji miejskiej autobusowej to u pana 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.475" endTime="12.264">
+<Sync time="11.475"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak
+</Turn>
+<Turn speaker="spk2" startTime="12.264" endTime="17.019">
+<Sync time="12.264"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana czy jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ bezpośredni autobus spod szpitala Banacha do szpitala na Spartańskiej
+</Turn>
+<Turn speaker="spk1" startTime="17.019" endTime="19.047">
+<Sync time="17.019"/>
+od szpitala 
+<Event desc="babble" type="noise" extent="begin"/>
+ Banacha tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="19.047" endTime="22.539">
+<Sync time="19.047"/>
+Banacha 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Spart
+<Event desc="~" type="lexical" extent="begin"/>
+ańskiej
+<Event desc="~" type="lexical" extent="end"/>
+ do Szpitala 
+<Event desc="*" type="pronounce" extent="begin"/>
+Reumatologii
+<Event desc="*" type="pronounce" extent="end"/>
+ na Spartańskiej
+</Turn>
+<Turn speaker="spk1" startTime="22.539" endTime="26.487">
+<Sync time="22.539"/>
+pod sam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ szpital na Spartańską to nie będzie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.487" endTime="28.924">
+<Sync time="26.487"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie czyli trza jakoś się tam przesiadać
+</Turn>
+<Turn speaker="spk1" startTime="28.924" endTime="41.832">
+<Sync time="28.924"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ tak bo jest 
+<Event desc="babble" type="noise" extent="end"/>
+ no pod ten instytut cały nie podjeżdża bo jest co prawda tutaj sto siedemdziesiąt dwa 
+<Event desc="babble" type="noise" extent="begin"/>
+ on jedzie 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ przy skrzyżowaniu Pawińskiego i Banacha
+</Turn>
+<Turn speaker="spk2" startTime="41.832" endTime="42.567">
+<Sync time="41.832"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="42.567" endTime="51.613">
+<Sync time="42.567"/>
+ale to wtedy trzeba by 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wysiąść na Racławickiej ale od Racławickiej to byłoby chyba trochę za daleko
+</Turn>
+<Turn speaker="spk2" startTime="51.613" endTime="54.276">
+<Sync time="51.613"/>
+tak 
+<Event desc="noise" type="noise" extent="begin"/>
+ dla człowieka chorego na 
+<Event desc="*" type="pronounce" extent="begin"/>
+stawy
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="54.276" endTime="59.887">
+<Sync time="54.276"/>
+to jedynie wtedy przesiadkę można by zrobić przy Parku Dreszera w linię sto osiemnaście
+</Turn>
+<Turn speaker="spk2" startTime="59.887" endTime="63.36">
+<Sync time="59.887"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czyli sto osiemnaście już dojeżdża do samego szpitala tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="63.36" endTime="66.831">
+<Sync time="63.36"/>
+tak przystanek Instytut Reumatologii będzie miał 
+</Turn>
+<Turn speaker="spk2" startTime="66.831" endTime="68.029">
+<Sync time="66.831"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="68.029" endTime="68.695">
+<Sync time="68.029"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę 
+<Event desc="babble" type="noise" extent="end"/>
+ bardzo
+</Turn>
+<Turn speaker="spk2" startTime="68.695" endTime="69.238">
+<Sync time="68.695"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="69.238" endTime="71.496">
+<Sync time="69.238"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

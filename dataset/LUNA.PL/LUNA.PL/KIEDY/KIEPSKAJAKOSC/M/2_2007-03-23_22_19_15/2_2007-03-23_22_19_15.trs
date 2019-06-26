@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_22_19_15" version="2" version_date="070519">
+<Topics>
+<Topic id="to1" desc="male user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="40.498" topic="to1">
+<Turn startTime="0" endTime="1.108">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.108" endTime="3.124">
+<Sync time="1.108"/>
+dobry wieczór xxx słucham <Event desc="noise" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.124" endTime="13.695">
+<Sync time="3.124"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> do<Event desc="~" type="lexical" extent="begin"/>bry<Event desc="~" type="lexical" extent="end"/> wieczór proszę pana chciałbym zapytać się <Event desc="noise" type="noise" extent="begin"/> na przystanku Gocławek zero dwa <Event desc="filler" type="lexical" extent="instantaneous"/> sto czterdzieści pięć to o której <Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/>eraz będzie <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="13.695" endTime="25.121">
+<Sync time="13.695"/>
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/> sprawdzam <Event desc="noise" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> powinien być dwudziesta druga siedemnaście a następny czterdzieści siedem <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="25.121" endTime="27.177">
+<Sync time="25.121"/>
+<Event desc="noise" type="noise" extent="begin"/> a wcześniej o której powinien być <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="27.177" endTime="29.528">
+<Sync time="27.177"/>
+<Event desc="noise" type="noise" extent="begin"/> przed dwudziestą drugą siedemnaście <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="29.528" endTime="30.151">
+<Sync time="29.528"/>
+<Event desc="noise" type="noise" extent="begin"/> tak <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="30.151" endTime="32.287">
+<Sync time="30.151"/>
+<Event desc="noise" type="noise" extent="begin"/> dwudziesta pierwsza czterdzieści siedem <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="32.287" endTime="32.948">
+<Sync time="32.287"/>
+<Event desc="noise" type="noise" extent="begin"/> aha rozumiem <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="32.948" endTime="35.166">
+<Sync time="32.948"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="babble" type="noise" extent="begin"/> co trzydzieści <Event desc="babble" type="noise" extent="end"/> minut w tej chwili jeździ <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="35.166" endTime="36.612">
+<Sync time="35.166"/>
+<Event desc="noise" type="noise" extent="begin"/> rozumiem dobrze dziękuję <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="36.612" endTime="37.319">
+<Sync time="36.612"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="babble" type="noise" extent="begin"/> proszę <Event desc="babble" type="noise" extent="end"/> bardzo <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="37.319" endTime="38.064">
+<Sync time="37.319"/>
+<Event desc="noise" type="noise" extent="begin"/> do widze<Event desc="~" type="lexical" extent="begin"/>nia<Event desc="~" type="lexical" extent="end"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="38.064" endTime="38.609">
+<Sync time="38.064"/>
+<Event desc="noise" type="noise" extent="begin"/> do usłyszenia <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="38.609" endTime="40.498">
+<Sync time="38.609"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

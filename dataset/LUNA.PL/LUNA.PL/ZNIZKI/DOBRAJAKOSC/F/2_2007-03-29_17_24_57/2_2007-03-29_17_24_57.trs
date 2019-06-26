@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-29_17_24_57" version="3" version_date="080113">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="44.497" topic="to1">
+<Turn startTime="0" endTime="0.812">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.812" endTime="2.511">
+<Sync time="0.812"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.511" endTime="15.608">
+<Sync time="2.511"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę pana 
+<Event desc="~" type="lexical" extent="begin"/>
+j
+<Event desc="~" type="lexical" extent="end"/>
+a mam takie pytanie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ moje dziecko skończyło siedem lat z tym że jeszcze do szkoły jeszcze nie chodzi 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ i czy ja muszę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ płacić za bilet jak to to wygląda 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.608" endTime="21.172">
+<Sync time="15.608"/>
+do końca 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wakacji może bezpłatnie jeździć a od pierwszego września musi płacić już czterdzieści osiem procen
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.172" endTime="23.813">
+<Sync time="21.172"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale 
+<Event desc="babble" type="noise" extent="end"/>
+ nawet jak nie nie będzie chodziło do szkoły 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.813" endTime="28.18">
+<Sync time="23.813"/>
+nawet jak nie będzie chodziło jeżeli w tym roku kalendarzowym skończyło siedem lat
+</Turn>
+<Turn speaker="spk2" startTime="28.18" endTime="28.764">
+<Sync time="28.18"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.764" endTime="31.438">
+<Sync time="28.764"/>
+to już od pierwszego września musi płacić za 
+<Event desc="*" type="pronounce" extent="begin"/>
+bilet
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="31.438" endTime="34.119">
+<Sync time="31.438"/>
+ale 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z ulgą czterdzieści osiem proce
+<Event desc="~" type="lexical" extent="begin"/>
+nt
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="34.119" endTime="35.602">
+<Sync time="34.119"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ z ulgą 
+<Event desc="babble" type="noise" extent="end"/>
+ czterdzieści osiem procent
+</Turn>
+<Turn speaker="spk1 spk2" startTime="35.602" endTime="35.81">
+<Sync time="35.602"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+ale
+</Turn>
+<Turn speaker="spk2" startTime="35.81" endTime="37.693">
+<Sync time="35.81"/>
+nawet jak nie będzie miało legitymacji 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.693" endTime="39.331">
+<Sync time="37.693"/>
+nawet jak nie będzie miało 
+<Event desc="*" type="pronounce" extent="begin"/>
+legitymacji
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="39.331" endTime="40.684">
+<Sync time="39.331"/>
+aha 
+<Event desc="*" type="pronounce" extent="begin"/>
+rozumiem
+<Event desc="*" type="pronounce" extent="end"/>
+ dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="40.684" endTime="41.603">
+<Sync time="40.684"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn startTime="41.603" endTime="44.497">
+<Sync time="41.603"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

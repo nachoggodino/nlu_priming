@@ -1,0 +1,27 @@
+<Frames>
+  <Set id="1" subset="1" span="word_14" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_15..word_16" concept_id="7" name="POSSESSION" />
+  </Set>
+  <Set id="2" subset="1" span="word_18" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_19..word_21" concept_id="9" name="TITLE" />
+  </Set>
+  <Set id="3" subset="1" span="word_22" frame="MOTION" head="chodzić">
+    <Frame fe="1" span="word_24..word_27" concept_id="11" name="GOAL" />
+  </Set>
+  <Set id="4" subset="2" span="word_31" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_28..word_30" concept_id="12" name="PRIVILEGE" />
+  </Set>
+  <Set id="5" subset="1" span="word_46" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_42..word_43" concept_id="14" name="PRIVILEGE" />
+  </Set>
+  <Set id="6" subset="1" span="word_57" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_55" concept_id="20" name="BENEFICIARY" />
+    <Frame fe="2" span="word_58..word_59" concept_id="23" name="TITLE" />
+  </Set>
+  <Set id="7" subset="1" span="word_77" frame="MOTION" head="chodzić">
+    <Frame fe="1" span="word_78..word_79" concept_id="29" name="GOAL" />
+  </Set>
+  <Set id="8" subset="1" span="word_84" frame="COMMERCE_BUY" head="kupić">
+    <Frame fe="1" span="word_85" concept_id="34" name="GOODS" />
+  </Set>
+</Frames>

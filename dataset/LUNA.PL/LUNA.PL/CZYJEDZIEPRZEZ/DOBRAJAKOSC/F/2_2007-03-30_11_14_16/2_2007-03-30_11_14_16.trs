@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-30_11_14_16" version="6" version_date="080105">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="95.994" topic="to1">
+<Turn startTime="0" endTime="1.03">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.03" endTime="2.917">
+<Sync time="1.03"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx słucham 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.917" endTime="17.018">
+<Sync time="2.917"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry panu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ nie wiem czy będzie pan mi pomógł
+<Event desc="int" type="noise" extent="previous"/>
+ ale spróbuję chodzi mi o że czy autobusem pięćset dwadzieścia trzy mogę dojechać do 
+<Event desc="en" type="language" extent="begin"/>
+Blue City
+<Event desc="en" type="language" extent="end"/>
+ a czy gdzieś tam przy 
+<Event desc="en" type="language" extent="begin"/>
+Blue City
+<Event desc="en" type="language" extent="end"/>
+ chodzi mi żeby 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dostać się 
+<Event desc="babble" type="noise" extent="begin"/>
+ Aleje Jerozolimskie 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="17.018" endTime="17.896">
+<Sync time="17.018"/>
+<Who nb="1"/>
+proszę pani
+<Who nb="2"/>
+czy on tam
+</Turn>
+<Turn speaker="spk2" startTime="17.896" endTime="19.479">
+<Sync time="17.896"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ czy on tam chodzi po prostu czy 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="19.479" endTime="22.756">
+<Sync time="19.479"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ bezpośrednio nie a skąd pani będzie jechała tym pięćset 
+<Event desc="babble" type="noise" extent="begin"/>
+ dwadzieścia trzy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="22.756" endTime="26.571">
+<Sync time="22.756"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ na przykład z Wiatracznej ewentualnie ja ja
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ bym się mogła dostać w okolicę właśnie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="26.571" endTime="27.278">
+<Sync time="26.571"/>
+<Who nb="1"/>
+
+<Event desc="en" type="language" extent="begin"/>
+Blue City
+<Event desc="en" type="language" extent="end"/>
+
+<Who nb="2"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę pani
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="27.278" endTime="30.431">
+<Sync time="27.278"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to dojedzie pani do Dworca Zachodniego pięćset dwadzieścia trzy a 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="30.431" endTime="30.891">
+<Sync time="30.431"/>
+<Who nb="1"/>
+aha
+<Who nb="2"/>
+tam musi
+</Turn>
+<Turn speaker="spk1" startTime="30.891" endTime="34.341">
+<Sync time="30.891"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ się pani przesiąść w na przykład sto dwadzieścia siedem 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="34.341" endTime="34.973">
+<Sync time="34.341"/>
+<Who nb="1"/>
+pięćset
+<Who nb="2"/>
+wtedy już
+</Turn>
+<Turn speaker="spk2" startTime="34.973" endTime="35.616">
+<Sync time="34.973"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.616" endTime="44.701">
+<Sync time="35.616"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ pięćset siedemnaście z 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto trzydzieści 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ osiemdziesiąt siedem 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="44.701" endTime="46.419">
+<Sync time="44.701"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i już 
+<Event desc="babble" type="noise" extent="end"/>
+ dojadę wtedy w okolicy tak bo 
+</Turn>
+<Turn speaker="spk1" startTime="46.419" endTime="51.753">
+<Sync time="46.419"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak trzeba 
+<Event desc="babble" type="noise" extent="end"/>
+ musi pani wysiąść 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na przystanku Berestecka to jest przystanek pod Redutą
+</Turn>
+<Turn speaker="spk2" startTime="51.753" endTime="51.871">
+<Sync time="51.753"/>
+bo
+</Turn>
+<Turn speaker="spk1 spk2" startTime="51.871" endTime="52.255">
+<Sync time="51.871"/>
+<Who nb="1"/>
+a po 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="52.255" endTime="53.642">
+<Sync time="52.255"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ mi 
+<Event desc="babble" type="noise" extent="end"/>
+ chodzi gdzie o 
+<Event desc="noise" type="noise" extent="begin"/>
+ dostać tam jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="53.642" endTime="53.963">
+<Sync time="53.642"/>
+<Who nb="1"/>
+wielki
+<Who nb="2"/>
+a pod
+</Turn>
+<Turn speaker="spk2" startTime="53.963" endTime="57.174">
+<Sync time="53.963"/>
+budynek Ery 
+<Event desc="noise" type="noise" extent="begin"/>
+ więc gdzieś tam w okolicach podobno 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="57.174" endTime="57.984">
+<Sync time="57.174"/>
+no nie wiem gdzie
+</Turn>
+<Turn speaker="spk2" startTime="57.984" endTime="60.479">
+<Sync time="57.984"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ zobaczy pan 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ al
+<Event desc="~" type="lexical" extent="begin"/>
+e
+<Event desc="~" type="lexical" extent="end"/>
+ to 
+<Event desc="noise" type="noise" extent="begin"/>
+ do 
+<Event desc="en" type="language" extent="begin"/>
+Blue City
+<Event desc="en" type="language" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ dojadę tymi autobus
+<Event desc="~" type="lexical" extent="begin"/>
+ami
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="60.479" endTime="60.719">
+<Sync time="60.479"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="60.719" endTime="62.13">
+<Sync time="60.719"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ muszę się przesiąść 
+<Event desc="*" type="pronounce" extent="begin"/>
+przy
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ Dworcu Zachodni
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+ tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="62.13" endTime="62.444">
+<Sync time="62.13"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="62.444" endTime="62.696">
+<Sync time="62.444"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="62.696" endTime="70.138">
+<Sync time="62.696"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a jeszcze pan mi powie il
+<Event desc="~" type="lexical" extent="begin"/>
+e
+<Event desc="~" type="lexical" extent="end"/>
+ ile 
+<Event desc="noise" type="noise" extent="begin"/>
+ czasu idzie autobus 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pięćset dwadzieścia 
+<Event desc="*" type="pronounce" extent="begin"/>
+trzy
+<Event desc="*" type="pronounce" extent="end"/>
+ do Dworca Zachodniego 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ z 
+<Event desc="babble" type="noise" extent="begin"/>
+ Wiatracznej 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="70.138" endTime="84.685">
+<Sync time="70.138"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+chwileczkę
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ko
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+o dwudziestu trzech minut 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="84.685" endTime="87.55">
+<Sync time="84.685"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a jesz
+<Event desc="~" type="lexical" extent="begin"/>
+cze
+<Event desc="~" type="lexical" extent="end"/>
+ a później z tego Dworca pan mówi tymi innymi 
+<Event desc="babble" type="noise" extent="begin"/>
+ autobusem 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="87.55" endTime="89.479">
+<Sync time="87.55"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tam 
+<Event desc="babble" type="noise" extent="end"/>
+ to już chwileczkę 
+<Event desc="noise" type="noise" extent="begin"/>
+ bo to dwa przystanki 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="89.479" endTime="91.532">
+<Sync time="89.479"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ przystanki 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+bardzo serdecznie
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="91.532" endTime="91.758">
+<Sync time="91.532"/>
+proszę
+</Turn>
+<Turn speaker="spk1 spk2" startTime="91.758" endTime="92.399">
+<Sync time="91.758"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+informacje
+</Turn>
+<Turn speaker="spk2" startTime="92.399" endTime="92.485">
+<Sync time="92.399"/>
+do 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="92.485" endTime="93.312">
+<Sync time="92.485"/>
+<Who nb="1"/>
+widzenia
+<Who nb="2"/>
+do usłyszenia
+</Turn>
+<Turn startTime="93.312" endTime="95.994">
+<Sync time="93.312"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

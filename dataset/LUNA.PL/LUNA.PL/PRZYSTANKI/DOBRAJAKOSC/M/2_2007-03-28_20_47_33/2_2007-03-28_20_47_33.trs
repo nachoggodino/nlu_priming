@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-28_20_47_33" version="4" version_date="100912">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="operator and user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="241.485" topic="to1">
+<Turn startTime="0" endTime="1.336">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.336" endTime="2.936">
+<Sync time="1.336"/>
+xxx dobry wieczór
+</Turn>
+<Turn speaker="spk2" startTime="2.936" endTime="9.032">
+<Sync time="2.936"/>
+dobry wieczór 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana pytanie mam jak z Ochoty okolice Grójeckiej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dokładnie Pawińskiego róg Korotyńskiego tam
+</Turn>
+<Turn speaker="spk1" startTime="9.032" endTime="9.732">
+<Sync time="9.032"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="9.732" endTime="13.712">
+<Sync time="9.732"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dojechać proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na ulicę Równoległą pięć
+</Turn>
+<Turn speaker="spk2" startTime="13.712" endTime="19.509">
+<Sync time="13.712"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="19.509" endTime="30.14">
+<Sync time="19.509"/>
+to trzeba 
+<Event desc="noise" type="noise" extent="begin"/>
+ w Instalato
+<Event desc="~" type="lexical" extent="begin"/>
+rów
+<Event desc="~" type="lexical" extent="end"/>
+ wjechać w ulicę Instalatorów w stronę Janek i podobnież tylko jeden autobus tam wjeżdża 
+<Event desc="noise" type="noise" extent="end"/>
+ ja nie 
+<Event desc="~" type="lexical" extent="begin"/>
+wi
+<Event desc="~" type="lexical" extent="end"/>
+em jak ja mam od siebie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.14" endTime="35.231">
+<Sync time="30.14"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ak na Instalatorów to tylko wjeżdża sto dwadzieścia osiem
+</Turn>
+<Turn speaker="spk2" startTime="35.231" endTime="37.619">
+<Sync time="35.231"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ gdzie ja go znajdę na Grójeckiej on chodzi 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.619" endTime="44.811">
+<Sync time="37.619"/>
+on jeździ Grójecką tutaj w
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+aśnie ten przystanek Bitwy Warszawskiej róg Grójeckiej to 
+<Event desc="babble" type="noise" extent="begin"/>
+ wsiada 
+<Event desc="babble" type="noise" extent="end"/>
+ pan właśnie na Grójeckiej już
+</Turn>
+<Turn speaker="spk2" startTime="44.811" endTime="45.194">
+<Sync time="44.811"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.194" endTime="46.999">
+<Sync time="45.194"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i jedzie 
+<Event desc="babble" type="noise" extent="end"/>
+ pan w kierunku Okęcia
+</Turn>
+<Turn speaker="spk2" startTime="46.999" endTime="49.105">
+<Sync time="46.999"/>
+no to bliżej może on ma na Korotyńskiego przysta
+<Event desc="~" type="lexical" extent="begin"/>
+nek
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="49.105" endTime="53.094">
+<Sync time="49.105"/>
+tak to na rog
+<Event desc="~" type="lexical" extent="begin"/>
+u
+<Event desc="~" type="lexical" extent="end"/>
+ Korotyńskiego jeżeli pan tutaj woli to też jest przystanek 
+<Event desc="babble" type="noise" extent="begin"/>
+ na rogu 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="53.094" endTime="55.992">
+<Sync time="53.094"/>
+bo to jest bliżej mnie Korotyńskiego róg Pawiń
+<Event desc="~" type="lexical" extent="begin"/>
+skiego
+<Event desc="~" type="lexical" extent="end"/>
+ róg 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="55.992" endTime="57.011">
+<Sync time="55.992"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ Grójeckiej 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="57.011" endTime="65.624">
+<Sync time="57.011"/>
+Grójeckiej tylko w 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ on ma przystanek jak pan widzi pewnie to skrzyżowanie to 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przed 
+<Event desc="noise" type="noise" extent="begin"/>
+ że tak powiem bliżej przed 
+<Event desc="noise" type="noise" extent="end"/>
+ przed 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jeszcze przecięciem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Korotyńskiego czy już za
+</Turn>
+<Turn speaker="spk1" startTime="65.624" endTime="75.161">
+<Sync time="65.624"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a to zaraz spojrzę na 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ bo już nie pamiętam dokładnie ale 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ tak tam powinien być przystanek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ przystanek przed 
+<Event desc="babble" type="noise" extent="end"/>
+ przed skrzyżowanie
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="75.161" endTime="76.195">
+<Sync time="75.161"/>
+przed skrzyżowaniem Koro
+<Event desc="~" type="lexical" extent="begin"/>
+tyńskiego
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="76.195" endTime="76.559">
+<Sync time="76.195"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="76.559" endTime="78.862">
+<Sync time="76.559"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+jeszcze 
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+o jeszcze bliżej Centrum po tej stronie dobrze
+</Turn>
+<Turn speaker="spk3" startTime="78.862" endTime="235.747">
+<Sync time="78.862"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="235.747" endTime="237.759">
+<Sync time="235.747"/>
+dobrze bardzo panu 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+serdecznie
+<Event desc="*" type="pronounce" extent="end"/>
+ dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="237.759" endTime="238.648">
+<Sync time="237.759"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dziękuję 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="238.648" endTime="239.107">
+<Sync time="238.648"/>
+do widzenia
+</Turn>
+<Turn speaker="spk2" startTime="239.107" endTime="239.743">
+<Sync time="239.107"/>
+do 
+<Event desc="int" type="noise" extent="next"/>
+widzenia
+</Turn>
+<Turn startTime="239.743" endTime="241.485">
+<Sync time="239.743"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

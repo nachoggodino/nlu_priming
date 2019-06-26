@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_19_13_23" version="8" version_date="080124">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="63.496" topic="to1">
+<Turn startTime="0" endTime="0.416">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.416" endTime="1.737">
+<Sync time="0.416"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.737" endTime="2.609">
+<Sync time="1.737"/>
+dobry wieczór
+</Turn>
+<Turn speaker="spk1" startTime="2.609" endTime="3.193">
+<Sync time="2.609"/>
+dobry wieczór
+</Turn>
+<Turn speaker="spk2" startTime="3.193" endTime="10.407">
+<Sync time="3.193"/>
+proszę pana mam pytanie 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy z Alei Waszyngtona 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Ronda Waszyngtona chodzi 
+<Event desc="*" type="pronounce" extent="begin"/>
+jakiś
+<Event desc="*" type="pronounce" extent="end"/>
+ autobus na Torwar
+</Turn>
+<Turn speaker="spk1" startTime="10.407" endTime="13.178">
+<Sync time="10.407"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Ronda Waszyngtona do Torwaru 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="13.178" endTime="15.35">
+<Sync time="13.178"/>
+tak
+<Event desc="noise" type="noise" extent="previous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.35" endTime="20.886">
+<Sync time="15.35"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana z Ronda Waszyngtona na Alei Zielenieckiej jadąc od Pragi 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.886" endTime="21.363">
+<Sync time="20.886"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="21.363" endTime="22.574">
+<Sync time="21.363"/>
+przed rondem ma 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="22.574" endTime="23.589">
+<Sync time="22.574"/>
+<Who nb="1"/>
+przystanek
+<Who nb="2"/>
+przy Teatrze
+</Turn>
+<Turn speaker="spk2" startTime="23.589" endTime="25.294">
+<Sync time="23.589"/>
+Powszechnym gdzieś tutaj 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.294" endTime="28.133">
+<Sync time="25.294"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy ma też przy Powszechnym tak jakby 
+<Event desc="babble" type="noise" extent="begin"/>
+ na Targowej 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="28.133" endTime="28.654">
+<Sync time="28.133"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.654" endTime="28.99">
+<Sync time="28.654"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ przed 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="28.99" endTime="29.192">
+<Sync time="28.99"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.192" endTime="30.39">
+<Sync time="29.192"/>
+przed skrętem w prawo
+</Turn>
+<Turn speaker="spk2" startTime="30.39" endTime="30.871">
+<Sync time="30.39"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="30.871" endTime="33.588">
+<Sync time="30.871"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to sto trzydzieści osiem jak pan wsiądzie 
+</Turn>
+<Turn speaker="spk2" startTime="33.588" endTime="34.172">
+<Sync time="33.588"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="34.172" endTime="37.255">
+<Sync time="34.172"/>
+to on wtedy ma przystanek Torwar na Moście Łazienkowskim
+</Turn>
+<Turn speaker="spk2" startTime="37.255" endTime="38.226">
+<Sync time="37.255"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="38.226" endTime="39.73">
+<Sync time="38.226"/>
+to trzeba by zejść po prostu 
+</Turn>
+<Turn speaker="spk2" startTime="39.73" endTime="44.856">
+<Sync time="39.73"/>
+tu przy tych budach wiem gdzie jak siódemka jedzie w prawo w Zieleniecką tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ ten przystanek autobusowy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="44.856" endTime="47.618">
+<Sync time="44.856"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no tak przed skrętem w Zieleniecką 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="47.618" endTime="48.64">
+<Sync time="47.618"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+s
+<Event desc="~" type="lexical" extent="end"/>
+to trzydzieści 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="48.64" endTime="49.127">
+<Sync time="48.64"/>
+osiem
+</Turn>
+<Turn speaker="spk2" startTime="49.127" endTime="52.503">
+<Sync time="49.127"/>
+sto trzydzieści osiem dobra i do samego Torwaru jedzie tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="52.503" endTime="56.492">
+<Sync time="52.503"/>
+tak 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ że on ma przystanek na Moście Łazienkowskim 
+<Event desc="babble" type="noise" extent="begin"/>
+ Torwar 
+<Event desc="babble" type="noise" extent="end"/>
+ tak że trzeba tam zejść
+</Turn>
+<Turn speaker="spk2" startTime="56.492" endTime="58.356">
+<Sync time="56.492"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ trzeba zejść na dół 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ na Moście Łazienkowskim
+</Turn>
+<Turn speaker="spk1" startTime="58.356" endTime="59.174">
+<Sync time="58.356"/>
+dokładnie
+</Turn>
+<Turn speaker="spk2" startTime="59.174" endTime="59.816">
+<Sync time="59.174"/>
+dobra dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="59.816" endTime="60.785">
+<Sync time="59.816"/>
+<Who nb="1"/>
+bardzo 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="60.785" endTime="61.457">
+<Sync time="60.785"/>
+dobranoc
+</Turn>
+<Turn startTime="61.457" endTime="63.496">
+<Sync time="61.457"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

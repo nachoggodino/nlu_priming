@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Manufakturzysta.exe" version="2.1.0.0" publicKeyToken="4878ff2646f759cb" language="pl-PL" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Resources\favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Manufakturzysta" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Manufakturzysta.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LibAnnotatorTool.dll" size="104448">
+      <assemblyIdentity name="LibAnnotatorTool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ANvlr9MhPMxZRz2EXd/TZdsKm8Q=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LibLuna.dll" size="54784">
+      <assemblyIdentity name="LibLuna" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>4auFhieqi/s4Y+H4vW1RFZbf6F0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LibMan1.dll" size="7168">
+      <assemblyIdentity name="LibMan1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>tUNl7QS9ebgGSM3W6272mgYzIlk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LibManufakturzysta.dll" size="102912">
+      <assemblyIdentity name="LibManufakturzysta" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>hpdq+JB8ocuJPyT8dpCs/NbK/Z0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LibTagger.dll" size="52224">
+      <assemblyIdentity name="LibTagger" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>7SUPuqQkpgLZuUoIUGa41QyZBys=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Manufakturzysta.exe" size="215552">
+      <assemblyIdentity name="Manufakturzysta" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>M4CpZk8UEfiZOUtmEroi5X7y6+Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="files\frame_fe.txt" size="4140">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>PHt4U52099ITz2Rk09d8dyqgb8A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="files\Luna.xml" size="51614" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>XTujmiSbW/oV9YEY4k/6+aq6yBU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\favicon.ico" size="3638">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>WgMhYpNfOXSohYgsDJFgzugfVq0=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=czuk-vista\czuk" issuerKeyHash="0a5ce21c7be2f0b421125da23b4f45a65750f3cf" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>bTSuWJ8/0keZRRGHNEYHoTPLzrk=</DigestValue></Reference></SignedInfo><SignatureValue>YizhWniQCjobosWUeDTcz5WPhZkkQQZc9dKvNXRfrJKqAxLNMyh+E4BSvl3YaiIbu4QuERDEumDHgQfCwtN1sxHgbAjfh07xLpED9ZwMjP3kycx8YPozNCzc9Fl0wEdirBCNuC3Y5EA7rZ8XzcnKgbYj8JXjedmVDIvhjCQhxCc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tOhd7khSkznVbOmD71GYk1ysqTF7kZYhbSUB5+X4HUx+bVKHeYErj306R8j59JZkGkfakrMMeiQlaVwRF8hovuCWmj0cWWBCW6JMDkgD3ecp4M0fpH8g6VhkW3pnfJC+cDap/oOOVjTPhdBlkgLh9QutdEDr/ld0DHvGvp9oM0s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b9cecb33a10746348711459947d23f9f58ae346d" Description="" Url=""><as:assemblyIdentity name="Manufakturzysta.exe" version="2.1.0.0" publicKeyToken="4878ff2646f759cb" language="pl-PL" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=czuk-vista\czuk</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>rLSXV6fC57VAyHVh04Zty25EtXk=</DigestValue></Reference></SignedInfo><SignatureValue>aTla6YJ3acTuvBddcN+OKX21TfesKCspfaZ1P7Zh7LkFLgK8odMzkGd+3xvDDwSQt3NNzawkreqKoU7zNH/xgjrJAYCEjohuZxZHP8XumY3567GfUlg7Ba7gG+RyHn/9hiWWvWYT+v/ahhgM+PJZkneZhUVM1E23mkx2j2935f0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tOhd7khSkznVbOmD71GYk1ysqTF7kZYhbSUB5+X4HUx+bVKHeYErj306R8j59JZkGkfakrMMeiQlaVwRF8hovuCWmj0cWWBCW6JMDkgD3ecp4M0fpH8g6VhkW3pnfJC+cDap/oOOVjTPhdBlkgLh9QutdEDr/ld0DHvGvp9oM0s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQptaVOWG60ZdFjAJRJ7+mYjANBgkqhkiG9w0BAQUFADApMScwJQYDVQQDHh4AYwB6AHUAawAtAHYAaQBzAHQAYQBcAGMAegB1AGswHhcNMTAwMTA1MjExNjA3WhcNMTEwMTA2MDMxNjA3WjApMScwJQYDVQQDHh4AYwB6AHUAawAtAHYAaQBzAHQAYQBcAGMAegB1AGswgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALToXe5IUpM51Wzpg+9RmJNcrKkxe5GWIW0lAefl+B1Mfm1Sh3mBK499OkfI+fSWZBpH2pKzDHokJWlcERfIaL7glpo9HFlgQluiTA5IA93nKeDNH6R/IOlYZFt6Z3yQvnA2qf6DjlY0z4XQZZIC4fULrXRA6/5XdAx7xr6faDNLAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEANaxxLU3gaZ+NZVgtd+3fHjriWWo0RvX0cTqycGDwLv4mno3fcMs8Bl3R83b7W9MAk001w/EOnuERL2U6HvTs994YdoW3mq+jILXifPGI0NJJ10Q2NRLQ+D2RWH3LDoBNCVUNmHOH6vskooK9KnzIA76Tg0EyBnTXUKdp7rEo9Ek=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

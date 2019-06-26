@@ -1,0 +1,9 @@
+<Frames>
+  <Set id="1" subset="1" span="word_9" frame="NEEDING" head="chcieć">
+    <Frame fe="1" span="word_10..word_13" concept_id="5" name="REQUIREMENT" />
+    <Frame fe="2" span="word_14..word_15" concept_id="6" name="PLACE" />
+    <Frame fe="3" span="word_16..word_18" concept_id="7" name="CIRCUMSTANCES" />
+    <Frame fe="4" span="word_19..word_20" concept_id="8" name="PLACE" />
+    <Frame fe="5" span="word_24..word_26" concept_id="10" name="TIME" />
+  </Set>
+</Frames>

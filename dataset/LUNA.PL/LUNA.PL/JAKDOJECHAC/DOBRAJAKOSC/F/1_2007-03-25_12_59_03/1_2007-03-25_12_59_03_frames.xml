@@ -1,0 +1,17 @@
+<Frames>
+  <Set id="1" subset="1" span="word_8" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_9..word_10,word_11..word_12" concept_id="5,6" name="PLACE" />
+  </Set>
+  <Set id="2" subset="1" span="word_16" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_13" concept_id="7" name="MANNER" />
+    <Frame fe="2" span="word_15" concept_id="8" name="MANNER" />
+    <Frame fe="3" span="word_17..word_19" concept_id="10" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_45" frame="BRINGING" head="dowieźć">
+    <Frame fe="1" span="word_41..word_43" concept_id="20" name="CARRIER" />
+    <Frame fe="2" span="word_47..word_50" concept_id="23" name="GOAL" />
+  </Set>
+  <Set id="4" subset="1" span="word_56" frame="SELF_MOTION" head="podejść">
+    <Frame fe="1" span="word_52" concept_id="24" name="SOURCE" />
+  </Set>
+</Frames>

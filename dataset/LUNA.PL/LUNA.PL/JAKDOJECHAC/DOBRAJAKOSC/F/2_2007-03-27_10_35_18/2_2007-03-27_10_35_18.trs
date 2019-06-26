@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-27_10_35_18" version="5" version_date="071221">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="75.995" topic="to1">
+<Turn startTime="0" endTime="0.651">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.651" endTime="1.843">
+<Sync time="0.651"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.843" endTime="13.206">
+<Sync time="1.843"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry ja mam takie pytanie bo 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chciałabym się dostać na Ogrodową to jest 
+<Event desc="noise" type="noise" extent="begin"/>
+ pięćdziesiąt jeden 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+A
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ numer 
+<Event desc="noise" type="noise" extent="begin"/>
+ i będzie jak mi łatwiej 
+<Event desc="noise" type="noise" extent="end"/>
+ dojechać czy na 
+<Event desc="*" type="pronounce" extent="begin"/>
+przykład
+<Event desc="*" type="pronounce" extent="end"/>
+ Towarową czy Jana Pawła 
+<Event desc="noise" type="noise" extent="begin"/>
+ bo nie bardzo wiem jak ta numera
+<Event desc="~" type="lexical" extent="begin"/>
+cja
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.206" endTime="15.801">
+<Sync time="13.206"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ pięćdziesiąt jeden 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+A
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ nu
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ pani 
+<Event desc="babble" type="noise" extent="end"/>
+ poczeka ja zobaczę na mapie
+</Turn>
+<Turn speaker="spk2" startTime="15.801" endTime="31.435">
+<Sync time="15.801"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dobrze dziękuję 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.435" endTime="34.88">
+<Sync time="31.435"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ numer pięćdziesiąt jeden będzie między Żelazną a Towarową
+</Turn>
+<Turn speaker="spk2" startTime="34.88" endTime="37.972">
+<Sync time="34.88"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+czyli
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ lepiej Towarową 
+<Event desc="noise" type="noise" extent="begin"/>
+ po prostu jechać 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.972" endTime="43.683">
+<Sync time="37.972"/>
+no chyba tak wysiadłaby pani sobie tam przy Solidarności i można już za takim wysokim budynkiem wejść w Ogrodową
+</Turn>
+<Turn speaker="spk2" startTime="43.683" endTime="47.277">
+<Sync time="43.683"/>
+rozumiem dobrze a 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ a jakiś nie wiem tramwaj tam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to
+<Event desc="~" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="47.277" endTime="48.318">
+<Sync time="47.277"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale skąd by 
+<Event desc="babble" type="noise" extent="end"/>
+ pani jechała 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="48.318" endTime="49.669">
+<Sync time="48.318"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Placu Zawiszy myś
+<Event desc="~" type="lexical" extent="begin"/>
+lę
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="49.669" endTime="50.52">
+<Sync time="49.669"/>
+z Placu Zawiszy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="50.52" endTime="51.279">
+<Sync time="50.52"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="51.279" endTime="55.938">
+<Sync time="51.279"/>
+no to ma pani z Placu Zawiszy tak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bo to już można wejść na Towarową na ten przystanek
+</Turn>
+<Turn speaker="spk2" startTime="55.938" endTime="56.752">
+<Sync time="55.938"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="56.752" endTime="61.1">
+<Sync time="56.752"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jest jedynka dwudziestka dwadzieścia dwa 
+</Turn>
+<Turn speaker="spk2" startTime="61.1" endTime="61.546">
+<Sync time="61.1"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="61.546" endTime="63.186">
+<Sync time="61.546"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ trzydzieści dwa
+</Turn>
+<Turn speaker="spk2" startTime="63.186" endTime="64.706">
+<Sync time="63.186"/>
+i one wszystkie skręcają 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="64.706" endTime="70.3">
+<Sync time="64.706"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy one prościutko jadą do przystanku 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Okopowa a tylko trzydzieści dwa skręca do Żelaznej
+</Turn>
+<Turn speaker="spk2" startTime="70.3" endTime="72.106">
+<Sync time="70.3"/>
+aha tylko trzydzieści dwa do Żelaznej
+</Turn>
+<Turn speaker="spk2 spk1" startTime="72.106" endTime="72.813">
+<Sync time="72.106"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="72.813" endTime="73.469">
+<Sync time="72.813"/>
+dobrze dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="73.469" endTime="74.788">
+<Sync time="73.469"/>
+<Who nb="1"/>
+panu uprzejmie do widzenia
+<Who nb="2"/>
+proszę bardzo do widzenia
+</Turn>
+<Turn startTime="74.788" endTime="75.995">
+<Sync time="74.788"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

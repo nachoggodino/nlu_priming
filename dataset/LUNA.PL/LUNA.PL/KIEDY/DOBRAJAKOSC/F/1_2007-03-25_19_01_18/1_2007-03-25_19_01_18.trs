@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_19_01_18" version="2" version_date="070619">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="44.997" topic="to1">
+<Turn startTime="0" endTime="0.766">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.766" endTime="2.716">
+<Sync time="0.766"/>
+dzień dobry xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="2.716" endTime="19.16">
+<Sync time="2.716"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień dobry<Event desc="*" type="pronounce" extent="end"/> chciałam zapytać autobus <Event desc="filler" type="lexical" extent="instantaneous"/> sto czterdzieści trzy <Event desc="filler" type="lexical" extent="instantaneous"/> z kierunku Ursynowa <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="begin"/> sto czterdzieści trzy w kierunku Ursynowa <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/> z przystanku <Event desc="filler" type="lexical" extent="instantaneous"/> przy Marsa przy ulicy Marsa Ostrobramska<Event desc="int" type="noise" extent="previous"/>
+</Turn>
+<Turn speaker="spk1" startTime="19.16" endTime="20.582">
+<Sync time="19.16"/>
+<Event desc="*" type="pronounce" extent="begin"/>dziewięć<Event desc="*" type="pronounce" extent="end"/> przystanków Płowiecka
+</Turn>
+<Turn speaker="spk2" startTime="20.582" endTime="23.734">
+<Sync time="20.582"/>
+Płowiecka ta<Event desc="~" type="lexical" extent="begin"/>k<Event desc="~" type="lexical" extent="end"/> <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="23.734" endTime="24.844">
+<Sync time="23.734"/>
+<Event desc="*" type="pronounce" extent="begin"/>najbliższy<Event desc="*" type="pronounce" extent="end"/> odjazd <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="24.844" endTime="28.749">
+<Sync time="24.844"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> no co co ile czasu jeździ <Event desc="?" type="lexical" extent="instantaneous"/> co dwadzieścia
+</Turn>
+<Turn speaker="spk1 spk2" startTime="28.749" endTime="29.314">
+<Sync time="28.749"/>
+<Who nb="1"/>
+co mniej więcej
+<Who nb="2"/>
+ <Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="29.314" endTime="31.091">
+<Sync time="29.314"/>
+teraz jeszcze co dwadzieścia minut
+</Turn>
+<Turn speaker="spk2" startTime="31.091" endTime="31.713">
+<Sync time="31.091"/>
+aha aha
+</Turn>
+<Turn speaker="spk1" startTime="31.713" endTime="34.135">
+<Sync time="31.713"/>
+a <Event desc="babble" type="noise" extent="begin"/> później <Event desc="babble" type="noise" extent="end"/> od dwudziestej już co co pół godziny
+</Turn>
+<Turn speaker="spk2" startTime="34.135" endTime="37.159">
+<Sync time="34.135"/>
+dobrze to teraz <Event desc="filler" type="lexical" extent="instantaneous"/> będzie o której najbliż<Event desc="~" type="lexical" extent="begin"/>szy<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="37.159" endTime="39.267">
+<Sync time="37.159"/>
+<Event desc="babble" type="noise" extent="begin"/> najbliższy <Event desc="babble" type="noise" extent="end"/> będzie o dziewiętnastej dwadzieścia jeden
+</Turn>
+<Turn speaker="spk2" startTime="39.267" endTime="39.893">
+<Sync time="39.267"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.893" endTime="40.796">
+<Sync time="39.893"/>
+<Who nb="1"/>
+dziękuję do widzenia 
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="40.796" endTime="41.346">
+<Sync time="40.796"/>
+do usłyszenia
+</Turn>
+<Turn startTime="41.346" endTime="44.997">
+<Sync time="41.346"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

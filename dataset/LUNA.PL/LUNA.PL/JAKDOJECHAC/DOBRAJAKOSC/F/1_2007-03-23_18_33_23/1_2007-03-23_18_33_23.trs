@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_18_33_23" version="7" version_date="091207">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="51.497" topic="to1">
+<Turn startTime="0" endTime="0.704">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.704" endTime="1.867">
+<Sync time="0.704"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.867" endTime="10.684">
+<Sync time="1.867"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę pana potrzebuję dostać się tak w miarę szybko z 
+<Event desc="babble" type="noise" extent="begin"/>
+ tu jak stacja metra Wałbrzy
+<Event desc="~" type="lexical" extent="begin"/>
+ska
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.684" endTime="11.514">
+<Sync time="10.684"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="11.514" endTime="12.491">
+<Sync time="11.514"/>
+<Who nb="1"/>
+Służew tak
+<Who nb="2"/>
+Służew 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="12.491" endTime="18.057">
+<Sync time="12.491"/>
+przy Wałbrzyskiej na 
+<Event desc="babble" type="noise" extent="begin"/>
+ Pileckiego 
+<Event desc="babble" type="noise" extent="end"/>
+ tak jak Centrum Onkologii
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.057" endTime="23.003">
+<Sync time="18.057"/>
+to wie pani co metrem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ może do stacji Stokłosy i stamtąd sto dziewięćdziesiąt pięć
+</Turn>
+<Turn speaker="spk2" startTime="23.003" endTime="24.259">
+<Sync time="23.003"/>
+aha sto 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.259" endTime="26.761">
+<Sync time="24.259"/>
+bo jeśli chodzi o Centrum Onkologii to byłoby chyba najlepiej
+</Turn>
+<Turn speaker="spk2" startTime="26.761" endTime="28.478">
+<Sync time="26.761"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.478" endTime="30.63">
+<Sync time="28.478"/>
+on ma wtedy na 
+<Event desc="de" type="language" extent="begin"/>
+Roentgen
+<Event desc="de" type="language" extent="end"/>
+a przystanek
+</Turn>
+<Turn speaker="spk2 spk1" startTime="30.63" endTime="31.443">
+<Sync time="30.63"/>
+<Who nb="1"/>
+przy Centrum 
+<Who nb="2"/>
+aha
+</Turn>
+<Turn speaker="spk2" startTime="31.443" endTime="35.951">
+<Sync time="31.443"/>
+dobrze sto dziewięćdziesiąt pięć i ten sto dziewięćdziesiąt pięć z którego tam 
+<Event desc="sta" type="noise" extent="begin"/>
+ przystanku 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="35.951" endTime="39.355">
+<Sync time="35.951"/>
+<Who nb="1"/>
+odjeżdża
+<Who nb="2"/>
+już sprawdzam 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="39.355" endTime="43.604">
+<Sync time="39.355"/>
+ Metro Stokłosy zero trzy na Alei KEN w kierunku Ciszewskiego
+</Turn>
+<Turn speaker="spk2" startTime="43.604" endTime="51.497">
+<Sync time="43.604"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

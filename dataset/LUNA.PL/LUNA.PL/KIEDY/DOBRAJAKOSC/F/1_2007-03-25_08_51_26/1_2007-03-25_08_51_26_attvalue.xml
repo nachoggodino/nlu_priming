@@ -1,0 +1,33 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_10" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_11..word_12" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="7" span="word_13" attribute="ACTION" value="Leave" />
+  <concept id="8" span="word_14..word_15" attribute="AFTER_HOUR" value="9 : 00" />
+  <concept id="9" span="word_16..word_18" attribute="BUS" value="409" />
+  <concept id="10" span="word_20" attribute="LOCATION_REL" value="There" />
+  <concept id="11" span="word_21..word_22" attribute="LOCATION_BLD" value="Politechnika" />
+  <concept id="12" span="word_23..word_25" attribute="SOURCE_STP" value="LAST" />
+  <concept id="13" span="word_26..word_27" attribute="DAYTIME_PERIOD_BEG" value="9 : 00" />
+  <concept id="14" span="word_29..word_31" attribute="AT_HOUR" value="9 : 02" />
+  <concept id="15" span="word_32" attribute="REACTION" value="Confirmation" />
+  <concept id="16" span="word_33..word_35" attribute="AT_HOUR" value="9 : 24" />
+  <concept id="17" span="word_36" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_37..word_39" attribute="AT_HOUR" value="9 : 45" />
+  <concept id="19" span="word_40" attribute="REACTION" value="Confirmation" />
+  <concept id="20" span="word_41..word_43" attribute="AT_HOUR" value="10 : 05" />
+  <concept id="21" span="word_44" attribute="REACTION" value="Confirmation" />
+  <concept id="22" span="word_45..word_47" attribute="AT_HOUR" value="10 : 25" />
+  <concept id="23" span="word_48..word_49" attribute="AT_HOUR_MINPART" value="25" />
+  <concept id="24" span="word_50..word_52" attribute="AT_HOUR" value="10 : 45" />
+  <concept id="25" span="word_53..word_55" attribute="AT_HOUR" value="10 : 45" />
+  <concept id="26" span="word_63..word_65" attribute="TIME_REL" value="Today" />
+  <concept id="27" span="word_68" attribute="ACTION" value="Give" />
+  <concept id="28" span="word_69" attribute="REACTION" value="Confirmation" />
+  <concept id="29" span="word_70" attribute="REACTION" value="Confirmation" />
+  <concept id="30" span="word_72..word_73" attribute="CONV_FORM" value="BYE" />
+  <concept id="31" span="word_75..word_76" attribute="CONV_FORM" value="BYE" />
+</concepts>

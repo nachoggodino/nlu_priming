@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-31_08_01_39" version="3" version_date="080418">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="23.499" topic="to1">
+<Turn startTime="0" endTime="0.898">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.898" endTime="2.09">
+<Sync time="0.898"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx w czym 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2.09" endTime="2.675">
+<Sync time="2.09"/>
+<Who nb="1"/>
+mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.675" endTime="10.95">
+<Sync time="2.675"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+chciałam tylko
+<Event desc="*" type="pronounce" extent="end"/>
+ zapytać o taką rzecz jak ja udało mi się zostać emerytką to czy ja 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bilet miesięczny kupuję dalej za sześćdziesiąt sześć czy 
+<Event desc="int" type="noise" extent="next"/>
+ulgowy
+</Turn>
+<Turn speaker="spk1" startTime="10.95" endTime="17.308">
+<Sync time="10.95"/>
+to znaczy proszę 
+<Event desc="*" type="pronounce" extent="begin"/>
+panią
+<Event desc="*" type="pronounce" extent="end"/>
+ jeż
+<Event desc="~" type="lexical" extent="begin"/>
+e
+<Event desc="~" type="lexical" extent="end"/>
+li ma pani tą 
+<Event desc="babble" type="noise" extent="begin"/>
+ legitymację 
+<Event desc="babble" type="noise" extent="end"/>
+ emeryta i rencisty 
+<Event desc="babble" type="noise" extent="begin"/>
+ to 
+<Event desc="babble" type="noise" extent="end"/>
+ już może pani kupować bilety z ulgą czterdzieści osiem procen
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.308" endTime="19.67">
+<Sync time="17.308"/>
+aha dobrze dziękuję 
+<Event desc="noise" type="noise" extent="begin"/>
+ panu bardzo 
+<Event desc="noise" type="noise" extent="end"/>
+ do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="19.67" endTime="20.74">
+<Sync time="19.67"/>
+proszę 
+<Event desc="babble" type="noise" extent="begin"/>
+ bardzo 
+<Event desc="babble" type="noise" extent="end"/>
+ do widzenia
+</Turn>
+<Turn startTime="20.74" endTime="23.499">
+<Sync time="20.74"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

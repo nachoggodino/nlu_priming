@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-31_08_11_56" version="5" version_date="091212">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="41.869" topic="to1">
+<Turn startTime="0" endTime="1.543">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.543" endTime="4.126">
+<Sync time="1.543"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx słucham 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="4.126" endTime="15.475">
+<Sync time="4.126"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry ja chcia
+<Event desc="~" type="lexical" extent="begin"/>
+łe
+<Event desc="~" type="lexical" extent="end"/>
+m się dowiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na jakim przystanku trzeba wysiąść jadąc trójką żeby 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ko
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+o dworca koło Jubiler
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ no na Jubilerską 
+<Event desc="*" type="pronounce" extent="begin"/>
+trafić
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.475" endTime="17.407">
+<Sync time="15.475"/>
+znaczy tam do 
+<Event desc="fr" type="language" extent="begin"/>
+Geant
+<Event desc="fr" type="language" extent="end"/>
+a 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.407" endTime="18.377">
+<Sync time="17.407"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="18.377" endTime="21.088">
+<Sync time="18.377"/>
+na samej pętli Gocławek 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.088" endTime="22.093">
+<Sync time="21.088"/>
+na pętli Gocławek tak
+</Turn>
+<Turn speaker="spk1" startTime="22.093" endTime="23.134">
+<Sync time="22.093"/>
+tak 
+<Event desc="babble" type="noise" extent="begin"/>
+ i na drugą 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="23.134" endTime="23.27">
+<Sync time="23.134"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.27" endTime="29.392">
+<Sync time="23.27"/>
+na drugą stronę ulicy wtedy trzeba przejść przez kładkę i już jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ no już w tej chwili były 
+<Event desc="fr" type="language" extent="begin"/>
+Geant
+<Event desc="fr" type="language" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="29.392" endTime="33.564">
+<Sync time="29.392"/>
+aha 
+<Event desc="*" type="pronounce" extent="begin"/>
+czyli
+<Event desc="*" type="pronounce" extent="end"/>
+ to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Gocławek 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ to jest sam koniec trasy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="33.564" endTime="34.499">
+<Sync time="33.564"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="34.499" endTime="36.324">
+<Sync time="34.499"/>
+aha dobrze dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="36.324" endTime="36.889">
+<Sync time="36.324"/>
+proszę bardzo
+</Turn>
+<Turn startTime="36.889" endTime="41.869">
+<Sync time="36.889"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

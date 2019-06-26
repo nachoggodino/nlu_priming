@@ -1,0 +1,39 @@
+<Frames>
+  <Set id="1" subset="1" span="word_9" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_10..word_11" concept_id="5" name="LOCATION" />
+  </Set>
+  <Set id="2" subset="2" span="word_13" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_14..word_15" concept_id="7" name="SOURCE" />
+  </Set>
+  <Set id="3" subset="1" span="word_22" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_21" concept_id="11" name="PLACE" />
+  </Set>
+  <Set id="4" subset="1" span="word_30" frame="ENTITLED" head="korzystać">
+    <Frame fe="1" span="word_26..word_28" concept_id="13" name="TITLE" />
+    <Frame fe="2" span="word_32" concept_id="15" name="CIRCUMSTANCES" />
+    <Frame fe="3" span="word_33..word_34" concept_id="16" name="PRIVILEGE" />
+  </Set>
+  <Set id="5" subset="1" span="word_40" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_41..word_43" concept_id="21" name="TITLE" />
+  </Set>
+  <Set id="6" subset="1" span="word_45" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_47..word_48" concept_id="23" name="POSSESSION" />
+  </Set>
+  <Set id="7" subset="1" span="word_55" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_51..word_53" concept_id="24" name="TITLE" />
+  </Set>
+  <Set id="8" subset="1" span="word_58" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_59..word_60" concept_id="27" name="TITLE" />
+  </Set>
+  <Set id="9" subset="1" span="word_71" frame="RIDE_VEHICLE" head="jeździć">
+    <Frame fe="1" span="word_67" concept_id="29" name="MANNER" />
+    <Frame fe="2" span="word_68..word_69" concept_id="30" name="PATH" />
+    <Frame fe="3" span="word_70" concept_id="31" name="VEHICLE" />
+  </Set>
+  <Set id="10" subset="1" span="word_85" frame="MOTION_DIRECTIONAL" head="zjechać">
+    <Frame fe="1" span="word_87" concept_id="38" name="GOAL" />
+  </Set>
+  <Set id="11" subset="1" span="word_94" frame="USING" head="korzystać">
+    <Frame fe="1" span="word_93" concept_id="39" name="INSTRUMENT" />
+  </Set>
+</Frames>

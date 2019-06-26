@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-13_16_41_55" version="4" version_date="071204">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="80.495" topic="to1">
+<Turn startTime="0" endTime="1.141">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.141" endTime="3.239">
+<Sync time="1.141"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.239" endTime="11.912">
+<Sync time="3.239"/>
+dzień dobry panu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mam takie pytanie jak mogę dojechać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Muranowskiej na ulicę Dragonów 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.912" endTime="12.671">
+<Sync time="11.912"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę chwileczkę 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="12.671" endTime="13.187">
+<Sync time="12.671"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dobrze 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.187" endTime="48.224">
+<Sync time="13.187"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+proszę panią takiego bezpośredniego połączenia niestety nie będzie 
+</Turn>
+<Turn speaker="spk2" startTime="48.224" endTime="48.659">
+<Sync time="48.224"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="48.659" endTime="55.1">
+<Sync time="48.659"/>
+najprościej będzie dojechać do 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ do Placu Bankowego 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ dowolnym tramwajem 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="55.1" endTime="55.344">
+<Sync time="55.1"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="55.344" endTime="57.803">
+<Sync time="55.344"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+s
+<Event desc="~" type="lexical" extent="end"/>
+tamtąd 
+<Event desc="noise" type="noise" extent="begin"/>
+ autobusem sto siedem 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="57.803" endTime="58.673">
+<Sync time="57.803"/>
+sto siedem 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="58.673" endTime="60.057">
+<Sync time="58.673"/>
+tak 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="60.057" endTime="62.198">
+<Sync time="60.057"/>
+i on się tam 
+<Event desc="babble" type="noise" extent="begin"/>
+ zatrzymuje tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ to muszę
+</Turn>
+<Turn speaker="spk1" startTime="62.198" endTime="68.247">
+<Sync time="62.198"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ na przystanku 
+<Event desc="babble" type="noise" extent="end"/>
+ Szwoleżerów musi pani 
+<Event desc="babble" type="noise" extent="begin"/>
+ wysiąść i kawałek trza Szwoleżerów podejść do Dragonów 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="68.247" endTime="74.547">
+<Sync time="68.247"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a jeszcze 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mam takie 
+<Event desc="babble" type="noise" extent="begin"/>
+ pytanie ile czasu 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mi to zajmie dojazd tam 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="74.547" endTime="76.134">
+<Sync time="74.547"/>
+około dwudziestu pięciu minut
+</Turn>
+<Turn speaker="spk2" startTime="76.134" endTime="77.518">
+<Sync time="76.134"/>
+aha dobrze dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="77.518" endTime="79.183">
+<Sync time="77.518"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+bardzo proszę do usłyszenia
+</Turn>
+<Turn startTime="79.183" endTime="80.495">
+<Sync time="79.183"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

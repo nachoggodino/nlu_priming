@@ -1,0 +1,19 @@
+<Frames>
+  <Set id="1" subset="1" span="word_24" frame="BECOMING" head="skończyć">
+    <Frame fe="1" span="word_23" concept_id="8" name="ENTITY" />
+    <Frame fe="2" span="word_25..word_26" concept_id="10" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="2" subset="1" span="word_28..word_29" frame="ENTITLED" head="należeć">
+    <Frame fe="1" span="word_30" concept_id="13" name="BENEFICIARY" />
+    <Frame fe="2" span="word_31..word_32" concept_id="14" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="1" span="word_73" frame="USING" head="korzystać">
+    <Frame fe="1" span="word_72" concept_id="24" name="INSTRUMENT" />
+  </Set>
+  <Set id="4" subset="1" span="word_76" frame="ARRIVING" head="przyjść">
+    <Frame fe="1" span="word_77..word_79" concept_id="27" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_81" frame="TOPIC" head="poprosić">
+    <Frame fe="1" span="word_83..word_86" concept_id="29" name="TOPIC" />
+  </Set>
+</Frames>

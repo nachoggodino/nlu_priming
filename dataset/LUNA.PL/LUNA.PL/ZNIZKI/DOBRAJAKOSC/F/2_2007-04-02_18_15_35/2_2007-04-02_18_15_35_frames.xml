@@ -1,0 +1,10 @@
+<Frames>
+  <Set id="1" subset="1" span="word_22" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_17..word_19" concept_id="6" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_20" concept_id="7" name="BUYER" />
+    <Frame fe="3" span="word_24" concept_id="10" name="GOODS" />
+  </Set>
+  <Set id="2" subset="1" span="word_35" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_36..word_38" concept_id="13" name="FINAL_CATEGORY" />
+  </Set>
+</Frames>

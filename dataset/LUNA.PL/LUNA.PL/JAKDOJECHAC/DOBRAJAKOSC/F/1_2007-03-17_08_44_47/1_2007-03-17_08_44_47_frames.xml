@@ -1,0 +1,24 @@
+<Frames>
+  <Set id="1" subset="1" span="word_14" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_11" concept_id="3" name="MANNER" />
+    <Frame fe="2" span="word_15..word_18" concept_id="5" name="SOURCE" />
+    <Frame fe="3" span="word_19..word_20,word_21..word_23" concept_id="6,7" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_89" frame="DEPARTING" head="być">
+    <Frame fe="1" span="word_91,word_92" concept_id="34,35" name="SOURCE" />
+  </Set>
+  <Set id="3" subset="4" span="word_94" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_95" concept_id="37" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_99" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_101" concept_id="39" name="TOPIC" />
+  </Set>
+  <Set id="5" subset="1" span="word_107" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_108..word_110" concept_id="43" name="ENTITY" />
+  </Set>
+  <Set id="6" subset="1" span="word_119" frame="ARRIVING" head="dojeżdżać">
+    <Frame fe="1" span="word_117" concept_id="46" name="THEME" />
+    <Frame fe="2" span="word_120" concept_id="48" name="MANNER" />
+    <Frame fe="3" span="word_121..word_123" concept_id="49" name="GOAL" />
+  </Set>
+</Frames>

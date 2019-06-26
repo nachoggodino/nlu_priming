@@ -1,0 +1,72 @@
+<Frames>
+  <Set id="1" subset="2" span="word_35" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_36..word_39" concept_id="14" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_42" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_45" concept_id="17" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="2" span="word_76" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_77..word_78" concept_id="27" name="PRIVILEGE" />
+  </Set>
+  <Set id="4" subset="1" span="word_86" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_87..word_88" concept_id="30" name="PRIVILEGE" />
+    <Frame fe="2" span="word_89..word_91" concept_id="31" name="TITLE" />
+    <Frame fe="3" span="word_94..word_96" concept_id="32" name="TITLE" />
+    <Frame fe="4" span="word_99..word_100" concept_id="33" name="TITLE" />
+  </Set>
+  <Set id="5" subset="1" span="word_111" frame="RECEIVING" head="dostać">
+    <Frame fe="1" span="word_120..word_122" concept_id="37" name="THEME" />
+  </Set>
+  <Set id="6" subset="1" span="word_174" frame="ARRIVING" head="wejść">
+    <Frame fe="1" span="word_175..word_176" concept_id="50" name="GOAL" />
+  </Set>
+  <Set id="7" subset="1" span="word_180" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_182" concept_id="52" name="TOPIC" />
+  </Set>
+  <Set id="8" subset="1" span="word_187" frame="MOTION_DIRECTIONAL" head="zjechać">
+    <Frame fe="1" span="word_186" concept_id="53" name="GOAL" />
+    <Frame fe="2" span="word_188" concept_id="55" name="CARRIER" />
+  </Set>
+  <Set id="9" subset="1" span="word_193" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_191" concept_id="56" name="PLACE" />
+  </Set>
+  <Set id="10" subset="1" span="word_213" frame="GETTING" head="pobrać">
+    <Frame fe="1" span="word_214..word_217" concept_id="65" name="THEME" />
+  </Set>
+  <Set id="11" subset="1" span="word_220" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_219" concept_id="67" name="ENTITY" />
+    <Frame fe="2" span="word_222" concept_id="69" name="STATE" />
+  </Set>
+  <Set id="12" subset="1" span="word_224" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_225" concept_id="71" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="13" subset="1" span="word_263" frame="RECEIVING" head="otrzymywać">
+    <Frame fe="1" span="word_256" concept_id="73" name="RECIPIENT" />
+    <Frame fe="2" span="word_262" concept_id="74" name="THEME" />
+  </Set>
+  <Set id="14" subset="2" span="word_276" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_275" concept_id="78" name="BENEFICIARY" />
+    <Frame fe="2" span="word_278..word_279" concept_id="80" name="PRIVILEGE" />
+  </Set>
+  <Set id="15" subset="1" span="word_288" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_289" concept_id="85" name="PRIVILEGE" />
+  </Set>
+  <Set id="16" subset="1" span="word_301" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_294,word_295" concept_id="88,89" name="MANNER" />
+    <Frame fe="2" span="word_297..word_300" concept_id="90" name="CIRCUMSTANCES" />
+    <Frame fe="3" span="word_303" concept_id="92" name="BENEFICIARY" />
+    <Frame fe="4" span="word_308" concept_id="93" name="PRIVILEGE" />
+  </Set>
+  <Set id="17" subset="1" span="word_394" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_396" concept_id="115" name="PRIVILEGE" />
+  </Set>
+  <Set id="18" subset="2" span="word_399" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_407" concept_id="117" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="19" subset="1" span="word_424" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_429" concept_id="123" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="20" subset="1" span="word_445" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_449" concept_id="128" name="CHARACTERIZATION" />
+  </Set>
+</Frames>

@@ -1,0 +1,38 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_10" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_12" attribute="ACTION" value="Concern" />
+  <concept id="7" span="word_15..word_16" attribute="TIMETABLE" value="General" />
+  <concept id="8" span="word_17" attribute="BUS" value="General" />
+  <concept id="9" span="word_18..word_20" attribute="BUS" value="709" />
+  <concept id="10" span="word_22..word_23" attribute="STOP_DESCRIPTION" value="Iwiczna" />
+  <concept id="11" span="word_24..word_26" attribute="GOAL_DIRECTION_TOWN" value="Warszawa" />
+  <concept id="12" span="word_27..word_29" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="13" span="word_30" attribute="REACTION" value="Negation" />
+  <concept id="14" span="word_32..word_35" attribute="AROUND_HOUR" value="3 : 00 - 4 : 00" />
+  <concept id="15" span="word_36..word_37" attribute="TIME_DAYPERIOD" value="Night" />
+  <concept id="16" span="word_38" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="17" span="word_39" attribute="ACTION" value="ToBe" />
+  <concept id="18" span="word_40..word_42" attribute="LINE_TYPE" value="Night" />
+  <concept id="19" span="word_43" attribute="REACTION" value="Negation" />
+  <concept id="20" span="word_44" attribute="LINE_TYPE" value="Night" />
+  <concept id="21" span="word_45" attribute="ROUTE" value="PASSAGE" />
+  <concept id="22" span="word_46" attribute="REACTION" value="Negation" />
+  <concept id="23" span="word_47" attribute="ACTION" value="ToHave" />
+  <concept id="24" span="word_48" attribute="REACTION" value="Negation" />
+  <concept id="25" span="word_50" attribute="REACTION" value="Negation" />
+  <concept id="26" span="word_52" attribute="DEPARTURE" value="First" />
+  <concept id="27" span="word_53" attribute="DEPARTURE" value="First" />
+  <concept id="28" span="word_57" attribute="ACTION" value="Give" />
+  <concept id="29" span="word_59" attribute="DEPARTURE" value="First" />
+  <concept id="30" span="word_60" attribute="REACTION" value="Confirmation" />
+  <concept id="31" span="word_61..word_63" attribute="AT_HOUR" value="4 : 51" />
+  <concept id="32" span="word_64..word_66" attribute="AT_HOUR" value="4 : 51" />
+  <concept id="33" span="word_67" attribute="REACTION" value="Confirmation" />
+  <concept id="34" span="word_68" attribute="REACTION" value="Confirmation" />
+  <concept id="35" span="word_72..word_73" attribute="CONV_FORM" value="BYE" />
+  <concept id="36" span="word_74..word_75" attribute="CONV_FORM" value="BYE" />
+</concepts>

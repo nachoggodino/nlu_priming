@@ -1,0 +1,27 @@
+<Frames>
+  <Set id="1" subset="1" span="word_22" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_9,word_10..word_13" concept_id="6,7" name="TIME" />
+    <Frame fe="2" span="word_14..word_15" concept_id="8" name="THEME" />
+    <Frame fe="3" span="word_16..word_18" concept_id="9" name="PLACE" />
+    <Frame fe="4" span="word_19" concept_id="10" name="THEME" />
+    <Frame fe="5" span="word_20..word_21" concept_id="11" name="TIME" />
+  </Set>
+  <Set id="2" subset="1" span="word_49" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_51..word_52" concept_id="25" name="THEME" />
+  </Set>
+  <Set id="3" subset="1" span="word_59" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_58" concept_id="28" name="THEME" />
+  </Set>
+  <Set id="4" subset="1" span="word_68" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_66..word_67" concept_id="32" name="TIME" />
+    <Frame fe="2" span="word_70" concept_id="35" name="THEME" />
+  </Set>
+  <Set id="5" subset="1" span="word_78" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_76..word_77" concept_id="38" name="TIME" />
+  </Set>
+  <Set id="6" subset="1" span="word_120" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_115..word_117" concept_id="57" name="FREQUENCY" />
+    <Frame fe="2" span="word_121..word_122" concept_id="59" name="TIME" />
+    <Frame fe="3" span="word_124..word_125" concept_id="60" name="TIME" />
+  </Set>
+</Frames>

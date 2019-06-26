@@ -1,0 +1,26 @@
+<Frames>
+  <Set id="1" subset="1" span="word_22" frame="GET" head="dostać">
+    <Frame fe="1" span="word_23..word_24,word_25..word_26" concept_id="7,8" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_34" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_35..word_37" concept_id="12" name="SOURCE" />
+    <Frame fe="2" span="word_38" concept_id="13" name="SOURCE" />
+    <Frame fe="3" span="word_39" concept_id="14" name="SOURCE" />
+  </Set>
+  <Set id="3" subset="1" span="word_41" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_42" concept_id="16" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_60" frame="ESCAPING" head="wysiąść">
+    <Frame fe="1" span="word_58" concept_id="22" name="PLACE" />
+  </Set>
+  <Set id="5" subset="1" span="word_74" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_75" concept_id="29" name="POSITION" />
+    <Frame fe="2" span="word_76..word_77" concept_id="30" name="PLACE" />
+  </Set>
+  <Set id="6" subset="1" span="word_84" frame="SELF_MOTION" head="dojść">
+    <Frame fe="1" span="word_82..word_83" concept_id="32" name="GOAL" />
+  </Set>
+  <Set id="7" subset="1" span="word_104" frame="ESCAPING" head="wysiąść">
+    <Frame fe="1" span="word_100..word_102" concept_id="39" name="PLACE" />
+  </Set>
+</Frames>

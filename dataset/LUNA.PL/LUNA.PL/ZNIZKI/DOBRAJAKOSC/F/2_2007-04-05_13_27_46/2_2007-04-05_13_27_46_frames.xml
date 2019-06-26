@@ -1,0 +1,42 @@
+<Frames>
+  <Set id="1" subset="1" span="word_27" frame="TOPIC" head="interesować">
+    <Frame fe="1" span="word_22..word_23" concept_id="6" name="TOPIC" />
+    <Frame fe="2" span="word_25" concept_id="7" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="1" span="word_29" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_30" concept_id="11" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="1" span="word_35" frame="BRINGING" head="przewozić">
+    <Frame fe="1" span="word_36" concept_id="15" name="FARE" />
+  </Set>
+  <Set id="4" subset="1" span="word_45" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_48..word_50" concept_id="21" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="5" subset="1" span="word_73" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_72" concept_id="28" name="ENTITY" />
+    <Frame fe="2" span="word_75..word_76" concept_id="30" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="6" subset="1" span="word_91" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_88..word_89" concept_id="34" name="TIME" />
+  </Set>
+  <Set id="7" subset="1" span="word_106" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_105" concept_id="40" name="ENTITY" />
+    <Frame fe="2" span="word_107..word_108" concept_id="42" name="FINAL_CATEGORY" />
+    <Frame fe="3" span="word_110" concept_id="43" name="TIME" />
+  </Set>
+  <Set id="8" subset="1" span="word_121" frame="COMMERCE_PAY" head="kasować">
+    <Frame fe="1" span="word_113..word_115" concept_id="44" name="TIME" />
+    <Frame fe="2" span="word_116..word_118" concept_id="45" name="CIRCUMSTANCES" />
+    <Frame fe="3" span="word_122" concept_id="48" name="GOODS" />
+  </Set>
+  <Set id="9" subset="1" span="word_125" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_126" concept_id="50" name="ENTITY" />
+    <Frame fe="2" span="word_128" concept_id="51" name="TIME" />
+  </Set>
+  <Set id="10" subset="1" span="word_136" frame="COMMERCE_PAY" head="kasować">
+    <Frame fe="1" span="word_132..word_133" concept_id="52" name="TIME" />
+  </Set>
+  <Set id="11" subset="1" span="word_142" frame="BECOMING" head="skończyć">
+    <Frame fe="1" span="word_143..word_144" concept_id="57" name="FINAL_CATEGORY" />
+  </Set>
+</Frames>

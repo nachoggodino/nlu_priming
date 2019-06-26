@@ -1,0 +1,38 @@
+<Frames>
+  <Set id="1" subset="1" span="word_29" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_31..word_34" concept_id="12" name="TITLE" />
+  </Set>
+  <Set id="2" subset="2" span="word_36..word_37" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_39..word_40" concept_id="15" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="1" span="word_47" frame="GETTING" head="pobierać">
+    <Frame fe="1" span="word_48" concept_id="17" name="THEME" />
+  </Set>
+  <Set id="4" subset="1" span="word_62" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_58..word_61" concept_id="19" name="TITLE" />
+    <Frame fe="2" span="word_63..word_66" concept_id="21" name="PRIVILEGE" />
+  </Set>
+  <Set id="5" subset="1" span="word_76" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_77" concept_id="24" name="PHENOMENON" />
+    <Frame fe="2" span="word_79" concept_id="26" name="CHARACTERIZATION" />
+    <Frame fe="3" span="word_81" concept_id="28" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="6" subset="1" span="word_85" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_86..word_92" concept_id="30" name="TITLE" />
+    <Frame fe="2" span="word_94..word_96" concept_id="31" name="TITLE" />
+  </Set>
+  <Set id="7" subset="1" span="word_107" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_108..word_111" concept_id="34" name="TITLE" />
+  </Set>
+  <Set id="8" subset="1" span="word_151" frame="GETTING" head="pobierać">
+    <Frame fe="1" span="word_150" concept_id="48" name="RECIPIENT" />
+    <Frame fe="2" span="word_152" concept_id="50" name="THEME" />
+  </Set>
+  <Set id="9" subset="1" span="word_160" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_161" concept_id="54" name="POSSESSION" />
+  </Set>
+  <Set id="10" subset="1" span="word_176" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_179" concept_id="60" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_180" concept_id="61" name="CIRCUMSTANCES" />
+  </Set>
+</Frames>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_21_24_39" version="3" version_date="080418">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="57.996" topic="to1">
+<Turn startTime="0" endTime="0.982">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.982" endTime="3.077">
+<Sync time="0.982"/>
+dobry wieczór xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.077" endTime="15.174">
+<Sync time="3.077"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobry wieczór 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana interesuje mnie linia numer osiem z przystanku Rondo Wiatraczna kierunek Osiedle Górczewska 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ czy jeszcze kursuje dzisiaj 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.174" endTime="23.602">
+<Sync time="15.174"/>
+proszę pana 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ o dwudziestej pierwszej dwa
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ trzydzieści dwa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ będzie kurs ale tylko do Rogalińskiej
+</Turn>
+<Turn speaker="spk2" startTime="23.602" endTime="31.16">
+<Sync time="23.602"/>
+do Rogalińskiej dobrze to niech mi pan powie to 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ będzie chyba Zieleniecka dwadzieścia sześć jak kursuje najbliższe
+</Turn>
+<Turn speaker="spk1" startTime="31.16" endTime="31.59">
+<Sync time="31.16"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dobrze
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="31.59" endTime="39.822">
+<Sync time="31.59"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ na Górczewską 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="39.822" endTime="43.305">
+<Sync time="39.822"/>
+najbliższy będzie o dwudziestej pierwszej trzydzieści cztery
+</Turn>
+<Turn speaker="spk2" startTime="43.305" endTime="43.987">
+<Sync time="43.305"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="43.987" endTime="45.976">
+<Sync time="43.987"/>
+potem pięćdziesiąt cztery
+</Turn>
+<Turn speaker="spk2" startTime="45.976" endTime="48.289">
+<Sync time="45.976"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="48.289" endTime="49.522">
+<Sync time="48.289"/>
+i do dwudziestej drugiej pięćdziesiąt cztery co dwadzieścia minut
+</Turn>
+<Turn speaker="spk2" startTime="49.522" endTime="51.13">
+<Sync time="49.522"/>
+aha czyli co dwadzieścia minut
+</Turn>
+<Turn speaker="spk1" startTime="51.13" endTime="51.805">
+<Sync time="51.13"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="51.805" endTime="52.644">
+<Sync time="51.805"/>
+dobrze dziękuję
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="52.644" endTime="53.126">
+<Sync time="52.644"/>
+proszę bardzo
+</Turn>
+<Turn startTime="53.126" endTime="57.996">
+<Sync time="53.126"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

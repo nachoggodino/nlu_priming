@@ -1,0 +1,74 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_6..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="5" span="word_12" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="6" span="word_13..word_15" attribute="SOURCE_STR" value="Aleja Waszyngtona" />
+  <concept id="7" span="word_16..word_18" attribute="SOURCE_STR" value="Rondo Waszyngtona" />
+  <concept id="8" span="word_19" attribute="ACTION" value="Go" />
+  <concept id="9" span="word_20..word_21" attribute="BUS_REL" value="AnyBus" />
+  <concept id="10" span="word_22..word_23" attribute="GOAL_BLD" value="Torwar" />
+  <concept id="11" span="word_24..word_26" attribute="SOURCE_STR" value="Rondo Waszyngtona" />
+  <concept id="12" span="word_27..word_28" attribute="GOAL_BLD" value="Torwar" />
+  <concept id="13" span="word_30" attribute="REACTION" value="Confirmation" />
+  <concept id="14" span="word_33..word_35" attribute="SOURCE_STR" value="Rondo Waszyngtona" />
+  <concept id="15" span="word_36..word_38" attribute="LOCATION_STR" value="Aleja Zieleniecka" />
+  <concept id="16" span="word_39" attribute="ACTION" value="Go" />
+  <concept id="17" span="word_40..word_41" attribute="SOURCE_TD" value="Praga" />
+  <concept id="18" span="word_43" attribute="REACTION" value="Confirmation" />
+  <concept id="19" span="word_44..word_45" attribute="LOCATION_BEFORE_STR" value="Roundabout" />
+  <concept id="20" span="word_46" attribute="ACTION" value="ToHave" />
+  <concept id="21" span="word_47" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="22" span="word_48..word_50" attribute="LOCATION_BLD" value="Teatr Powszechny" />
+  <concept id="23" span="word_51..word_52" attribute="LOCATION_REL" value="There" />
+  <concept id="24" span="word_55" attribute="ACTION" value="ToHave" />
+  <concept id="25" span="word_57..word_58" attribute="LOCATION_BLD" value="Teatr Powszechny" />
+  <concept id="26" span="word_61..word_62" attribute="LOCATION_STR" value="Targowa" />
+  <concept id="27" span="word_64" attribute="REACTION" value="Confirmation" />
+  <concept id="28" span="word_65..word_66" attribute="LOCATION_REL" value="Before Turn" />
+  <concept id="29" span="word_67..word_68" attribute="DIRECTION" value="Right" />
+  <concept id="30" span="word_69" attribute="REACTION" value="Confirmation" />
+  <concept id="31" span="word_71..word_73" attribute="BUS" value="138" />
+  <concept id="32" span="word_76" attribute="ACTION" value="GetIn" />
+  <concept id="33" span="word_77" attribute="REACTION" value="Confirmation" />
+  <concept id="34" span="word_79" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="35" span="word_81" attribute="ACTION" value="ToHave" />
+  <concept id="36" span="word_82..word_83" attribute="STOP_DESCRIPTION" value="Torwar" />
+  <concept id="37" span="word_84..word_86" attribute="LOCATION_STR" value="Most Łazienkowski" />
+  <concept id="38" span="word_87" attribute="REACTION" value="Confirmation" />
+  <concept id="39" span="word_91" attribute="ACTION" value="GoDown" />
+  <concept id="40" span="word_94" attribute="LOCATION_REL" value="There" />
+  <concept id="41" span="word_98" attribute="ACTION" value="Know" />
+  <concept id="42" span="word_100" attribute="LOCATION_REL" value="SamePlace" />
+  <concept id="43" span="word_101" attribute="TRAM" value="7" />
+  <concept id="44" span="word_102" attribute="ACTION" value="Go" />
+  <concept id="45" span="word_103..word_104" attribute="DIRECTION" value="Right" />
+  <concept id="46" span="word_105..word_106" attribute="GOAL_STR" value="Aleja Zieleniecka" />
+  <concept id="47" span="word_107" attribute="Q_CONF" value="IsIt" />
+  <concept id="48" span="word_109..word_111" attribute="STOP_DESCRIPTION" value="BusStop" />
+  <concept id="49" span="word_114" attribute="REACTION" value="Confirmation" />
+  <concept id="50" span="word_115..word_116" attribute="LOCATION_REL" value="Before Turn" />
+  <concept id="51" span="word_117..word_118" attribute="GOAL_STR" value="Aleja Zieleniecka" />
+  <concept id="52" span="word_119..word_120" attribute="NUM_BUS_PART" value="130" />
+  <concept id="53" span="word_122" attribute="NUM_BUS_PART" value="8" />
+  <concept id="54" span="word_123..word_125" attribute="BUS" value="138" />
+  <concept id="55" span="word_126" attribute="REACTION" value="Confirmation" />
+  <concept id="56" span="word_128..word_130" attribute="GOAL_BLD" value="Torwar" />
+  <concept id="57" span="word_131" attribute="ACTION" value="Go" />
+  <concept id="58" span="word_132" attribute="Q_CONF" value="IsIt" />
+  <concept id="59" span="word_134" attribute="REACTION" value="Confirmation" />
+  <concept id="60" span="word_136" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="61" span="word_137" attribute="ACTION" value="ToHave" />
+  <concept id="62" span="word_138" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="63" span="word_139..word_141" attribute="LOCATION_STR" value="Most Łazienkowski" />
+  <concept id="64" span="word_142" attribute="STOP_DESCRIPTION" value="Torwar" />
+  <concept id="65" span="word_146" attribute="LOCATION_REL" value="There" />
+  <concept id="66" span="word_147" attribute="ACTION" value="GoDown" />
+  <concept id="67" span="word_149" attribute="ACTION" value="GoDown" />
+  <concept id="68" span="word_150..word_151" attribute="DIRECTION" value="Downwards" />
+  <concept id="69" span="word_152..word_154" attribute="LOCATION_STR" value="Most Łazienkowski" />
+  <concept id="70" span="word_155" attribute="REACTION" value="Confirmation" />
+  <concept id="71" span="word_156" attribute="REACTION" value="Confirmation" />
+  <concept id="72" span="word_161" attribute="CONV_FORM" value="BYE" />
+</concepts>

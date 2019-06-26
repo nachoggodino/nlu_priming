@@ -1,0 +1,15 @@
+<Frames>
+  <Set id="1" subset="1" span="word_11" frame="NEEDING" head="chcieć">
+    <Frame fe="1" span="word_12,word_13..word_14" concept_id="4,5" name="TIME" />
+    <Frame fe="2" span="word_16..word_18" concept_id="6" name="TIME" />
+  </Set>
+  <Set id="2" subset="1" span="word_22" frame="DEPARTING" head="być">
+    <Frame fe="1" span="word_21" concept_id="9" name="TIME" />
+    <Frame fe="2" span="word_23..word_24" concept_id="11" name="THEME" />
+    <Frame fe="3" span="word_25..word_26" concept_id="12" name="SOURCE" />
+    <Frame fe="4" span="word_27..word_28" concept_id="13" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_54" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_56..word_58" concept_id="26" name="TIME" />
+  </Set>
+</Frames>

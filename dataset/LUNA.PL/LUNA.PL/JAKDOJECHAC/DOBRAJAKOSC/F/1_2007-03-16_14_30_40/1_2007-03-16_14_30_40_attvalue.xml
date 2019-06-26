@@ -1,0 +1,26 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_9" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_11" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_12" attribute="Q_HOW_TO" value="Reach" />
+  <concept id="7" span="word_13" attribute="ACTION" value="Approach" />
+  <concept id="8" span="word_14..word_16" attribute="SOURCE_STR" value="Plac Zawiszy" />
+  <concept id="9" span="word_17..word_19" attribute="GOAL_BLD" value="Szpital Praski" />
+  <concept id="10" span="word_20" attribute="TRAM" value="General" />
+  <concept id="11" span="word_21" attribute="ACTION" value="Know" />
+  <concept id="12" span="word_23" attribute="ACTION" value="ToBe" />
+  <concept id="13" span="word_25" attribute="CONNECTION_F" value="Direct" />
+  <concept id="14" span="word_26..word_28" attribute="TRAM" value="32" />
+  <concept id="15" span="word_29" attribute="ACTION" value="Approach" />
+  <concept id="16" span="word_31" attribute="REACTION" value="Confirmation" />
+  <concept id="17" span="word_33" attribute="ACTION" value="Tell" />
+  <concept id="18" span="word_36..word_37" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="19" span="word_38" attribute="TIME_REL" value="Now" />
+  <concept id="20" span="word_39" attribute="ACTION" value="ToBe" />
+  <concept id="21" span="word_41" attribute="DEPARTURE" value="Nearest" />
+  <concept id="22" span="word_42..word_44" attribute="AT_HOUR" value="14 : 45" />
+  <concept id="23" span="word_45..word_47" attribute="AT_HOUR" value="14 : 45" />
+  <concept id="24" span="word_52..word_53" attribute="CONV_FORM" value="BYE" />
+</concepts>

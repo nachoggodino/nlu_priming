@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-27_17_28_48" version="6" version_date="071227">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="43.497" topic="to1">
+<Turn startTime="0" endTime="0.351">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.351" endTime="2.497">
+<Sync time="0.351"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.497" endTime="8.526">
+<Sync time="2.497"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę pana mam pytanie jak najlepiej 
+<Event desc="*" type="pronounce" extent="begin"/>
+dojechać
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ z Centrum czy z Placu 
+<Event desc="babble" type="noise" extent="begin"/>
+ Konstytucji do Biblioteki Narodowej 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="8.526" endTime="9.998">
+<Sync time="8.526"/>
+do Biblioteki Narodowej tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="9.998" endTime="12.649">
+<Sync time="9.998"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.649" endTime="30.715">
+<Sync time="12.649"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana to najlepiej jakby pan był z Placu Konstytucji z Placu Konstytucji proszę pana to z Centrum 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="fr" type="language" extent="begin"/>
+vis-a-vis
+<Event desc="fr" type="language" extent="end"/>
+ Hotelu Polonia jest autobus sto osiemnaście 
+<Event desc="babble" type="noise" extent="begin"/>
+ do przystanku 
+<Event desc="babble" type="noise" extent="end"/>
+ Biblioteka Narodowa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ ale on 
+<Event desc="babble" type="noise" extent="end"/>
+ on dość rzadko jeździ ewentualnie z Dworca Centralnego 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="30.715" endTime="31.25">
+<Sync time="30.715"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.25" endTime="36.407">
+<Sync time="31.25"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w Alei Jana Pawła Drugiego 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ w kierunku 
+<Event desc="babble" type="noise" extent="end"/>
+ na Mokotów linia sto dziewięćdziesiąt dwa 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="36.407" endTime="37.295">
+<Sync time="36.407"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ sto dziewięćdziesiąt dwa tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.295" endTime="37.419">
+<Sync time="37.295"/>
+tak 
+</Turn>
+<Turn speaker="spk2" startTime="37.419" endTime="38.273">
+<Sync time="37.419"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ albo sto osiemnaście 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.273" endTime="39.217">
+<Sync time="38.273"/>
+albo 
+<Event desc="noise" type="noise" extent="begin"/>
+ sto osiemnaście tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="39.217" endTime="40.056">
+<Sync time="39.217"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+super
+<Event desc="*" type="pronounce" extent="end"/>
+ bardzo panu dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="40.056" endTime="40.778">
+<Sync time="40.056"/>
+<Who nb="1"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="40.778" endTime="41.233">
+<Sync time="40.778"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="41.233" endTime="41.692">
+<Sync time="41.233"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="41.692" endTime="43.497">
+<Sync time="41.692"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

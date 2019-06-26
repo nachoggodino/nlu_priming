@@ -1,0 +1,49 @@
+<Frames>
+  <Set id="1" subset="1" span="word_23" frame="RECEIVING" head="dostać">
+    <Frame fe="1" span="word_24..word_25" concept_id="7" name="THEME" />
+    <Frame fe="2" span="word_28" concept_id="8" name="PLACE" />
+  </Set>
+  <Set id="2" subset="1" span="word_29" frame="ACTIVITY_START" head="rozpocząć">
+    <Frame fe="1" span="word_30" concept_id="10" name="ACTIVITY" />
+  </Set>
+  <Set id="3" subset="1" span="word_35" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_37" concept_id="13" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_54" frame="PERMITTING" head="uprawniać">
+    <Frame fe="1" span="word_51..word_53" concept_id="18" name="PRINCIPLE" />
+    <Frame fe="2" span="word_57..word_59" concept_id="20" name="STATE_OF_AFFAIRS" />
+  </Set>
+  <Set id="5" subset="1" span="word_63" frame="COMMERCE_BUY" head="kupować">
+    <Frame fe="1" span="word_65..word_69" concept_id="23" name="RATE" />
+  </Set>
+  <Set id="6" subset="1" span="word_72" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_73..word_75" concept_id="26" name="ENTITY" />
+  </Set>
+  <Set id="7" subset="1" span="word_81" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_82..word_86" concept_id="28" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="8" subset="1" span="word_89" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_90" concept_id="30" name="PHENOMENON" />
+  </Set>
+  <Set id="9" subset="1" span="word_100" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_101..word_102,word_103" concept_id="32,33" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="10" subset="1" span="word_120" frame="TOPIC" head="dotyczyć">
+    <Frame fe="1" span="word_121" concept_id="42" name="TOPIC" />
+  </Set>
+  <Set id="11" subset="1" span="word_132" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_123..word_124" concept_id="43" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_126..word_127" concept_id="44" name="CIRCUMSTANCES" />
+    <Frame fe="3" span="word_128..word_131" concept_id="45" name="TITLE" />
+    <Frame fe="4" span="word_134..word_136" concept_id="47" name="PRIVILEGE" />
+    <Frame fe="5" span="word_137..word_140" concept_id="48" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="12" subset="1" span="word_143" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_145" concept_id="51" name="POSSESSION" />
+  </Set>
+  <Set id="13" subset="1" span="word_157" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_153" concept_id="53" name="TIME" />
+    <Frame fe="2" span="word_155..word_156" concept_id="54" name="RATE" />
+    <Frame fe="3" span="word_159..word_160" concept_id="56" name="RATE" />
+  </Set>
+</Frames>

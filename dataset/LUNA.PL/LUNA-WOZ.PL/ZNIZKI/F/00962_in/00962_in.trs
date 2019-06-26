@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00962_in;00962_out" version="2" version_date="080724">
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="119.648" topic="to1">
+<Turn startTime="0" endTime="0.494">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.494" endTime="32.348">
+<Sync time="0.494"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje
+</Turn>
+<Turn speaker="spk2" startTime="32.348" endTime="34.916">
+<Sync time="32.348"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ zasady przyznawania zniżek
+</Turn>
+<Turn speaker="spk1" startTime="34.916" endTime="42.631">
+<Sync time="34.916"/>
+zasady przyznawania zniżek czy osoba ubiegająca się o zniżkę ma ukończone siedemdziesiąt lat powiedz tak lub nie
+</Turn>
+<Turn speaker="spk2" startTime="42.631" endTime="43.532">
+<Sync time="42.631"/>
+nie
+</Turn>
+<Turn speaker="spk1" startTime="43.532" endTime="51.444">
+<Sync time="43.532"/>
+nie ma kim jest osoba ubiegająca się o zniżkę studentem emerytem rencistą uczniem czy inną osobą
+</Turn>
+<Turn speaker="spk2" startTime="51.444" endTime="52.958">
+<Sync time="51.444"/>
+inną 
+<Event desc="*" type="pronounce" extent="begin"/>
+osobą
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="52.958" endTime="60.752">
+<Sync time="52.958"/>
+inną osobą czy osoba jest dzieckiem niepełnosprawnym opiekunem bezrobotnym czy inną osobą
+</Turn>
+<Turn speaker="spk2" startTime="60.752" endTime="62.118">
+<Sync time="60.752"/>
+niepełnosprawnym
+</Turn>
+<Turn speaker="spk1" startTime="62.118" endTime="69.439">
+<Sync time="62.118"/>
+niepełnosprawnym czy osoba ubiegająca się o zniżkę ma ukończone dwadzieścia sześć lat 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ powiedz tak lub nie
+</Turn>
+<Turn speaker="spk2" startTime="69.439" endTime="70.049">
+<Sync time="69.439"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="70.049" endTime="90.378">
+<Sync time="70.049"/>
+do przejazdów ze zniżką czterdzieści osiem procent uprawnione są osoby które ukończyły dwudziesty szósty rok życia i są uznane za niepełnosprawne w stopniu umiarkowanym lub uznane za całkowicie niezdolne do pracy zniżki są udzielane na podstawie ważnej legitymacji wydanej przez właściwy organ dokumentujący niepełnosprawność czy powtórzyć informacje
+</Turn>
+<Turn speaker="spk2" startTime="90.378" endTime="91.151">
+<Sync time="90.378"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="91.151" endTime="111.609">
+<Sync time="91.151"/>
+do przejazdów ze zniżką czterdzieści osiem procent uprawnione są osoby które ukończyły dwudziesty szósty rok życia i są uznane za niepełnosprawne w stopniu umiarkowanym lub uznane za całkowicie niezdolne do pracy zniżki są udzielane na podstawie ważnej legitymacji wydanej przez właściwy organ dokumentujący niepełnosprawność czy powtórzyć informacje
+</Turn>
+<Turn speaker="spk2" startTime="111.609" endTime="112.517">
+<Sync time="111.609"/>
+nie
+</Turn>
+<Turn speaker="spk1" startTime="112.517" endTime="115.571">
+<Sync time="112.517"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ czy udzielić jeszcze innych informacji
+</Turn>
+<Turn speaker="spk2" startTime="115.571" endTime="115.935">
+<Sync time="115.571"/>
+nie
+</Turn>
+<Turn speaker="spk1" startTime="115.935" endTime="119.243">
+<Sync time="115.935"/>
+dziękuję za rozmowę do usłyszenia
+</Turn>
+<Turn startTime="119.243" endTime="119.648">
+<Sync time="119.243"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

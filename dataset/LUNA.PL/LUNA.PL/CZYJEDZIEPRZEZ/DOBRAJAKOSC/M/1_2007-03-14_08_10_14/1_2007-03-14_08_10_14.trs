@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_08_10_14" version="3" version_date="080103">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="70.496" topic="to1">
+<Turn startTime="0" endTime="0.679">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.679" endTime="2.307">
+<Sync time="0.679"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.307" endTime="7.56">
+<Sync time="2.307"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry panu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana informacja będzie dotyczyła linii sto piętnaście
+</Turn>
+<Turn speaker="spk1" startTime="7.56" endTime="8.369">
+<Sync time="7.56"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="8.369" endTime="13.551">
+<Sync time="8.369"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w kierunku Warszawy z 
+<Event desc="*" type="pronounce" extent="begin"/>
+przystanku Czekanowska
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ w Falenicy 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.551" endTime="16.348">
+<Sync time="13.551"/>
+dobrze i w jakich godzinach 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.348" endTime="21.242">
+<Sync time="16.348"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana godziny to ja znam tylko czy ja dojadę do Placu Szembeka
+</Turn>
+<Turn speaker="spk1" startTime="21.242" endTime="23.548">
+<Sync time="21.242"/>
+tak jest przystanek 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="23.548" endTime="33.008">
+<Sync time="23.548"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+bo
+<Event desc="*" type="pronounce" extent="end"/>
+ wiem że w odwrotnie z Warszawy do Falenicy jest przystanek ale czy na pewno jest przystanek przy Placu Szembeka 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Falenicy do Warsza
+<Event desc="~" type="lexical" extent="begin"/>
+wy
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="33.008" endTime="35.408">
+<Sync time="33.008"/>
+na pewno 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest
+<Event desc="*" type="pronounce" extent="end"/>
+ bo to jest w obie strony przystanek
+</Turn>
+<Turn speaker="spk2" startTime="35.408" endTime="36.23">
+<Sync time="35.408"/>
+w obie strony
+</Turn>
+<Turn speaker="spk1" startTime="36.23" endTime="36.617">
+<Sync time="36.23"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="36.617" endTime="37.87">
+<Sync time="36.617"/>
+dojadę do Placu Szembeka
+</Turn>
+<Turn speaker="spk1" startTime="37.87" endTime="45.579">
+<Sync time="37.87"/>
+dojedzie pan tyle że on jedzie przez Ostrobramską kawałek to jest taka różnica nie tak jak wszystkie autobusy przez Grochowską tylko kawałek przez Ostrobramską 
+<Event desc="babble" type="noise" extent="begin"/>
+ ale dojedzie pan 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="45.579" endTime="49.776">
+<Sync time="45.579"/>
+to może to i lepiej bo tam korki są w tej chwili na na Grochowskie
+<Event desc="~" type="lexical" extent="begin"/>
+j
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="49.776" endTime="51.612">
+<Sync time="49.776"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+no
+<Event desc="*" type="pronounce" extent="end"/>
+ no to dojedzie pan na pewno
+</Turn>
+<Turn speaker="spk2" startTime="51.612" endTime="53.73">
+<Sync time="51.612"/>
+czyli on musi się cofnąć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="53.73" endTime="63.095">
+<Sync time="53.73"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ to znaczy jedzie z jedzie tak Zamieniecką 
+<Event desc="babble" type="noise" extent="end"/>
+ jedzie Zamieniecką przez zajezdnię Ostrobramska potem przez Osiedle Ostrobramska i Łukowską i Zamieniecką
+</Turn>
+<Turn speaker="spk2" startTime="63.095" endTime="64.28">
+<Sync time="63.095"/>
+aha i do Placu Szem
+<Event desc="~" type="lexical" extent="begin"/>
+beka
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="64.28" endTime="66.06">
+<Sync time="64.28"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i do Placu Szembeka 
+<Event desc="babble" type="noise" extent="end"/>
+ tak
+</Turn>
+<Turn speaker="spk2" startTime="66.06" endTime="67.007">
+<Sync time="66.06"/>
+dobrze dziękuję panu 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="67.007" endTime="68.081">
+<Sync time="67.007"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="68.081" endTime="68.775">
+<Sync time="68.081"/>
+do widzenia
+</Turn>
+<Turn startTime="68.775" endTime="70.496">
+<Sync time="68.775"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

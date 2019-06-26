@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_20_02_55" version="4" version_date="070926">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="33.998" topic="to1">
+<Turn startTime="0" endTime="0.529">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.529" endTime="2.431">
+<Sync time="0.529"/>
+dzień 
+<Event desc="*" type="pronounce" extent="begin"/>
+dobry
+<Event desc="*" type="pronounce" extent="end"/>
+ xxx słucham
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.431" endTime="8.145">
+<Sync time="2.431"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry ja się 
+<Event desc="babble" type="noise" extent="begin"/>
+ chciałem 
+<Event desc="babble" type="noise" extent="end"/>
+ zapytać o autobus sto dwadzieścia trzy 
+<Event desc="noise" type="noise" extent="begin"/>
+ z przystanku Meissnera w kierunku Ronda Wiatraczna 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="8.145" endTime="22.931">
+<Sync time="8.145"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze już momencik sto dwadzieścia trzy 
+<Event desc="*" type="pronounce" extent="begin"/>
+chwileczkę
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ dobrze przystanek Meissnera kierunek Wiatra
+<Event desc="~" type="lexical" extent="begin"/>
+czna
+<Event desc="~" type="lexical" extent="end"/>
+ już 
+<Event desc="noise" type="noise" extent="end"/>
+ panu podaję kiedy pan życzy dzisiaj 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="22.931" endTime="23.653">
+<Sync time="22.931"/>
+tak teraz
+</Turn>
+<Turn speaker="spk1" startTime="23.653" endTime="29.914">
+<Sync time="23.653"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę 
+<Event desc="babble" type="noise" extent="end"/>
+ bardzo 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana to mamy tak dwudziesta zero dziewięć i dwadzieścia dziewięć 
+</Turn>
+<Turn speaker="spk2" startTime="29.914" endTime="31.094">
+<Sync time="29.914"/>
+dobrze dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="31.094" endTime="32.481">
+<Sync time="31.094"/>
+dziękuję uprzejmie 
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="32.481" endTime="32.933">
+<Sync time="32.481"/>
+do 
+<Event desc="int" type="noise" extent="next"/>
+widzenia
+</Turn>
+<Turn startTime="32.933" endTime="33.998">
+<Sync time="32.933"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,35 @@
+<Frames>
+  <Set id="1" subset="1" span="word_16" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_17..word_19" concept_id="6" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="2" subset="4" span="word_20" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_21" concept_id="8" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="3" subset="1" span="word_24" frame="ENTITLED" head="korzystać">
+    <Frame fe="1" span="word_26..word_27" concept_id="11" name="PRIVILEGE" />
+    <Frame fe="2" span="word_29,word_30..word_31" concept_id="12,13" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="4" subset="1" span="word_43" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_42" concept_id="15" name="PRIVILEGE" />
+    <Frame fe="2" span="word_44..word_46" concept_id="17" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="5" subset="1" span="word_50" frame="COMMERCE_BUY" head="kupować">
+    <Frame fe="1" span="word_51..word_52" concept_id="19" name="GOODS" />
+  </Set>
+  <Set id="6" subset="1" span="word_64" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_66..word_67" concept_id="23" name="ENTITY" />
+    <Frame fe="2" span="word_68" concept_id="24" name="ENTITY" />
+  </Set>
+  <Set id="7" subset="1" span="word_76" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_78..word_79" concept_id="28" name="POSSESSION" />
+  </Set>
+  <Set id="8" subset="1" span="word_90" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_93..word_94" concept_id="36" name="ENTITY" />
+  </Set>
+  <Set id="9" subset="1" span="word_105" frame="COMMERCE_BUY" head="kupować">
+    <Frame fe="1" span="word_106..word_107" concept_id="40" name="GOODS" />
+  </Set>
+  <Set id="10" subset="1" span="word_118" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_120" concept_id="46" name="ENTITY" />
+  </Set>
+</Frames>

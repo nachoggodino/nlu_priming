@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-02_15_45_02" version="2" version_date="070724">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="19.499" topic="to1">
+<Turn startTime="0" endTime="0.891">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.891" endTime="2.699">
+<Sync time="0.891"/>
+dzień dobry xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="2.699" endTime="8.764">
+<Sync time="2.699"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dob<Event desc="~" type="lexical" extent="begin"/>r<Event desc="~" type="lexical" extent="end"/>y <Event desc="int" type="noise" extent="next"/>proszę pana mam pytanie czy uczestnicy studiów doktoranckich nadal korzystają z ulgi czterdzieści<Event desc="int" type="noise" extent="previous"/> osiem procen<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="8.764" endTime="12.321">
+<Sync time="8.764"/>
+<Event desc="int" type="noise" extent="next"/>ta<Event desc="~" type="lexical" extent="begin"/>k<Event desc="~" type="lexical" extent="end"/> proszę panią uczestnic<Event desc="~" type="lexical" extent="begin"/>y<Event desc="~" type="lexical" extent="end"/> studiów doktoranckich mają ulgę czterdzieści osiem proce<Event desc="~" type="lexical" extent="begin"/>nt<Event desc="~" type="lexical" extent="end"/> 
+</Turn>
+<Turn speaker="spk2" startTime="12.321" endTime="14.161">
+<Sync time="12.321"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> ta czyli od pierwszego kwietnia nic się nie <Event desc="int" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="14.161" endTime="15.305">
+<Sync time="14.161"/>
+<Event desc="babble" type="noise" extent="begin"/> nie zmieniło <Event desc="babble" type="noise" extent="end"/> <Event desc="*" type="pronounce" extent="begin"/>się<Event desc="*" type="pronounce" extent="end"/> nie
+</Turn>
+<Turn speaker="spk2" startTime="15.305" endTime="16.743">
+<Sync time="15.305"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/> <Event desc="int" type="noise" extent="next"/>dobrze dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="16.743" endTime="17.782">
+<Sync time="16.743"/>
+<Event desc="babble" type="noise" extent="begin"/> proszę bardzo <Event desc="babble" type="noise" extent="end"/> do widzenia
+</Turn>
+<Turn startTime="17.782" endTime="19.499">
+<Sync time="17.782"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

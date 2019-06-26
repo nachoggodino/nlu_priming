@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-04_08_53_22" version="4" version_date="080113">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="57.996" topic="to1">
+<Turn startTime="0" endTime="1.259">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.259" endTime="3.531">
+<Sync time="1.259"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx w czym mogę 
+<Event desc="babble" type="noise" extent="begin"/>
+ pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.531" endTime="9.781">
+<Sync time="3.531"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="9.781" endTime="20.627">
+<Sync time="9.781"/>
+ jestem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ uczniem szkoły wieczorowej dla dorosłych nieodpłatnej i teraz m
+<Event desc="~" type="lexical" extent="begin"/>
+n
+<Event desc="~" type="lexical" extent="end"/>
+ie interesuje czy jakakolwiek zniżka na 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przejazdy 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ mi 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ należy się czy nie
+</Turn>
+<Turn speaker="spk1" startTime="20.627" endTime="22.267">
+<Sync time="20.627"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+rozumiem że
+<Event desc="*" type="pronounce" extent="end"/>
+ to 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest
+<Event desc="*" type="pronounce" extent="end"/>
+ szkoła średnia
+</Turn>
+<Turn speaker="spk2" startTime="22.267" endTime="23.365">
+<Sync time="22.267"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="23.365" endTime="32.878">
+<Sync time="23.365"/>
+proszę pani zniżka dla uczniów szkół średnich przysługuje ale tylko do dwudziestego pierwszego roku życia jeś
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+i już ukończyła pani dwadzieścia jeden lat to niestety nie ma pani prawa do żadnej ul
+<Event desc="~" type="lexical" extent="begin"/>
+gi
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="32.878" endTime="41.879">
+<Sync time="32.878"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ aha ale 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bo jeszcze nie ukończyłam 
+<Event desc="int" type="noise" extent="next"/>
+czyli rozumiem że do końca 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja jak ukończę czyli mogę korzystać tak na tą legitymację którą mam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ że jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ to szkoła wieczorowa nie będzie 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="41.879" endTime="42.532">
+<Sync time="41.879"/>
+<Who nb="1"/>
+problemu i to jest
+<Who nb="2"/>
+tak tak
+</Turn>
+<Turn speaker="spk2" startTime="42.532" endTime="43.936">
+<Sync time="42.532"/>
+pięćdziesiąt procent zniżkę czy czterdzieści
+</Turn>
+<Turn speaker="spk1" startTime="43.936" endTime="47.757">
+<Sync time="43.936"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ czterdzieści 
+<Event desc="babble" type="noise" extent="end"/>
+ osiem procent zniżki jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ taka 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ zniżka jak dla uczniów szkół
+</Turn>
+<Turn speaker="spk1 spk2" startTime="47.757" endTime="48.337">
+<Sync time="47.757"/>
+<Who nb="1"/>
+ podstawowych
+<Who nb="2"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="48.337" endTime="49.221">
+<Sync time="48.337"/>
+średnich
+</Turn>
+<Turn speaker="spk2" startTime="49.221" endTime="49.739">
+<Sync time="49.221"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ aha 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="49.739" endTime="53.384">
+<Sync time="49.739"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak jak powiedziałem ona przys
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+uguje do dwudziestego pierwszego roku życia 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="53.384" endTime="54.409">
+<Sync time="53.384"/>
+ dobrze dziękuję ślicznie
+</Turn>
+<Turn speaker="spk2 spk1" startTime="54.409" endTime="56.063">
+<Sync time="54.409"/>
+<Who nb="1"/>
+za informację pozdrawiam do widzenia
+<Who nb="2"/>
+bardzo proszę do usłyszenia
+</Turn>
+<Turn startTime="56.063" endTime="57.996">
+<Sync time="56.063"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

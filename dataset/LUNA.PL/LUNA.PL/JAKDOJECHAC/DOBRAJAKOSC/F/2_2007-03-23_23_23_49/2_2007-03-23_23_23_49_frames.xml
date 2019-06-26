@@ -1,0 +1,33 @@
+<Frames>
+  <Set id="1" subset="1" span="word_26" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_20..word_22" concept_id="5" name="GOAL" />
+    <Frame fe="2" span="word_23,word_24" concept_id="6,7" name="TIME" />
+  </Set>
+  <Set id="2" subset="1" span="word_33" frame="BEING_LOCATED" head="znaleźć">
+    <Frame fe="1" span="word_32" concept_id="9" name="LOCATION" />
+  </Set>
+  <Set id="3" subset="1" span="word_39" frame="BEING_LOCATED" head="znaleźć">
+    <Frame fe="1" span="word_35" concept_id="11" name="TIME" />
+    <Frame fe="2" span="word_37" concept_id="12" name="LOCATION" />
+  </Set>
+  <Set id="4" subset="1" span="word_45" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_40..word_42" concept_id="14" name="SOURCE" />
+  </Set>
+  <Set id="5" subset="1" span="word_86" frame="BOARD_VEHICLE" head="wsiąść">
+    <Frame fe="1" span="word_81" concept_id="30" name="PLACE" />
+    <Frame fe="2" span="word_83..word_84" concept_id="31" name="VEHICLE" />
+  </Set>
+  <Set id="6" subset="1" span="word_95" frame="ESCAPING" head="wysiąść">
+    <Frame fe="1" span="word_98..word_99" concept_id="39" name="UNDESIRABLE_LOCATION" />
+    <Frame fe="2" span="word_100..word_104" concept_id="40" name="PLACE" />
+  </Set>
+  <Set id="7" subset="1" span="word_106" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_107,word_108..word_110" concept_id="42,43" name="ENTITY" />
+  </Set>
+  <Set id="8" subset="1" span="word_119" frame="SELF_MOTION" head="cofnąć">
+    <Frame fe="1" span="word_113" concept_id="44" name="SOURCE" />
+    <Frame fe="2" span="word_117" concept_id="45" name="GOAL" />
+    <Frame fe="3" span="word_118" concept_id="46" name="DISTANCE" />
+    <Frame fe="4" span="word_120..word_122" concept_id="48" name="GOAL" />
+  </Set>
+</Frames>

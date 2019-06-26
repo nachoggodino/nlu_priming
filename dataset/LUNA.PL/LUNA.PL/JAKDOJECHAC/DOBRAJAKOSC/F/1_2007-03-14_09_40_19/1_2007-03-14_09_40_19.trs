@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_09_40_19" version="3" version_date="071204">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="57.496" topic="to1">
+<Turn startTime="0" endTime="1.094">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.094" endTime="2.411">
+<Sync time="1.094"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.411" endTime="10.424">
+<Sync time="2.411"/>
+dzień dobry proszę pana ja chciałam się dowiedzieć jakie jest połączenie z Ursusem autobusowe przypuśćmy z Centrum tam gdzieś przed 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ stacją metra
+</Turn>
+<Turn speaker="spk1" startTime="10.424" endTime="12.574">
+<Sync time="10.424"/>
+to najprościej pięćset siedemnaście 
+</Turn>
+<Turn speaker="spk2" startTime="12.574" endTime="17.104">
+<Sync time="12.574"/>
+pięćset ale mnie chodzi głównie o to centrum handlowe 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.104" endTime="18.374">
+<Sync time="17.104"/>
+ale zaraz centrum handlowe 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="18.374" endTime="19.281">
+<Sync time="18.374"/>
+<Who nb="1"/>
+w Ursusie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+w Ursusie
+</Turn>
+<Turn speaker="spk2" startTime="19.281" endTime="19.607">
+<Sync time="19.281"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="19.607" endTime="20.648">
+<Sync time="19.607"/>
+
+<Event desc="en" type="language" extent="begin"/>
+Factory
+<Event desc="en" type="language" extent="end"/>
+ pani chodzi
+</Turn>
+<Turn speaker="spk1 spk2" startTime="20.648" endTime="20.944">
+<Sync time="20.648"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+no
+</Turn>
+<Turn speaker="spk2" startTime="20.944" endTime="24.696">
+<Sync time="20.944"/>
+ja nie wiem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="en" type="language" extent="begin"/>
+Factory
+<Event desc="en" type="language" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+nazywa
+<Event desc="*" type="pronounce" extent="end"/>
+ takie centrum jest wielkie
+</Turn>
+<Turn speaker="spk1" startTime="24.696" endTime="26.403">
+<Sync time="24.696"/>
+a no to nie to inaczej
+</Turn>
+<Turn speaker="spk2" startTime="26.403" endTime="26.804">
+<Sync time="26.403"/>
+to jak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.804" endTime="35.458">
+<Sync time="26.804"/>
+to trzeba ósemką dojechać do Cmentarza Wolskiego 
+<Event desc="babble" type="noise" extent="begin"/>
+ i 
+<Event desc="babble" type="noise" extent="end"/>
+ tam trzeba się przesiąść na sto dziewięćdziesiąt cztery albo siedemset szesnaście
+</Turn>
+<Turn speaker="spk2" startTime="35.458" endTime="36.795">
+<Sync time="35.458"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ sto dziewięćdziesiąt 
+<Event desc="*" type="pronounce" extent="begin"/>
+cztery albo
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.795" endTime="38.512">
+<Sync time="36.795"/>
+albo siedemset szesnaście
+</Turn>
+<Turn speaker="spk2" startTime="38.512" endTime="41.077">
+<Sync time="38.512"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ albo siedemset szesnaście aha i 
+<Event desc="noise" type="noise" extent="end"/>
+ tam
+</Turn>
+<Turn speaker="spk1" startTime="41.077" endTime="43.53">
+<Sync time="41.077"/>
+i te te dwa autobusy dojeżdżają do 
+<Event desc="en" type="language" extent="begin"/>
+Factory
+<Event desc="en" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="43.53" endTime="45.081">
+<Sync time="43.53"/>
+to znaczy ósemką 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.081" endTime="47.394">
+<Sync time="45.081"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tutaj 
+<Event desc="babble" type="noise" extent="end"/>
+z Alei Jerozolimskich 
+<Event desc="babble" type="noise" extent="begin"/>
+ one jedzie z Cen
+<Event desc="~" type="lexical" extent="begin"/>
+trum
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="47.394" endTime="49.52">
+<Sync time="47.394"/>
+i i do do centrum jakiegoś tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="49.52" endTime="52.281">
+<Sync time="49.52"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no to jest Fort Wola przystanek 
+<Event desc="babble" type="noise" extent="begin"/>
+ przy Cmentarzu 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="52.281" endTime="52.675">
+<Sync time="52.281"/>
+<Who nb="1"/>
+Wolskim
+<Who nb="2"/>
+to jest
+</Turn>
+<Turn speaker="spk2" startTime="52.675" endTime="53.044">
+<Sync time="52.675"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ Wola 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="53.044" endTime="53.329">
+<Sync time="53.044"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="53.329" endTime="53.954">
+<Sync time="53.329"/>
+dziękuję panu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="53.954" endTime="54.995">
+<Sync time="53.954"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="54.995" endTime="55.624">
+<Sync time="54.995"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="55.624" endTime="56.209">
+<Sync time="55.624"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="56.209" endTime="57.496">
+<Sync time="56.209"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

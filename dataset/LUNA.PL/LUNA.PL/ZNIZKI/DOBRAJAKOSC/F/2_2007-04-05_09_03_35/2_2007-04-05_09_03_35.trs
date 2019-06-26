@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-05_09_03_35" version="3" version_date="080113">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="61.996" topic="to1">
+<Turn startTime="0" endTime="0.917">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.917" endTime="3.062">
+<Sync time="0.917"/>
+dzień dobry przy telefonie xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.062" endTime="15.916">
+<Sync time="3.062"/>
+dzień dobry proszę pana ja mam takie pytanie jeżeli ktoś 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie jest obywatelem polskim a jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ a ma sześćdziesiąt sześć lat czym czy może jechać na w czy może posługiwać się biletem ulgowym 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.916" endTime="17.796">
+<Sync time="15.916"/>
+to znaczy ale na jakiej podstawie wtedy
+</Turn>
+<Turn speaker="spk1 spk2" startTime="17.796" endTime="18.155">
+<Sync time="17.796"/>
+<Who nb="1"/>
+wtedy
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="18.155" endTime="19.492">
+<Sync time="18.155"/>
+że na emeryturze no 
+</Turn>
+<Turn speaker="spk1" startTime="19.492" endTime="34.722">
+<Sync time="19.492"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale 
+<Event desc="babble" type="noise" extent="end"/>
+ nie 
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę 
+<Event desc="babble" type="noise" extent="end"/>
+ pani to musi być emerytura 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wydana przez 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no Ministerstwo Obrony Narodowej na przykład Ministerstwo Spraw Wewnętrznych 
+<Event desc="babble" type="noise" extent="begin"/>
+ i Administracji czyli takie polskie te wszystkie zakład 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="34.722" endTime="34.968">
+<Sync time="34.722"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="34.968" endTime="35.459">
+<Sync time="34.968"/>
+<Who nb="1"/>
+za
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="35.459" endTime="46.962">
+<Sync time="35.459"/>
+tak 
+<Event desc="babble" type="noise" extent="begin"/>
+ czyli będzie 
+<Event desc="babble" type="noise" extent="end"/>
+ musiał 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ płacić opłatę normalną no t
+<Event desc="~" type="lexical" extent="begin"/>
+u
+<Event desc="~" type="lexical" extent="end"/>
+taj zakład 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ albo musi być legitymacja Zakładu Ubezpieczeń 
+<Event desc="babble" type="noise" extent="begin"/>
+ Społecznych 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to znaczy 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ no ZUSu dokładnie
+</Turn>
+<Turn speaker="spk2" startTime="46.962" endTime="47.407">
+<Sync time="46.962"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="47.407" endTime="51.866">
+<Sync time="47.407"/>
+i proszę pani no 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to są wszystko polskie organizacje że
+</Turn>
+<Turn speaker="spk1 spk2" startTime="51.866" endTime="52.629">
+<Sync time="51.866"/>
+<Who nb="1"/>
+tak powiem
+<Who nb="2"/>
+dobrze
+</Turn>
+<Turn speaker="spk1" startTime="52.629" endTime="58.039">
+<Sync time="52.629"/>
+i to niestety obcokrajowcy no 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ma muszą 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ opłaty normalną pła
+<Event desc="~" type="lexical" extent="begin"/>
+cić
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="58.039" endTime="59.139">
+<Sync time="58.039"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dobrze 
+<Event desc="babble" type="noise" extent="end"/>
+ dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="59.139" endTime="60.236">
+<Sync time="59.139"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę 
+<Event desc="babble" type="noise" extent="end"/>
+ do widzenia
+</Turn>
+<Turn startTime="60.236" endTime="61.996">
+<Sync time="60.236"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,22 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_12" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_13" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_14..word_16" attribute="Q_FARE" value="WHEN" />
+  <concept id="7" span="word_18" attribute="REACTION" value="Negation" />
+  <concept id="8" span="word_19" attribute="ACTION" value="ToPay" />
+  <concept id="9" span="word_20" attribute="TICKET" value="General" />
+  <concept id="10" span="word_22" attribute="TRAM" value="General" />
+  <concept id="11" span="word_24" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="12" span="word_26" attribute="BUS" value="General" />
+  <concept id="13" span="word_28..word_32" attribute="AGE" value="Above70" />
+  <concept id="14" span="word_33" attribute="REACTION" value="Confirmation" />
+  <concept id="15" span="word_36" attribute="ACTION" value="ToHave" />
+  <concept id="16" span="word_39" attribute="DOCUMENT_DISCOUNT_TITLE" value="Card" />
+  <concept id="17" span="word_43" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_45..word_49" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="19" span="word_52..word_53" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="20" span="word_60..word_61" attribute="CONV_FORM" value="BYE" />
+</concepts>

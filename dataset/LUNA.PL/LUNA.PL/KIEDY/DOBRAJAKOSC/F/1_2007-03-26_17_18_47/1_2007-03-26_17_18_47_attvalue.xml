@@ -1,0 +1,35 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_11..word_15" attribute="Q_DEPARTURE" value="General" />
+  <concept id="5" span="word_16..word_19" attribute="BUS" value="152" />
+  <concept id="6" span="word_20..word_21" attribute="SOURCE_TD" value="Żerań" />
+  <concept id="7" span="word_22..word_24" attribute="GOAL_DIRECTION_TD" value="Białołęka" />
+  <concept id="8" span="word_25" attribute="TIME_DAYPERIOD" value="Morning" />
+  <concept id="9" span="word_26..word_28" attribute="AROUND_HOUR" value="6 : 00" />
+  <concept id="10" span="word_29" attribute="AT_HOUR" value="6 : 00" />
+  <concept id="11" span="word_30..word_32" attribute="AT_HOUR" value="6 : 00" />
+  <concept id="12" span="word_33" attribute="REACTION" value="Confirmation" />
+  <concept id="13" span="word_34" attribute="TIME_REL" value="Later" />
+  <concept id="14" span="word_35" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="15" span="word_36" attribute="TIME_REL" value="Earlier" />
+  <concept id="16" span="word_40" attribute="REACTION" value="Negation" />
+  <concept id="17" span="word_41" attribute="TIME_REL" value="Later" />
+  <concept id="18" span="word_42" attribute="TIME_REL" value="Later" />
+  <concept id="19" span="word_43..word_45" attribute="AT_HOUR" value="6 : 25" />
+  <concept id="20" span="word_46" attribute="REACTION" value="Confirmation" />
+  <concept id="21" span="word_47..word_48" attribute="AT_HOUR" value="6 : 50" />
+  <concept id="22" span="word_49" attribute="REACTION" value="Confirmation" />
+  <concept id="23" span="word_56" attribute="Q_HOW_LONG" value="RideTime" />
+  <concept id="24" span="word_57" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="25" span="word_58..word_60" attribute="GOAL_STP" value="LAST" />
+  <concept id="26" span="word_61" attribute="LOCATION_REL" value="There" />
+  <concept id="27" span="word_62..word_63" attribute="GOAL_TD" value="Białołęka" />
+  <concept id="28" span="word_64" attribute="ACTION" value="Go" />
+  <concept id="29" span="word_72..word_73" attribute="AROUND_HOUR" value="6 : 00" />
+  <concept id="30" span="word_74..word_75" attribute="RIDE_DURATION_M" value="20" />
+  <concept id="31" span="word_76" attribute="REACTION" value="Confirmation" />
+  <concept id="32" span="word_79..word_80" attribute="CONV_FORM" value="BYE" />
+  <concept id="33" span="word_83..word_84" attribute="CONV_FORM" value="BYE" />
+</concepts>

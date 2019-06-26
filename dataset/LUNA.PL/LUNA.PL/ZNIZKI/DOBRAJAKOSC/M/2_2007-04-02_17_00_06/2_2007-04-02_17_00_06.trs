@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-02_17_00_06" version="3" version_date="070907">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="69.496" topic="to1">
+<Turn startTime="0" endTime="1.246">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.246" endTime="4.038">
+<Sync time="1.246"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień dobry<Event desc="*" type="pronounce" extent="end"/> <Event desc="babble" type="noise" extent="begin"/> xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="4.038" endTime="14.078">
+<Sync time="4.038"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry <Event desc="*" type="pronounce" extent="begin"/>proszę<Event desc="*" type="pronounce" extent="end"/> pana ja dzwonię w takiej sprawie bo ja jestem żołnierzem zasadniczej służby wojskowej i chcia<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>em się spytać czy mam jakieś ulgi na przewozy miejskie <Event desc="*" type="pronounce" extent="begin"/>podmiejskie<Event desc="*" type="pronounce" extent="end"/> tak
+</Turn>
+<Turn speaker="spk1" startTime="14.078" endTime="17.971">
+<Sync time="14.078"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> a proszę pana <Event desc="filler" type="lexical" extent="instantaneous"/> jaki pan ma stopień <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="17.971" endTime="19.081">
+<Sync time="17.971"/>
+szeregowy
+</Turn>
+<Turn speaker="spk1" startTime="19.081" endTime="21.977">
+<Sync time="19.081"/>
+sz<Event desc="~" type="lexical" extent="begin"/>e<Event desc="~" type="lexical" extent="end"/>regowy i to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> służba zasadnicza <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="21.977" endTime="22.237">
+<Sync time="21.977"/>
+tak
+</Turn>
+<Turn speaker="spk2 spk1" startTime="22.237" endTime="22.65">
+<Sync time="22.237"/>
+<Who nb="1"/>
+służba
+<Who nb="2"/>
+nie na
+</Turn>
+<Turn speaker="spk2" startTime="22.65" endTime="28.007">
+<Sync time="22.65"/>
+ <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> służba zasadnicza ty<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>ko interesują m<Event desc="~" type="lexical" extent="begin"/>n<Event desc="~" type="lexical" extent="end"/>ie przejazdy z domu do <Event desc="babble" type="noise" extent="instantaneous"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="28.007" endTime="31.171">
+<Sync time="28.007"/>
+<Event desc="babble" type="noise" extent="begin"/> proszę pana to tutaj <Event desc="babble" type="noise" extent="end"/> jeżeli byłby pan umundurowany
+</Turn>
+<Turn speaker="spk2" startTime="31.171" endTime="32.039">
+<Sync time="31.171"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="32.039" endTime="36.589">
+<Sync time="32.039"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> to wtedy ma pan przejazdy i to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> zasadnicza który to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> miesiąc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="36.589" endTime="37.137">
+<Sync time="36.589"/>
+słucham <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="37.137" endTime="38.533">
+<Sync time="37.137"/>
+który to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> miesiąc służby <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="38.533" endTime="39.35">
+<Sync time="38.533"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> piąty
+</Turn>
+<Turn speaker="spk1" startTime="39.35" endTime="49.149">
+<Sync time="39.35"/>
+piąty <Event desc="*" type="pronounce" extent="begin"/>dobrze<Event desc="*" type="pronounce" extent="end"/> to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> zasadnicza <Event desc="filler" type="lexical" extent="instantaneous"/> to <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> byłby pan umundurowany to niezależnie od tego czy pan jedzie do jednostki czy po prostu aby był pan <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> umundurowany
+</Turn>
+<Turn speaker="spk2" startTime="49.149" endTime="50.563">
+<Sync time="49.149"/>
+aha to za darmo ta<Event desc="~" type="lexical" extent="begin"/>k<Event desc="~" type="lexical" extent="end"/> <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="50.563" endTime="53.045">
+<Sync time="50.563"/>
+tak wtedy ma pan przejazdy bezpłatne
+</Turn>
+<Turn speaker="spk2" startTime="53.045" endTime="57.562">
+<Sync time="53.045"/>
+<Event desc="babble" type="noise" extent="begin"/> ale jeżeli to <Event desc="babble" type="noise" extent="end"/> nie ma takiej możliwości ja mam ty<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>ko książeczkę wojskową <Event desc="babble" type="noise" extent="begin"/> mam <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="57.562" endTime="61.738">
+<Sync time="57.562"/>
+<Event desc="babble" type="noise" extent="begin"/> to nie to <Event desc="babble" type="noise" extent="end"/> nie ma pan przejazdów <Event desc="noise" type="noise" extent="begin"/> bezpłatnych <Event desc="noise" type="noise" extent="end"/> płaci pan sto procent stawki
+</Turn>
+<Turn speaker="spk2" startTime="61.738" endTime="62.321">
+<Sync time="61.738"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="62.321" endTime="63.476">
+<Sync time="62.321"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="63.476" endTime="64.93">
+<Sync time="63.476"/>
+<Event desc="noise" type="noise" extent="begin"/> aha no to nic dziękuję <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="64.93" endTime="65.753">
+<Sync time="64.93"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="65.753" endTime="66.32">
+<Sync time="65.753"/>
+<Event desc="noise" type="noise" extent="begin"/> do widzenia <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="66.32" endTime="66.87">
+<Sync time="66.32"/>
+do <Event desc="*" type="pronounce" extent="begin"/>usłyszenia<Event desc="*" type="pronounce" extent="end"/>
+</Turn>
+<Turn startTime="66.87" endTime="69.496">
+<Sync time="66.87"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

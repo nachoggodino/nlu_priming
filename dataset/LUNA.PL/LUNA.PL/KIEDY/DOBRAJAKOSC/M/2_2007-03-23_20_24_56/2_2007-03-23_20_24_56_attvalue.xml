@@ -1,0 +1,38 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="5" span="word_12" attribute="ACTION" value="Give" />
+  <concept id="6" span="word_15" attribute="EXCLAMATION" value="General" />
+  <concept id="7" span="word_16" attribute="ACTION" value="Excuse" />
+  <concept id="8" span="word_18..word_19" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="9" span="word_20" attribute="ACTION" value="Leave" />
+  <concept id="10" span="word_21..word_23" attribute="SOURCE_STP" value="Wąwozowa" />
+  <concept id="11" span="word_24..word_28" attribute="BUS" value="166" />
+  <concept id="12" span="word_29..word_31" attribute="BUS" value="166" />
+  <concept id="13" span="word_32" attribute="STOP_DESCRIPTION" value="Wąwozowa" />
+  <concept id="14" span="word_33" attribute="Q_CONF" value="IsIt" />
+  <concept id="15" span="word_37..word_39" attribute="GOAL_DIRECTION_TD" value="Centrum" />
+  <concept id="16" span="word_40" attribute="Q_CONF" value="IsIt" />
+  <concept id="17" span="word_41" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_42" attribute="REACTION" value="Confirmation" />
+  <concept id="19" span="word_44" attribute="ACTION" value="Give" />
+  <concept id="20" span="word_45" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="21" span="word_48" attribute="ACTION" value="ToBe" />
+  <concept id="22" span="word_49" attribute="TIME_REL" value="Today" />
+  <concept id="23" span="word_51" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="24" span="word_56..word_58" attribute="DAYTIME_PERIOD_BEG" value="7 : 00" />
+  <concept id="25" span="word_59..word_60" attribute="DAYTIME_PERIOD_BEG" value="7 : 00" />
+  <concept id="26" span="word_64" attribute="ACTION" value="ToBe" />
+  <concept id="27" span="word_66..word_67" attribute="AT_HOUR" value="7 : 16" />
+  <concept id="28" span="word_68" attribute="REACTION" value="Confirmation" />
+  <concept id="29" span="word_70..word_72" attribute="AT_HOUR" value="7 : 46" />
+  <concept id="30" span="word_73..word_75" attribute="AT_HOUR" value="7 : 46" />
+  <concept id="31" span="word_76..word_77" attribute="Q_DEPARTURE" value="Later" />
+  <concept id="32" span="word_79..word_80" attribute="AT_HOUR" value="8 : 10" />
+  <concept id="33" span="word_82..word_84" attribute="AT_HOUR" value="8 : 44" />
+  <concept id="34" span="word_85..word_87" attribute="AT_HOUR" value="8 : 44" />
+  <concept id="35" span="word_92..word_93" attribute="CONV_FORM" value="BYE" />
+  <concept id="36" span="word_94..word_95" attribute="CONV_FORM" value="BYE" />
+</concepts>

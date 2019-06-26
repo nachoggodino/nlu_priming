@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_19_12_37" version="6" version_date="091213">
+<Topics>
+<Topic id="to1" desc="female user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="158.490" topic="to1">
+<Turn startTime="0" endTime="0.776">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.776" endTime="2.13">
+<Sync time="0.776"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ xxx 
+<Event desc="*" type="pronounce" extent="begin"/>
+słucham
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.13" endTime="3.006">
+<Sync time="2.13"/>
+
+<Event desc="int" type="noise" extent="instantaneous"/>
+ dobry wieczór 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3.006" endTime="3.461">
+<Sync time="3.006"/>
+<Who nb="1"/>
+czy mogę
+<Who nb="2"/>
+dobry wieczór
+</Turn>
+<Turn speaker="spk2" startTime="3.461" endTime="12.254">
+<Sync time="3.461"/>
+pani udzielić informacji 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ co kursuje z Warszawy do miejscowości Świder 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z tej komunikacji miejskiej 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.254" endTime="16.629">
+<Sync time="12.254"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pani bo ta bo 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Świder to tak jak na 
+<Event desc="babble" type="noise" extent="begin"/>
+ Otwock jedzie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.629" endTime="17.001">
+<Sync time="16.629"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="17.001" endTime="20.412">
+<Sync time="17.001"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+ale
+<Event desc="*" type="pronounce" extent="end"/>
+ do Świ
+<Event desc="~" type="lexical" extent="begin"/>
+dra
+<Event desc="~" type="lexical" extent="end"/>
+ zaraz zobaczymy jaki mamy przystanek dobrze 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.412" endTime="26.312">
+<Sync time="20.412"/>
+bo mi chodzi coś takiego 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jak Świder Kościół może to się zupełnie inaczej nazywać ale tam jest taki jeden większy kościół 
+</Turn>
+<Turn speaker="spk1" startTime="26.312" endTime="38.366">
+<Sync time="26.312"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+Świdry
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ Wielkie mamy mam tylko 
+<Event desc="int" type="noise" extent="next"/>
+przystanek w Otwocku 
+<Event desc="*" type="pronounce" extent="begin"/>
+jeżeli
+<Event desc="*" type="pronounce" extent="end"/>
+ to jeśli to o to chodzi 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Świdry Małe mam w Józefowie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ ale to są Świdry czy Świder 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="38.366" endTime="39.224">
+<Sync time="38.366"/>
+Świder
+</Turn>
+<Turn speaker="spk1" startTime="39.224" endTime="40.009">
+<Sync time="39.224"/>
+Świder 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="40.009" endTime="40.525">
+<Sync time="40.009"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="40.525" endTime="43.706">
+<Sync time="40.525"/>
+a nie to to to nie to proszę pani to nie dojeżdżamy 
+</Turn>
+<Turn speaker="spk2" startTime="43.706" endTime="51.889">
+<Sync time="43.706"/>
+a 
+<Event desc="*" type="pronounce" extent="begin"/>
+mogłaby
+<Event desc="*" type="pronounce" extent="end"/>
+ pani na mapę sprawdzić i powiedzieć mi 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+gdzieś 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ w pobliżu nie wiem
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ jakiś autobus jedzie żeby 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ przynajmniej nie wiem no
+</Turn>
+<Turn speaker="spk1" startTime="51.889" endTime="67.543">
+<Sync time="51.889"/>
+nie proszę pani w ogóle tam nie dojeżdżamy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ więc nic nie pomogę bo jeśli chodzi o Świder 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ to nie dojeżdżamy 
+<Event desc="babble" type="noise" extent="end"/>
+ bo dojeżdżamy 
+<Event desc="*" type="pronounce" extent="begin"/>
+tylko
+<Event desc="*" type="pronounce" extent="end"/>
+ do Świdry
+<Event desc="int" type="noise" extent="previous"/>
+ które są przed 
+<Event desc="babble" type="noise" extent="begin"/>
+Otwockiem 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ ale Świder nie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="67.543" endTime="72.263">
+<Sync time="67.543"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a 
+<Event desc="*" type="pronounce" extent="begin"/>
+rozumiem
+<Event desc="*" type="pronounce" extent="end"/>
+ a niech mi pani 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ a co 
+<Event desc="*" type="pronounce" extent="begin"/>
+kursuje
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ z Warszawy do samego Otwocka 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="72.263" endTime="86.02">
+<Sync time="72.263"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę pani autobus siedemset dwa z Wiatracznej ale proszę się dowiedzieć gdzie to konkretnie jest czy to jest kierunek Józefów Otwock czy to jest inny kierunek bo miejscowości mają różne 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nazwy 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="86.02" endTime="95.93">
+<Sync time="86.02"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ znaczy to jest 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ jak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jak jedzie czy pięćset dwadzieścia jeden 
+<Event desc="int" type="noise" extent="next"/>
+do 
+<Event desc="int" type="noise" extent="next"/>
+Falenicy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ co to jest ta właśnie szosa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ po której dalej jest Świder 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="95.93" endTime="101.929">
+<Sync time="95.93"/>
+jak pięćset dwadzieścia jeden do Falenicy no to czyli mamy autobus siedemset 
+<Event desc="babble" type="noise" extent="begin"/>
+ dwa 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="101.929" endTime="106.694">
+<Sync time="101.929"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak ale siedemset dwa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jedzie właśnie tamtędy dalej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ kontynuuje tą trasą pięćset 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="106.694" endTime="107.773">
+<Sync time="106.694"/>
+<Who nb="1"/>
+dwadzieścia jeden
+<Who nb="2"/>
+to jest Świder
+</Turn>
+<Turn speaker="spk1" startTime="107.773" endTime="128.898">
+<Sync time="107.773"/>
+przed 
+<Event desc="*" type="pronounce" extent="begin"/>
+Karczewem
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Świder 
+<Event desc="int" type="noise" extent="next"/>
+tak jak 
+<Event desc="*" type="pronounce" extent="begin"/>
+Karczew
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Karczew 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ czy bo ja 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tylko na autobus siedemset dwa to mam ale Świdry nie Świder Świdry Świdry Małe Świdry 
+<Event desc="*" type="pronounce" extent="begin"/>
+Wielkie
+<Event desc="*" type="pronounce" extent="end"/>
+ ale to jest zupełnie co innego 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="128.898" endTime="130.137">
+<Sync time="128.898"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czyli to nie tam tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="130.137" endTime="130.622">
+<Sync time="130.137"/>
+<Who nb="1"/>
+rozumiem
+<Who nb="2"/>
+nie
+</Turn>
+<Turn speaker="spk1" startTime="130.622" endTime="133.237">
+<Sync time="130.622"/>
+to jest co 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest
+<Event desc="*" type="pronounce" extent="end"/>
+ z tego 
+<Event desc="babble" type="noise" extent="begin"/>
+wniosek nie tam 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="133.237" endTime="138.879">
+<Sync time="133.237"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ rozumiem a pani nie wie czym tam można dojechać tylko tymi 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ prywatnymi liniami 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="138.879" endTime="140.012">
+<Sync time="138.879"/>
+tylko prywatnymi
+</Turn>
+<Turn speaker="spk2" startTime="140.012" endTime="145.321">
+<Sync time="140.012"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ pytanie a do 
+<Event desc="*" type="pronounce" extent="begin"/>
+Dębów
+<Event desc="*" type="pronounce" extent="end"/>
+ Wielkich też 
+<Event desc="*" type="pronounce" extent="begin"/>
+żadna
+<Event desc="*" type="pronounce" extent="end"/>
+ komunikacja miejska nie kursuje 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="145.321" endTime="146.159">
+<Sync time="145.321"/>
+ale dokąd 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="146.159" endTime="149.605">
+<Sync time="146.159"/>
+do Dębów Wielkich do 
+<Event desc="*" type="pronounce" extent="begin"/>
+Mińska
+<Event desc="*" type="pronounce" extent="end"/>
+ Mazowieckiego
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="149.605" endTime="153.835">
+<Sync time="149.605"/>
+nie nie 
+<Event desc="int" type="noise" extent="next"/>
+tam też nie proszę pani tam też tylko prywatne linie
+</Turn>
+<Turn speaker="spk2" startTime="153.835" endTime="155.54">
+<Sync time="153.835"/>
+rozumiem bardzo serdecznie pani 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="155.54" endTime="157.62">
+<Sync time="155.54"/>
+<Who nb="1"/>
+dziękuję do widzenia dobranoc
+<Who nb="2"/>
+dziękuję uprzejmie dobranoc
+</Turn>
+<Turn startTime="157.62" endTime="158.490">
+<Sync time="157.62"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

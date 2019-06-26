@@ -1,0 +1,33 @@
+<Frames>
+  <Set id="1" subset="1" span="word_31" frame="BOARD_VEHICLE" head="wsiąść">
+    <Frame fe="1" span="word_33..word_35" concept_id="10" name="PLACE" />
+  </Set>
+  <Set id="2" subset="1" span="word_44" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_42..word_43" concept_id="12" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="2" span="word_47..word_48" concept_id="14" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_50" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_51..word_52" concept_id="17" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_57" frame="SELF_MOTION" head="przejść">
+    <Frame fe="1" span="word_54" concept_id="18" name="PLACE" />
+  </Set>
+  <Set id="5" subset="2" span="word_61" frame="ARRIVING" head="dojść">
+    <Frame fe="1" span="word_62..word_63" concept_id="21" name="GOAL" />
+  </Set>
+  <Set id="6" subset="1" span="word_69" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_70..word_72" concept_id="25" name="ENTITY" />
+  </Set>
+  <Set id="7" subset="1" span="word_77" frame="ARRIVING" head="dojść">
+    <Frame fe="1" span="word_74,word_75..word_76" concept_id="26,27" name="GOAL" />
+  </Set>
+  <Set id="8" subset="1" span="word_80" frame="DEPARTING" head="być">
+    <Frame fe="1" span="word_81..word_82" concept_id="30" name="SOURCE" />
+  </Set>
+  <Set id="9" subset="1" span="word_88" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_84..word_85" concept_id="31" name="LOCATION" />
+  </Set>
+  <Set id="10" subset="1" span="word_98" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_101" concept_id="36" name="ENTITY" />
+  </Set>
+</Frames>

@@ -1,0 +1,30 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_13" attribute="ACTION" value="ToBe" />
+  <concept id="5" span="word_14..word_19" attribute="LOCATION_NEAR_STR" value="Wybrzeże Kościuszkowskie and Jaracza" />
+  <concept id="6" span="word_20" attribute="REACTION" value="Confirmation" />
+  <concept id="7" span="word_22..word_24" attribute="LOCATION_BLD" value="Teatr Ateneum" />
+  <concept id="8" span="word_26" attribute="ACTION" value="Request" />
+  <concept id="9" span="word_28" attribute="ACTION" value="Get" />
+  <concept id="10" span="word_30..word_31" attribute="GOAL_BLD" value="Hospital" />
+  <concept id="11" span="word_32..word_33" attribute="LOCATION_STR" value="Banacha" />
+  <concept id="12" span="word_43" attribute="ACTION" value="Approach" />
+  <concept id="13" span="word_44..word_46" attribute="GOAL_STR" value="Most Poniatowskiego" />
+  <concept id="14" span="word_48" attribute="LOCATION_REL" value="There" />
+  <concept id="15" span="word_49" attribute="ACTION" value="GoOut" />
+  <concept id="16" span="word_50" attribute="REACTION" value="Confirmation" />
+  <concept id="17" span="word_51..word_52" attribute="DIRECTION" value="Upwards" />
+  <concept id="18" span="word_54" attribute="TRAM" value="General" />
+  <concept id="19" span="word_55" attribute="REACTION" value="Confirmation" />
+  <concept id="20" span="word_56" attribute="TRAM" value="7" />
+  <concept id="21" span="word_57..word_59" attribute="GOAL_BLD" value="Hospital" />
+  <concept id="22" span="word_60" attribute="ACTION" value="Approach" />
+  <concept id="23" span="word_62" attribute="TRAM" value="7" />
+  <concept id="24" span="word_63..word_64" attribute="GOAL_BLD" value="Hospital" />
+  <concept id="25" span="word_65" attribute="REACTION" value="Confirmation" />
+  <concept id="26" span="word_66" attribute="REACTION" value="Confirmation" />
+  <concept id="27" span="word_71..word_72" attribute="CONV_FORM" value="BYE" />
+  <concept id="28" span="word_74..word_75" attribute="CONV_FORM" value="BYE" />
+</concepts>

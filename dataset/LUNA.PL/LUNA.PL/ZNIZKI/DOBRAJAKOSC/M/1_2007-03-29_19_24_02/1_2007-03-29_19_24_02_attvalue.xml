@@ -1,0 +1,35 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_11" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_14" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_16" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_17" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="7" span="word_20" attribute="AGE" value="Above70" />
+  <concept id="8" span="word_21" attribute="PERSON" value="Pensioner" />
+  <concept id="9" span="word_23" attribute="ACTION" value="Go" />
+  <concept id="10" span="word_24" attribute="FARE" value="Free" />
+  <concept id="11" span="word_26" attribute="REACTION" value="Confirmation" />
+  <concept id="12" span="word_29..word_32" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="13" span="word_33..word_34" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="14" span="word_36" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="15" span="word_41" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="16" span="word_43" attribute="ACTION" value="ToBe" />
+  <concept id="17" span="word_46" attribute="TOWN" value="Warszawa" />
+  <concept id="18" span="word_48" attribute="ACTION" value="ToBe" />
+  <concept id="19" span="word_50..word_52" attribute="PERSON" value="Foreigner" />
+  <concept id="20" span="word_54" attribute="ACTION" value="ToHave" />
+  <concept id="21" span="word_56..word_57" attribute="AGE" value="70" />
+  <concept id="22" span="word_58..word_59" attribute="AGE" value="70" />
+  <concept id="23" span="word_60" attribute="REACTION" value="Confirmation" />
+  <concept id="24" span="word_61" attribute="REACTION" value="Confirmation" />
+  <concept id="25" span="word_65" attribute="BUS" value="General" />
+  <concept id="26" span="word_67" attribute="TRAM" value="General" />
+  <concept id="27" span="word_68" attribute="REACTION" value="Confirmation" />
+  <concept id="28" span="word_69" attribute="Q_CONF" value="IsIt" />
+  <concept id="29" span="word_71" attribute="REACTION" value="Confirmation" />
+  <concept id="30" span="word_72" attribute="REACTION" value="Confirmation" />
+  <concept id="31" span="word_77" attribute="LOCATION_REL" value="There" />
+  <concept id="32" span="word_88..word_89" attribute="CONV_FORM" value="BYE" />
+  <concept id="33" span="word_90..word_91" attribute="CONV_FORM" value="BYE" />
+</concepts>

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_22_04_41" version="6" version_date="100914">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="105.993" topic="to1">
+<Turn startTime="0" endTime="0.302">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.302" endTime="2.42">
+<Sync time="0.302"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobry wieczór xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.42" endTime="3.675">
+<Sync time="2.42"/>
+dobry wieczór pani 
+</Turn>
+<Turn speaker="spk1" startTime="3.675" endTime="4.417">
+<Sync time="3.675"/>
+dobry 
+<Event desc="babble" type="noise" extent="begin"/>
+ wieczór 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="4.417" endTime="6.758">
+<Sync time="4.417"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+linia
+<Event desc="*" type="pronounce" extent="end"/>
+ sto 
+<Event desc="*" type="pronounce" extent="begin"/>
+dwadzieścia
+<Event desc="*" type="pronounce" extent="end"/>
+ jeden
+</Turn>
+<Turn speaker="spk1" startTime="6.758" endTime="8.443">
+<Sync time="6.758"/>
+tak a to będzie dzisiaj czy jutro 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="8.443" endTime="10.555">
+<Sync time="8.443"/>
+jutro rano od dziewiątej
+</Turn>
+<Turn speaker="spk1" startTime="10.555" endTime="12.552">
+<Sync time="10.555"/>
+dobrze sto dwadzieścia jeden
+</Turn>
+<Turn speaker="spk1 spk2" startTime="12.552" endTime="13.401">
+<Sync time="12.552"/>
+<Who nb="1"/>
+proszę
+<Who nb="2"/>
+z rogu
+</Turn>
+<Turn speaker="spk2" startTime="13.401" endTime="17.569">
+<Sync time="13.401"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+Podleśnej
+<Event desc="*" type="pronounce" extent="end"/>
+ w kierunku Wrzeciona 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.569" endTime="18.33">
+<Sync time="17.569"/>
+dobrze
+</Turn>
+<Turn speaker="spk2" startTime="18.33" endTime="21.076">
+<Sync time="18.33"/>
+Podleśna Wrzeciono 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="21.076" endTime="22.772">
+<Sync time="21.076"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Podleśna Wrzeciono
+</Turn>
+<Turn speaker="spk1 spk2" startTime="22.772" endTime="23.678">
+<Sync time="22.772"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="23.678" endTime="28.394">
+<Sync time="23.678"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to momencik zaraz zobaczymy sto dwadzieścia jeden zaraz zobaczę gdzie ona ma tu przystanek 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="28.394" endTime="31.212">
+<Sync time="28.394"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="fr" type="language" extent="begin"/>
+vis-a-vis 
+<Event desc="fr" type="language" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ Instytutu Meteorolo
+<Event desc="~" type="lexical" extent="begin"/>
+gii
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.212" endTime="36.089">
+<Sync time="31.212"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a 
+<Event desc="babble" type="noise" extent="end"/>
+ tutaj no tak słusznie proszę pani 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w kierunku Placu Wilsona jedziemy tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="36.089" endTime="40.057">
+<Sync time="36.089"/>
+nie w kierunku Wrzeciona 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.057" endTime="49.217">
+<Sync time="40.057"/>
+ale to zaraz 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bo tak mamy przystanek Podleśna Instytut Meteorologii kierunek Wrzeciono no tak no to kierunek ten docelowy to Plac Wilsona od której godziny pani życzy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="49.217" endTime="51.108">
+<Sync time="49.217"/>
+od dziewiątej rano
+</Turn>
+<Turn speaker="spk1" startTime="51.108" endTime="52.183">
+<Sync time="51.108"/>
+od dziewiątej rano
+</Turn>
+<Turn speaker="spk1 spk2" startTime="52.183" endTime="52.668">
+<Sync time="52.183"/>
+<Who nb="1"/>
+proszę 
+<Who nb="2"/>
+ale
+</Turn>
+<Turn speaker="spk2" startTime="52.668" endTime="54.385">
+<Sync time="52.668"/>
+w kierunku Wrzeciona
+</Turn>
+<Turn speaker="spk1" startTime="54.385" endTime="57.062">
+<Sync time="54.385"/>
+no tak w kierunku Wrzeciona jedziemy
+</Turn>
+<Turn speaker="spk2" startTime="57.062" endTime="57.278">
+<Sync time="57.062"/>
+tak
+</Turn>
+<Turn speaker="spk2 spk1" startTime="57.278" endTime="57.786">
+<Sync time="57.278"/>
+<Who nb="1"/>
+tak tak
+<Who nb="2"/>
+tylko
+</Turn>
+<Turn speaker="spk1" startTime="57.786" endTime="71.165">
+<Sync time="57.786"/>
+przystanek docelowy na na autobusie co jest napisane to jest napisane Plac Wilsona 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bo jedzie Marymoncką Przy Agorze 
+<Event desc="*" type="pronounce" extent="begin"/>
+Sokratesa
+<Event desc="*" type="pronounce" extent="end"/>
+ Conrada 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i po drodze tutaj ma Przy Agorze Wrzeciono 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ i od której godziny mam pani po
+<Event desc="~" type="lexical" extent="begin"/>
+dać
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="71.165" endTime="73.325">
+<Sync time="71.165"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ od dziewiątej 
+<Event desc="babble" type="noise" extent="end"/>
+ rano 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="73.325" endTime="73.897">
+<Sync time="73.325"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ prosz
+<Event desc="~" type="lexical" extent="begin"/>
+ę
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="73.897" endTime="75.398">
+<Sync time="73.897"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale 
+<Event desc="babble" type="noise" extent="end"/>
+ w dni powszednie
+</Turn>
+<Turn speaker="spk1" startTime="75.398" endTime="79.17">
+<Sync time="75.398"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+d
+<Event desc="~" type="lexical" extent="end"/>
+ni powszednie tak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to tak mamy ósma pięćdziesiąt siedem 
+</Turn>
+<Turn speaker="spk2" startTime="79.17" endTime="79.844">
+<Sync time="79.17"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="79.844" endTime="82.297">
+<Sync time="79.844"/>
+potem dziewiąta dwadzieścia sześć
+</Turn>
+<Turn speaker="spk2" startTime="82.297" endTime="82.756">
+<Sync time="82.297"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="82.756" endTime="85.336">
+<Sync time="82.756"/>
+i dziewiąta pięćdziesiąt sześć
+</Turn>
+<Turn speaker="spk2" startTime="85.336" endTime="86.123">
+<Sync time="85.336"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="86.123" endTime="90.195">
+<Sync time="86.123"/>
+potem dziesiąta też jest dwadzieścia sześć i pięćdziesiąt sześć
+</Turn>
+<Turn speaker="spk2" startTime="90.195" endTime="90.737">
+<Sync time="90.195"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="90.737" endTime="93.71">
+<Sync time="90.737"/>
+i tak się powtarza do dwunastej włącznie 
+</Turn>
+<Turn speaker="spk2" startTime="93.71" endTime="94.775">
+<Sync time="93.71"/>
+do dwunastej 
+</Turn>
+<Turn speaker="spk1" startTime="94.775" endTime="97.376">
+<Sync time="94.775"/>
+jest dwadzieścia sześć i pięćdziesiąt sześć
+</Turn>
+<Turn speaker="spk2" startTime="97.376" endTime="98.806">
+<Sync time="97.376"/>
+dobrze to już starczy
+</Turn>
+<Turn speaker="spk1" startTime="98.806" endTime="99.645">
+<Sync time="98.806"/>
+dobrze
+</Turn>
+<Turn speaker="spk2" startTime="99.645" endTime="100.289">
+<Sync time="99.645"/>
+dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="100.289" endTime="101.565">
+<Sync time="100.289"/>
+<Who nb="1"/>
+uprzejmie spokojnego
+<Who nb="2"/>
+dziękuję pani
+</Turn>
+<Turn speaker="spk2" startTime="101.565" endTime="102.016">
+<Sync time="101.565"/>
+wieczoru
+</Turn>
+<Turn speaker="spk2 spk1" startTime="102.016" endTime="102.558">
+<Sync time="102.016"/>
+<Who nb="1"/>
+życzę
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="102.558" endTime="102.983">
+<Sync time="102.558"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ pięknie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="102.983" endTime="103.931">
+<Sync time="102.983"/>
+<Who nb="1"/>
+dobranoc
+<Who nb="2"/>
+dobranoc
+</Turn>
+<Turn speaker="spk1" startTime="103.931" endTime="104.236">
+<Sync time="103.931"/>
+pani
+</Turn>
+<Turn startTime="104.236" endTime="105.993">
+<Sync time="104.236"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

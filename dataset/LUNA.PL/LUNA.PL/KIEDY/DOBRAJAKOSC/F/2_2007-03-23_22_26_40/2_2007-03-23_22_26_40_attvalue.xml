@@ -1,0 +1,24 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_12" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_13" attribute="ACTION" value="ToSee" />
+  <concept id="6" span="word_14..word_16" attribute="SOURCE_STP" value="LAST Szczęśliwice" />
+  <concept id="7" span="word_17..word_19" attribute="BUS" value="184" />
+  <concept id="8" span="word_20" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="9" span="word_21..word_22" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="10" span="word_23..word_24" attribute="AT_HOUR" value="12 : 00" />
+  <concept id="11" span="word_26" attribute="AT_HOUR" value="13 : 00" />
+  <concept id="12" span="word_28" attribute="ACTION" value="Give" />
+  <concept id="13" span="word_29" attribute="TIMETABLE" value="General" />
+  <concept id="14" span="word_30..word_31" attribute="AT_HOUR" value="12 : 02" />
+  <concept id="15" span="word_32" attribute="REACTION" value="Confirmation" />
+  <concept id="16" span="word_33..word_34" attribute="AT_HOUR_MINPART" value="22" />
+  <concept id="17" span="word_35" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_36..word_37" attribute="AT_HOUR_MINPART" value="42" />
+  <concept id="19" span="word_38" attribute="AT_HOUR_PART" value="13" />
+  <concept id="20" span="word_39..word_40" attribute="TIME_REL" value="TheSame" />
+  <concept id="21" span="word_43" attribute="CONV_FORM" value="BYE" />
+  <concept id="22" span="word_46" attribute="CONV_FORM" value="BYE" />
+</concepts>

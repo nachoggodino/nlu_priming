@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-13_10_13_58" version="3" version_date="071001">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="60.996" topic="to1">
+<Turn startTime="0" endTime="1.325">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.325" endTime="3.247">
+<Sync time="1.325"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> xxx słucham <Event desc="babble" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="3.247" endTime="16.542">
+<Sync time="3.247"/>
+<Event desc="babble" type="noise" extent="begin"/> dobry <Event desc="babble" type="noise" extent="end"/> proszę pana przepraszam nie wiem czy ja właściwie dzwonię proszę pana ja chcia<Event desc="~" type="lexical" extent="begin"/>ła<Event desc="~" type="lexical" extent="end"/>m pana uprzejmie zapytać <Event desc="babble" type="noise" extent="begin"/> jak ja teraz dwudziestego kończę siedemdziesiąt lat <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/> proszę pana czy <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="begin"/> m<Event desc="~" type="lexical" extent="begin"/>n<Event desc="~" type="lexical" extent="end"/>ie obowiązuje bilet już bezpłatny <Event desc="?" type="lexical" extent="instantaneous"/><Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="16.542" endTime="19.265">
+<Sync time="16.542"/>
+od dwudziestego właśnie od dnia <Event desc="filler" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="19.265" endTime="19.835">
+<Sync time="19.265"/>
+<Event desc="babble" type="noise" extent="begin"/> kiedy <Event desc="babble" type="noise" extent="end"/> kiedy
+</Turn>
+<Turn speaker="spk1" startTime="19.835" endTime="22.5">
+<Sync time="19.835"/>
+<Event desc="babble" type="noise" extent="begin"/> którym <Event desc="babble" type="noise" extent="end"/> <Event desc="*" type="pronounce" extent="begin"/>będzie<Event desc="*" type="pronounce" extent="end"/> pani kończyła siedemdziesiąty rok życia
+</Turn>
+<Turn speaker="spk2" startTime="22.5" endTime="28.872">
+<Sync time="22.5"/>
+<Event desc="babble" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> proszę pana <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> aha <Event desc="filler" type="lexical" extent="instantaneous"/> a proszę pana <Event desc="babble" type="noise" extent="end"/> a czy po prostu czym się mam potem okazywać <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="28.872" endTime="29.942">
+<Sync time="28.872"/>
+dowodem osobistym
+</Turn>
+<Turn speaker="spk2" startTime="29.942" endTime="30.863">
+<Sync time="29.942"/>
+tylko dowód oso<Event desc="~" type="lexical" extent="begin"/>bisty<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="30.863" endTime="31.376">
+<Sync time="30.863"/>
+<Event desc="babble" type="noise" extent="begin"/> tak <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="31.376" endTime="37.662">
+<Sync time="31.376"/>
+aha i proszę pana i i <Event desc="*" type="pronounce" extent="begin"/>już<Event desc="*" type="pronounce" extent="end"/> wszystko tak <Event desc="?" type="lexical" extent="instantaneous"/> tak że bo właśnie dzwonię czy <Event desc="babble" type="noise" extent="begin"/> państwo coś wy<Event desc="~" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="37.662" endTime="40.506">
+<Sync time="37.662"/>
+nie nie jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> nic wydawane tutaj wystarczy dowód osobis<Event desc="~" type="lexical" extent="begin"/>ty<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="40.506" endTime="57.432">
+<Sync time="40.506"/>
+aha <Event desc="filler" type="lexical" extent="instantaneous"/> dobrze <Event desc="filler" type="lexical" extent="instantaneous"/> bo proszę pana ja może jeszcze panu się wypowiem <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> jestem trzydziesty siódmy tak <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="begin"/> <Event desc="babble" type="noise" extent="begin"/> dobrze mówię trzydziesty siódmy a zaraz dwutysięczny siódmy <Event desc="noise" type="noise" extent="end"/> no tak to siedemdziesiąt lat <Event desc="filler" type="lexical" extent="instantaneous"/> kończę <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> proszę pana no dobrze to w takim razie dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="57.432" endTime="57.69">
+<Sync time="57.432"/>
+proszę 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="57.69" endTime="58.079">
+<Sync time="57.69"/>
+<Who nb="1"/>
+bardzo 
+<Who nb="2"/>
+do
+</Turn>
+<Turn speaker="spk2" startTime="58.079" endTime="58.416">
+<Sync time="58.079"/>
+<Event desc="noise" type="noise" extent="begin"/> widzenia <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="58.416" endTime="59.048">
+<Sync time="58.416"/>
+<Event desc="babble" type="noise" extent="begin"/> do <Event desc="*" type="pronounce" extent="begin"/>usłyszenia<Event desc="*" type="pronounce" extent="end"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="59.048" endTime="60.996">
+<Sync time="59.048"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

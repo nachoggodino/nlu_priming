@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_17_01_01" version="6" version_date="071218">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="57.996" topic="to1">
+<Turn startTime="0" endTime="0.41">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.41" endTime="1.798">
+<Sync time="0.41"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.798" endTime="12.75">
+<Sync time="1.798"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja chcia
+<Event desc="~" type="lexical" extent="begin"/>
+łabym
+<Event desc="~" type="lexical" extent="end"/>
+ z takim zapytaniem 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ jak ja dojadę z Centrum na ulicę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Marymoncką trzydzieści cztery chodzi mi 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ żeby to było jak najbliżej Akademii Wychowania Fizycznego 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.75" endTime="15.4">
+<Sync time="12.75"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tramwajem piętnaście z Marszałkowskiej
+</Turn>
+<Turn speaker="spk2" startTime="15.4" endTime="16.803">
+<Sync time="15.4"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ z Marszałkowskiej tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.803" endTime="17.215">
+<Sync time="16.803"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="17.215" endTime="18.696">
+<Sync time="17.215"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a autobusem 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.696" endTime="20.899">
+<Sync time="18.696"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ autobusem bezpośrednio pani nie dojedzie
+</Turn>
+<Turn speaker="spk2" startTime="20.899" endTime="23.672">
+<Sync time="20.899"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze i na jakim przystanku musiałabym wysią
+<Event desc="~" type="lexical" extent="begin"/>
+ść
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.672" endTime="24.485">
+<Sync time="23.672"/>
+
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+A W F
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.485" endTime="25.932">
+<Sync time="24.485"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+A W F
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ przystanek 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.932" endTime="26.514">
+<Sync time="25.932"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.514" endTime="32.421">
+<Sync time="26.514"/>
+
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+A W F
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a i tam 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ przepraszam a ten przystanek na Marszałkowskiej jak się nazywa 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="32.421" endTime="34.962">
+<Sync time="32.421"/>
+ale pani jest na Marszałkowskiej przy Domach Centrum 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="34.962" endTime="37.957">
+<Sync time="34.962"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie nie bo ja właśnie jutro się tam wybieram ja dopiero jutro
+</Turn>
+<Turn speaker="spk1" startTime="37.957" endTime="39.742">
+<Sync time="37.957"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale gdzie będzie 
+<Event desc="babble" type="noise" extent="end"/>
+ pani na Marszałkowskiej
+</Turn>
+<Turn speaker="spk2" startTime="39.742" endTime="42.017">
+<Sync time="39.742"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie bo ja 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tak ja będę na Dworcu Central
+<Event desc="~" type="lexical" extent="begin"/>
+nym
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="42.017" endTime="48.044">
+<Sync time="42.017"/>
+a na Centralnym 
+<Event desc="babble" type="noise" extent="begin"/>
+ to nie 
+<Event desc="babble" type="noise" extent="end"/>
+ to nie do Marszałkowskiej przy Centralnym na Jana Pawła jest tramwaj siedemnaście
+</Turn>
+<Turn speaker="spk2" startTime="48.044" endTime="51.963">
+<Sync time="48.044"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Jana Pawła 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ siedemnaście tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="51.963" endTime="54.361">
+<Sync time="51.963"/>
+
+<Event desc="noise+" type="noise" extent="instantaneous"/>
+tak i tym tak samo do przystanku 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+A W F
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="54.361" endTime="55.162">
+<Sync time="54.361"/>
+dobrze dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="55.162" endTime="55.769">
+<Sync time="55.162"/>
+<Who nb="1"/>
+panu bardzo
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn startTime="55.769" endTime="57.996">
+<Sync time="55.769"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

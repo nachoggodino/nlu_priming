@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="00761_in;00761_out" version="2" version_date="080724">
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, good recording qualitz"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="87.808" topic="to1">
+<Turn startTime="0" endTime="0.539">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.539" endTime="16.905">
+<Sync time="0.539"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ powiedz jedną z opcji czasy odjazdów wyszukanie trasy zgłoszenie skargi zasady przyznawania zniżek zagubiony bagaż inne informacje 
+</Turn>
+<Turn speaker="spk2" startTime="16.905" endTime="20.83">
+<Sync time="16.905"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ zniżki 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.83" endTime="27.565">
+<Sync time="20.83"/>
+zasady przyznawania zniżek czy osoba ubiegająca się o zniżkę ma ukończone siedemdziesiąt lat powiedz tak lub nie
+</Turn>
+<Turn speaker="spk2" startTime="27.565" endTime="28.270">
+<Sync time="27.565"/>
+nie 
+<Event desc="noise" type="noise" extent="begin"/>
+ nie mam 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.270" endTime="36.727">
+<Sync time="28.270"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ nie ma kim jest osoba ubiegająca się o zniżkę studentem emerytem rencistą uczniem czy inną osobą
+</Turn>
+<Turn speaker="spk2" startTime="36.727" endTime="39.083">
+<Sync time="36.727"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ inną osobą
+</Turn>
+<Turn speaker="spk1" startTime="39.083" endTime="46.863">
+<Sync time="39.083"/>
+inną osobą czy osoba jest dzieckiem niepełnosprawnym opiekunem bezrobotnym czy inną osobą
+</Turn>
+<Turn speaker="spk2" startTime="46.863" endTime="49.291">
+<Sync time="46.863"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ niepełnosprawnym
+</Turn>
+<Turn speaker="spk1" startTime="49.291" endTime="56.456">
+<Sync time="49.291"/>
+niepełnosprawnym czy osoba ubiegająca się o zniżkę ma ukończone dwadzieścia sześć lat 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ powiedz tak lub nie
+</Turn>
+<Turn speaker="spk2" startTime="56.456" endTime="57.326">
+<Sync time="56.456"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="57.326" endTime="78.338">
+<Sync time="57.326"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ do przejazdów ze zniżką czterdzieści osiem procent uprawnione są osoby które ukończyły dwudziesty szósty rok życia i są uznane za niepełnosprawne w stopniu umiarkowanym lub uznane za całkowicie niezdolne do pracy zniżki są udzielane na podstawie ważnej legitymacji wydanej przez właściwy organ dokumentujący niepełnosprawność czy powtórzyć informacje
+</Turn>
+<Turn speaker="spk2" startTime="78.338" endTime="79.314">
+<Sync time="78.338"/>
+ nie
+</Turn>
+<Turn speaker="spk1" startTime="79.314" endTime="82.603">
+<Sync time="79.314"/>
+czy udzielić jeszcze innych informacji
+</Turn>
+<Turn speaker="spk2" startTime="82.603" endTime="84.183">
+<Sync time="82.603"/>
+
+<Event desc="int" type="noise" extent="instantaneous"/>
+ nie
+</Turn>
+<Turn speaker="spk1" startTime="84.183" endTime="87.437">
+<Sync time="84.183"/>
+dziękuję za rozmowę do usłyszenia
+</Turn>
+<Turn startTime="87.437" endTime="87.808">
+<Sync time="87.437"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

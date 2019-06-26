@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-11_19_32_09" version="8" version_date="080421">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="114.493" topic="to1">
+<Turn startTime="0" endTime="1.04">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.04" endTime="3.788">
+<Sync time="1.04"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.788" endTime="17.901">
+<Sync time="3.788"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień 
+<Event desc="int" type="noise" extent="next"/>
+dobry 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="next"/>
+proszę panią mam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pytanie czy osoby 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ posiadające 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ legitymację świadczącą o niepełnosprawności są uprawnione do 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ bezpłatnego przejazdu metrem 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.901" endTime="21.52">
+<Sync time="17.901"/>
+a czy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a w jakim wieku
+</Turn>
+<Turn speaker="spk2" startTime="21.52" endTime="25.461">
+<Sync time="21.52"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ do szesnastego roku
+<Event desc="babble" type="noise" extent="end"/>
+ życia z opiekunem 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.461" endTime="34.48">
+<Sync time="25.461"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ to w takim razie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jeśli chodzi o przejazdy bezpłatne to w metrze jest tak samo jak w autobusach i tramwajach
+</Turn>
+<Turn speaker="spk2" startTime="34.48" endTime="42.021">
+<Sync time="34.48"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to ja mam jeszcze jedno 
+<Event desc="babble" type="noise" extent="begin"/>
+ nietypowe 
+<Event desc="babble" type="noise" extent="end"/>
+ pytanie 
+<Event desc="*" type="pronounce" extent="begin"/>
+jak
+<Event desc="*" type="pronounce" extent="end"/>
+ wsiąść do tego metra żeby przejść przez bramkę 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="42.021" endTime="45.845">
+<Sync time="42.021"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pani są dwie możliwości może pani albo zjechać windą 
+</Turn>
+<Turn speaker="spk2" startTime="45.845" endTime="50.724">
+<Sync time="45.845"/>
+aha i do windy nie muszę mie
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+ bo widziałam że na 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ przy windach 
+<Event desc="noise" type="noise" extent="begin"/>
+ też już są kasowniki w tej chwili 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="50.724" endTime="52.324">
+<Sync time="50.724"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie nie nie można wejść do windy bez 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="52.324" endTime="52.608">
+<Sync time="52.324"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ aha 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="52.608" endTime="59.028">
+<Sync time="52.608"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ bez 
+<Event desc="babble" type="noise" extent="end"/>
+ kasowania biletu i albo może pani pobrać bezpłatne wejściówki do metra
+</Turn>
+<Turn speaker="spk2" startTime="59.028" endTime="61.07">
+<Sync time="59.028"/>
+aha a gdzie można 
+<Event desc="babble" type="noise" extent="begin"/>
+coś takiego
+<Event desc="babble" type="noise" extent="end"/>
+ otrzyma
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="61.07" endTime="65.800">
+<Sync time="61.07"/>
+można na 
+<Event desc="*" type="pronounce" extent="begin"/>
+przykład
+<Event desc="*" type="pronounce" extent="end"/>
+ na stacjach metra Świętokrzyska Ratusz lub Plac Wilsona
+</Turn>
+<Turn speaker="spk2" startTime="65.800" endTime="68.846">
+<Sync time="65.800"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Świętokrzyska bądź Ratusz tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="68.846" endTime="69.639">
+<Sync time="68.846"/>
+tak 
+</Turn>
+<Turn speaker="spk2" startTime="69.639" endTime="105.219">
+<Sync time="69.639"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="105.219" endTime="109.171">
+<Sync time="105.219"/>
+dobrze no fajnie to w takim razie ślicznie dziękuję za 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="109.171" endTime="109.532">
+<Sync time="109.171"/>
+<Who nb="1"/>
+pomoc
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="109.532" endTime="110.375">
+<Sync time="109.532"/>
+bardzo
+</Turn>
+<Turn speaker="spk2" startTime="110.375" endTime="111.652">
+<Sync time="110.375"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+dziękuję
+<Event desc="*" type="pronounce" extent="end"/>
+ do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="111.652" endTime="112.409">
+<Sync time="111.652"/>
+do usłyszenia
+</Turn>
+<Turn startTime="112.409" endTime="114.493">
+<Sync time="112.409"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

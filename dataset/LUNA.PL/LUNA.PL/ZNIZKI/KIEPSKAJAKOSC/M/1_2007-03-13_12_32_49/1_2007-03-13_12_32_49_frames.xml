@@ -1,0 +1,14 @@
+<Frames>
+  <Set id="1" subset="1" span="word_22" frame="COMMERCE_BUY" head="kupować">
+    <Frame fe="1" span="word_23" concept_id="10" name="GOODS" />
+  </Set>
+  <Set id="2" subset="1" span="word_47" frame="GIVING" head="oddać">
+    <Frame fe="1" span="word_49..word_52" concept_id="18" name="THEME" />
+  </Set>
+  <Set id="3" subset="1" span="word_62" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_63..word_67" concept_id="23" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="3" span="word_86" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_87..word_91" concept_id="32" name="ENTITY" />
+  </Set>
+</Frames>

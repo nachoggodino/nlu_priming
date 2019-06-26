@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-03_17_20_47" version="5" version_date="100912">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="user and operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="204.487" topic="to1">
+<Turn startTime="0" endTime="0.823">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="0.823" endTime="2.934">
+<Sync time="0.823"/>
+dzień dobry przy telefonie xxx słucham
+</Turn>
+<Turn speaker="spk1" startTime="2.934" endTime="9.579">
+<Sync time="2.934"/>
+dzień dobry chciałem zapytać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ autobus 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pętla sto dziewięćdziesiąt pięć
+</Turn>
+<Turn speaker="spk2" startTime="9.579" endTime="10.433">
+<Sync time="9.579"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="10.433" endTime="15.592">
+<Sync time="10.433"/>
+to jest przy jakim markecie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+przepraszam
+<Event desc="*" type="pronounce" extent="end"/>
+ przy jakiej stacji metra 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.592" endTime="26.559">
+<Sync time="15.592"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to znacz
+<Event desc="~" type="lexical" extent="begin"/>
+y
+<Event desc="~" type="lexical" extent="end"/>
+ no 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wie pan 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ niezupełnie przy stacji metra jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ między stacją 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ metra Natolin i 
+<Event desc="*" type="pronounce" extent="begin"/>
+stacją
+<Event desc="*" type="pronounce" extent="end"/>
+ metra Imielin
+</Turn>
+<Turn speaker="spk1" startTime="26.559" endTime="28.155">
+<Sync time="26.559"/>
+między 
+<Event desc="*" type="pronounce" extent="begin"/>
+Natolin
+<Event desc="*" type="pronounce" extent="end"/>
+ a Imielin
+</Turn>
+<Turn speaker="spk2" startTime="28.155" endTime="39.773">
+<Sync time="28.155"/>
+tak to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ przystanek to znaczy pętla się nazywa Natolin Północny 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no i do stacji metra Natolin jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ no jakieś 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czterysta pięćset metrów tak samo do Imielina też jest pięćset metrów
+</Turn>
+<Turn speaker="spk1" startTime="39.773" endTime="40.702">
+<Sync time="39.773"/>
+tak pośrodku między
+</Turn>
+<Turn speaker="spk2" startTime="40.702" endTime="42.176">
+<Sync time="40.702"/>
+tak 
+<Event desc="*" type="pronounce" extent="begin"/>
+pośrodku
+<Event desc="*" type="pronounce" extent="end"/>
+ dokładnie
+</Turn>
+<Turn speaker="spk1" startTime="42.176" endTime="43.558">
+<Sync time="42.176"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+między
+<Event desc="*" type="pronounce" extent="end"/>
+ Natolin a Imielin tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="43.558" endTime="43.874">
+<Sync time="43.558"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="43.874" endTime="44.419">
+<Sync time="43.874"/>
+może pan
+</Turn>
+<Turn speaker="spk2" startTime="44.419" endTime="54.229">
+<Sync time="44.419"/>
+ale proszę pana jeżeli pan chce połączyć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto dziewięćdziesiąt pięć z metrem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ Metro Stokłosy obok Metra Stokłosy przejeżdża również sto dziewięćdziesiąt pięć już przy samej stacji
+</Turn>
+<Turn speaker="spk1" startTime="54.229" endTime="56.843">
+<Sync time="54.229"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ zaraz nie bo ja chcę pętlę 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="56.843" endTime="57.657">
+<Sync time="56.843"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ pętlę 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="57.657" endTime="58.003">
+<Sync time="57.657"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ pięć 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="58.003" endTime="64.598">
+<Sync time="58.003"/>
+sto 
+<Event desc="*" type="pronounce" extent="begin"/>
+dziewięćdziąt pięć
+<Event desc="*" type="pronounce" extent="end"/>
+ to Natolin Północny to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ między Natolinem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ stacją metra Natolin a stacją metra Imielin
+</Turn>
+<Turn speaker="spk3" startTime="64.598" endTime="200.165">
+<Sync time="64.598"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="200.165" endTime="201.0">
+<Sync time="200.165"/>
+dziękuję bardzo
+</Turn>
+<Turn speaker="spk2" startTime="201.0" endTime="201.491">
+<Sync time="201.0"/>
+proszę
+</Turn>
+<Turn startTime="201.491" endTime="204.487">
+<Sync time="201.491"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

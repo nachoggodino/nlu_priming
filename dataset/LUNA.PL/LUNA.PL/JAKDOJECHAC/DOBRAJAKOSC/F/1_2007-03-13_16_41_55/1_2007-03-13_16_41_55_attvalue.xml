@@ -1,0 +1,42 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_11" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_15" attribute="Q_HOW_TO" value="Reach" />
+  <concept id="5" span="word_17" attribute="ACTION" value="Approach" />
+  <concept id="6" span="word_18..word_19" attribute="SOURCE_STR" value="Muranowska" />
+  <concept id="7" span="word_20..word_22" attribute="GOAL_STR" value="Dragonów" />
+  <concept id="8" span="word_25" attribute="REACTION" value="Confirmation" />
+  <concept id="9" span="word_29..word_30" attribute="CONNECTION_F" value="Direct" />
+  <concept id="10" span="word_32" attribute="REACTION" value="Negation" />
+  <concept id="11" span="word_33" attribute="ACTION" value="ToBe" />
+  <concept id="12" span="word_34" attribute="CONNECTION_F" value="Simplest" />
+  <concept id="13" span="word_35" attribute="ACTION" value="ToBe" />
+  <concept id="14" span="word_36" attribute="ACTION" value="Approach" />
+  <concept id="15" span="word_38..word_40" attribute="GOAL_STR" value="Plac Bankowy" />
+  <concept id="16" span="word_41..word_42" attribute="TRAM_REL" value="AnyTram" />
+  <concept id="17" span="word_43" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_45" attribute="SOURCE_REL" value="FromThere" />
+  <concept id="19" span="word_46..word_48" attribute="BUS" value="107" />
+  <concept id="20" span="word_49..word_50" attribute="BUS" value="107" />
+  <concept id="21" span="word_52" attribute="REACTION" value="Confirmation" />
+  <concept id="22" span="word_54" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="23" span="word_56" attribute="LOCATION_REL" value="There" />
+  <concept id="24" span="word_57" attribute="ACTION" value="ToStop" />
+  <concept id="25" span="word_58" attribute="REACTION" value="Confirmation" />
+  <concept id="26" span="word_62..word_64" attribute="LOCATION_STP" value="Szwoleżerów" />
+  <concept id="27" span="word_67" attribute="ACTION" value="GetOut" />
+  <concept id="28" span="word_69" attribute="DISTANCE_REL" value="General" />
+  <concept id="29" span="word_71" attribute="PATH_STR" value="Szwoleżerów" />
+  <concept id="30" span="word_72" attribute="ACTION" value="Come" />
+  <concept id="31" span="word_73..word_74" attribute="GOAL_STR" value="Dragonów" />
+  <concept id="32" span="word_80..word_81" attribute="Q_HOW_LONG" value="RideTime" />
+  <concept id="33" span="word_84" attribute="ACTION" value="Last" />
+  <concept id="34" span="word_85" attribute="CONNECTION_F" value="General" />
+  <concept id="35" span="word_86" attribute="GOAL_REL" value="There" />
+  <concept id="36" span="word_88..word_91" attribute="RIDE_DURATION_M" value="25" />
+  <concept id="37" span="word_92" attribute="REACTION" value="Confirmation" />
+  <concept id="38" span="word_93" attribute="REACTION" value="Confirmation" />
+  <concept id="39" span="word_96..word_97" attribute="CONV_FORM" value="BYE" />
+  <concept id="40" span="word_100..word_101" attribute="CONV_FORM" value="BYE" />
+</concepts>

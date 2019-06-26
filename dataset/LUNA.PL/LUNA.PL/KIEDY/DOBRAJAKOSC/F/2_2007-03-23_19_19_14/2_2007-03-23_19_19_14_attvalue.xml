@@ -1,0 +1,46 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8..word_9" attribute="BUS" value="701" />
+  <concept id="5" span="word_10..word_11" attribute="TIME_WEEKPERIOD" value="Weekend" />
+  <concept id="6" span="word_13..word_14" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="7" span="word_15..word_16" attribute="BUS" value="701" />
+  <concept id="8" span="word_18..word_19" attribute="SOURCE_STR" value="Żeromskiego" />
+  <concept id="9" span="word_20" attribute="REACTION" value="Confirmation" />
+  <concept id="10" span="word_21..word_22" attribute="SOURCE_STR" value="Żeromskiego" />
+  <concept id="11" span="word_23..word_25" attribute="GOAL_DIRECTION_TOWN" value="Łomianki" />
+  <concept id="12" span="word_27" attribute="GOAL_DIRECTION_TOWN" value="Łomianki" />
+  <concept id="13" span="word_28" attribute="REACTION" value="Confirmation" />
+  <concept id="14" span="word_29" attribute="TOWN" value="Dąbrowa" />
+  <concept id="15" span="word_31" attribute="ACTION" value="ToBe" />
+  <concept id="16" span="word_32" attribute="TOWN" value="Dąbrowa Leśna" />
+  <concept id="17" span="word_34..word_35" attribute="TOWN_DISTRICT" value="Łomianki Zachodnie" />
+  <concept id="18" span="word_36" attribute="Q_CONF" value="IsIt" />
+  <concept id="19" span="word_37" attribute="REACTION" value="Confirmation" />
+  <concept id="20" span="word_41..word_42" attribute="SOURCE_STR" value="Żeromskiego" />
+  <concept id="21" span="word_43..word_50" attribute="DAYTIME_PERIOD_BEG" value="11 : something" />
+  <concept id="22" span="word_51" attribute="LOCATION_REL" value="There" />
+  <concept id="23" span="word_52" attribute="TIME_REL" value="Later" />
+  <concept id="24" span="word_55" attribute="ACTION" value="ToHave" />
+  <concept id="25" span="word_57..word_58" attribute="AT_HOUR" value="11 : 17" />
+  <concept id="26" span="word_59..word_61" attribute="AT_HOUR" value="11 : 41" />
+  <concept id="27" span="word_62" attribute="REACTION" value="Confirmation" />
+  <concept id="28" span="word_63..word_64" attribute="AT_HOUR" value="12 : 00" />
+  <concept id="29" span="word_66..word_67" attribute="AT_HOUR_MINPART" value="41" />
+  <concept id="30" span="word_68..word_70" attribute="AT_HOUR" value="11 : 41" />
+  <concept id="31" span="word_71" attribute="DEPARTURE" value="Next" />
+  <concept id="32" span="word_72" attribute="ACTION" value="ToBe" />
+  <concept id="33" span="word_73" attribute="AT_HOUR_PART" value="12" />
+  <concept id="34" span="word_74..word_75" attribute="AT_HOUR_MINPART" value="09" />
+  <concept id="35" span="word_76" attribute="DEPARTURE" value="Next" />
+  <concept id="36" span="word_77..word_78" attribute="AT_HOUR_MINPART" value="33" />
+  <concept id="37" span="word_79..word_80" attribute="AT_HOUR_PART" value="12 : 30" />
+  <concept id="38" span="word_81" attribute="AT_HOUR_MINPART" value="3" />
+  <concept id="39" span="word_82" attribute="AT_HOUR_MINPART" value="3" />
+  <concept id="40" span="word_83..word_84" attribute="REACTION" value="Confirmation" />
+  <concept id="41" span="word_91" attribute="AT_HOUR_PART" value="1" />
+  <concept id="42" span="word_92..word_95" attribute="AT_HOUR" value="1 : 01" />
+  <concept id="43" span="word_101" attribute="CONV_FORM" value="BYE" />
+  <concept id="44" span="word_103" attribute="CONV_FORM" value="BYE" />
+</concepts>

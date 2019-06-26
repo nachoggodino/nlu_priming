@@ -1,0 +1,26 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="PERSON_NAME" value="xxx" />
+  <concept id="5" span="word_19..word_21" attribute="SOURCE_STP" value="Metro Marymont" />
+  <concept id="6" span="word_22" attribute="LOCATION_REL" value="There" />
+  <concept id="7" span="word_23" attribute="ACTION" value="Approach" />
+  <concept id="8" span="word_24..word_26" attribute="GOAL_STR" value="Modlińska" />
+  <concept id="9" span="word_27..word_28" attribute="STREET_NUMB" value="51" />
+  <concept id="10" span="word_30..word_31" attribute="BUS" value="508" />
+  <concept id="11" span="word_33..word_34" attribute="BUS" value="508" />
+  <concept id="12" span="word_37" attribute="LOCATION_REL" value="There" />
+  <concept id="13" span="word_38" attribute="REACTION" value="Confirmation" />
+  <concept id="14" span="word_39..word_41" attribute="SOURCE_STP" value="Metro Marymont" />
+  <concept id="15" span="word_42" attribute="Q_CONF" value="IsIt" />
+  <concept id="16" span="word_44" attribute="REACTION" value="Confirmation" />
+  <concept id="17" span="word_45" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_46" attribute="REACTION" value="Confirmation" />
+  <concept id="19" span="word_47..word_48" attribute="Q_WHAT_STP" value="General" />
+  <concept id="20" span="word_49" attribute="ACTION" value="ToBe" />
+  <concept id="21" span="word_50" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="22" span="word_52" attribute="STOP_DESCRIPTION" value="Płochocińska" />
+  <concept id="23" span="word_53" attribute="STOP_DESCRIPTION" value="Płochocińska" />
+  <concept id="24" span="word_54" attribute="REACTION" value="Confirmation" />
+</concepts>

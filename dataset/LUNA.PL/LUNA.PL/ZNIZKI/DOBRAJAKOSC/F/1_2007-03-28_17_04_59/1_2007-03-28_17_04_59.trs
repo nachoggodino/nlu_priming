@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-28_17_04_59" version="3" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="33.998" topic="to1">
+<Turn startTime="0" endTime="0.67">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.67" endTime="2.728">
+<Sync time="0.67"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.728" endTime="14.495">
+<Sync time="2.728"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana mam taką sprawę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy eskaemką z Wesołej do Warszawy emeryci to jeżdżą tak za darmo jak bilet 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jak jak w autobusach 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ miejskich i tramwajach
+</Turn>
+<Turn speaker="spk1" startTime="14.495" endTime="16.094">
+<Sync time="14.495"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+jeśli
+<Event desc="*" type="pronounce" extent="end"/>
+ skończą siedemdziesiąt lat to
+</Turn>
+<Turn speaker="spk1 spk2" startTime="16.094" endTime="16.52">
+<Sync time="16.094"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="16.52" endTime="17.435">
+<Sync time="16.52"/>
+tak tak 
+</Turn>
+<Turn speaker="spk1" startTime="17.435" endTime="18.769">
+<Sync time="17.435"/>
+tak 
+<Event desc="babble" type="noise" extent="begin"/>
+ na dowód 
+<Event desc="babble" type="noise" extent="end"/>
+ osobis
+<Event desc="~" type="lexical" extent="begin"/>
+ty
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="18.769" endTime="23.181">
+<Sync time="18.769"/>
+dowód osobisty tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ i teraz jeszcze jedno takie pytanie jeżeli jadę z Warszawy
+</Turn>
+<Turn speaker="spk1" startTime="23.181" endTime="26.607">
+<Sync time="23.181"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.607" endTime="28.901">
+<Sync time="26.607"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i chcę dojechać do Miłosnej to też mogę darmo dojechać 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.901" endTime="30.479">
+<Sync time="28.901"/>
+tak 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+S K M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ tak
+</Turn>
+<Turn speaker="spk2" startTime="30.479" endTime="31.157">
+<Sync time="30.479"/>
+dziękuję panu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="31.157" endTime="31.685">
+<Sync time="31.157"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk2" startTime="31.685" endTime="32.264">
+<Sync time="31.685"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="32.264" endTime="32.699">
+<Sync time="32.264"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="32.699" endTime="33.998">
+<Sync time="32.699"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

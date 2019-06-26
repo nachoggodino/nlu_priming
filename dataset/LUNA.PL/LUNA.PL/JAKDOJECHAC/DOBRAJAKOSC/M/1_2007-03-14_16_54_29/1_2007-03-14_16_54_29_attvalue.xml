@@ -1,0 +1,87 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_13" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="5" span="word_14..word_16" attribute="SOURCE_STP" value="BusStop" />
+  <concept id="6" span="word_17..word_19" attribute="SOURCE_STR" value="Modlińska" />
+  <concept id="7" span="word_21..word_22" attribute="SOURCE_STR" value="Konwaliowa" />
+  <concept id="8" span="word_23" attribute="CONNECTION_F" value="Direct" />
+  <concept id="9" span="word_24..word_26" attribute="PATH_STR" value="Most Gdański" />
+  <concept id="10" span="word_27..word_29" attribute="GOAL_STR" value="Plac Zawiszy" />
+  <concept id="11" span="word_30..word_31" attribute="BUS_REL" value="AnyBus" />
+  <concept id="12" span="word_32" attribute="ACTION" value="Approach" />
+  <concept id="13" span="word_34" attribute="REACTION" value="Negation" />
+  <concept id="14" span="word_35" attribute="REACTION" value="Negation" />
+  <concept id="15" span="word_36" attribute="ACTION" value="ToBe" />
+  <concept id="16" span="word_37" attribute="LOCATION_REL" value="There" />
+  <concept id="17" span="word_38" attribute="CONNECTION_F" value="Direct" />
+  <concept id="18" span="word_41" attribute="CONNECTION_F" value="General" />
+  <concept id="19" span="word_48" attribute="CONNECTION_F" value="Good" />
+  <concept id="20" span="word_50..word_51" attribute="TRANSPORT_RATE_REL" value="Freq" />
+  <concept id="21" span="word_54..word_56" attribute="TIME_DAYPERIOD" value="Evening" />
+  <concept id="22" span="word_58" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="23" span="word_61" attribute="ACTION" value="ToBe" />
+  <concept id="24" span="word_62..word_64" attribute="PATH_STR" value="Most Gdański" />
+  <concept id="25" span="word_73" attribute="ACTION" value="Concern" />
+  <concept id="26" span="word_81..word_82" attribute="STREET" value="Trasa Toruńska" />
+  <concept id="27" span="word_90" attribute="ACTION" value="Tell" />
+  <concept id="28" span="word_91" attribute="CONNECTION_F" value="Direct" />
+  <concept id="29" span="word_92" attribute="REACTION" value="Negation" />
+  <concept id="30" span="word_93" attribute="ACTION" value="ToBe" />
+  <concept id="31" span="word_95" attribute="CONNECTION_F" value="Simplest" />
+  <concept id="32" span="word_97" attribute="ACTION" value="ToBe" />
+  <concept id="33" span="word_98..word_99" attribute="BUS" value="503" />
+  <concept id="34" span="word_101" attribute="ACTION" value="ToBe" />
+  <concept id="35" span="word_102" attribute="Q_WHERE" value="LOCATION" />
+  <concept id="36" span="word_104" attribute="TRSPM_CHANGE" value="General" />
+  <concept id="37" span="word_106..word_107" attribute="BUS" value="503" />
+  <concept id="38" span="word_108..word_110" attribute="GOAL_STP" value="Foksal" />
+  <concept id="39" span="word_112" attribute="ACTION" value="ToBe" />
+  <concept id="40" span="word_113..word_119" attribute="LOCATION_CROSSROADS" value="Nowy Świat CROSS  Aleje Jerozolimskie" />
+  <concept id="41" span="word_121" attribute="SOURCE_REL" value="FromHere" />
+  <concept id="42" span="word_122..word_123" attribute="TRAM_REL" value="AnyTram" />
+  <concept id="43" span="word_124..word_127" attribute="GOAL_DIRECTION_STR" value="Plac Zawiszy" />
+  <concept id="44" span="word_128" attribute="REACTION" value="Confirmation" />
+  <concept id="45" span="word_130" attribute="REACTION" value="Negation" />
+  <concept id="46" span="word_131..word_132" attribute="PATH_STR" value="Most Gdański" />
+  <concept id="47" span="word_134" attribute="PATH_STR" value="Most Grota Roweckiego" />
+  <concept id="48" span="word_135..word_136" attribute="PATH_STR" value="Most Grota Roweckiego" />
+  <concept id="49" span="word_137" attribute="ACTION" value="Approach" />
+  <concept id="50" span="word_139..word_140" attribute="CONNECTION_F" value="Direct" />
+  <concept id="51" span="word_142" attribute="REACTION" value="Negation" />
+  <concept id="52" span="word_143" attribute="REACTION" value="Negation" />
+  <concept id="53" span="word_145" attribute="BUS" value="General" />
+  <concept id="54" span="word_146" attribute="LOCATION_REL" value="There" />
+  <concept id="55" span="word_147..word_148" attribute="SOURCE_TD" value="Białołęka" />
+  <concept id="56" span="word_149" attribute="REACTION" value="Negation" />
+  <concept id="57" span="word_150" attribute="ACTION" value="Approach" />
+  <concept id="58" span="word_151..word_153" attribute="GOAL_STR" value="Plac Zawiszy" />
+  <concept id="59" span="word_155" attribute="REACTION" value="Confirmation" />
+  <concept id="60" span="word_160..word_161" attribute="BUS" value="503" />
+  <concept id="61" span="word_167" attribute="ACTION" value="Approach" />
+  <concept id="62" span="word_168" attribute="BUS" value="General" />
+  <concept id="63" span="word_169..word_171" attribute="GOAL_STP" value="Nearest MetroStationGeneral" />
+  <concept id="64" span="word_173" attribute="TIME_REL" value="Later" />
+  <concept id="65" span="word_175..word_176" attribute="GOAL_STR" value="Plac Zawiszy" />
+  <concept id="66" span="word_178..word_179" attribute="STOP_DESCRIPTION" value="MetroStationGeneral" />
+  <concept id="67" span="word_183" attribute="METRO" value="General" />
+  <concept id="68" span="word_185..word_186" attribute="LOCATION_TD" value="Centrum" />
+  <concept id="69" span="word_191" attribute="NUMB" value="2" />
+  <concept id="70" span="word_193" attribute="ACTION" value="ToChange" />
+  <concept id="71" span="word_194" attribute="REACTION" value="Confirmation" />
+  <concept id="72" span="word_196" attribute="REACTION" value="Negation" />
+  <concept id="73" span="word_198" attribute="REACTION" value="Negation" />
+  <concept id="74" span="word_199" attribute="REACTION" value="Negation" />
+  <concept id="75" span="word_201..word_202" attribute="BUS" value="503" />
+  <concept id="76" span="word_205" attribute="LOCATION_REL" value="There" />
+  <concept id="77" span="word_206..word_209" attribute="LOCATION_CROSSROADS" value="CROSS  Aleje Jerozolimskie" />
+  <concept id="78" span="word_210" attribute="Q_CONF" value="IsIt" />
+  <concept id="79" span="word_212" attribute="REACTION" value="Confirmation" />
+  <concept id="80" span="word_213" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="81" span="word_214..word_215" attribute="BUS" value="510" />
+  <concept id="82" span="word_216..word_218" attribute="GOAL_RS" value="Dworzec Centralny" />
+  <concept id="83" span="word_220" attribute="SOURCE_REL" value="FromHere" />
+  <concept id="84" span="word_222" attribute="TRAM" value="General" />
+  <concept id="85" span="word_223" attribute="REACTION" value="Confirmation" />
+</concepts>

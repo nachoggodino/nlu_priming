@@ -1,0 +1,99 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8..word_9" attribute="CONV_FORM" value="HELLO" />
+  <concept id="5" span="word_10..word_13" attribute="BUS" value="121" />
+  <concept id="6" span="word_14" attribute="REACTION" value="Confirmation" />
+  <concept id="7" span="word_17" attribute="ACTION" value="ToBe" />
+  <concept id="8" span="word_18" attribute="TIME_REL" value="Today" />
+  <concept id="9" span="word_19" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="10" span="word_20" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="11" span="word_22" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="12" span="word_23" attribute="TIME_DAYPERIOD" value="Morning" />
+  <concept id="13" span="word_24..word_25" attribute="DAYTIME_PERIOD_BEG" value="9 : 00" />
+  <concept id="14" span="word_26" attribute="REACTION" value="Confirmation" />
+  <concept id="15" span="word_27..word_29" attribute="BUS" value="121" />
+  <concept id="16" span="word_31..word_33" attribute="SOURCE_CROSSROADS" value="CROSS Podleśna" />
+  <concept id="17" span="word_34..word_36" attribute="GOAL_DIRECTION_TD" value="Wrzeciono" />
+  <concept id="18" span="word_37" attribute="REACTION" value="Confirmation" />
+  <concept id="19" span="word_38" attribute="STREET" value="Podleśna" />
+  <concept id="20" span="word_39" attribute="TOWN_DISTRICT" value="Wrzeciono" />
+  <concept id="21" span="word_40" attribute="STREET" value="Podleśna" />
+  <concept id="22" span="word_41" attribute="TOWN_DISTRICT" value="Wrzeciono" />
+  <concept id="23" span="word_42" attribute="Q_CONF" value="IsIt" />
+  <concept id="24" span="word_44" attribute="REACTION" value="Confirmation" />
+  <concept id="25" span="word_48" attribute="ACTION" value="ToSee" />
+  <concept id="26" span="word_49..word_51" attribute="BUS" value="121" />
+  <concept id="27" span="word_53" attribute="ACTION" value="ToSee" />
+  <concept id="28" span="word_54" attribute="Q_WHERE" value="LOCATION" />
+  <concept id="29" span="word_55" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="30" span="word_56" attribute="ACTION" value="ToHave" />
+  <concept id="31" span="word_57" attribute="LOCATION_REL" value="There" />
+  <concept id="32" span="word_58" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="33" span="word_59..word_61" attribute="LOCATION_BLD" value="OPPSIDE Instytut Meteorologii" />
+  <concept id="34" span="word_63" attribute="LOCATION_REL" value="There" />
+  <concept id="35" span="word_65" attribute="REACTION" value="Confirmation" />
+  <concept id="36" span="word_69..word_72" attribute="GOAL_DIRECTION_STR" value="Plac Wilsona" />
+  <concept id="37" span="word_73" attribute="ACTION" value="Go" />
+  <concept id="38" span="word_74" attribute="Q_CONF" value="IsIt" />
+  <concept id="39" span="word_76" attribute="REACTION" value="Negation" />
+  <concept id="40" span="word_77..word_79" attribute="GOAL_DIRECTION_TD" value="Wrzeciono" />
+  <concept id="41" span="word_85" attribute="ACTION" value="ToHave" />
+  <concept id="42" span="word_86..word_87" attribute="STOP_DESCRIPTION" value="Podleśna" />
+  <concept id="43" span="word_88..word_89" attribute="BUILDING" value="Instytut Meteorologii" />
+  <concept id="44" span="word_90..word_91" attribute="GOAL_DIRECTION_TD" value="Wrzeciono" />
+  <concept id="45" span="word_96..word_101" attribute="GOAL_DIRECTION_STR" value="Plac Wilsona" />
+  <concept id="46" span="word_102..word_104" attribute="Q_BEGINNING_OF_PERIOD" value="Trip" />
+  <concept id="47" span="word_106" attribute="ACTION" value="Wish" />
+  <concept id="48" span="word_108..word_110" attribute="DAYTIME_PERIOD_BEG" value="9 : 00 am" />
+  <concept id="49" span="word_111..word_113" attribute="DAYTIME_PERIOD_BEG" value="9 : 00 am" />
+  <concept id="50" span="word_116..word_118" attribute="GOAL_DIRECTION_TD" value="Wrzeciono" />
+  <concept id="51" span="word_121..word_123" attribute="GOAL_DIRECTION_TD" value="Wrzeciono" />
+  <concept id="52" span="word_124" attribute="ACTION" value="Go" />
+  <concept id="53" span="word_125" attribute="REACTION" value="Confirmation" />
+  <concept id="54" span="word_126" attribute="REACTION" value="Confirmation" />
+  <concept id="55" span="word_127" attribute="REACTION" value="Confirmation" />
+  <concept id="56" span="word_129..word_130" attribute="STOP_DESCRIPTION" value="LAST" />
+  <concept id="57" span="word_133" attribute="BUS" value="General" />
+  <concept id="58" span="word_140..word_141" attribute="STREET" value="Plac Wilsona" />
+  <concept id="59" span="word_143" attribute="ACTION" value="Go" />
+  <concept id="60" span="word_144" attribute="PATH_STR" value="Marymoncka" />
+  <concept id="61" span="word_145..word_146" attribute="PATH_STR" value="Przy Agorze" />
+  <concept id="62" span="word_147" attribute="PATH_STR" value="Sokratesa" />
+  <concept id="63" span="word_148" attribute="PATH_STR" value="Conrada" />
+  <concept id="64" span="word_152" attribute="LOCATION_REL" value="There" />
+  <concept id="65" span="word_153" attribute="ACTION" value="ToHave" />
+  <concept id="66" span="word_154..word_155" attribute="STOP_DESCRIPTION" value="Przy Agorze" />
+  <concept id="67" span="word_156" attribute="STOP_DESCRIPTION" value="Wrzeciono" />
+  <concept id="68" span="word_158..word_160" attribute="Q_BEGINNING_OF_PERIOD" value="Trip" />
+  <concept id="69" span="word_163" attribute="ACTION" value="Give" />
+  <concept id="70" span="word_165..word_167" attribute="DAYTIME_PERIOD_BEG" value="9 : 00 am" />
+  <concept id="71" span="word_170..word_172" attribute="TIME_WEEKPERIOD" value="Weekday" />
+  <concept id="72" span="word_173..word_174" attribute="TIME_WEEKPERIOD" value="Weekday" />
+  <concept id="73" span="word_175" attribute="REACTION" value="Confirmation" />
+  <concept id="74" span="word_178" attribute="ACTION" value="ToHave" />
+  <concept id="75" span="word_179..word_181" attribute="AT_HOUR" value="8 : 57" />
+  <concept id="76" span="word_182" attribute="REACTION" value="Confirmation" />
+  <concept id="77" span="word_183" attribute="DEPARTURE" value="Next" />
+  <concept id="78" span="word_184..word_186" attribute="AT_HOUR" value="9 : 26" />
+  <concept id="79" span="word_187" attribute="REACTION" value="Confirmation" />
+  <concept id="80" span="word_189..word_191" attribute="AT_HOUR" value="9 : 56" />
+  <concept id="81" span="word_192" attribute="REACTION" value="Confirmation" />
+  <concept id="82" span="word_193" attribute="DEPARTURE" value="Next" />
+  <concept id="83" span="word_194" attribute="AT_HOUR_PART" value="10" />
+  <concept id="84" span="word_196" attribute="ACTION" value="ToBe" />
+  <concept id="85" span="word_197..word_198" attribute="AT_HOUR_MINPART" value="26" />
+  <concept id="86" span="word_200..word_201" attribute="AT_HOUR_MINPART" value="56" />
+  <concept id="87" span="word_202" attribute="REACTION" value="Confirmation" />
+  <concept id="88" span="word_207..word_209" attribute="DAYTIME_PERIOD_END" value="12 : 00" />
+  <concept id="89" span="word_210..word_211" attribute="DAYTIME_PERIOD_END" value="12 : 00" />
+  <concept id="90" span="word_212" attribute="ACTION" value="ToBe" />
+  <concept id="91" span="word_213..word_214" attribute="AT_HOUR_MINPART" value="26" />
+  <concept id="92" span="word_216..word_217" attribute="AT_HOUR_MINPART" value="56" />
+  <concept id="93" span="word_218" attribute="REACTION" value="Confirmation" />
+  <concept id="94" span="word_222" attribute="REACTION" value="Confirmation" />
+  <concept id="95" span="word_228" attribute="TIME_DAYPERIOD" value="Evening" />
+  <concept id="96" span="word_232" attribute="CONV_FORM" value="BYE" />
+  <concept id="97" span="word_233..word_234" attribute="CONV_FORM" value="BYE" />
+</concepts>

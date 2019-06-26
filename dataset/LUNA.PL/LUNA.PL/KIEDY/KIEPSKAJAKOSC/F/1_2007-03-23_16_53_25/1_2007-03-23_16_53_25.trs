@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_16_53_25" version="4" version_date="100912">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user, low recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="59.4963125" topic="to1">
+<Turn startTime="0" endTime="0.558">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.558" endTime="2.198">
+<Sync time="0.558"/>
+xxx dzień dobry 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.198" endTime="18.649">
+<Sync time="2.198"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry panu proszę pana chcę dojechać na 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ od z Placu Wilsona
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Metra Wilanowska na godzinę dziewiątą pięćdziesiąt proszę mi pomóc jaki jest rozkład metra nie jeżdżę 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.649" endTime="22.543">
+<Sync time="18.649"/>
+a czy rozkładu proszę pani jako takiego nie ma jest tylko częstotliwość kursowania
+</Turn>
+<Turn speaker="spk2" startTime="22.543" endTime="23.426">
+<Sync time="22.543"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ co ile minut 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.426" endTime="25.126">
+<Sync time="23.426"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i ma pani być na którą 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.126" endTime="26.946">
+<Sync time="25.126"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dziewiątą pięćdziesiąt 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.946" endTime="29.417">
+<Sync time="26.946"/>
+aha i to ma być
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sobota niedziela czy dzień
+</Turn>
+<Turn speaker="spk2" startTime="29.417" endTime="30.15">
+<Sync time="29.417"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ sobo
+<Event desc="~" type="lexical" extent="begin"/>
+ta
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="30.15" endTime="30.903">
+<Sync time="30.15"/>
+<Who nb="1"/>
+sobota jutro
+<Who nb="2"/>
+sobot
+<Event desc="~" type="lexical" extent="begin"/>
+a
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="30.903" endTime="33.979">
+<Sync time="30.903"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ co ile minut 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="33.979" endTime="41.962">
+<Sync time="33.979"/>
+proszę pani co co około sześć minut w tych godzinach kursuje 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ a czas przejazdu zaraz od 
+<Event desc="babble" type="noise" extent="begin"/>
+ Wilsona
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="41.962" endTime="44.736">
+<Sync time="41.962"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ przejazdu 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="44.736" endTime="49.952">
+<Sync time="44.736"/>
+od Wilsona tak że do Wilano
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+skiej to jest jakieś około osiemnastu minut
+</Turn>
+<Turn speaker="spk2" startTime="49.952" endTime="55.12">
+<Sync time="49.952"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ dobrze czyli teraz wszystko wiem dziękuję
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="55.12" endTime="55.618">
+<Sync time="55.12"/>
+proszę
+</Turn>
+<Turn speaker="spk2" startTime="55.618" endTime="56.136">
+<Sync time="55.618"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="56.136" endTime="56.605">
+<Sync time="56.136"/>
+do widzenia
+</Turn>
+<Turn startTime="56.605" endTime="59.4963125">
+<Sync time="56.605"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

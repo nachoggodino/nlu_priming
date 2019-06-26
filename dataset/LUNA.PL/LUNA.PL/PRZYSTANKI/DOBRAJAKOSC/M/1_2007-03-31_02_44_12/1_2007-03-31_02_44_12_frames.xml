@@ -1,0 +1,23 @@
+<Frames>
+  <Set id="1" subset="1" span="word_22" frame="HALT" head="zatrzymywać">
+    <Frame fe="1" span="word_11..word_14" concept_id="4" name="THEME" />
+    <Frame fe="2" span="word_18..word_21" concept_id="6" name="POSITION" />
+  </Set>
+  <Set id="2" subset="1" span="word_39" frame="HALT" head="zatrzymywać">
+    <Frame fe="1" span="word_35..word_36" concept_id="11" name="POSITION" />
+  </Set>
+  <Set id="3" subset="1" span="word_45" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_46..word_47" concept_id="18" name="GOAL" />
+  </Set>
+  <Set id="4" subset="1" span="word_50" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_49" concept_id="19" name="TIME" />
+    <Frame fe="2" span="word_52" concept_id="21" name="PATH" />
+  </Set>
+  <Set id="5" subset="1" span="word_55" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_53..word_54" concept_id="22" name="DIRECTION" />
+  </Set>
+  <Set id="6" subset="1" span="word_60" frame="DEPARTING" head="startować">
+    <Frame fe="1" span="word_57..word_58,word_59" concept_id="24,25" name="TIME" />
+    <Frame fe="2" span="word_61..word_63" concept_id="27" name="SOURCE" />
+  </Set>
+</Frames>

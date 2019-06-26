@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-06_18_36_14" version="2" version_date="071001">
+<Topics>
+<Topic id="to1" desc="male user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="27.998" topic="to1">
+<Turn startTime="0" endTime="0.422">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.422" endTime="2.131">
+<Sync time="0.422"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.131" endTime="8.684">
+<Sync time="2.131"/>
+dzień dobry <Event desc="noise" type="noise" extent="begin"/> ja <Event desc="*" type="pronounce" extent="begin"/>chciałbym<Event desc="*" type="pronounce" extent="end"/> się spytać czy żołnierz poruszający się po Warszawie wykupuje bilet <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="8.684" endTime="19.546">
+<Sync time="8.684"/>
+jeżeli jest <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="~" type="lexical" extent="begin"/>zn<Event desc="~" type="lexical" extent="end"/>aczy bezpłatne przejazdy przysługują owszem żołnierzom ale tylko pod warunkiem <Event desc="noise" type="noise" extent="begin"/> że są że są <Event desc="noise" type="noise" extent="end"/> to żołnierze służby zasadniczej <Event desc="filler" type="lexical" extent="instantaneous"/> i <Event desc="babble" type="noise" extent="begin"/> są <Event desc="babble" type="noise" extent="end"/> umundurowani <Event desc="noise" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="19.546" endTime="20.482">
+<Sync time="19.546"/>
+a bez munduru nie <Event desc="?" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="20.482" endTime="22.991">
+<Sync time="20.482"/>
+<Event desc="noise" type="noise" extent="begin"/> bez munduru <Event desc="noise" type="noise" extent="end"/> to niestety to normalny <Event desc="noise" type="noise" extent="begin"/> bilet <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="22.991" endTime="24.926">
+<Sync time="22.991"/>
+<Event desc="noise" type="noise" extent="begin"/> aha dobrze dziękuję do widzenia <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="24.926" endTime="25.473">
+<Sync time="24.926"/>
+<Event desc="noise" type="noise" extent="begin"/> dziękuję <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="25.473" endTime="27.998">
+<Sync time="25.473"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

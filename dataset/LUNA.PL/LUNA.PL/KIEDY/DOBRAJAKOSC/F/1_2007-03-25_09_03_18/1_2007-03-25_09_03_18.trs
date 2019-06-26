@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_09_03_18" version="2" version_date="070907">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="41.997" topic="to1">
+<Turn startTime="0" endTime="0.341">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.341" endTime="1.684">
+<Sync time="0.341"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.684" endTime="9.934">
+<Sync time="1.684"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry ja <Event desc="*" type="pronounce" extent="begin"/>chciałam<Event desc="*" type="pronounce" extent="end"/> spytać <Event desc="filler" type="lexical" extent="instantaneous"/> o której około dziesiątej będzie autobus siedemnaście <Event desc="filler" type="lexical" extent="instantaneous"/> z przystanku Madalińskiego
+</Turn>
+<Turn speaker="spk1" startTime="9.934" endTime="11.07">
+<Sync time="9.934"/>
+sto siedemnaście tak <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="11.07" endTime="26.572">
+<Sync time="11.07"/>
+sto siedemnaś<Event desc="~" type="lexical" extent="begin"/>cie<Event desc="~" type="lexical" extent="end"/> w stronę Centrum <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="26.572" endTime="28.963">
+<Sync time="26.572"/>
+dziesiąta pięćdziesiąt siedem
+</Turn>
+<Turn speaker="spk2" startTime="28.963" endTime="30.712">
+<Sync time="28.963"/>
+a przed dziesiątą <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="30.712" endTime="33.085">
+<Sync time="30.712"/>
+dziesiąta trzy<Event desc="~" type="lexical" extent="begin"/>dzieści<Event desc="~" type="lexical" extent="end"/> a przed to ma być przed dziesią<Event desc="~" type="lexical" extent="begin"/>tą<Event desc="~" type="lexical" extent="end"/> 
+</Turn>
+<Turn speaker="spk2" startTime="33.085" endTime="34.356">
+<Sync time="33.085"/>
+<Event desc="babble" type="noise" extent="begin"/> przed <Event desc="babble" type="noise" extent="end"/> dziesiątą <Event desc="filler" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="34.356" endTime="36.257">
+<Sync time="34.356"/>
+dziewiąta pięćdziesiąt siedem
+</Turn>
+<Turn speaker="spk2" startTime="36.257" endTime="39.505">
+<Sync time="36.257"/>
+ dziewiąta pięćdziesiąt siedem dobrze dobrze no to dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.505" endTime="40.836">
+<Sync time="39.505"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+proszę bardzo do widzenia
+</Turn>
+<Turn startTime="40.836" endTime="41.997">
+<Sync time="40.836"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

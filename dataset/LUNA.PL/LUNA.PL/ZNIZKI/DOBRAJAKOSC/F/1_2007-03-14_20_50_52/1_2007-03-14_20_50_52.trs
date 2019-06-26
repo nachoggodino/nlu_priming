@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_20_50_52" version="4" version_date="080113">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="45.267" topic="to1">
+<Turn startTime="0" endTime="1.25050543162">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.25050543162" endTime="3.781">
+<Sync time="1.25050543162"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobry wieczór xxx słucham 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.781" endTime="24.664">
+<Sync time="3.781"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+ja mam
+<Event desc="*" type="pronounce" extent="end"/>
+ takie pytanie 
+<Event desc="int" type="noise" extent="next"/>
+bo 
+<Event desc="*" type="pronounce" extent="begin"/>
+dowiedziałam
+<Event desc="*" type="pronounce" extent="end"/>
+ się w
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+aśnie jestem w sumie doktorantką 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ że obowiązuje 
+<Event desc="*" type="pronounce" extent="begin"/>
+mnie
+<Event desc="*" type="pronounce" extent="end"/>
+ czterdziestoośmioprocentowa zniżka na 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+M Z K
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ i teraz mam takie 
+<Event desc="noise" type="noise" extent="end"/>
+ pytanie bo ja właściwie ukończy
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am studia doktoranckie dostanę świadectwo ukończenia tych studiów ale praktycznie zostało mi pisanie pracy doktorskiej i teraz mi już legitymacji nie 
+<Event desc="*" type="pronounce" extent="begin"/>
+podbijają
+<Event desc="*" type="pronounce" extent="end"/>
+ czy dalej mogę korzystać z tej zniżki 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.664" endTime="29.64">
+<Sync time="24.664"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy proszę pani ta zniżka przysługuje 
+<Event desc="babble" type="noise" extent="begin"/>
+ uczestnikom studiów doktoranckich 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="29.64" endTime="29.96">
+<Sync time="29.64"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.96" endTime="34.401">
+<Sync time="29.96"/>
+ona przys
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+uguje 
+<Event desc="babble" type="noise" extent="begin"/>
+ właśnie na podstawie legitymacji 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ jeśli nie ma pani legitymacji to niestety 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="34.401" endTime="39.491">
+<Sync time="34.401"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ czyli jeżeli 
+<Event desc="noise" type="noise" extent="end"/>
+ mam 
+<Event desc="babble" type="noise" extent="begin"/>
+ po prostu 
+<Event desc="babble" type="noise" extent="end"/>
+ nie podbijaną bo już studia ukończyłam ale jeszcze piszę pracę doktorską to już chyba raczej nie 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="39.491" endTime="41.112">
+<Sync time="39.491"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to już 
+<Event desc="babble" type="noise" extent="end"/>
+ nie 
+<Event desc="noise" type="noise" extent="begin"/>
+ przysługuje niestety 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="41.112" endTime="42.106">
+<Sync time="41.112"/>
+aha 
+<Event desc="noise" type="noise" extent="begin"/>
+ no to dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="42.106" endTime="42.928">
+<Sync time="42.106"/>
+<Who nb="1"/>
+ślicznie do widzenia
+<Who nb="2"/>
+bardzo proszę
+</Turn>
+<Turn speaker="spk1" startTime="42.928" endTime="43.555">
+<Sync time="42.928"/>
+do usłyszenia
+</Turn>
+<Turn startTime="43.555" endTime="45.267">
+<Sync time="43.555"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

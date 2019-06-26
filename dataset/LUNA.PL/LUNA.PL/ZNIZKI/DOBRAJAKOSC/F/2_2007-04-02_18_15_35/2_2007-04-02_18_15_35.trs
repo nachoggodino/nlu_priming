@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-02_18_15_35" version="2" version_date="070727">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="19.999" topic="to1">
+<Turn startTime="0" endTime="0.591">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.591" endTime="2.453">
+<Sync time="0.591"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry xxx <Event desc="*" type="pronounce" extent="begin"/>w czym<Event desc="*" type="pronounce" extent="end"/> mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="2.453" endTime="7.354">
+<Sync time="2.453"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry panu chcia<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>am się dowiedzieć do i<Event desc="~" type="lexical" extent="instantaneous"/> do jakiego wieku dzieci nie płacą za przejazdy <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="7.354" endTime="11.549">
+<Sync time="7.354"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pani do <Event desc="filler" type="lexical" extent="instantaneous"/> pierwszego września roku w którym którym kończą siódmy rok życia
+</Turn>
+<Turn speaker="spk2" startTime="11.549" endTime="13.412">
+<Sync time="11.549"/>
+aha <Event desc="*" type="pronounce" extent="begin"/>czyli<Event desc="*" type="pronounce" extent="end"/> do siedmiu lat jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> zwolnienie 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="13.412" endTime="13.825">
+<Sync time="13.412"/>
+<Who nb="1"/>
+z opłaty
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="13.825" endTime="15.283">
+<Sync time="13.825"/>
+tak <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> dobrze dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="15.283" endTime="15.624">
+<Sync time="15.283"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="15.624" endTime="15.926">
+<Sync time="15.624"/>
+<Event desc="babble" type="noise" extent="begin"/> bardzo <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="15.926" endTime="19.999">
+<Sync time="15.926"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

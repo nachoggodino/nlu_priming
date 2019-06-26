@@ -1,0 +1,24 @@
+<Turns>
+  <Turn id="1" speaker="spk1" startTime="0.406" endTime="2.193" words="word_1..word_4" />
+  <Turn id="2" speaker="spk2" startTime="2.193" endTime="11.845" words="word_5..word_32" />
+  <Turn id="3" speaker="spk1" startTime="11.845" endTime="13.958" words="word_33..word_38" />
+  <Turn id="4" speaker="spk1" startTime="13.958" endTime="15.074" words="word_39..word_42" />
+  <Turn id="5" speaker="spk2" startTime="13.958" endTime="15.074" words="word_43..word_44" />
+  <Turn id="6" speaker="spk2" startTime="15.074" endTime="15.893" words="word_45" />
+  <Turn id="7" speaker="spk1" startTime="15.893" endTime="19.169" words="word_46..word_56" />
+  <Turn id="8" speaker="spk2" startTime="19.169" endTime="20.765" words="word_57..word_59" />
+  <Turn id="9" speaker="spk1" startTime="20.765" endTime="25.085" words="word_60..word_67" />
+  <Turn id="10" speaker="spk2" startTime="25.085" endTime="26.009" words="empty" />
+  <Turn id="11" speaker="spk1" startTime="26.009" endTime="27.741" words="word_68..word_69" />
+  <Turn id="12" speaker="spk2" startTime="27.741" endTime="28.07" words="empty" />
+  <Turn id="13" speaker="spk1" startTime="28.07" endTime="30.285" words="word_70..word_71" />
+  <Turn id="14" speaker="spk2" startTime="30.285" endTime="30.951" words="empty" />
+  <Turn id="15" speaker="spk1" startTime="30.285" endTime="30.951" words="word_72" />
+  <Turn id="16" speaker="spk1" startTime="30.951" endTime="32.676" words="word_73" />
+  <Turn id="17" speaker="spk2" startTime="32.676" endTime="33.308" words="empty" />
+  <Turn id="18" speaker="spk1" startTime="32.676" endTime="33.308" words="word_74" />
+  <Turn id="19" speaker="spk1" startTime="33.308" endTime="35.538" words="word_75..word_78" />
+  <Turn id="20" speaker="spk2" startTime="35.538" endTime="36.767" words="word_79..word_80" />
+  <Turn id="21" speaker="spk1" startTime="36.767" endTime="37.804" words="word_81..word_84" />
+  <Turn id="22" speaker="spk2" startTime="36.767" endTime="37.804" words="word_85..word_86" />
+</Turns>

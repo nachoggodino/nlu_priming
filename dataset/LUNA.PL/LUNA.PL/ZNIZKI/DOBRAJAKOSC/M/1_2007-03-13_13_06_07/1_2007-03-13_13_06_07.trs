@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-13_13_06_07" version="4" version_date="091207">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="39.998" topic="to1">
+<Turn startTime="0" endTime="0.620620766749">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.620" endTime="1.934">
+<Sync time="0.620"/>
+xxx dzień dobry 
+</Turn>
+<Turn speaker="spk2" startTime="1.934" endTime="28.262">
+<Sync time="1.934"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry xxx z tej strony się kłania chcia
+<Event desc="~" type="lexical" extent="begin"/>
+łe
+<Event desc="~" type="lexical" extent="end"/>
+m się o jedną rzecz zapytać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ m
+<Event desc="~" type="lexical" extent="begin"/>
+n
+<Event desc="~" type="lexical" extent="end"/>
+ie teraz nastraszono 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie wiem nie jestem pewien 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ według regulaminu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ taryf wynika z tego że studenci w Warszawie jeżdżą właśnie na pięćdziesięcioprocentowym 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pięćdziesięcioprocentowej uldze chcia
+<Event desc="~" type="lexical" extent="begin"/>
+łe
+<Event desc="~" type="lexical" extent="end"/>
+m się zapytać czy wszyscy studenci 
+<Event desc="*" type="pronounce" extent="begin"/>
+czy tylko
+<Event desc="*" type="pronounce" extent="end"/>
+ ci do dwudziestego szóstego roku życia
+</Turn>
+<Turn speaker="spk1" startTime="28.262" endTime="33.795">
+<Sync time="28.262"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy wszyscy studenci studiów pierwszego i drugiego stopnia uczelni polskich bez względu na wiek
+</Turn>
+<Turn speaker="spk2" startTime="33.795" endTime="34.917">
+<Sync time="33.795"/>
+aha dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="34.917" endTime="36.345">
+<Sync time="34.917"/>
+<Who nb="1"/>
+uspokoił mnie pan 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="36.345" endTime="36.891">
+<Sync time="36.345"/>
+dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="36.891" endTime="38.348">
+<Sync time="36.891"/>
+<Who nb="1"/>
+ślicznie do widzenia
+<Who nb="2"/>
+proszę do widzenia
+</Turn>
+<Turn startTime="38.348" endTime="39.998">
+<Sync time="38.348"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

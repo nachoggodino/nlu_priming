@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-18_21_13_41" version="3" version_date="071227">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="66.996" topic="to1">
+<Turn startTime="0" endTime="0.37">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.37" endTime="1.794">
+<Sync time="0.37"/>
+dzień dobry xxx
+</Turn>
+<Turn speaker="spk2" startTime="1.794" endTime="12.193">
+<Sync time="1.794"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pani mam pytanie jakim 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czym w ogóle dojechać 
+<Event desc="noise" type="noise" extent="begin"/>
+ na ulicę Annopol cztery 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ spod 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Placu Zawiszy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.193" endTime="13.713">
+<Sync time="12.193"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ z Placu Zawiszy tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="13.713" endTime="17.889">
+<Sync time="13.713"/>
+tak albo albo gdzieś tam w okolicach właśnie 
+<Event desc="noise" type="noise" extent="begin"/>
+ Placu Zawiszy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.889" endTime="22.121">
+<Sync time="17.889"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jedynka jedzie do Annopolu
+</Turn>
+<Turn speaker="spk2" startTime="22.121" endTime="25.843">
+<Sync time="22.121"/>
+chodzi mi o taki numer Annopol cztery 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+A
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ gdzieś tam 
+<Event desc="*" type="pronounce" extent="begin"/>
+właśnie
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.843" endTime="29.777">
+<Sync time="25.843"/>
+to 
+<Event desc="*" type="pronounce" extent="begin"/>
+tam
+<Event desc="*" type="pronounce" extent="end"/>
+ tak jak mówię do Annopolu je
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+jedzie
+<Event desc="*" type="pronounce" extent="end"/>
+ tramwaj numer jeden
+</Turn>
+<Turn speaker="spk2" startTime="29.777" endTime="31.273">
+<Sync time="29.777"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.273" endTime="42.908">
+<Sync time="31.273"/>
+i może pan 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="int" type="noise" extent="next"/>
+jedynka 
+<Event desc="int" type="noise" extent="next"/>
+trójka i dwadzieścia trzy tam dojeżdża z tram
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ tramwai i jeszcze jedzie proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tramwaj dwadzieścia pięć pan będzie miał bo pan z Placu
+</Turn>
+<Turn speaker="spk2" startTime="42.908" endTime="43.851">
+<Sync time="42.908"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ pięć 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Zawiszy
+</Turn>
+<Turn speaker="spk1" startTime="43.851" endTime="56.761">
+<Sync time="43.851"/>
+Zawiszy tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to tramwaj tramwajem numer dwadzieścia pięć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ on jedzie proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Okęcia więc może pan wsiąść na 
+<Event desc="babble" type="noise" extent="begin"/>
+ Placu 
+<Event desc="babble" type="noise" extent="end"/>
+ Zawiszy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i on będzie jechał ulicą Annopol
+</Turn>
+<Turn speaker="spk2" startTime="56.761" endTime="58.247">
+<Sync time="56.761"/>
+a będzie jechał ulicą Annopol tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="58.247" endTime="62.205">
+<Sync time="58.247"/>
+tak i on kończy na Żeraniu Wschodnim więc 
+<Event desc="babble" type="noise" extent="begin"/>
+ tramwaj 
+<Event desc="babble" type="noise" extent="end"/>
+ dwadzieścia pięć będzie najlepszy
+</Turn>
+<Turn speaker="spk2" startTime="62.205" endTime="63.532">
+<Sync time="62.205"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ bardzo dziękuję 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ pani 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="63.532" endTime="65.088">
+<Sync time="63.532"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ bardzo proszę 
+<Event desc="babble" type="noise" extent="end"/>
+ do widzenia
+</Turn>
+<Turn startTime="65.088" endTime="66.996">
+<Sync time="65.088"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

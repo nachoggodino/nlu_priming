@@ -1,0 +1,41 @@
+<Frames>
+  <Set id="1" subset="1" span="word_11" frame="TOPIC" head="zapytać">
+    <Frame fe="1" span="word_14..word_17" concept_id="6" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="1" span="word_19" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_20..word_21" concept_id="8" name="SOURCE" />
+    <Frame fe="2" span="word_27..word_29" concept_id="11" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_23" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_24..word_26" concept_id="10" name="PLACE" />
+  </Set>
+  <Set id="4" subset="1" span="word_37" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_36" concept_id="16" name="THEME" />
+    <Frame fe="2" span="word_38" concept_id="18" name="POSITION" />
+    <Frame fe="3" span="word_39..word_41" concept_id="19" name="PLACE" />
+  </Set>
+  <Set id="5" subset="1" span="word_43" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_44..word_45" concept_id="21" name="PATH" />
+  </Set>
+  <Set id="6" subset="1" span="word_65" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_63" concept_id="29" name="THEME" />
+  </Set>
+  <Set id="7" subset="2" span="word_75" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_73..word_74" concept_id="36" name="PLACE" />
+    <Frame fe="2" span="word_76" concept_id="38" name="ENTITY" />
+    <Frame fe="3" span="word_78..word_79" concept_id="40" name="ENTITY" />
+  </Set>
+  <Set id="8" subset="1" span="word_99" frame="DEPARTING" head="odjeżdżać">
+    <Frame fe="1" span="word_88..word_90" concept_id="45" name="SOURCE" />
+    <Frame fe="2" span="word_92..word_94" concept_id="46" name="TIME" />
+    <Frame fe="3" span="word_95..word_97" concept_id="47" name="TIME" />
+    <Frame fe="4" span="word_98" concept_id="48" name="THEME" />
+  </Set>
+  <Set id="9" subset="1" span="word_108" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_107" concept_id="54" name="TIME" />
+    <Frame fe="2" span="word_109..word_111" concept_id="56" name="TIME" />
+  </Set>
+  <Set id="10" subset="1" span="word_114" frame="STATEMENT" head="mówić">
+    <Frame fe="1" span="word_117..word_119" concept_id="58" name="MESSAGE" />
+  </Set>
+</Frames>

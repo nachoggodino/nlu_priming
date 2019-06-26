@@ -1,0 +1,62 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_9" attribute="ACTION" value="Tell" />
+  <concept id="5" span="word_11..word_12" attribute="SOURCE_TD" value="Śródmieście" />
+  <concept id="6" span="word_15" attribute="Q_WHERE" value="TRMStartPoint" />
+  <concept id="7" span="word_16" attribute="ACTION" value="Go" />
+  <concept id="8" span="word_18" attribute="TRAM" value="General" />
+  <concept id="9" span="word_20" attribute="ACTION" value="Go" />
+  <concept id="10" span="word_21" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="11" span="word_22..word_24" attribute="PATH_STR" value="Aleja Zieleniecka" />
+  <concept id="12" span="word_28" attribute="ACTION" value="Approach" />
+  <concept id="13" span="word_29..word_31" attribute="GOAL_BLD" value="Teatr Powszechny" />
+  <concept id="14" span="word_32" attribute="LOCATION_REL" value="There" />
+  <concept id="15" span="word_33..word_34" attribute="LOCATION_TD" value="Praga" />
+  <concept id="16" span="word_36..word_38" attribute="SOURCE_STR" value="Aleje Jerozolimskie" />
+  <concept id="17" span="word_39" attribute="ACTION" value="ToBe" />
+  <concept id="18" span="word_40" attribute="TRAM" value="7" />
+  <concept id="19" span="word_41" attribute="TRAM" value="8" />
+  <concept id="20" span="word_42..word_43" attribute="TRAM" value="25" />
+  <concept id="21" span="word_45..word_46" attribute="TRAM" value="43" />
+  <concept id="22" span="word_47" attribute="REACTION" value="Confirmation" />
+  <concept id="23" span="word_49" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="24" span="word_50" attribute="ACTION" value="ToTurn" />
+  <concept id="25" span="word_51..word_52" attribute="GOAL_STR" value="Aleja Zieleniecka" />
+  <concept id="26" span="word_54" attribute="REACTION" value="Confirmation" />
+  <concept id="27" span="word_55..word_57" attribute="SOURCE_STR" value="Rondo Waszyngtona" />
+  <concept id="28" span="word_58" attribute="TRAM" value="7" />
+  <concept id="29" span="word_59" attribute="TRAM" value="8" />
+  <concept id="30" span="word_60" attribute="TRAM" value="9" />
+  <concept id="31" span="word_61" attribute="TRAM" value="7" />
+  <concept id="32" span="word_62" attribute="TRAM" value="8" />
+  <concept id="33" span="word_63..word_64" attribute="TRAM" value="25" />
+  <concept id="34" span="word_65" attribute="TRAM" value="7" />
+  <concept id="35" span="word_66" attribute="TRAM" value="8" />
+  <concept id="36" span="word_72" attribute="TRAM" value="7" />
+  <concept id="37" span="word_73" attribute="TRAM" value="8" />
+  <concept id="38" span="word_75..word_76" attribute="TRAM" value="25" />
+  <concept id="39" span="word_78..word_79" attribute="TRAM" value="43" />
+  <concept id="40" span="word_80..word_81" attribute="TRAM" value="43" />
+  <concept id="41" span="word_83..word_85" attribute="SOURCE_STR" value="Plac Bankowy" />
+  <concept id="42" span="word_86" attribute="ACTION" value="Go" />
+  <concept id="43" span="word_87" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="44" span="word_89" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="45" span="word_92..word_94" attribute="SOURCE_STR" value="Plac Bankowy" />
+  <concept id="46" span="word_95..word_97" attribute="PATH_STR" value="Trasa WZ" />
+  <concept id="47" span="word_98..word_99" attribute="TRAM" value="26" />
+  <concept id="48" span="word_101..word_103" attribute="PATH_STR" value="Trasa WZ" />
+  <concept id="49" span="word_105" attribute="ACTION" value="ToTurn" />
+  <concept id="50" span="word_106" attribute="TIME_REL" value="Later" />
+  <concept id="51" span="word_108..word_109" attribute="GOAL_STR" value="Targowa" />
+  <concept id="52" span="word_111" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="53" span="word_112" attribute="REACTION" value="Negation" />
+  <concept id="54" span="word_114..word_115" attribute="GOAL_STR" value="Targowa" />
+  <concept id="55" span="word_116" attribute="ACTION" value="ToTurn" />
+  <concept id="56" span="word_117" attribute="REACTION" value="Confirmation" />
+  <concept id="57" span="word_118" attribute="REACTION" value="Confirmation" />
+  <concept id="58" span="word_119..word_120" attribute="TRAM" value="26" />
+  <concept id="59" span="word_122..word_123" attribute="CONV_FORM" value="BYE" />
+  <concept id="60" span="word_125..word_126" attribute="CONV_FORM" value="BYE" />
+</concepts>

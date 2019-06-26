@@ -1,0 +1,32 @@
+<Frames>
+  <Set id="1" subset="1" span="word_15" frame="ARRIVING" head="dotrzeć">
+    <Frame fe="1" span="word_16..word_18" concept_id="6" name="SOURCE" />
+    <Frame fe="2" span="word_19..word_20" concept_id="7" name="GOAL" />
+    <Frame fe="3" span="word_22,word_23" concept_id="8,9" name="MANNER" />
+  </Set>
+  <Set id="2" subset="1" span="word_29" frame="ARRIVING" head="dotrzeć">
+    <Frame fe="1" span="word_26" concept_id="10" name="MANNER" />
+  </Set>
+  <Set id="3" subset="1" span="word_41" frame="ARRIVING" head="dotrzeć">
+    <Frame fe="1" span="word_34..word_36" concept_id="15" name="SOURCE" />
+    <Frame fe="2" span="word_37..word_38" concept_id="16" name="GOAL" />
+    <Frame fe="3" span="word_42" concept_id="19" name="MANNER" />
+  </Set>
+  <Set id="4" subset="1" span="word_51" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_47" concept_id="21" name="MANNER" />
+    <Frame fe="2" span="word_49..word_50" concept_id="22" name="MODE_OF_TRANSPORTATION" />
+  </Set>
+  <Set id="5" subset="1" span="word_63" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_60" concept_id="28" name="ENTITY" />
+    <Frame fe="2" span="word_64..word_66" concept_id="31" name="PLACE" />
+  </Set>
+  <Set id="6" subset="1" span="word_77" frame="SELF_MOTION" head="przejść">
+    <Frame fe="1" span="word_74..word_75" concept_id="34" name="GOAL" />
+  </Set>
+  <Set id="7" subset="1" span="word_96" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_98" concept_id="45" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="8" subset="1" span="word_103" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_100..word_101" concept_id="47" name="ENTITY" />
+  </Set>
+</Frames>

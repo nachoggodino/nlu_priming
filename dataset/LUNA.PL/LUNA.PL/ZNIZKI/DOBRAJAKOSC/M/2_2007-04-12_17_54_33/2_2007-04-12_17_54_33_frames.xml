@@ -1,0 +1,12 @@
+<Frames>
+  <Set id="1" subset="1" span="word_16" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_17..word_20" concept_id="5" name="TITLE" />
+  </Set>
+  <Set id="2" subset="1" span="word_22" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_23" concept_id="7" name="PRIVILEGE" />
+    <Frame fe="2" span="word_24..word_25" concept_id="8" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="3" subset="1" span="word_29" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_33..word_34" concept_id="11" name="POSSESSION" />
+  </Set>
+</Frames>

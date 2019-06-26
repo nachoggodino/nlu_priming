@@ -1,0 +1,162 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_11..word_12" attribute="LOCATION_REL" value="SamePlace" />
+  <concept id="4" span="word_13" attribute="ACTION" value="ToBe" />
+  <concept id="5" span="word_14..word_15" attribute="STOP_DESCRIPTION" value="Stokłosy Metro" />
+  <concept id="6" span="word_16" attribute="REACTION" value="Confirmation" />
+  <concept id="7" span="word_17" attribute="ACTION" value="Go" />
+  <concept id="8" span="word_19" attribute="BUS" value="General" />
+  <concept id="9" span="word_21" attribute="ACTION" value="Go" />
+  <concept id="10" span="word_22" attribute="PATH_STR" value="Puławska" />
+  <concept id="11" span="word_24" attribute="REACTION" value="Negation" />
+  <concept id="12" span="word_26..word_27" attribute="Q_WHAT_NUMB" value="General" />
+  <concept id="13" span="word_28..word_30" attribute="LINE_TYPE" value="Quick" />
+  <concept id="14" span="word_31" attribute="NUM_BUS_PART" value="500" />
+  <concept id="15" span="word_32" attribute="NUM_BUS_PART" value="500" />
+  <concept id="16" span="word_33" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="17" span="word_34" attribute="ACTION" value="Go" />
+  <concept id="18" span="word_35" attribute="LOCATION_REL" value="There" />
+  <concept id="19" span="word_39..word_40" attribute="GOAL_STR" value="Puławska" />
+  <concept id="20" span="word_41" attribute="TIME_REL" value="Later" />
+  <concept id="21" span="word_42" attribute="ACTION" value="Go" />
+  <concept id="22" span="word_45" attribute="ACTION" value="ToBe" />
+  <concept id="23" span="word_46..word_47" attribute="BUS" value="505" />
+  <concept id="24" span="word_49..word_50" attribute="BUS" value="504" />
+  <concept id="25" span="word_52" attribute="ACTION" value="Go" />
+  <concept id="26" span="word_53" attribute="PATH_STR" value="Pileckiego" />
+  <concept id="27" span="word_56" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="28" span="word_58..word_59" attribute="GOAL_STP" value="Metro Stokłosy" />
+  <concept id="29" span="word_60" attribute="REACTION" value="Negation" />
+  <concept id="30" span="word_61" attribute="ACTION" value="Go" />
+  <concept id="31" span="word_62" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="32" span="word_63" attribute="STOP_DESCRIPTION" value="Metro Stokłosy" />
+  <concept id="33" span="word_67" attribute="ACTION" value="Go" />
+  <concept id="34" span="word_68..word_69" attribute="PATH_STP" value="Metro Stokłosy" />
+  <concept id="35" span="word_70" attribute="LOCATION_REL" value="There" />
+  <concept id="36" span="word_73" attribute="ROUTE_ELEM" value="Turn" />
+  <concept id="37" span="word_75" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="38" span="word_76" attribute="ACTION" value="Go" />
+  <concept id="39" span="word_78" attribute="ACTION" value="Concern" />
+  <concept id="40" span="word_82..word_83" attribute="GOAL_STR" value="Maryli" />
+  <concept id="41" span="word_85" attribute="LOCATION_REL" value="There" />
+  <concept id="42" span="word_86" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="43" span="word_88..word_89" attribute="CONNECTION_F" value="Quicker" />
+  <concept id="44" span="word_90" attribute="ACTION" value="ToBe" />
+  <concept id="45" span="word_91..word_93" attribute="GOAL_STR" value="Maryli" />
+  <concept id="46" span="word_95" attribute="REACTION" value="Confirmation" />
+  <concept id="47" span="word_97" attribute="REACTION" value="Confirmation" />
+  <concept id="48" span="word_101" attribute="ACTION" value="ToBe" />
+  <concept id="49" span="word_102..word_104" attribute="BUS" value="715" />
+  <concept id="50" span="word_108..word_109" attribute="BUS" value="715" />
+  <concept id="51" span="word_110" attribute="REACTION" value="Confirmation" />
+  <concept id="52" span="word_111..word_115" attribute="GOAL_STP" value="Łagiewnicka" />
+  <concept id="53" span="word_116" attribute="REACTION" value="Confirmation" />
+  <concept id="54" span="word_122" attribute="ACTION" value="Tell" />
+  <concept id="55" span="word_124" attribute="LOCATION_REL" value="There" />
+  <concept id="56" span="word_126" attribute="ACTION" value="ToBe" />
+  <concept id="57" span="word_127..word_128" attribute="AT_HOUR" value="3 : 00" />
+  <concept id="58" span="word_139" attribute="LOCATION_REL" value="There" />
+  <concept id="59" span="word_140" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="60" span="word_141..word_142" attribute="TRANSPORT_RATE_REL" value="NoFreq" />
+  <concept id="61" span="word_143" attribute="ACTION" value="Go" />
+  <concept id="62" span="word_145" attribute="NUM_BUS_PART" value="700" />
+  <concept id="63" span="word_146" attribute="REACTION" value="Confirmation" />
+  <concept id="64" span="word_147..word_148" attribute="REACTION" value="Confirmation" />
+  <concept id="65" span="word_150" attribute="ACTION" value="Need" />
+  <concept id="66" span="word_151" attribute="ACTION" value="ToBe" />
+  <concept id="67" span="word_152..word_153" attribute="AT_HOUR" value="3 : 00" />
+  <concept id="68" span="word_154..word_155" attribute="GOAL_STR" value="Łagiewnicka" />
+  <concept id="69" span="word_156" attribute="Q_CONF" value="IsIt" />
+  <concept id="70" span="word_158" attribute="REACTION" value="Confirmation" />
+  <concept id="71" span="word_161" attribute="ACTION" value="ToBe" />
+  <concept id="72" span="word_162" attribute="TIME_REL" value="Now" />
+  <concept id="73" span="word_163..word_164" attribute="LOCATION_STR" value="Plac Politechniki" />
+  <concept id="74" span="word_166" attribute="ACTION" value="GetIn" />
+  <concept id="75" span="word_168" attribute="METRO" value="General" />
+  <concept id="76" span="word_169" attribute="ACTION" value="Go" />
+  <concept id="77" span="word_170..word_172" attribute="GOAL_STP" value="Metro Stokłosy" />
+  <concept id="78" span="word_177" attribute="ACTION" value="ToBe" />
+  <concept id="79" span="word_178" attribute="BUS" value="General" />
+  <concept id="80" span="word_179..word_180" attribute="AT_HOUR" value="14 : 17" />
+  <concept id="81" span="word_182" attribute="ACTION" value="Count" />
+  <concept id="82" span="word_185..word_187" attribute="RIDE_DURATION_M" value="12" />
+  <concept id="83" span="word_188" attribute="ACTION" value="Go" />
+  <concept id="84" span="word_189" attribute="TIME_REL" value="OnTime" />
+  <concept id="85" span="word_190..word_191" attribute="Q_DEPARTURE" value="Later" />
+  <concept id="86" span="word_195" attribute="ACTION" value="ToBe" />
+  <concept id="87" span="word_197..word_198" attribute="AT_HOUR" value="15 : 07" />
+  <concept id="88" span="word_201..word_203" attribute="ACTION" value="BeLate" />
+  <concept id="89" span="word_205..word_206" attribute="AT_HOUR" value="14 : 17" />
+  <concept id="90" span="word_207" attribute="REACTION" value="Confirmation" />
+  <concept id="91" span="word_212" attribute="ACTION" value="GetOut" />
+  <concept id="92" span="word_213" attribute="TIME_REL" value="Earlier" />
+  <concept id="93" span="word_214..word_216" attribute="LOCATION_STP" value="Metro Wilanowska" />
+  <concept id="94" span="word_218..word_220" attribute="SOURCE_STP" value="Metro Wilanowska" />
+  <concept id="95" span="word_221" attribute="ACTION" value="ToHave" />
+  <concept id="96" span="word_222..word_224" attribute="BUS" value="709" />
+  <concept id="97" span="word_226..word_228" attribute="BUS" value="727" />
+  <concept id="98" span="word_229" attribute="REACTION" value="Confirmation" />
+  <concept id="99" span="word_231" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="100" span="word_233" attribute="ACTION" value="Approach" />
+  <concept id="101" span="word_234..word_236" attribute="GOAL_STP" value="Łagiewnicka" />
+  <concept id="102" span="word_239" attribute="Q_HOW_LONG" value="General" />
+  <concept id="103" span="word_240" attribute="ACTION" value="Go" />
+  <concept id="104" span="word_242" attribute="Q_CONF" value="IsIt" />
+  <concept id="105" span="word_245" attribute="ACTION" value="Check" />
+  <concept id="106" span="word_246..word_247" attribute="GOAL_STR" value="Łagiewnicka" />
+  <concept id="107" span="word_248" attribute="ACTION" value="Go" />
+  <concept id="108" span="word_249..word_251" attribute="RIDE_DURATION_M" value="18" />
+  <concept id="109" span="word_257" attribute="REACTION" value="Negation" />
+  <concept id="110" span="word_271" attribute="ACTION" value="ToBe" />
+  <concept id="111" span="word_272..word_275" attribute="AT_HOUR" value="2 : 30" />
+  <concept id="112" span="word_276" attribute="REACTION" value="Confirmation" />
+  <concept id="113" span="word_279" attribute="ACTION" value="ToHave" />
+  <concept id="114" span="word_280" attribute="LOCATION_REL" value="There" />
+  <concept id="115" span="word_282..word_283" attribute="BUS" value="709" />
+  <concept id="116" span="word_285..word_287" attribute="BUS" value="727" />
+  <concept id="117" span="word_292..word_294" attribute="BUS" value="727" />
+  <concept id="118" span="word_295" attribute="ACTION" value="ToBe" />
+  <concept id="119" span="word_296..word_298" attribute="AT_HOUR" value="14 : 29" />
+  <concept id="120" span="word_299..word_300" attribute="DEPARTURE" value="Next" />
+  <concept id="121" span="word_302" attribute="ACTION" value="ToBe" />
+  <concept id="122" span="word_303..word_304" attribute="AT_HOUR_MINPART" value="53" />
+  <concept id="123" span="word_307" attribute="REACTION" value="Confirmation" />
+  <concept id="124" span="word_309..word_310" attribute="BUS" value="709" />
+  <concept id="125" span="word_311" attribute="ACTION" value="ToBe" />
+  <concept id="126" span="word_313..word_315" attribute="AT_HOUR" value="14 : 32" />
+  <concept id="127" span="word_316" attribute="DEPARTURE" value="Next" />
+  <concept id="128" span="word_317..word_319" attribute="AT_HOUR" value="14 : 38" />
+  <concept id="129" span="word_321" attribute="REACTION" value="Confirmation" />
+  <concept id="130" span="word_324..word_325" attribute="AT_HOUR_MINPART" value="38" />
+  <concept id="131" span="word_327..word_328" attribute="AT_HOUR_MINPART" value="38" />
+  <concept id="132" span="word_330" attribute="ACTION" value="ToBe" />
+  <concept id="133" span="word_332" attribute="CONNECTION_F" value="Best" />
+  <concept id="134" span="word_337..word_339" attribute="SOURCE_STP" value="Metro Stokłosy" />
+  <concept id="135" span="word_341..word_342" attribute="BUS" value="715" />
+  <concept id="136" span="word_343..word_344" attribute="Q_HOW_LONG" value="RideTime" />
+  <concept id="137" span="word_345" attribute="ACTION" value="Go" />
+  <concept id="138" span="word_346..word_348" attribute="GOAL_STR" value="Łagiewnicka" />
+  <concept id="139" span="word_350..word_351" attribute="RIDE_DURATION_M" value="12" />
+  <concept id="140" span="word_354..word_355" attribute="TIME_SPAN" value="6 min" />
+  <concept id="141" span="word_357" attribute="REACTION" value="Confirmation" />
+  <concept id="142" span="word_369" attribute="REACTION" value="Confirmation" />
+  <concept id="143" span="word_374..word_375" attribute="SOURCE_STP" value="Metro Politechnika" />
+  <concept id="144" span="word_376..word_377" attribute="GOAL_STP" value="Metro Stokłosy" />
+  <concept id="145" span="word_379" attribute="ACTION" value="Go" />
+  <concept id="146" span="word_380..word_381" attribute="RIDE_DURATION_M" value="15" />
+  <concept id="147" span="word_382" attribute="METRO" value="General" />
+  <concept id="148" span="word_385" attribute="ACTION" value="Check" />
+  <concept id="149" span="word_386" attribute="STOP_DESCRIPTION" value="Metro Politechnika" />
+  <concept id="150" span="word_387..word_389" attribute="GOAL_STP" value="Metro Stokłosy" />
+  <concept id="151" span="word_392..word_393" attribute="RIDE_DURATION_M" value="12" />
+  <concept id="152" span="word_396" attribute="REACTION" value="Confirmation" />
+  <concept id="153" span="word_398" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="154" span="word_400" attribute="ACTION" value="Go" />
+  <concept id="155" span="word_401" attribute="TIME_REL" value="Now" />
+  <concept id="156" span="word_402" attribute="TRANSPORT_RATE_REL" value="Freq" />
+  <concept id="157" span="word_403..word_405" attribute="TIME_REL" value="AtThisTime" />
+  <concept id="158" span="word_406" attribute="Q_CONF" value="IsIt" />
+  <concept id="159" span="word_409" attribute="REACTION" value="Confirmation" />
+  <concept id="160" span="word_410..word_413" attribute="TRANSPORT_RATE" value="3 - 4 min" />
+</concepts>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_14_53_44" version="4" version_date="071227">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="57.996" topic="to1">
+<Turn startTime="0" endTime="1.031">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.031" endTime="2.826">
+<Sync time="1.031"/>
+dzień dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.826" endTime="11.784">
+<Sync time="2.826"/>
+dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana chciałem się 
+<Event desc="int" type="noise" extent="next"/>
+dowiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy ja dobrze zadzwoniłem nie wiem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Warszawy do Jabłonnej to skąd autobusy odjeżdżają 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.784" endTime="15.191">
+<Sync time="11.784"/>
+siedemset dwadzieścia trzy z Żerania 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+F S O
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.191" endTime="17.465">
+<Sync time="15.191"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ siedemset dwadzieścia trzy Żerań 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.465" endTime="18.396">
+<Sync time="17.465"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="18.396" endTime="25.19">
+<Sync time="18.396"/>
+aha a jak ja z Pragi to jak 
+<Event desc="noise" type="noise" extent="begin"/>
+ mogę móc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ tam z na 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ z Pragi nie ma 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ żadnego 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.19" endTime="28.206">
+<Sync time="25.19"/>
+tylko z Żerania musi pan na Żerań dojechać i stamtąd 
+</Turn>
+<Turn speaker="spk2" startTime="28.206" endTime="31.483">
+<Sync time="28.206"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ a z Pragi do Żerania to jakie tam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ są autobu
+<Event desc="~" type="lexical" extent="begin"/>
+sy
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.483" endTime="34.72">
+<Sync time="31.483"/>
+sto jeden sto czterdzieści cztery 
+<Event desc="babble" type="noise" extent="begin"/>
+ pięćset dziewięć 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="34.72" endTime="38.489">
+<Sync time="34.72"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ czterdzieści cztery pięćset 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ i one skąd tu pod Dworcem 
+<Event desc="noise" type="noise" extent="begin"/>
+ Wileńskim gdzieś jeżdżą 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.489" endTime="39.406">
+<Sync time="38.489"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="39.406" endTime="40.789">
+<Sync time="39.406"/>
+od Dworca Wileńskiego tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.789" endTime="43.328">
+<Sync time="40.789"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+zna
+<Event desc="~" type="lexical" extent="end"/>
+czy mają przystanek przy Dworcu Wileńskim
+</Turn>
+<Turn speaker="spk2" startTime="43.328" endTime="49.359">
+<Sync time="43.328"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha a proszę pana a ten 
+<Event desc="*" type="pronounce" extent="begin"/>
+siedemset
+<Event desc="*" type="pronounce" extent="end"/>
+ dwadzieścia trzy na Żeraniu to on tam w którym miejscu jest tam 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ będzie 
+<Event desc="babble" type="noise" extent="end"/>
+ wiadomo gdzieś 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="49.359" endTime="49.559">
+<Sync time="49.359"/>
+<Who nb="1"/>
+tam 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tam
+</Turn>
+<Turn speaker="spk1" startTime="49.559" endTime="52.694">
+<Sync time="49.559"/>
+jest taka duża pętla autobusowa i z tej 
+<Event desc="noise" type="noise" extent="begin"/>
+ pętli odjeżdża 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="52.694" endTime="55.266">
+<Sync time="52.694"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha pętla 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ dobrze dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="55.266" endTime="55.722">
+<Sync time="55.266"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+bardzo proszę
+</Turn>
+<Turn speaker="spk1" startTime="55.722" endTime="56.142">
+<Sync time="55.722"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="56.142" endTime="57.996">
+<Sync time="56.142"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

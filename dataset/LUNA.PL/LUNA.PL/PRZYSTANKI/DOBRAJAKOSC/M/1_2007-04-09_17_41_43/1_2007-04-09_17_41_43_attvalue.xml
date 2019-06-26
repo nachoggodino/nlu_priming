@@ -1,0 +1,113 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="5" span="word_12" attribute="ACTION" value="Need" />
+  <concept id="6" span="word_14" attribute="LOCATION_REL" value="There" />
+  <concept id="7" span="word_16..word_17" attribute="SOURCE_TD" value="Gocław" />
+  <concept id="8" span="word_18" attribute="ACTION" value="Get" />
+  <concept id="9" span="word_20..word_24" attribute="SOURCE_STP" value="LAST 111" />
+  <concept id="10" span="word_25..word_27" attribute="GOAL_BLD" value="Huta Warszawa" />
+  <concept id="11" span="word_28" attribute="TRSPM_CHANGE" value="TO" />
+  <concept id="12" span="word_29..word_30" attribute="BUS" value="515" />
+  <concept id="13" span="word_35" attribute="ACTION" value="ToChange" />
+  <concept id="14" span="word_36" attribute="TRSPM_CHANGE" value="FROM" />
+  <concept id="15" span="word_37..word_38" attribute="BUS" value="520" />
+  <concept id="16" span="word_39..word_40" attribute="LOCATION_STR" value="Saska" />
+  <concept id="17" span="word_43" attribute="ACTION" value="Approach" />
+  <concept id="18" span="word_44" attribute="LOC_TIME_REL" value="Somewhere" />
+  <concept id="19" span="word_45..word_46" attribute="GOAL_TD" value="Śródmieście" />
+  <concept id="20" span="word_51" attribute="ACTION" value="Approach" />
+  <concept id="21" span="word_52" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="22" span="word_53..word_55" attribute="GOAL_STR" value="Plac Bankowy" />
+  <concept id="23" span="word_56" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="24" span="word_57..word_58" attribute="GOAL_TD" value="Centrum" />
+  <concept id="25" span="word_60" attribute="LOCATION_REL" value="There" />
+  <concept id="26" span="word_61" attribute="ACTION" value="ToHave" />
+  <concept id="27" span="word_62..word_63" attribute="STOP_DESCRIPTION" value="Shared" />
+  <concept id="28" span="word_65..word_66" attribute="BUS" value="520" />
+  <concept id="29" span="word_67..word_68" attribute="BUS" value="515" />
+  <concept id="30" span="word_70..word_72" attribute="LOCATION_STR" value="Plac Konstytucji" />
+  <concept id="31" span="word_77..word_79" attribute="LOCATION_STR" value="Plac Konstytucji" />
+  <concept id="32" span="word_81..word_82" attribute="LOCATION_TD" value="MDM" />
+  <concept id="33" span="word_83" attribute="Q_CONF" value="IsIt" />
+  <concept id="34" span="word_85" attribute="REACTION" value="Confirmation" />
+  <concept id="35" span="word_86" attribute="REACTION" value="Confirmation" />
+  <concept id="36" span="word_92" attribute="ACTION" value="Concern" />
+  <concept id="37" span="word_94..word_95" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="38" span="word_96" attribute="ACTION" value="ToBe" />
+  <concept id="39" span="word_98" attribute="LOCATION_REL" value="There" />
+  <concept id="40" span="word_99..word_100" attribute="BUS" value="520" />
+  <concept id="41" span="word_101..word_102" attribute="LOCATION_STR" value="Saska" />
+  <concept id="42" span="word_103..word_105" attribute="Q_BEGINNING_OF_PERIOD" value="Trip" />
+  <concept id="43" span="word_107" attribute="ACTION" value="Wish" />
+  <concept id="44" span="word_112..word_114" attribute="AROUND_HOUR" value="4 : 40" />
+  <concept id="45" span="word_118" attribute="TIME_REL" value="Today" />
+  <concept id="46" span="word_120" attribute="REACTION" value="Negation" />
+  <concept id="47" span="word_121" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="48" span="word_123" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="49" span="word_125" attribute="TIME_DAYPERIOD" value="Morning" />
+  <concept id="50" span="word_126" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="51" span="word_127" attribute="TIME_DAYPERIOD" value="Morning" />
+  <concept id="52" span="word_129" attribute="ACTION" value="ToHave" />
+  <concept id="53" span="word_130" attribute="REACTION" value="Negation" />
+  <concept id="54" span="word_131..word_133" attribute="AT_HOUR" value="5 : 02" />
+  <concept id="55" span="word_134" attribute="ACTION" value="ToBe" />
+  <concept id="56" span="word_135" attribute="DEPARTURE" value="First" />
+  <concept id="57" span="word_136..word_138" attribute="AT_HOUR" value="5 : 02" />
+  <concept id="58" span="word_139" attribute="Q_CONF" value="IsIt" />
+  <concept id="59" span="word_141" attribute="REACTION" value="Confirmation" />
+  <concept id="60" span="word_142" attribute="REACTION" value="Confirmation" />
+  <concept id="61" span="word_143" attribute="ACTION" value="ToBe" />
+  <concept id="62" span="word_144" attribute="DEPARTURE" value="First" />
+  <concept id="63" span="word_146" attribute="ACTION" value="Check" />
+  <concept id="64" span="word_157" attribute="AT_HOUR_PART" value="5" />
+  <concept id="65" span="word_158" attribute="STREET" value="Saska" />
+  <concept id="66" span="word_159" attribute="REACTION" value="Confirmation" />
+  <concept id="67" span="word_160..word_162" attribute="AT_HOUR" value="5 : 02" />
+  <concept id="68" span="word_164..word_165" attribute="DEPARTURE" value="Earlier" />
+  <concept id="69" span="word_166" attribute="REACTION" value="Negation" />
+  <concept id="70" span="word_167" attribute="ACTION" value="ToBe" />
+  <concept id="71" span="word_168" attribute="LOCATION_REL" value="There" />
+  <concept id="72" span="word_171" attribute="ACTION" value="ToChange" />
+  <concept id="73" span="word_172" attribute="TRSPM_CHANGE" value="TO" />
+  <concept id="74" span="word_173..word_174" attribute="BUS" value="515" />
+  <concept id="75" span="word_175..word_177" attribute="SOURCE_STP" value="Saska" />
+  <concept id="76" span="word_180..word_182" attribute="BUS_REL" value="AnyBus" />
+  <concept id="77" span="word_187..word_189" attribute="LOCATION_STR" value="Plac Konstytucji" />
+  <concept id="78" span="word_192" attribute="ACTION" value="ToSee" />
+  <concept id="79" span="word_193" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="80" span="word_194..word_195" attribute="BUS" value="515" />
+  <concept id="81" span="word_196" attribute="REACTION" value="Negation" />
+  <concept id="82" span="word_197" attribute="ACTION" value="ToHave" />
+  <concept id="83" span="word_199" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="84" span="word_200..word_201" attribute="SOURCE_STR" value="Saska" />
+  <concept id="85" span="word_212" attribute="ACTION" value="Check" />
+  <concept id="86" span="word_213" attribute="REACTION" value="Confirmation" />
+  <concept id="87" span="word_218" attribute="REACTION" value="Confirmation" />
+  <concept id="88" span="word_221" attribute="ACTION" value="ToSee" />
+  <concept id="89" span="word_222..word_223" attribute="LOCATION_STR" value="Saska" />
+  <concept id="90" span="word_224" attribute="REACTION" value="Confirmation" />
+  <concept id="91" span="word_225..word_226" attribute="SOURCE_STR" value="Saska" />
+  <concept id="92" span="word_227..word_230" attribute="SOURCE_STR" value="Aleja Stanów Zjednoczonych" />
+  <concept id="93" span="word_231" attribute="ACTION" value="ToHave" />
+  <concept id="94" span="word_234..word_235" attribute="BUS" value="515" />
+  <concept id="95" span="word_237" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="96" span="word_238" attribute="TIME_REL" value="Earliest" />
+  <concept id="97" span="word_239" attribute="ACTION" value="ToBe" />
+  <concept id="98" span="word_240..word_243" attribute="AT_HOUR" value="4 : 28" />
+  <concept id="99" span="word_244..word_246" attribute="AT_HOUR" value="4 : 28" />
+  <concept id="100" span="word_247" attribute="ACTION" value="ToHave" />
+  <concept id="101" span="word_248..word_249" attribute="AT_HOUR_MINPART" value="28" />
+  <concept id="102" span="word_251..word_252" attribute="AT_HOUR_MINPART" value="58" />
+  <concept id="103" span="word_254" attribute="TIME_REL" value="Later" />
+  <concept id="104" span="word_255..word_256" attribute="AT_HOUR_MINPART" value="58" />
+  <concept id="105" span="word_257" attribute="Q_CONF" value="IsIt" />
+  <concept id="106" span="word_259..word_260" attribute="REACTION" value="Confirmation" />
+  <concept id="107" span="word_261" attribute="REACTION" value="Confirmation" />
+  <concept id="108" span="word_262..word_264" attribute="AT_HOUR" value="4 : 28" />
+  <concept id="109" span="word_265..word_266" attribute="AT_HOUR_MINPART" value="58" />
+  <concept id="110" span="word_267" attribute="REACTION" value="Confirmation" />
+  <concept id="111" span="word_272..word_273" attribute="CONV_FORM" value="BYE" />
+</concepts>

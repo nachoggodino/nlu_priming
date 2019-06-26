@@ -1,0 +1,20 @@
+<Chunks>
+  <chunk id="1" span="word_1" cat="PN" />
+  <chunk id="2" span="word_2..word_3" cat="NP" main="word_2" />
+  <chunk id="3" span="word_4..word_5" cat="NP" main="word_4" />
+  <chunk id="4" span="word_6" cat="NP" main="word_6" />
+  <chunk id="5" span="word_7..word_8" cat="NUM" />
+  <chunk id="6" span="word_9" cat="PP" />
+  <chunk id="7" span="word_10..word_11" cat="PN" />
+  <chunk id="8" span="word_12" cat="PP" />
+  <chunk id="9" span="word_13" cat="NP" main="word_13" />
+  <chunk id="10" span="word_14" cat="PN" />
+  <chunk id="11" span="word_15" cat="ADV" />
+  <chunk id="12" span="word_16" cat="ADJP" />
+  <chunk id="13" span="word_17..word_18" cat="NUM" />
+  <chunk id="14" span="word_19" cat="ADJP" />
+  <chunk id="15" span="word_20" cat="PP" />
+  <chunk id="16" span="word_21" cat="NP" main="word_21" />
+  <chunk id="17" span="word_22" cat="PP" />
+  <chunk id="18" span="word_23" cat="NP" main="word_23" />
+</Chunks>

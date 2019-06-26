@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-02_20_13_42" version="4" version_date="080105">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="52.997" topic="to1">
+<Turn startTime="0" endTime="1.055">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.055" endTime="3.382">
+<Sync time="1.055"/>
+dobry wieczór xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.382" endTime="20.164">
+<Sync time="3.382"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dobry
+<Event desc="*" type="pronounce" extent="end"/>
+ wieczór panom proszę pana mam prośbę potrzebuję się dostać na ulicę Karową a mieszkam na Jelonkach w pobliżu Hali Człuchowskiej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mam spod domu autobus pięćset sześć nie wiem czy nim gdzieś się tam dostanę na na Wybrzeże
+</Turn>
+<Turn speaker="spk1" startTime="20.164" endTime="21.656">
+<Sync time="20.164"/>
+na Karową proszę pani
+</Turn>
+<Turn speaker="spk2" startTime="21.656" endTime="22.592">
+<Sync time="21.656"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="22.592" endTime="25.793">
+<Sync time="22.592"/>
+tak no pięćset sześć do przystanku Biblioteka Uniwersytecka
+</Turn>
+<Turn speaker="spk2" startTime="25.793" endTime="28.306">
+<Sync time="25.793"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="28.306" endTime="29.717">
+<Sync time="28.306"/>
+no i tutaj trzeba trzysta metrów do przodu dojść jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+ulica
+<Event desc="*" type="pronounce" extent="end"/>
+ Karowa
+</Turn>
+<Turn speaker="spk2" startTime="29.717" endTime="32.17">
+<Sync time="29.717"/>
+aha czyli tam nie muszę dojeżdżać 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="32.17" endTime="32.546">
+<Sync time="32.17"/>
+<Who nb="1"/>
+niczym 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+nie
+</Turn>
+<Turn speaker="spk1" startTime="32.546" endTime="36.185">
+<Sync time="32.546"/>
+no może pani podjechać jeden przystanek sto osiemnaście 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+albo sto pięćdziesiąt
+</Turn>
+<Turn speaker="spk2" startTime="36.185" endTime="36.595">
+<Sync time="36.185"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ aha 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.595" endTime="40.405">
+<Sync time="36.595"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+yle że te linie bardzo rzadko jeżdżą bo sto osiemnaście jeździ raz na pół godziny
+</Turn>
+<Turn speaker="spk2 spk1" startTime="40.405" endTime="40.935">
+<Sync time="40.405"/>
+<Who nb="1"/>
+aha
+<Who nb="2"/>
+a sto
+</Turn>
+<Turn speaker="spk1" startTime="40.935" endTime="42.482">
+<Sync time="40.935"/>
+pięćdziesiąt raz na dwadzieścia 
+<Event desc="*" type="pronounce" extent="begin"/>
+minut
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+to jest
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="42.482" endTime="43.385">
+<Sync time="42.482"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a 
+<Event desc="babble" type="noise" extent="end"/>
+ to 
+<Event desc="*" type="pronounce" extent="begin"/>
+rzeczywiście
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="43.385" endTime="46.649">
+<Sync time="43.385"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ w granicach trzystu metrów 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do samej Karowej
+</Turn>
+<Turn speaker="spk2" startTime="46.649" endTime="47.889">
+<Sync time="46.649"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+ślicznie
+<Event desc="*" type="pronounce" extent="end"/>
+ panu dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="47.889" endTime="48.409">
+<Sync time="47.889"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę bardzo 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="48.409" endTime="49.182">
+<Sync time="48.409"/>
+miłej 
+<Event desc="*" type="pronounce" extent="begin"/>
+nocy
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="49.182" endTime="49.889">
+<Sync time="49.182"/>
+<Who nb="1"/>
+dziękuję
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn startTime="49.889" endTime="52.997">
+<Sync time="49.889"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

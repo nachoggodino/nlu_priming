@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-26_15_25_04" version="4" version_date="070906">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="43.997" topic="to1">
+<Turn startTime="0" endTime="0.648">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.648" endTime="3.174">
+<Sync time="0.648"/>
+dzień dobry xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.174" endTime="23.247">
+<Sync time="3.174"/>
+dzień dobry ja mam takie pytanie czy autobus sto trzy <Event desc="filler" type="lexical" extent="instantaneous"/> który idzie przez Broniewskiego ja nie wiem dokładnie skąd on idzie ale w każdym razie od strony <Event desc="noise" type="noise" extent="instantaneous"/> gdzieś <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> Chomiczówki <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> w każdym razie od strony Żoliborza w drugą stronę <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="begin"/> chodzi mi o przystanek żeby był tuż przed <Event desc="filler" type="lexical" extent="instantaneous"/> Krasińskiego <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="23.247" endTime="24.94">
+<Sync time="23.247"/>
+<Event desc="babble" type="noise" extent="begin"/> przed Krasińskiego <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="24.94" endTime="27.042">
+<Sync time="24.94"/>
+ale <Event desc="filler" type="lexical" extent="instantaneous"/> żeby było przed <Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="27.042" endTime="28.09">
+<Sync time="27.042"/>
+<Event desc="babble" type="noise" extent="begin"/> przed Krasińskiego <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="28.09" endTime="28.875">
+<Sync time="28.09"/>
+Krasińskiego
+</Turn>
+<Turn speaker="spk1" startTime="28.875" endTime="30.272">
+<Sync time="28.875"/>
+to Włościańska
+</Turn>
+<Turn speaker="spk2" startTime="30.272" endTime="31.075">
+<Sync time="30.272"/>
+Włościańska
+</Turn>
+<Turn speaker="spk1" startTime="31.075" endTime="38.438">
+<Sync time="31.075"/>
+<Event desc="babble" type="noise" extent="begin"/> Włościańska <Event desc="babble" type="noise" extent="end"/> bo przystanek Sady Żoliborskie już jest tuż za dosłownie dwadzieścia metrów za <Event desc="filler" type="lexical" extent="instantaneous"/> za Krasińskiego <Event desc="babble" type="noise" extent="begin"/> już jak <Event desc="babble" type="noise" extent="end"/> przejedzie skrzyżowanie
+</Turn>
+<Turn speaker="spk2" startTime="38.438" endTime="40.986">
+<Sync time="38.438"/>
+aha aha <Event desc="filler" type="lexical" extent="instantaneous"/> dobrze dziękuję panu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="40.986" endTime="42.536">
+<Sync time="40.986"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+proszę bardzo do usłyszenia
+</Turn>
+<Turn startTime="42.536" endTime="43.997">
+<Sync time="42.536"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

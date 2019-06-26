@@ -1,0 +1,16 @@
+<Frames>
+  <Set id="1" subset="1" span="word_16" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_12..word_15" concept_id="6" name="SELF_MOVER" />
+    <Frame fe="2" span="word_18..word_19" concept_id="8" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_29" frame="BOARD_VEHICLE" head="wsiąść">
+    <Frame fe="1" span="word_28" concept_id="10" name="VEHICLE" />
+  </Set>
+  <Set id="3" subset="1" span="word_32" frame="CAUSE_CHANGE" head="przesiąść">
+    <Frame fe="1" span="word_34,word_35" concept_id="13,14" name="INITIAL_CATEGORY" />
+    <Frame fe="2" span="word_41..word_44" concept_id="16" name="PLACE" />
+  </Set>
+  <Set id="4" subset="1" span="word_52" frame="GIVE" head="podać">
+    <Frame fe="1" span="word_57..word_60,word_61..word_63,word_64,word_65..word_67" concept_id="20,21,22,23" name="THEME" />
+  </Set>
+</Frames>

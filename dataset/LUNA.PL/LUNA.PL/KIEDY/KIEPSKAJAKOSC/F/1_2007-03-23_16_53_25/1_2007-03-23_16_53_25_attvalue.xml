@@ -1,0 +1,43 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_9" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_10" attribute="ACTION" value="Approach" />
+  <concept id="6" span="word_13..word_15" attribute="SOURCE_STR" value="Plac Wilsona" />
+  <concept id="7" span="word_16..word_18" attribute="GOAL_STP" value="Metro Wilanowska" />
+  <concept id="8" span="word_20..word_22" attribute="AT_HOUR" value="9 : 50" />
+  <concept id="9" span="word_27" attribute="ACTION" value="ToBe" />
+  <concept id="10" span="word_28..word_29" attribute="TIMETABLE" value="Metro" />
+  <concept id="11" span="word_30" attribute="REACTION" value="Negation" />
+  <concept id="12" span="word_31" attribute="ACTION" value="Go" />
+  <concept id="13" span="word_34" attribute="TIMETABLE" value="General" />
+  <concept id="14" span="word_39" attribute="REACTION" value="Negation" />
+  <concept id="15" span="word_40" attribute="ACTION" value="ToHave" />
+  <concept id="16" span="word_45..word_47" attribute="Q_HOW_OFTEN" value="Departure" />
+  <concept id="17" span="word_52" attribute="ACTION" value="ToBe" />
+  <concept id="18" span="word_53..word_54" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="19" span="word_56..word_57" attribute="AT_HOUR" value="9 : 50" />
+  <concept id="20" span="word_58" attribute="REACTION" value="Confirmation" />
+  <concept id="21" span="word_62" attribute="ACTION" value="ToBe" />
+  <concept id="22" span="word_63" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="23" span="word_64" attribute="TIME_WEEKPERIOD" value="Holiday" />
+  <concept id="24" span="word_67" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="25" span="word_68" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="26" span="word_69" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="27" span="word_70" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="28" span="word_71..word_73" attribute="Q_HOW_OFTEN" value="Departure" />
+  <concept id="29" span="word_77..word_80" attribute="TRANSPORT_RATE" value="6 min" />
+  <concept id="30" span="word_84" attribute="ACTION" value="ToRun" />
+  <concept id="31" span="word_86..word_87" attribute="RIDE_DURATION" value="General" />
+  <concept id="32" span="word_89..word_90" attribute="SOURCE_STP" value="Metro Plac Wilsona" />
+  <concept id="33" span="word_91" attribute="ROUTE" value="PASSAGE" />
+  <concept id="34" span="word_92..word_93" attribute="SOURCE_STP" value="Metro Plac Wilsona" />
+  <concept id="35" span="word_94" attribute="REACTION" value="Confirmation" />
+  <concept id="36" span="word_96..word_97" attribute="GOAL_STP" value="Metro Wilanowska" />
+  <concept id="37" span="word_99" attribute="ACTION" value="ToBe" />
+  <concept id="38" span="word_101..word_103" attribute="RIDE_DURATION_M" value="18" />
+  <concept id="39" span="word_104" attribute="REACTION" value="Confirmation" />
+  <concept id="40" span="word_108" attribute="ACTION" value="Know" />
+  <concept id="41" span="word_111..word_112" attribute="CONV_FORM" value="BYE" />
+</concepts>

@@ -1,0 +1,38 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="APPEARANCE" head="zostać">
+    <Frame fe="1" span="word_14,word_15..word_16" concept_id="5,6" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_17" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_18..word_21" concept_id="8" name="POSSESSION" />
+  </Set>
+  <Set id="3" subset="1" span="word_34" frame="RIDE_VEHICLE" head="jeździć">
+    <Frame fe="1" span="word_35" concept_id="12" name="VEHICLE" />
+    <Frame fe="2" span="word_38..word_39" concept_id="13" name="MANNER" />
+  </Set>
+  <Set id="4" subset="1" span="word_49" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_45..word_48" concept_id="14" name="TITLE" />
+    <Frame fe="2" span="word_51..word_52" concept_id="16" name="PRIVILEGE" />
+  </Set>
+  <Set id="5" subset="1" span="word_74" frame="ARRIVING" head="wejść">
+    <Frame fe="1" span="word_72..word_73" concept_id="19" name="GOAL" />
+  </Set>
+  <Set id="6" subset="1" span="word_103" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_87..word_88,word_89..word_90" concept_id="21,22" name="LOCATION" />
+    <Frame fe="2" span="word_92..word_94" concept_id="24" name="LOCATION" />
+    <Frame fe="3" span="word_95..word_96" concept_id="25" name="LOCATION" />
+    <Frame fe="4" span="word_98..word_101" concept_id="26" name="LOCATION" />
+    <Frame fe="5" span="word_102" concept_id="27" name="PLACE" />
+    <Frame fe="6" span="word_104..word_106" concept_id="29" name="THEME" />
+  </Set>
+  <Set id="7" subset="1" span="word_110" frame="GETTING" head="pobrać">
+    <Frame fe="1" span="word_111..word_114" concept_id="31" name="THEME" />
+  </Set>
+  <Set id="8" subset="1" span="word_141" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_139" concept_id="36" name="BENEFICIARY" />
+    <Frame fe="2" span="word_142..word_143" concept_id="38" name="PRIVILEGE" />
+  </Set>
+  <Set id="9" subset="1" span="word_147" frame="GETTING" head="pobrać">
+    <Frame fe="1" span="word_152" concept_id="41" name="THEME" />
+    <Frame fe="2" span="word_155" concept_id="42" name="PURPOSE" />
+  </Set>
+</Frames>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-30_16_19_02" version="4" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="41.997" topic="to1">
+<Turn startTime="0" endTime="0.732">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.732" endTime="2.019">
+<Sync time="0.732"/>
+xxx dzień dobry 
+</Turn>
+<Turn speaker="spk2" startTime="2.019" endTime="15.853">
+<Sync time="2.019"/>
+dzień 
+<Event desc="int" type="noise" extent="next"/>
+dobry 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ proszę pana ja chciałam zapytać o przejazdy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzieci z zerówki 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ środkami komunikacji miejskiej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ bo wybieram się z dzieciakami do kina 
+<Event desc="noise" type="noise" extent="begin"/>
+ jestem wychowawczynią 
+<Event desc="noise" type="noise" extent="end"/>
+ właśnie klasy zerowej w szkole
+</Turn>
+<Turn speaker="spk1" startTime="15.853" endTime="20.994">
+<Sync time="15.853"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+zn
+<Event desc="~" type="lexical" extent="end"/>
+aczy zerówka to bezpłatnie dzieci od siódmego roku życia ja
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ do pierwszej klasy idą dopiero kasują bile
+<Event desc="~" type="lexical" extent="begin"/>
+ty
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.994" endTime="21.991">
+<Sync time="20.994"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ od 
+<Event desc="babble" type="noise" extent="end"/>
+ pierwszej klasy
+</Turn>
+<Turn speaker="spk2 spk1" startTime="21.991" endTime="22.609">
+<Sync time="21.991"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="22.609" endTime="25.151">
+<Sync time="22.609"/>
+czyli zerówka może może jechać śmiało bez
+</Turn>
+<Turn speaker="spk1" startTime="25.151" endTime="26.015">
+<Sync time="25.151"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.015" endTime="27.87">
+<Sync time="26.015"/>
+bo słyszałam różne głosy i
+</Turn>
+<Turn speaker="spk1" startTime="27.87" endTime="34.487">
+<Sync time="27.87"/>
+nie to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ od czasu obo
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ objęcia obowiązkiem szkolnym a czas 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ objęcia obowiązkiem szkolnym to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ pierwsza klasa
+</Turn>
+<Turn speaker="spk2" startTime="34.487" endTime="38.197">
+<Sync time="34.487"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze dobrze a dzieciaki z zerówki dobrze dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="38.197" endTime="38.608">
+<Sync time="38.197"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="38.608" endTime="39.705">
+<Sync time="38.608"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ upewniłam 
+<Event desc="noise" type="noise" extent="end"/>
+ dziękuję do
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.705" endTime="40.315">
+<Sync time="39.705"/>
+<Who nb="1"/>
+widzenia
+<Who nb="2"/>
+do widzenia
+</Turn>
+<Turn startTime="40.315" endTime="41.997">
+<Sync time="40.315"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

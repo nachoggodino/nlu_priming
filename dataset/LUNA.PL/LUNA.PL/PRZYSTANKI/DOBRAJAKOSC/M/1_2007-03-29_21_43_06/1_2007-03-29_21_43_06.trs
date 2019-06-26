@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-29_21_43_06" version="3" version_date="070926">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="46.497" topic="to1">
+<Turn startTime="0" endTime="0.892">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.892" endTime="1.548">
+<Sync time="0.892"/>
+dobry wieczór
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1.548" endTime="2.842">
+<Sync time="1.548"/>
+<Who nb="1"/>
+xxx w czym mogę pomóc
+<Who nb="2"/>
+dobry wieczór mam
+</Turn>
+<Turn speaker="spk2" startTime="2.842" endTime="4.429">
+<Sync time="2.842"/>
+takie pytanie prawda 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4.429" endTime="4.434">
+<Sync time="4.429"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="4.434" endTime="14.268">
+<Sync time="4.434"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+ch
+<Event desc="~" type="lexical" extent="end"/>
+odzi mi o autobus sto siedem wie pan o co chodzi 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ chodzi mi o przystanek który jest przy ulicy Aleje 
+<Event desc="*" type="pronounce" extent="begin"/>
+Jerozolimskie
+<Event desc="*" type="pronounce" extent="end"/>
+ teraz co Kruczą 
+<Event desc="*" type="pronounce" extent="begin"/>
+wyjeżdża to jest
+<Event desc="*" type="pronounce" extent="end"/>
+ przy 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Krucza czy Dom Handlowy Smyk
+</Turn>
+<Turn speaker="spk1" startTime="14.268" endTime="15.663">
+<Sync time="14.268"/>
+jak wjedzie zaraz 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.663" endTime="23.0744966187">
+<Sync time="15.663"/>
+jak zaraz pierwszy przystanek przed Alejami nie co skręca potem 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Centrum to jest Dom Handlowy Smyk 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ czy to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ Krucza przystanek 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.0744966187" endTime="24.84">
+<Sync time="23.0744966187"/>
+ to jest Hotel Grand proszę pana
+</Turn>
+<Turn speaker="spk2" startTime="24.84" endTime="26.559">
+<Sync time="24.84"/>
+ale nie ten kawałek dalej właśnie jeden 
+</Turn>
+<Turn speaker="spk1" startTime="26.559" endTime="28.096">
+<Sync time="26.559"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ kierunku 
+<Event desc="babble" type="noise" extent="end"/>
+ Esperanto czy w kierunku
+</Turn>
+<Turn speaker="spk2" startTime="28.096" endTime="33.836">
+<Sync time="28.096"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ w kierunku 
+<Event desc="babble" type="noise" extent="end"/>
+ Esperanto jeden dalej 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ Grand i 
+<Event desc="*" type="pronounce" extent="begin"/>
+potem
+<Event desc="*" type="pronounce" extent="end"/>
+ jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ jeden dalej taki jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ przystanek Krucza czy Do
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="33.836" endTime="34.976">
+<Sync time="33.836"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to już jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ Smyk 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="34.976" endTime="35.393">
+<Sync time="34.976"/>
+Smyk tak
+</Turn>
+<Turn speaker="spk2 spk1" startTime="35.393" endTime="35.757">
+<Sync time="35.393"/>
+<Who nb="1"/>
+ to
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="35.757" endTime="39.256">
+<Sync time="35.757"/>
+pan mi powie o której 
+<Event desc="*" type="pronounce" extent="begin"/>
+teraz
+<Event desc="*" type="pronounce" extent="end"/>
+ godzinie będzie odjeżdżał w stronę Esperanto 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="39.256" endTime="42.232">
+<Sync time="39.256"/>
+najb
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+iższy będzie o godzinie dwudziestej drugiej dwadzieścia jeden
+</Turn>
+<Turn speaker="spk2" startTime="42.232" endTime="43.232">
+<Sync time="42.232"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="43.232" endTime="43.718">
+<Sync time="43.232"/>
+proszę bardzo
+</Turn>
+<Turn startTime="43.718" endTime="46.497">
+<Sync time="43.718"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

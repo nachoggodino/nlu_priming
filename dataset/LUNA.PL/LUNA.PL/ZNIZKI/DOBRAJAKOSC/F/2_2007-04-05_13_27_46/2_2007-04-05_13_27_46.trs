@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-05_13_27_46" version="5" version_date="091207">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="60.996" topic="to1">
+<Turn startTime="0" endTime="0.89">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.89" endTime="3.098">
+<Sync time="0.89"/>
+dzień dobry 
+<Event desc="*" type="pronounce" extent="begin"/>
+przy
+<Event desc="*" type="pronounce" extent="end"/>
+ telefonie xxx 
+<Event desc="*" type="pronounce" extent="begin"/>
+słucham
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.098" endTime="6.368">
+<Sync time="3.098"/>
+dzień dobry ja dzwonię żeby się 
+<Event desc="*" type="pronounce" extent="begin"/>
+upewnić
+<Event desc="*" type="pronounce" extent="end"/>
+ u pana 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="6.368" endTime="7.052">
+<Sync time="6.368"/>
+<Who nb="1"/>
+słucham
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk2" startTime="7.052" endTime="11.539">
+<Sync time="7.052"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+powiedzieć
+<Event desc="*" type="pronounce" extent="end"/>
+ na terenie Warszawy 
+<Event desc="noise" type="noise" extent="begin"/>
+ komunikacja miejska i podmiejska 
+<Event desc="*" type="pronounce" extent="begin"/>
+mnie
+<Event desc="*" type="pronounce" extent="end"/>
+ interesuje 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.539" endTime="12.109">
+<Sync time="11.539"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="12.109" endTime="13.951">
+<Sync time="12.109"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ jeżdżą 
+<Event desc="babble" type="noise" extent="begin"/>
+ bezpłatnie 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+prawda 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.951" endTime="15.441">
+<Sync time="13.951"/>
+tak psy
+</Turn>
+<Turn speaker="spk1 spk2" startTime="15.441" endTime="16.879">
+<Sync time="15.441"/>
+<Who nb="1"/>
+przewozimy bezpłatnie
+<Who nb="2"/>
+a dzieci 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.879" endTime="17.231">
+<Sync time="16.879"/>
+dzie
+<Event desc="~" type="lexical" extent="begin"/>
+ci
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.231" endTime="20.835">
+<Sync time="17.231"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzieci wiem 
+<Event desc="babble" type="noise" extent="begin"/>
+ że tam jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ określone 
+<Event desc="babble" type="noise" extent="end"/>
+ że do obowiązku 
+<Event desc="noise" type="noise" extent="end"/>
+ szkolnego
+</Turn>
+<Turn speaker="spk1" startTime="20.835" endTime="21.236">
+<Sync time="20.835"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.236" endTime="21.695">
+<Sync time="21.236"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ bezpła
+<Event desc="~" type="lexical" extent="begin"/>
+tnie
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="21.695" endTime="22.381">
+<Sync time="21.695"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dokładnie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="22.381" endTime="22.979">
+<Sync time="22.381"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+o
+<Event desc="~" type="lexical" extent="end"/>
+znacza
+</Turn>
+<Turn speaker="spk1" startTime="22.979" endTime="26.592">
+<Sync time="22.979"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pani to znaczy że od pier
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+szej klasy od pier
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+szego września
+</Turn>
+<Turn speaker="spk2" startTime="26.592" endTime="26.847">
+<Sync time="26.592"/>
+czy
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+i od
+</Turn>
+<Turn speaker="spk1 spk2" startTime="26.847" endTime="27.345">
+<Sync time="26.847"/>
+<Who nb="1"/>
+po
+<Who nb="2"/>
+pierwszego
+</Turn>
+<Turn speaker="spk2" startTime="27.345" endTime="29.254">
+<Sync time="27.345"/>
+września 
+<Event desc="*" type="pronounce" extent="begin"/>
+jeśli
+<Event desc="*" type="pronounce" extent="end"/>
+ dziecko kończy powiedzmy 
+<Event desc="babble" type="noise" extent="begin"/>
+ siedem 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="29.254" endTime="29.537">
+<Sync time="29.254"/>
+<Who nb="1"/>
+lat
+<Who nb="2"/>
+lat
+</Turn>
+<Turn speaker="spk2" startTime="29.537" endTime="30.245">
+<Sync time="29.537"/>
+w styczniu
+</Turn>
+<Turn speaker="spk1" startTime="30.245" endTime="30.604">
+<Sync time="30.245"/>
+właśnie
+</Turn>
+<Turn speaker="spk1 spk2" startTime="30.604" endTime="30.823">
+<Sync time="30.604"/>
+<Who nb="1"/>
+o to
+<Who nb="2"/>
+a 
+</Turn>
+<Turn speaker="spk2" startTime="30.823" endTime="32.943">
+<Sync time="30.823"/>
+nie od stycznia ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko od września zaczyna 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="32.943" endTime="33.478">
+<Sync time="32.943"/>
+<Who nb="1"/>
+płacić
+<Who nb="2"/>
+zgadza
+</Turn>
+<Turn speaker="spk1" startTime="33.478" endTime="37.732">
+<Sync time="33.478"/>
+się właśnie o to w tym chodzi 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ że 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ dopiero 
+<Event desc="babble" type="noise" extent="begin"/>
+ nawet jak dziecko 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="37.732" endTime="38.728">
+<Sync time="37.732"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.728" endTime="45.637">
+<Sync time="38.728"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dziecko kończy 
+<Event desc="noise" type="noise" extent="end"/>
+ siedem lat w styczniu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to dopiero od pierwszego września od pierwszej klasy musi zacząć kasować bilety
+</Turn>
+<Turn speaker="spk2" startTime="45.637" endTime="48.811">
+<Sync time="45.637"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a jak 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest dziecko
+<Event desc="*" type="pronounce" extent="end"/>
+ z grudnia to i tak od września musi zacząć ka
+<Event desc="~" type="lexical" extent="begin"/>
+sować
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="48.811" endTime="51.475">
+<Sync time="48.811"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dokładnie 
+<Event desc="babble" type="noise" extent="end"/>
+ jak jeszcze nawet nie skończyło siedmiu lat
+</Turn>
+<Turn speaker="spk2" startTime="51.475" endTime="54.73">
+<Sync time="51.475"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ no dobrze to bardzo dziękuję 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="54.73" endTime="55.171">
+<Sync time="54.73"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="55.171" endTime="56.862">
+<Sync time="55.171"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="56.862" endTime="57.497">
+<Sync time="56.862"/>
+do 
+<Event desc="babble" type="noise" extent="begin"/>
+ widzenia 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="57.497" endTime="58.096">
+<Sync time="57.497"/>
+do widzenia
+</Turn>
+<Turn startTime="58.096" endTime="60.996">
+<Sync time="58.096"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

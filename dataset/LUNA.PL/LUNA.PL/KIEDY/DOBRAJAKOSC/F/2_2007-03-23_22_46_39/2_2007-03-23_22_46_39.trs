@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_22_46_39" version="5" version_date="091207">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="34.998" topic="to1">
+<Turn startTime="0" endTime="1.923">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.923" endTime="4.343">
+<Sync time="1.923"/>
+dobry 
+<Event desc="babble" type="noise" extent="begin"/>
+ wieczór xxx słucham 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="4.343" endTime="17.824">
+<Sync time="4.343"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobry wieczór proszę pana chciałabym się zapytać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ o której 
+<Event desc="*" type="pronounce" extent="begin"/>
+odjeżdża
+<Event desc="*" type="pronounce" extent="end"/>
+ ostatni autobus 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z przystanku 
+<Event desc="*" type="pronounce" extent="begin"/>
+Powstańców
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w stronę Wiatracznej sto czterdzieści pięć numer 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.824" endTime="19.44">
+<Sync time="17.824"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ Powstańców w Ząbkach 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="19.44" endTime="27.03">
+<Sync time="19.44"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="27.03" endTime="29.946">
+<Sync time="27.03"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dwudziesta trzecia dwadzieścia osiem 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="29.946" endTime="30.979">
+<Sync time="29.946"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dziękuję 
+<Event desc="*" type="pronounce" extent="begin"/>
+ślicznie
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.979" endTime="31.682">
+<Sync time="30.979"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę bardzo 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="31.682" endTime="32.279">
+<Sync time="31.682"/>
+dobrano
+<Event desc="~" type="lexical" extent="begin"/>
+c
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="32.279" endTime="32.829">
+<Sync time="32.279"/>
+dobranoc
+</Turn>
+<Turn startTime="32.829" endTime="34.998">
+<Sync time="32.829"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

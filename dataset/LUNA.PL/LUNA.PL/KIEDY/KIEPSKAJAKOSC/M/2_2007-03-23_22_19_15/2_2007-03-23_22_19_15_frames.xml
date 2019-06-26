@@ -1,0 +1,20 @@
+<Frames>
+  <Set id="1" subset="1" span="word_24" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_12..word_16" concept_id="6" name="GOAL" />
+    <Frame fe="2" span="word_17..word_19" concept_id="7" name="THEME" />
+    <Frame fe="3" span="word_21..word_22,word_23" concept_id="8,9" name="TIME" />
+  </Set>
+  <Set id="2" subset="1" span="word_27" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_28..word_30" concept_id="13" name="TIME" />
+    <Frame fe="2" span="word_32" concept_id="14" name="THEME" />
+    <Frame fe="3" span="word_33..word_34" concept_id="15" name="TIME" />
+  </Set>
+  <Set id="3" subset="1" span="word_40" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_36" concept_id="16" name="THEME" />
+    <Frame fe="2" span="word_37..word_38" concept_id="17" name="TIME" />
+  </Set>
+  <Set id="4" subset="1" span="word_59" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_53..word_55" concept_id="24" name="FREQUENCY" />
+    <Frame fe="2" span="word_56..word_58" concept_id="25" name="TIME" />
+  </Set>
+</Frames>

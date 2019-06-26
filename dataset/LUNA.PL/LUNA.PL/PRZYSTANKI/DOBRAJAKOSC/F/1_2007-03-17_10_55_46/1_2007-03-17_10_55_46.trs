@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-17_10_55_46" version="6" version_date="070927">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="43.997" topic="to1">
+<Turn startTime="0" endTime="0.637">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.637" endTime="1.995">
+<Sync time="0.637"/>
+dzień dobry xxx w czym mogę
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1.995" endTime="2.45">
+<Sync time="1.995"/>
+<Who nb="1"/>
+pomóc
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+dzień
+</Turn>
+<Turn speaker="spk2" startTime="2.45" endTime="9.893">
+<Sync time="2.45"/>
+dobry proszę mi powiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z którego przystanku z Dworca Centralnego jedzie pięćset siedem w stronę Gocławia
+</Turn>
+<Turn speaker="spk1" startTime="9.893" endTime="11.412">
+<Sync time="9.893"/>
+pięćset siedem w stronę Gocławia tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="11.412" endTime="13.192">
+<Sync time="11.412"/>
+tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.192" endTime="23.487">
+<Sync time="13.192"/>
+już momencik 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ proszę panią to jest przystanek Dworzec Centralny siedemnaście on jest umieszczony na Emilii Plater
+</Turn>
+<Turn speaker="spk2" startTime="23.487" endTime="24.512">
+<Sync time="23.487"/>
+na Emilii Plater
+</Turn>
+<Turn speaker="spk2 spk1" startTime="24.512" endTime="24.872">
+<Sync time="24.512"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak i
+</Turn>
+<Turn speaker="spk1" startTime="24.872" endTime="26.774">
+<Sync time="24.872"/>
+to jest to tutaj przy samych Złotych Tarasach 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="26.774" endTime="28.302">
+<Sync time="26.774"/>
+<Who nb="1"/>
+praktycznie 
+<Who nb="2"/>
+przy Złotych Tarasach
+</Turn>
+<Turn speaker="spk1" startTime="28.302" endTime="28.693">
+<Sync time="28.302"/>
+na Emilii
+</Turn>
+<Turn speaker="spk1 spk2" startTime="28.693" endTime="28.98">
+<Sync time="28.693"/>
+<Who nb="1"/>
+Plater
+<Who nb="2"/>
+tam gdzie
+</Turn>
+<Turn speaker="spk2" startTime="28.98" endTime="31.278">
+<Sync time="28.98"/>
+są te wszystkie takie perony tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.278" endTime="36.843">
+<Sync time="31.278"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ nie nie nie 
+<Event desc="babble" type="noise" extent="end"/>
+ nie nie to jest to jest północna jezdnia Dworca Centralnego a Emilii Plater to jest prostopadła do dworca 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="36.843" endTime="37.366">
+<Sync time="36.843"/>
+<Who nb="1"/>
+ulica
+<Who nb="2"/>
+okey
+</Turn>
+<Turn speaker="spk2" startTime="37.366" endTime="38.055">
+<Sync time="37.366"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ na Emilii
+</Turn>
+<Turn speaker="spk2 spk1" startTime="38.055" endTime="38.714">
+<Sync time="38.055"/>
+<Who nb="1"/>
+Plater tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+na Emilii
+</Turn>
+<Turn speaker="spk1" startTime="38.714" endTime="39.406">
+<Sync time="38.714"/>
+Plater tak
+</Turn>
+<Turn speaker="spk2" startTime="39.406" endTime="40.092">
+<Sync time="39.406"/>
+dziękuję bar
+<Event desc="~" type="lexical" extent="begin"/>
+dzo
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.092" endTime="40.959">
+<Sync time="40.092"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę 
+<Event desc="babble" type="noise" extent="end"/>
+ bardzo
+</Turn>
+<Turn speaker="spk2" startTime="40.959" endTime="41.475">
+<Sync time="40.959"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="41.475" endTime="41.953">
+<Sync time="41.475"/>
+do widzenia
+</Turn>
+<Turn startTime="41.953" endTime="43.997">
+<Sync time="41.953"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

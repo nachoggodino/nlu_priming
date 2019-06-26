@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-12_08_07_17" version="4" version_date="071001">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="35.498" topic="to1">
+<Turn startTime="0" endTime="0.62">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.62" endTime="2.662">
+<Sync time="0.62"/>
+dzień dobry <Event desc="*" type="pronounce" extent="begin"/>przy<Event desc="*" type="pronounce" extent="end"/> telefonie xxx <Event desc="*" type="pronounce" extent="begin"/>słucham<Event desc="*" type="pronounce" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="2.662" endTime="15.354">
+<Sync time="2.662"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry panu proszę pana <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="begin"/> chcia<Event desc="~" type="lexical" extent="begin"/>ła<Event desc="~" type="lexical" extent="end"/>m <Event desc="noise" type="noise" extent="end"/> uprzejmie pana <Event desc="filler" type="lexical" extent="instantaneous"/> zapytać nie wiem czy pan może mi takiej informacji udzielić <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="begin"/> moja <Event desc="babble" type="noise" extent="end"/> siostra skończyła siedemdziesiąt lat ma prawo korzystać <Event desc="filler" type="lexical" extent="instantaneous"/> nie płacąc za przejazd <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="15.354" endTime="20.515">
+<Sync time="15.354"/>
+tak zgadza się proszę pani osoby które ukończyły siedemdziesiąty rok życia mają przejazdy bezpłatne w komuni<Event desc="~" type="lexical" extent="begin"/>kacji<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="20.515" endTime="24.542">
+<Sync time="20.515"/>
+<Event desc="babble" type="noise" extent="begin"/> proszę pana a czym <Event desc="babble" type="noise" extent="end"/> musi okazać ewentualnie jak przyjdzie <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> kontroler <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="24.542" endTime="27.735">
+<Sync time="24.542"/>
+wystarczy dowód osobisty lub jakikolwiek inny dokument
+</Turn>
+<Turn speaker="spk1 spk2" startTime="27.735" endTime="28.471">
+<Sync time="27.735"/>
+<Who nb="1"/>
+ze zdjęciem
+<Who nb="2"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="28.471" endTime="30.446">
+<Sync time="28.471"/>
+musi zawierać zdjęcie i datę urodze<Event desc="~" type="lexical" extent="begin"/>nia<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="30.446" endTime="31.605">
+<Sync time="30.446"/>
+aha dziękuję panu 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="31.605" endTime="33.383">
+<Sync time="31.605"/>
+<Who nb="1"/>
+uprzejmie do widzenia
+<Who nb="2"/>
+proszę do widzenia
+</Turn>
+<Turn startTime="33.383" endTime="35.498">
+<Sync time="33.383"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

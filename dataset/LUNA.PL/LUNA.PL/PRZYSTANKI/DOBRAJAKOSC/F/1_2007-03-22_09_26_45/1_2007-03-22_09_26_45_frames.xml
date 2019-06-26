@@ -1,0 +1,28 @@
+<Frames>
+  <Set id="1" subset="1" span="word_21" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_22..word_23" concept_id="10" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="2" span="word_25..word_27" concept_id="12" name="MODE_OF_TRANSPORTATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_31" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_29" concept_id="13" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_67" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_60..word_62" concept_id="26" name="MODE_OF_TRANSPORTATION" />
+  </Set>
+  <Set id="4" subset="1" span="word_69" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_70..word_72" concept_id="30" name="ENTITY" />
+  </Set>
+  <Set id="5" subset="1" span="word_84" frame="HALT" head="zatrzymywać">
+    <Frame fe="1" span="word_80" concept_id="35" name="THEME" />
+    <Frame fe="2" span="word_83" concept_id="36" name="PLACE" />
+  </Set>
+  <Set id="6" subset="1" span="word_94" frame="HALT" head="zatrzymywać">
+    <Frame fe="1" span="word_88..word_89" concept_id="39" name="THEME" />
+    <Frame fe="2" span="word_93" concept_id="41" name="PLACE" />
+    <Frame fe="3" span="word_97..word_99" concept_id="43" name="THEME" />
+  </Set>
+  <Set id="7" subset="1" span="word_117" frame="REFFERING_BY_NAME" head="nazywać">
+    <Frame fe="1" span="word_112..word_113" concept_id="50" name="NAME" />
+    <Frame fe="2" span="word_116" concept_id="51" name="ENTITY" />
+  </Set>
+</Frames>

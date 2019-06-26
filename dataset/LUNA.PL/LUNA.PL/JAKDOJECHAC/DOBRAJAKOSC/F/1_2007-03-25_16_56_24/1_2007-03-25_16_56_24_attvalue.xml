@@ -1,0 +1,58 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_13" attribute="ACTION" value="ToBe" />
+  <concept id="5" span="word_14..word_16" attribute="TIME_REL" value="Now" />
+  <concept id="6" span="word_17..word_20" attribute="LOCATION_NEAR_STP" value="Metro Racławicka" />
+  <concept id="7" span="word_22..word_24" attribute="LOCATION_STR" value="Aleja Niepodległości" />
+  <concept id="8" span="word_26" attribute="ACTION" value="Request" />
+  <concept id="9" span="word_27" attribute="ACTION" value="Approach" />
+  <concept id="10" span="word_28..word_29" attribute="GOAL_STR" value="Solec" />
+  <concept id="11" span="word_30" attribute="REACTION" value="Negation" />
+  <concept id="12" span="word_31" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="13" span="word_32" attribute="LOCATION_REL" value="There" />
+  <concept id="14" span="word_33" attribute="ACTION" value="ToBe" />
+  <concept id="15" span="word_34..word_37" attribute="STOP_DESCRIPTION" value="Trzeciego Maja" />
+  <concept id="16" span="word_38" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="17" span="word_44" attribute="ACTION" value="Tell" />
+  <concept id="18" span="word_45" attribute="Q_HOW_TO" value="Reach" />
+  <concept id="19" span="word_47" attribute="ACTION" value="Get" />
+  <concept id="20" span="word_48" attribute="LOCATION_REL" value="There" />
+  <concept id="21" span="word_50..word_53" attribute="GOAL_STP" value="Trzeciego Maja" />
+  <concept id="22" span="word_61" attribute="LOCATION_REL" value="There" />
+  <concept id="23" span="word_62..word_63" attribute="SOURCE_STR" value="Kazimierzowska" />
+  <concept id="24" span="word_65" attribute="ACTION" value="ToHave" />
+  <concept id="25" span="word_67..word_68" attribute="BUS" value="118" />
+  <concept id="26" span="word_69" attribute="CONNECTION_F" value="Direct" />
+  <concept id="27" span="word_71" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="28" span="word_72" attribute="ACTION" value="Go" />
+  <concept id="29" span="word_73" attribute="PATH_STR" value="Kazimierzowska" />
+  <concept id="30" span="word_74" attribute="Q_CONF" value="IsIt" />
+  <concept id="31" span="word_76" attribute="REACTION" value="Confirmation" />
+  <concept id="32" span="word_81" attribute="ACTION" value="Tell" />
+  <concept id="33" span="word_82" attribute="REACTION" value="Negation" />
+  <concept id="34" span="word_83" attribute="ACTION" value="Know" />
+  <concept id="35" span="word_85" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="36" span="word_86..word_88" attribute="Q_HOW_LONG" value="RideTime" />
+  <concept id="37" span="word_89" attribute="LOCATION_REL" value="There" />
+  <concept id="38" span="word_90" attribute="ACTION" value="Go" />
+  <concept id="39" span="word_99..word_101" attribute="SOURCE_STP" value="Wiktorska" />
+  <concept id="40" span="word_105" attribute="ACTION" value="Go" />
+  <concept id="41" span="word_108..word_110" attribute="RIDE_DURATION_M" value="22" />
+  <concept id="42" span="word_111..word_113" attribute="RIDE_DURATION_M" value="22" />
+  <concept id="43" span="word_117" attribute="ACTION" value="ToBe" />
+  <concept id="44" span="word_118..word_119" attribute="AT_HOUR" value="18 : 00" />
+  <concept id="45" span="word_122..word_123" attribute="AT_HOUR" value="17 : 30" />
+  <concept id="46" span="word_124" attribute="AT_HOUR_MINPART" value="50" />
+  <concept id="47" span="word_127..word_128" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="48" span="word_130" attribute="ACTION" value="Leave" />
+  <concept id="49" span="word_131..word_132" attribute="SOURCE_STR" value="Wiktorska" />
+  <concept id="50" span="word_134" attribute="ACTION" value="ToBe" />
+  <concept id="51" span="word_135..word_138" attribute="AT_HOUR" value="17 : 25" />
+  <concept id="52" span="word_139..word_140" attribute="DEPARTURE" value="Next" />
+  <concept id="53" span="word_141..word_143" attribute="AT_HOUR" value="17 : 55" />
+  <concept id="54" span="word_144" attribute="REACTION" value="Confirmation" />
+  <concept id="55" span="word_147..word_148" attribute="CONV_FORM" value="BYE" />
+  <concept id="56" span="word_151..word_152" attribute="CONV_FORM" value="BYE" />
+</concepts>

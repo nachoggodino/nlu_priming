@@ -1,0 +1,11 @@
+<Frames>
+  <Set id="1" subset="1" span="word_33" frame="GIVE" head="podawać">
+    <Frame fe="1" span="word_29..word_31" concept_id="11" name="THEME" />
+    <Frame fe="2" span="word_34..word_35" concept_id="13" name="THEME" />
+    <Frame fe="3" span="word_36..word_37" concept_id="14" name="TIME" />
+  </Set>
+  <Set id="2" subset="1" span="word_44" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_43" concept_id="15" name="TIME" />
+    <Frame fe="2" span="word_45..word_46" concept_id="17" name="TIME" />
+  </Set>
+</Frames>

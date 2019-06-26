@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-19_14_23_17" version="4" version_date="080104">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="42.497" topic="to1">
+<Turn startTime="0" endTime="0.751">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.751" endTime="2.1">
+<Sync time="0.751"/>
+dzień dobry xxx w czym mogę 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2.1" endTime="2.552">
+<Sync time="2.1"/>
+<Who nb="1"/>
+pomóc
+<Who nb="2"/>
+dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.552" endTime="2.798">
+<Sync time="2.552"/>
+panu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2.798" endTime="3.234">
+<Sync time="2.798"/>
+<Who nb="1"/>
+proszę pana
+<Who nb="2"/>
+dzień do
+<Event desc="~" type="lexical" extent="begin"/>
+bry
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.234" endTime="10.625">
+<Sync time="3.234"/>
+jakie numery autobusów jadące przez 
+<Event desc="babble" type="noise" extent="begin"/>
+ Most Poniatowskiego w kierunku Saskiej Kępy skręcają we Francuską i mają przystanek przy Zwycięzców 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.625" endTime="13.114">
+<Sync time="10.625"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana jadący przez Most Poniatowskiego
+</Turn>
+<Turn speaker="spk1 spk2" startTime="13.114" endTime="13.633">
+<Sync time="13.114"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="13.633" endTime="15.453">
+<Sync time="13.633"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to będzie linia sto siedemnaśc
+<Event desc="~" type="lexical" extent="begin"/>
+ie
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.453" endTime="17.244">
+<Sync time="15.453"/>
+tak 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.244" endTime="21.045">
+<Sync time="17.244"/>
+i zaraz zobaczymy tutaj 
+<Event desc="*" type="pronounce" extent="begin"/>
+byłby
+<Event desc="*" type="pronounce" extent="end"/>
+ przystanek wtedy Obrońców 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.045" endTime="22.04">
+<Sync time="21.045"/>
+a przy Obrońców tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="22.04" endTime="27.453">
+<Sync time="22.04"/>
+tak to jest przystanek Obrońców i tam trza kawałeczek podejść ewentualnie 
+<Event desc="babble" type="noise" extent="begin"/>
+ wysiąść na Meksykańskiej i kawałek się 
+<Event desc="babble" type="noise" extent="end"/>
+ cofnąć o tej
+</Turn>
+<Turn speaker="spk1 spk2" startTime="27.453" endTime="28.086">
+<Sync time="27.453"/>
+<Who nb="1"/>
+ta sama droga
+<Who nb="2"/>
+i tylko ten
+</Turn>
+<Turn speaker="spk2" startTime="28.086" endTime="28.954">
+<Sync time="28.086"/>
+jeden autobus 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.954" endTime="30.277">
+<Sync time="28.954"/>
+tak to byłoby sto siedemnaście
+</Turn>
+<Turn speaker="spk2" startTime="30.277" endTime="30.826">
+<Sync time="30.277"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tylko tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.826" endTime="32.194">
+<Sync time="30.826"/>
+wtedy sto 
+<Event desc="babble" type="noise" extent="begin"/>
+ siedemnaście tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="32.194" endTime="34.561">
+<Sync time="32.194"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ czyli nie przez Zwycięzców przy Obrońców 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="34.561" endTime="35.243">
+<Sync time="34.561"/>
+przy Obrońców
+</Turn>
+<Turn speaker="spk1 spk2" startTime="35.243" endTime="35.607">
+<Sync time="35.243"/>
+<Who nb="1"/>
+trza
+<Who nb="2"/>
+albo
+</Turn>
+<Turn speaker="spk2" startTime="35.607" endTime="36.494">
+<Sync time="35.607"/>
+przy Meksykańskiej
+</Turn>
+<Turn speaker="spk1" startTime="36.494" endTime="38.155">
+<Sync time="36.494"/>
+albo przy Meksykańskiej i wtedy cofnąć 
+</Turn>
+<Turn speaker="spk2" startTime="38.155" endTime="39.095">
+<Sync time="38.155"/>
+bardzo panu 
+<Event desc="*" type="pronounce" extent="begin"/>
+dziękuję
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.095" endTime="40.012">
+<Sync time="39.095"/>
+<Who nb="1"/>
+uprzejmie do widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="40.012" endTime="40.439">
+<Sync time="40.012"/>
+widzenia
+</Turn>
+<Turn startTime="40.439" endTime="42.497">
+<Sync time="40.439"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

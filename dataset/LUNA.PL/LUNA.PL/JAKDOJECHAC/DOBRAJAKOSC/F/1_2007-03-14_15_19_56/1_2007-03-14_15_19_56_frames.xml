@@ -1,0 +1,11 @@
+<Frames>
+  <Set id="1" subset="1" span="word_18" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_14..word_16" concept_id="4" name="SOURCE" />
+    <Frame fe="2" span="word_20" concept_id="7" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="3" span="word_22" concept_id="9" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="4" span="word_31..word_33,word_34..word_39" concept_id="14,15" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_44" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_46..word_49" concept_id="18" name="MODE_OF_TRANSPORTATION" />
+  </Set>
+</Frames>

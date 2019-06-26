@@ -1,0 +1,213 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_12" attribute="ACTION" value="Tell" />
+  <concept id="5" span="word_13" attribute="BUS" value="General" />
+  <concept id="6" span="word_15" attribute="BUS" value="General" />
+  <concept id="7" span="word_17" attribute="PATH_STR" value="Podleśna" />
+  <concept id="8" span="word_18..word_20" attribute="SOURCE_DIRECTION_STR" value="Gwiaździsta" />
+  <concept id="9" span="word_22" attribute="REACTION" value="Confirmation" />
+  <concept id="10" span="word_24..word_25" attribute="GOAL_STR" value="Marymoncka" />
+  <concept id="11" span="word_26" attribute="ACTION" value="ToTurn" />
+  <concept id="12" span="word_27..word_28" attribute="GOAL_STR" value="Kasprowicza" />
+  <concept id="13" span="word_29" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="14" span="word_30" attribute="ACTION" value="ToBe" />
+  <concept id="15" span="word_33..word_34" attribute="BUS_REL" value="AnyBus" />
+  <concept id="16" span="word_36" attribute="ACTION" value="ToTurn" />
+  <concept id="17" span="word_37..word_38" attribute="SOURCE_STR" value="Podleśna" />
+  <concept id="18" span="word_42" attribute="STREET" value="Podleśna" />
+  <concept id="19" span="word_43" attribute="ACTION" value="Approach" />
+  <concept id="20" span="word_45" attribute="GOAL_STR" value="Marymoncka" />
+  <concept id="21" span="word_46" attribute="REACTION" value="Confirmation" />
+  <concept id="22" span="word_47..word_48" attribute="GOAL_STR" value="Marymoncka" />
+  <concept id="23" span="word_50..word_51" attribute="TIME_REL" value="Later" />
+  <concept id="24" span="word_53" attribute="ACTION" value="Change" />
+  <concept id="25" span="word_54..word_55" attribute="GOAL_STR" value="Podczaszyńskiego" />
+  <concept id="26" span="word_57" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="27" span="word_59..word_60" attribute="BUS_REL" value="AnyBus" />
+  <concept id="28" span="word_66" attribute="ACTION" value="ToBe" />
+  <concept id="29" span="word_68" attribute="BUS" value="General" />
+  <concept id="30" span="word_70" attribute="ACTION" value="Approach" />
+  <concept id="31" span="word_71..word_72" attribute="GOAL_STR" value="Kasprowicza" />
+  <concept id="32" span="word_75" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="33" span="word_76" attribute="ACTION" value="Go" />
+  <concept id="34" span="word_77" attribute="TIME_REL" value="Later" />
+  <concept id="35" span="word_78..word_79" attribute="SOURCE_STR" value="Podleśna" />
+  <concept id="36" span="word_80..word_81" attribute="GOAL_STR" value="Marymoncka" />
+  <concept id="37" span="word_82..word_83" attribute="PATH_STR" value="Marymoncka" />
+  <concept id="38" span="word_84" attribute="ACTION" value="ToTurn" />
+  <concept id="39" span="word_86..word_87" attribute="GOAL_STR" value="Przy Agorze" />
+  <concept id="40" span="word_90" attribute="ACTION" value="Go" />
+  <concept id="41" span="word_91..word_92" attribute="PATH_STR" value="Przy Agorze" />
+  <concept id="42" span="word_93" attribute="ACTION" value="Cross" />
+  <concept id="43" span="word_94" attribute="STREET" value="Kasprowicza" />
+  <concept id="44" span="word_95" attribute="REACTION" value="Confirmation" />
+  <concept id="45" span="word_99" attribute="ACTION" value="ToBe" />
+  <concept id="46" span="word_100" attribute="LOCATION_REL" value="There" />
+  <concept id="47" span="word_102..word_103" attribute="GOAL_BLD" value="Huta" />
+  <concept id="48" span="word_104" attribute="REACTION" value="Confirmation" />
+  <concept id="49" span="word_108" attribute="ACTION" value="Tell" />
+  <concept id="50" span="word_110..word_111" attribute="Q_WHAT_NUMB" value="General" />
+  <concept id="51" span="word_112" attribute="ACTION" value="ToBe" />
+  <concept id="52" span="word_113" attribute="NUMB" value="General" />
+  <concept id="53" span="word_114..word_116" attribute="BUS" value="121" />
+  <concept id="54" span="word_117" attribute="REACTION" value="Confirmation" />
+  <concept id="55" span="word_118..word_119" attribute="Q_HOW_OFTEN" value="Departure" />
+  <concept id="56" span="word_120" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="57" span="word_121" attribute="ACTION" value="Go" />
+  <concept id="58" span="word_122" attribute="TIME_REL" value="Today" />
+  <concept id="59" span="word_126" attribute="TIME_REL" value="Today" />
+  <concept id="60" span="word_129..word_131" attribute="TRANSPORT_RATE" value="30 min" />
+  <concept id="61" span="word_133" attribute="EXCLAMATION" value="General" />
+  <concept id="62" span="word_137" attribute="REACTION" value="Confirmation" />
+  <concept id="63" span="word_138..word_140" attribute="BUS" value="121" />
+  <concept id="64" span="word_141" attribute="REACTION" value="Confirmation" />
+  <concept id="65" span="word_144" attribute="REACTION" value="Negation" />
+  <concept id="66" span="word_146" attribute="ACTION" value="Go" />
+  <concept id="67" span="word_147..word_148" attribute="GOAL_STR" value="Plac Wilsona" />
+  <concept id="68" span="word_150..word_151" attribute="SOURCE_STR" value="Plac Wilsona" />
+  <concept id="69" span="word_156" attribute="REACTION" value="Negation" />
+  <concept id="70" span="word_160" attribute="ACTION" value="Need" />
+  <concept id="71" span="word_161..word_162" attribute="GOAL_STR" value="Kasprowicza" />
+  <concept id="72" span="word_163..word_165" attribute="Q_WHERE" value="LOCATION" />
+  <concept id="73" span="word_167" attribute="LOCATION_REL" value="There" />
+  <concept id="74" span="word_168" attribute="ACTION" value="ToBe" />
+  <concept id="75" span="word_173" attribute="BUILDING" value="bazarek Wolumen" />
+  <concept id="76" span="word_175..word_176" attribute="GOAL_BLD" value="bazarek Wolumen" />
+  <concept id="77" span="word_183..word_185" attribute="BUS" value="121" />
+  <concept id="78" span="word_188" attribute="ACTION" value="GetIn" />
+  <concept id="79" span="word_189" attribute="REACTION" value="Confirmation" />
+  <concept id="80" span="word_191" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="81" span="word_192" attribute="ACTION" value="ToCarry" />
+  <concept id="82" span="word_198" attribute="LOCATION_REL" value="There" />
+  <concept id="83" span="word_201..word_202" attribute="GOAL_CROSSROADS" value="General" />
+  <concept id="84" span="word_203..word_205" attribute="GOAL_STP" value="Sokratesa" />
+  <concept id="85" span="word_209" attribute="ACTION" value="ToBe" />
+  <concept id="86" span="word_210..word_211" attribute="SOURCE_BLD" value="bazarek Wolumen" />
+  <concept id="87" span="word_214" attribute="ACTION" value="Know" />
+  <concept id="88" span="word_215..word_216" attribute="GOAL_BLD" value="bazarek Wolumen" />
+  <concept id="89" span="word_218" attribute="ACTION" value="ToBe" />
+  <concept id="90" span="word_219..word_220" attribute="ROUTE_LENGTH" value="2 STOPS" />
+  <concept id="91" span="word_222" attribute="REACTION" value="Confirmation" />
+  <concept id="92" span="word_223" attribute="REACTION" value="Confirmation" />
+  <concept id="93" span="word_224" attribute="REACTION" value="Confirmation" />
+  <concept id="94" span="word_225" attribute="REACTION" value="Confirmation" />
+  <concept id="95" span="word_226" attribute="REACTION" value="Confirmation" />
+  <concept id="96" span="word_233" attribute="ACTION" value="Go" />
+  <concept id="97" span="word_234..word_235" attribute="GOAL_STR" value="Plac Wilsona" />
+  <concept id="98" span="word_237" attribute="ACTION" value="ToHave" />
+  <concept id="99" span="word_241" attribute="BUS" value="General" />
+  <concept id="100" span="word_245..word_246" attribute="BUS" value="515" />
+  <concept id="101" span="word_247" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="102" span="word_248..word_250" attribute="BUS" value="195" />
+  <concept id="103" span="word_259..word_261" attribute="BUS" value="195" />
+  <concept id="104" span="word_264" attribute="ACTION" value="Go" />
+  <concept id="105" span="word_266" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="106" span="word_268" attribute="Q_WHERE" value="TransMeanStop" />
+  <concept id="107" span="word_269" attribute="ACTION" value="ToStop" />
+  <concept id="108" span="word_270..word_272" attribute="LOCATION_STR" value="Plac Wilsona" />
+  <concept id="109" span="word_275" attribute="ACTION" value="Check" />
+  <concept id="110" span="word_277..word_279" attribute="BUS" value="195" />
+  <concept id="111" span="word_280..word_281" attribute="LOCATION_REL" value="SamePlace" />
+  <concept id="112" span="word_282" attribute="BUILDING_PART" value="Exit" />
+  <concept id="113" span="word_283..word_284" attribute="SOURCE_STP" value="MetroStationGeneral" />
+  <concept id="114" span="word_285..word_286" attribute="GOAL_STR" value="Słowackiego" />
+  <concept id="115" span="word_287" attribute="REACTION" value="Confirmation" />
+  <concept id="116" span="word_288" attribute="REACTION" value="Confirmation" />
+  <concept id="117" span="word_289" attribute="REACTION" value="Confirmation" />
+  <concept id="118" span="word_290" attribute="REACTION" value="Confirmation" />
+  <concept id="119" span="word_291..word_292" attribute="LOCATION_REL" value="SamePlace" />
+  <concept id="120" span="word_293" attribute="BUILDING_PART" value="Exit" />
+  <concept id="121" span="word_294..word_295" attribute="SOURCE_STP" value="MetroStationGeneral" />
+  <concept id="122" span="word_296..word_297" attribute="GOAL_STR" value="Słowackiego" />
+  <concept id="123" span="word_298" attribute="REACTION" value="Confirmation" />
+  <concept id="124" span="word_301" attribute="DIRECTION" value="Straight" />
+  <concept id="125" span="word_302" attribute="PATH_STR" value="Słowackiego" />
+  <concept id="126" span="word_303" attribute="ACTION" value="Go" />
+  <concept id="127" span="word_304..word_307" attribute="GOAL_DIRECTION_BLD" value="Hala Marymoncka" />
+  <concept id="128" span="word_308" attribute="REACTION" value="Confirmation" />
+  <concept id="129" span="word_310" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="130" span="word_311" attribute="TIME_REL" value="Later" />
+  <concept id="131" span="word_312" attribute="ACTION" value="ToTurn" />
+  <concept id="132" span="word_313..word_314" attribute="GOAL_STR" value="Kasprowicza" />
+  <concept id="133" span="word_317..word_318" attribute="SOURCE_STR" value="Słowackiego" />
+  <concept id="134" span="word_320" attribute="ACTION" value="Approach" />
+  <concept id="135" span="word_322..word_323" attribute="GOAL_STR" value="Żeromskiego" />
+  <concept id="136" span="word_324" attribute="REACTION" value="Confirmation" />
+  <concept id="137" span="word_325" attribute="ACTION" value="ToTurn" />
+  <concept id="138" span="word_326..word_327" attribute="GOAL_STR" value="Podczaszyńskiego" />
+  <concept id="139" span="word_329..word_330" attribute="SOURCE_STR" value="Podczaszyńskiego" />
+  <concept id="140" span="word_331..word_332" attribute="GOAL_STR" value="Kasprowicza" />
+  <concept id="141" span="word_333" attribute="REACTION" value="Confirmation" />
+  <concept id="142" span="word_334" attribute="REACTION" value="Confirmation" />
+  <concept id="143" span="word_336" attribute="TIME_REL" value="Later" />
+  <concept id="144" span="word_337" attribute="DIRECTION" value="Straight" />
+  <concept id="145" span="word_338..word_339" attribute="LOCATION_BLD" value="bazarek Wolumen" />
+  <concept id="146" span="word_340" attribute="ACTION" value="ToHave" />
+  <concept id="147" span="word_341" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="148" span="word_342" attribute="REACTION" value="Confirmation" />
+  <concept id="149" span="word_343" attribute="REACTION" value="Confirmation" />
+  <concept id="150" span="word_345" attribute="CONNECTION_F" value="Quicker" />
+  <concept id="151" span="word_347" attribute="REACTION" value="Confirmation" />
+  <concept id="152" span="word_348" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="153" span="word_350" attribute="ACTION" value="Approach" />
+  <concept id="154" span="word_352..word_356" attribute="GOAL_AREA" value="Kępa Potocka" />
+  <concept id="155" span="word_357" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="156" span="word_358" attribute="LOCATION_REL" value="There" />
+  <concept id="157" span="word_360" attribute="ACTION" value="ToHave" />
+  <concept id="158" span="word_362" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="159" span="word_364..word_366" attribute="BUS" value="195" />
+  <concept id="160" span="word_367" attribute="REACTION" value="Confirmation" />
+  <concept id="161" span="word_369" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="162" span="word_370" attribute="ACTION" value="Go" />
+  <concept id="163" span="word_371" attribute="PATH_STR" value="Mickiewicza" />
+  <concept id="164" span="word_372..word_374" attribute="SOURCE_DIRECTION_TD" value="Centrum" />
+  <concept id="165" span="word_375" attribute="REACTION" value="Negation" />
+  <concept id="166" span="word_377" attribute="ACTION" value="Know" />
+  <concept id="167" span="word_378" attribute="ACTION" value="Know" />
+  <concept id="168" span="word_381" attribute="LOCATION_REL" value="There" />
+  <concept id="169" span="word_382..word_385" attribute="SOURCE_DIRECTION_STR" value="Klaudyny" />
+  <concept id="170" span="word_386" attribute="ACTION" value="Approach" />
+  <concept id="171" span="word_389..word_391" attribute="BUS" value="128" />
+  <concept id="172" span="word_392" attribute="PATH_STR" value="Gdańska" />
+  <concept id="173" span="word_394" attribute="ACTION" value="GetOut" />
+  <concept id="174" span="word_395" attribute="LOCATION_REL" value="There" />
+  <concept id="175" span="word_399..word_401" attribute="LOCATION_AREA" value="Kępa Potocka" />
+  <concept id="176" span="word_403" attribute="LOCATION_REL" value="There" />
+  <concept id="177" span="word_405" attribute="ACTION" value="ToBe" />
+  <concept id="178" span="word_407" attribute="TIME_REL" value="Later" />
+  <concept id="179" span="word_408..word_412" attribute="STOP_DESCRIPTION" value="linii 195" />
+  <concept id="180" span="word_414" attribute="ACTION" value="Tell" />
+  <concept id="181" span="word_415" attribute="LOCATION_REL" value="There" />
+  <concept id="182" span="word_417..word_418" attribute="LOCATION_REL" value="Nearby" />
+  <concept id="183" span="word_422" attribute="STREET" value="Popiełuszki" />
+  <concept id="184" span="word_423" attribute="ACTION" value="Approach" />
+  <concept id="185" span="word_425" attribute="STREET" value="Potocka" />
+  <concept id="186" span="word_426" attribute="STREET" value="Gdańska" />
+  <concept id="187" span="word_432" attribute="REACTION" value="Confirmation" />
+  <concept id="188" span="word_433..word_436" attribute="LOCATION_NEAR_BLD" value="Hala Marymoncka" />
+  <concept id="189" span="word_437" attribute="BUILDING" value="Hala Marymoncka" />
+  <concept id="190" span="word_438" attribute="REACTION" value="Confirmation" />
+  <concept id="191" span="word_440" attribute="REACTION" value="Confirmation" />
+  <concept id="192" span="word_442" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="193" span="word_443" attribute="ACTION" value="ToHave" />
+  <concept id="194" span="word_444" attribute="LOCATION_REL" value="There" />
+  <concept id="195" span="word_445" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="196" span="word_448" attribute="ACTION" value="ToHave" />
+  <concept id="197" span="word_449" attribute="LOCATION_REL" value="There" />
+  <concept id="198" span="word_450" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="199" span="word_451" attribute="REACTION" value="Confirmation" />
+  <concept id="200" span="word_452" attribute="REACTION" value="Confirmation" />
+  <concept id="201" span="word_453..word_455" attribute="TIME_REL" value="Now" />
+  <concept id="202" span="word_458" attribute="ACTION" value="BeCalled" />
+  <concept id="203" span="word_459..word_460" attribute="STOP_DESCRIPTION" value="Metro Marymont" />
+  <concept id="204" span="word_461..word_462" attribute="STOP_DESCRIPTION" value="RelThatOne" />
+  <concept id="205" span="word_463" attribute="REACTION" value="Confirmation" />
+  <concept id="206" span="word_464..word_465" attribute="STOP_DESCRIPTION" value="Metro Marymont" />
+  <concept id="207" span="word_467" attribute="REACTION" value="Confirmation" />
+  <concept id="208" span="word_471" attribute="ACTION" value="BeCalled" />
+  <concept id="209" span="word_472" attribute="REACTION" value="Confirmation" />
+  <concept id="210" span="word_476..word_477" attribute="CONV_FORM" value="BYE" />
+  <concept id="211" span="word_480..word_481" attribute="CONV_FORM" value="BYE" />
+</concepts>

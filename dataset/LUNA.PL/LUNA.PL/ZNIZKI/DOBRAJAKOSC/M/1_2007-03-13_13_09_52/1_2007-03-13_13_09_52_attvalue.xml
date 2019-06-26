@@ -1,0 +1,74 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="REACTION" value="Confirmation" />
+  <concept id="5" span="word_11" attribute="ACTION" value="ToBe" />
+  <concept id="6" span="word_12" attribute="PERSON" value="Pensioner" />
+  <concept id="7" span="word_13" attribute="INSTITUTION" value="Kasa Rolniczego Ubezpieczenia" />
+  <concept id="8" span="word_15" attribute="ACTION" value="ToBe" />
+  <concept id="9" span="word_16..word_18" attribute="INSTITUTION" value="Kasa Rolniczego Ubezpieczenia" />
+  <concept id="10" span="word_19..word_21" attribute="Q_FARE" value="Price" />
+  <concept id="11" span="word_22" attribute="ACTION" value="ToBeInForce" />
+  <concept id="12" span="word_24" attribute="PUBLIC_TRANSPORT" value="General" />
+  <concept id="13" span="word_25" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="14" span="word_28" attribute="REACTION" value="Negation" />
+  <concept id="15" span="word_29" attribute="ACTION" value="ToPay" />
+  <concept id="16" span="word_32" attribute="REACTION" value="Negation" />
+  <concept id="17" span="word_40" attribute="ACTION" value="ToHave" />
+  <concept id="18" span="word_42..word_44" attribute="DISCOUNT_TITLE" value="SevereDisability" />
+  <concept id="19" span="word_48" attribute="LOCATION_REL" value="There" />
+  <concept id="20" span="word_50" attribute="INSTITUTION" value="Kasa Rolniczego Ubezpieczenia" />
+  <concept id="21" span="word_51" attribute="REACTION" value="Negation" />
+  <concept id="22" span="word_55" attribute="PENSION" value="General" />
+  <concept id="23" span="word_57" attribute="ACTION" value="Receive" />
+  <concept id="24" span="word_58" attribute="Q_CONF" value="IsIt" />
+  <concept id="25" span="word_60" attribute="PENSION" value="General" />
+  <concept id="26" span="word_61" attribute="ACTION" value="Receive" />
+  <concept id="27" span="word_62" attribute="NUMB_MONEY" value="400" />
+  <concept id="28" span="word_64..word_66" attribute="NUMB_MONEY" value="430" />
+  <concept id="29" span="word_68" attribute="REACTION" value="Negation" />
+  <concept id="30" span="word_75" attribute="INSTITUTION" value="Kasa Rolniczego Ubezpieczenia" />
+  <concept id="31" span="word_78" attribute="PERSON" value="Pensioner" />
+  <concept id="32" span="word_79" attribute="REACTION" value="Negation" />
+  <concept id="33" span="word_80" attribute="REACTION" value="Negation" />
+  <concept id="34" span="word_81" attribute="REACTION" value="Negation" />
+  <concept id="35" span="word_82" attribute="REACTION" value="Negation" />
+  <concept id="36" span="word_87" attribute="REACTION" value="Confirmation" />
+  <concept id="37" span="word_92" attribute="ACTION" value="Concern" />
+  <concept id="38" span="word_94" attribute="PERSON" value="Pensioner" />
+  <concept id="39" span="word_98" attribute="REACTION" value="Negation" />
+  <concept id="40" span="word_99" attribute="ACTION" value="ToBe" />
+  <concept id="41" span="word_101..word_103" attribute="DISCOUNT_TITLE" value="SevereDisability" />
+  <concept id="42" span="word_108" attribute="ACTION" value="ToBe" />
+  <concept id="43" span="word_109..word_112" attribute="FARE" value="Discount48proc" />
+  <concept id="44" span="word_113..word_116" attribute="DOCUMENT_DISCOUNT_TITLE" value="RetirementCard" />
+  <concept id="45" span="word_121" attribute="REACTION" value="Confirmation" />
+  <concept id="46" span="word_124" attribute="ACTION" value="ToHave" />
+  <concept id="47" span="word_125..word_126" attribute="DOCUMENT_DISCOUNT_TITLE" value="RetirementCard" />
+  <concept id="48" span="word_127" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="49" span="word_129..word_130" attribute="DOCUMENT_DISCOUNT_TITLE" value="RetirementCard" />
+  <concept id="50" span="word_135" attribute="FARE" value="Discount" />
+  <concept id="51" span="word_136..word_139" attribute="FARE" value="Discount48proc" />
+  <concept id="52" span="word_140" attribute="REACTION" value="Confirmation" />
+  <concept id="53" span="word_141" attribute="DOCUMENT_DISCOUNT_TITLE" value="Card" />
+  <concept id="54" span="word_148" attribute="ACTION" value="ToHave" />
+  <concept id="55" span="word_149" attribute="DOCUMENT_DISCOUNT_TITLE" value="Card" />
+  <concept id="56" span="word_153" attribute="ACTION" value="ToBe" />
+  <concept id="57" span="word_156..word_158" attribute="DOCUMENT_DISCOUNT_TITLE" value="Card" />
+  <concept id="58" span="word_159" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="59" span="word_160" attribute="DOCUMENT_DISCOUNT_TITLE" value="RetirementCard" />
+  <concept id="60" span="word_163" attribute="ACTION" value="Receive" />
+  <concept id="61" span="word_164" attribute="DOCUMENT_DISCOUNT_TITLE" value="RetirementCard" />
+  <concept id="62" span="word_166" attribute="DOCUMENT_DISCOUNT_TITLE" value="RetirementCard" />
+  <concept id="63" span="word_168..word_170" attribute="FARE" value="Discount48proc" />
+  <concept id="64" span="word_174" attribute="ACTION" value="ToBuy" />
+  <concept id="65" span="word_175" attribute="Q_WHERE" value="LOCATION" />
+  <concept id="66" span="word_176" attribute="ACTION" value="ToBuy" />
+  <concept id="67" span="word_178" attribute="TICKET" value="General" />
+  <concept id="68" span="word_183..word_185" attribute="LOCATION_BLD" value="poczta" />
+  <concept id="69" span="word_188" attribute="ACTION" value="ToBuy" />
+  <concept id="70" span="word_192..word_195" attribute="FARE" value="Discount48proc" />
+  <concept id="71" span="word_196" attribute="REACTION" value="Confirmation" />
+  <concept id="72" span="word_197" attribute="REACTION" value="Confirmation" />
+</concepts>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-04_08_09_34" version="2" version_date="071001">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="34.498" topic="to1">
+<Turn startTime="0" endTime="1.063">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.063" endTime="1.58">
+<Sync time="1.063"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1.58" endTime="2.336">
+<Sync time="1.58"/>
+<Who nb="1"/>
+xxx w
+<Who nb="2"/>
+dzień dobry
+</Turn>
+<Turn speaker="spk1" startTime="2.336" endTime="2.91">
+<Sync time="2.336"/>
+mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="2.91" endTime="11.393">
+<Sync time="2.91"/>
+proszę pana <Event desc="filler" type="lexical" extent="instantaneous"/> chcia<Event desc="~" type="lexical" extent="begin"/>łem<Event desc="~" type="lexical" extent="end"/> się <Event desc="*" type="pronounce" extent="begin"/>spytać<Event desc="*" type="pronounce" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> w Warszawie ten przepis że od siedemdziesięciu lat <Event desc="*" type="pronounce" extent="begin"/>że się<Event desc="*" type="pronounce" extent="end"/> jeździ za darmo to dotyczy warszawiakó<Event desc="~" type="lexical" extent="begin"/>w<Event desc="~" type="lexical" extent="end"/> Polaków <Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="11.393" endTime="12.893">
+<Sync time="11.393"/>
+<Event desc="babble" type="noise" extent="begin"/> wszystkich <Event desc="babble" type="noise" extent="end"/> proszę <Event desc="noise" type="noise" extent="begin"/> pana <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="12.893" endTime="15.216">
+<Sync time="12.893"/>
+to znaczy <Event desc="noise" type="noise" extent="begin"/> wszystkich <Event desc="noise" type="noise" extent="end"/> obywateli całego świata <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="15.216" endTime="15.923">
+<Sync time="15.216"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="15.923" endTime="24.582">
+<Sync time="15.923"/>
+aha dlatego <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> pytam dlatego <Event desc="filler" type="lexical" extent="instantaneous"/> bo ja nie <Event desc="~" type="lexical" extent="begin"/>j<Event desc="~" type="lexical" extent="end"/>estem pewien a tam jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> napisane <Event desc="filler" type="lexical" extent="instantaneous"/> trza mieć dowód osobisty <Event desc="babble" type="noise" extent="instantaneous"/> to <Event desc="filler" type="lexical" extent="instantaneous"/> zagraniczny obywatel nie ma dowodu <Event desc="filler" type="lexical" extent="instantaneous"/> ma coś
+</Turn>
+<Turn speaker="spk1" startTime="24.582" endTime="25.54">
+<Sync time="24.582"/>
+<Event desc="babble" type="noise" extent="begin"/> ale ma <Event desc="babble" type="noise" extent="end"/> paszport
+</Turn>
+<Turn speaker="spk2" startTime="25.54" endTime="28.647">
+<Sync time="25.54"/>
+aha <Event desc="babble" type="noise" extent="begin"/> <Event desc="*" type="pronounce" extent="begin"/>czyli<Event desc="*" type="pronounce" extent="end"/> <Event desc="babble" type="noise" extent="end"/> dotyczy wszys<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/>kich do z każdego kraju
+</Turn>
+<Turn speaker="spk1" startTime="28.647" endTime="29.214">
+<Sync time="28.647"/>
+tak proszę 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="29.214" endTime="29.788">
+<Sync time="29.214"/>
+<Who nb="1"/>
+pana zgadza
+<Who nb="2"/>
+dobrze
+</Turn>
+<Turn speaker="spk1" startTime="29.788" endTime="30.156">
+<Sync time="29.788"/>
+się
+</Turn>
+<Turn speaker="spk2" startTime="30.156" endTime="30.736">
+<Sync time="30.156"/>
+dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="30.736" endTime="31.26">
+<Sync time="30.736"/>
+proszę bardzo
+</Turn>
+<Turn startTime="31.26" endTime="34.498">
+<Sync time="31.26"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

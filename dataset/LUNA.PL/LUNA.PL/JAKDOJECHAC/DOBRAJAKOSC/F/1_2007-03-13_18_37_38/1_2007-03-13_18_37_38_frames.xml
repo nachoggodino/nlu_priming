@@ -1,0 +1,49 @@
+<Frames>
+  <Set id="1" subset="1" span="word_14" frame="GET" head="dostać">
+    <Frame fe="1" span="word_15..word_16,word_17..word_18" concept_id="4,5" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_23" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_20" concept_id="6" name="SOURCE" />
+  </Set>
+  <Set id="3" subset="1" span="word_31" frame="RESIDENCE" head="mieszkać">
+    <Frame fe="1" span="word_32..word_33" concept_id="10" name="LOCATION" />
+  </Set>
+  <Set id="4" subset="1" span="word_43" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_42" concept_id="14" name="MANNER" />
+    <Frame fe="2" span="word_44" concept_id="16" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="3" span="word_45..word_46" concept_id="17" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_50" frame="SELF_MOTION" head="przejść">
+    <Frame fe="1" span="word_48" concept_id="18" name="SOURCE" />
+    <Frame fe="2" span="word_51" concept_id="20" name="DISTANCE" />
+    <Frame fe="3" span="word_52..word_53" concept_id="21" name="GOAL" />
+  </Set>
+  <Set id="6" subset="1" span="word_68" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_64..word_66" concept_id="24" name="THEME" />
+    <Frame fe="2" span="word_70..word_72" concept_id="26" name="LOCATION" />
+  </Set>
+  <Set id="7" subset="1" span="word_78" frame="ARRIVING" head="dojść">
+    <Frame fe="1" span="word_79..word_81" concept_id="29" name="GOAL" />
+  </Set>
+  <Set id="8" subset="1" span="word_94" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_96..word_98" concept_id="37" name="ENTITY" />
+  </Set>
+  <Set id="9" subset="1" span="word_107" frame="ESCAPING" head="wysiadać">
+    <Frame fe="1" span="word_108..word_110" concept_id="42" name="PLACE" />
+  </Set>
+  <Set id="10" subset="1" span="word_112" frame="SELF_MOTION" head="kierować">
+    <Frame fe="1" span="word_114..word_117" concept_id="44" name="GOAL" />
+  </Set>
+  <Set id="11" subset="1" span="word_125" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_120..word_123" concept_id="45" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_127" concept_id="47" name="ENTITY" />
+  </Set>
+  <Set id="12" subset="1" span="word_132" frame="STATEMENT" head="mówić">
+    <Frame fe="1" span="word_133..word_135,word_136,word_137,word_138..word_140" concept_id="49,50,51,52" name="MESSAGE" />
+  </Set>
+  <Set id="13" subset="1" span="word_144" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_142" concept_id="53" name="PLACE" />
+    <Frame fe="2" span="word_145..word_146" concept_id="55" name="ENTITY" />
+    <Frame fe="3" span="word_150..word_152" concept_id="56" name="ENTITY" />
+  </Set>
+</Frames>

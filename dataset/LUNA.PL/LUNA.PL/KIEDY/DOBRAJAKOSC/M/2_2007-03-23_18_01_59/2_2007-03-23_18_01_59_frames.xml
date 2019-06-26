@@ -1,0 +1,18 @@
+<Frames>
+  <Set id="1" subset="1" span="word_10" frame="TOPIC" head="zapytać">
+    <Frame fe="1" span="word_13,word_14..word_17" concept_id="6,7" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="1" span="word_54" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_51..word_52" concept_id="21" name="TIME" />
+    <Frame fe="2" span="word_53" concept_id="22" name="THEME" />
+    <Frame fe="3" span="word_55..word_57" concept_id="24" name="GOAL" />
+    <Frame fe="4" span="word_58..word_61" concept_id="25" name="DIRECTION" />
+  </Set>
+  <Set id="3" subset="2" span="word_68" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_67" concept_id="27" name="ENTITY" />
+    <Frame fe="2" span="word_69..word_70" concept_id="29" name="TIME" />
+  </Set>
+  <Set id="4" subset="1" span="word_76" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_77..word_78" concept_id="34" name="ENTITY" />
+  </Set>
+</Frames>

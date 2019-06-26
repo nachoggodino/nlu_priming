@@ -1,0 +1,25 @@
+<Frames>
+  <Set id="1" subset="1" span="word_11" frame="TOPIC" head="dowiedzieć">
+    <Frame fe="1" span="word_14..word_15" concept_id="6" name="TOPIC" />
+    <Frame fe="2" span="word_17..word_18" concept_id="7" name="EXPLANATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_24" frame="GIVING" head="oddać">
+    <Frame fe="1" span="word_25..word_27" concept_id="10" name="THEME" />
+  </Set>
+  <Set id="3" subset="1" span="word_33" frame="GIVING" head="oddać">
+    <Frame fe="1" span="word_35..word_36" concept_id="12" name="THEME" />
+  </Set>
+  <Set id="4" subset="1" span="word_65" frame="BEING_IN_EFFECT" head="obowiązywać">
+    <Frame fe="1" span="word_69" concept_id="19" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="5" subset="1" span="word_118" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_120..word_121" concept_id="34" name="TOPIC" />
+    <Frame fe="2" span="word_123" concept_id="35" name="TOPIC" />
+  </Set>
+  <Set id="6" subset="1" span="word_129" frame="MOTION" head="poruszać">
+    <Frame fe="1" span="word_131..word_133" concept_id="37" name="PLACE" />
+  </Set>
+  <Set id="7" subset="1" span="word_149" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_150..word_151" concept_id="45" name="THEME" />
+  </Set>
+</Frames>

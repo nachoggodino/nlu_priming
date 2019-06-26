@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-27_17_40_05" version="5" version_date="071031">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="64.496" topic="to1">
+<Turn startTime="0" endTime="0.372">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.372" endTime="1.503">
+<Sync time="0.372"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.503" endTime="10.413">
+<Sync time="1.503"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ o dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ kiedy jest następny autobus 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto pięćdziesiąt jeden 
+<Event desc="*" type="pronounce" extent="begin"/>
+Plac
+<Event desc="*" type="pronounce" extent="end"/>
+ Trzech Krzyży na Saskiej 
+<Event desc="*" type="pronounce" extent="begin"/>
+Kępie
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.413" endTime="11.455">
+<Sync time="10.413"/>
+w kierunku Saskiej Kępy 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="11.455" endTime="11.822">
+<Sync time="11.455"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="11.822" endTime="18.111">
+<Sync time="11.822"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ osiemnasta trzy
+</Turn>
+<Turn speaker="spk2" startTime="18.111" endTime="26.877">
+<Sync time="18.111"/>
+aha 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ aha 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+a
+<Event desc="*" type="pronounce" extent="end"/>
+ a od 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Bank 
+<Event desc="SYL" type="pronounce" extent="begin"/>
+Narodowy
+<Event desc="SYL" type="pronounce" extent="end"/>
+ sto siedemnaście 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.877" endTime="27.9717387776">
+<Sync time="26.877"/>
+Bank Narodowy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="27.9717387776" endTime="30.04">
+<Sync time="27.9717387776"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ bank 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.04" endTime="33.086">
+<Sync time="30.04"/>
+tutaj od 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+P K O
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ od Rotundy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="33.086" endTime="35.193">
+<Sync time="33.086"/>
+nie nie tam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przy Nowym Świecie 
+<Event desc="*" type="pronounce" extent="begin"/>
+to jest
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.193" endTime="36.777">
+<Sync time="35.193"/>
+a przystanek Muzeum 
+<Event desc="babble" type="noise" extent="begin"/>
+ Narodowe 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="36.777" endTime="41.686">
+<Sync time="36.777"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+Mu
+<Event desc="~" type="lexical" extent="end"/>
+zeum Narodowe o 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="41.686" endTime="43.955">
+<Sync time="41.686"/>
+chodzi o te same teraz blisko godziny tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="43.955" endTime="49.595">
+<Sync time="43.955"/>
+tak 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="49.595" endTime="51.425">
+<Sync time="49.595"/>
+siedemnasta czterdzieści siedem
+</Turn>
+<Turn speaker="spk2" startTime="51.425" endTime="52.391">
+<Sync time="51.425"/>
+dobrze dziękuję to 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="52.391" endTime="52.754">
+<Sync time="52.391"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk2" startTime="52.754" endTime="57.084">
+<Sync time="52.754"/>
+i to ile t
+<Event desc="~" type="lexical" extent="begin"/>
+r
+<Event desc="~" type="lexical" extent="end"/>
+wa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do na 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ tak dziesięć minut 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="57.084" endTime="57.8508996341">
+<Sync time="57.084"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dokąd 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="57.8508996341" endTime="60.644">
+<Sync time="57.8508996341"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do a dobrze dobrze 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="60.644" endTime="60.996">
+<Sync time="60.644"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn startTime="60.996" endTime="64.496">
+<Sync time="60.996"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-27_18_36_30" version="7" version_date="080125">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="103.994" topic="to1">
+<Turn startTime="0" endTime="0.647">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.647" endTime="2.625">
+<Sync time="0.647"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.625" endTime="6.203">
+<Sync time="2.625"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ dobry czy ja się dobrze dodzwoniłem żeby się dowiedzieć jak autobusy jeżdżą 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="6.203" endTime="7.245">
+<Sync time="6.203"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ słucham pana
+</Turn>
+<Turn speaker="spk2" startTime="7.245" endTime="12.056">
+<Sync time="7.245"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chciałem się dowiedzieć jak jeździ sto trzydzieści pięć jakimi ulicami
+</Turn>
+<Turn speaker="spk1" startTime="12.056" endTime="39.552">
+<Sync time="12.056"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ już sprawdzam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ proszę pana 
+<Event desc="babble" type="noise" extent="begin"/>
+ zaczyna 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na pętli Olszynka Grochowska to jest przy Chłopickiego 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dalej jedzie przez Plac Szembeka Zamieniecką do Ostrobramskiej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ z Ostrobramskiej 
+<Event desc="babble" type="noise" extent="end"/>
+ skręci w 
+<Event desc="*" type="pronounce" extent="begin"/>
+Grenadierów
+<Event desc="*" type="pronounce" extent="end"/>
+ i potem do Grochowskiej 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ i dalej tutaj Grochowską do Targowej potem skręca w Aleję Solidarności kawałkiem Alei Solidarności do ulicy Szwedzkiej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ potem Jedenastego Listopada i do Placu Hallera
+</Turn>
+<Turn speaker="spk2" startTime="39.552" endTime="42.193">
+<Sync time="39.552"/>
+aha to 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ trzysta pięćdziesiąt sześć tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="42.193" endTime="43.382">
+<Sync time="42.193"/>
+sto trzydzieści pięć
+</Turn>
+<Turn speaker="spk2" startTime="43.382" endTime="46.23">
+<Sync time="43.382"/>
+oj nie ten 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ trzysta pięćdziesi
+<Event desc="~" type="lexical" extent="begin"/>
+ąt
+<Event desc="~" type="lexical" extent="end"/>
+ sześ
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="46.23" endTime="76.028">
+<Sync time="46.23"/>
+aha trzysta pięćdziesiąt 
+<Event desc="babble" type="noise" extent="begin"/>
+ sześć 
+<Event desc="babble" type="noise" extent="end"/>
+ dobrze
+<Event desc="noise" type="noise" extent="begin"/>
+ to już sprawdzam 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ no jeżeli chodzi o trzysta pięćdziesiąt sześć to on zaczyna tutaj na Hucie 
+<Event desc="*" type="pronounce" extent="begin"/>
+on
+<Event desc="*" type="pronounce" extent="end"/>
+ jedzie ulicą Kasprowicza 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ potem Podczaszyńskiego do Żeromskiego 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dalej przez Plac Wilsona potem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Krasińskiego 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Wybrzeżem Gdańskim do Mostu Grota Roweckiego 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dalej potem jedzie Wysockiego Bartniczą Wyszogrodzką Chodecką 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ i do pętli Bródno Podgrodzie na 
+<Event desc="*" type="pronounce" extent="begin"/>
+ulicy
+<Event desc="*" type="pronounce" extent="end"/>
+ Krasnobrodzkiej
+</Turn>
+<Turn speaker="spk2" startTime="76.028" endTime="78.299">
+<Sync time="76.028"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha Bródno Podgrodzie 
+<Event desc="noise" type="noise" extent="end"/>
+ tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="78.299" endTime="78.766">
+<Sync time="78.299"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="78.766" endTime="80.214">
+<Sync time="78.766"/>
+a drugą pętlę gdzie ma 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="80.214" endTime="81.346">
+<Sync time="80.214"/>
+na Hucie
+</Turn>
+<Turn speaker="spk2" startTime="81.346" endTime="81.883">
+<Sync time="81.346"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ na Hucie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="81.883" endTime="82.097">
+<Sync time="81.883"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+na
+</Turn>
+<Turn speaker="spk1" startTime="82.097" endTime="84.874">
+<Sync time="82.097"/>
+ Hucie tak przy ulicy Kasprowicza 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="84.874" endTime="92.383">
+<Sync time="84.874"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ to 
+<Event desc="~" type="lexical" extent="begin"/>
+j
+<Event desc="~" type="lexical" extent="end"/>
+est ten 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ jak to się nazywa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ znaczy nie Żoliborz 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="92.383" endTime="97.088">
+<Sync time="92.383"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy to już taki daleki Żoliborz to już Bielany bardziej 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="97.088" endTime="99.506">
+<Sync time="97.088"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ aha no dobrze 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ dziękuję 
+</Turn>
+<Turn speaker="spk1" startTime="99.506" endTime="100.182">
+<Sync time="99.506"/>
+proszę bardzo
+</Turn>
+<Turn startTime="100.182" endTime="103.994">
+<Sync time="100.182"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

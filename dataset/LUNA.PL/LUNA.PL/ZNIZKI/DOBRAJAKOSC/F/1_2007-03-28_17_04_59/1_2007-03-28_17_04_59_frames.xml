@@ -1,0 +1,21 @@
+<Frames>
+  <Set id="1" subset="1" span="word_17" frame="RIDE_VEHICLE" head="jeździć">
+    <Frame fe="1" span="word_10" concept_id="4" name="VEHICLE" />
+    <Frame fe="2" span="word_11..word_12" concept_id="5" name="SOURCE" />
+    <Frame fe="3" span="word_13..word_14" concept_id="6" name="GOAL" />
+    <Frame fe="4" span="word_15" concept_id="7" name="THEME" />
+    <Frame fe="5" span="word_19..word_20" concept_id="9" name="MANNER" />
+  </Set>
+  <Set id="2" subset="1" span="word_31" frame="BECOMING" head="skończyć">
+    <Frame fe="1" span="word_32..word_33" concept_id="14" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="3" subset="1" span="word_54" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_55..word_56" concept_id="24" name="SOURCE" />
+  </Set>
+  <Set id="4" subset="1" span="word_60" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_61..word_62" concept_id="28" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_67" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_66" concept_id="29" name="MANNER" />
+  </Set>
+</Frames>

@@ -1,0 +1,5 @@
+<Frames>
+  <Set id="1" subset="1" span="word_28" frame="GIVE" head="podać">
+    <Frame fe="1" span="word_29" concept_id="13" name="THEME" />
+  </Set>
+</Frames>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_18_26_50" version="3" version_date="071001">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="32.370" topic="to1">
+<Turn startTime="0" endTime="0.505">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.505" endTime="2.691">
+<Sync time="0.505"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry xxx s<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>ucham <Event desc="noise" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="2.691" endTime="11.158">
+<Sync time="2.691"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry ja mam <Event desc="*" type="pronounce" extent="begin"/>takie pytanie<Event desc="*" type="pronounce" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> zniżki pięćdziesiąt lub czterdzieści osiem procen<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> <Event desc="*" type="pronounce" extent="begin"/>przysługują<Event desc="*" type="pronounce" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> studentom<Event desc="int" type="noise" extent="previous"/> też ta<Event desc="~" type="lexical" extent="begin"/>k<Event desc="~" type="lexical" extent="end"/> <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="11.158" endTime="14.302">
+<Sync time="11.158"/>
+<Event desc="~" type="lexical" extent="begin"/>z<Event desc="~" type="lexical" extent="end"/>naczy tak zniżka <Event desc="noise" type="noise" extent="begin"/> pięćdziesiąt <Event desc="noise" type="noise" extent="end"/> procent <Event desc="noise" type="noise" extent="begin"/> przysługuje studentom <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="14.302" endTime="16.767">
+<Sync time="14.302"/>
+<Event desc="noise" type="noise" extent="begin"/> ale czy niezależnie od wieku studenta czy <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="16.767" endTime="21.678">
+<Sync time="16.767"/>
+<Event desc="babble" type="noise" extent="begin"/> <Event desc="~" type="lexical" extent="begin"/>zn<Event desc="~" type="lexical" extent="end"/>aczy studentom <Event desc="babble" type="noise" extent="end"/> studiów pierwszego i drugiego stopnia niezależnie od wieku
+</Turn>
+<Turn speaker="spk2" startTime="21.678" endTime="24.765">
+<Sync time="21.678"/>
+<Event desc="noise" type="noise" extent="begin"/> niezależnie od wieku <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> dzienne czy zaoczne czy uczelnia <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="24.765" endTime="26.965">
+<Sync time="24.765"/>
+<Event desc="babble" type="noise" extent="begin"/> niezależnie od <Event desc="noise" type="noise" extent="begin"/> typu <Event desc="babble" type="noise" extent="end"/> studiowania tak <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="26.965" endTime="27.975">
+<Sync time="26.965"/>
+<Event desc="noise" type="noise" extent="begin"/> aha dziękuję bardzo <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="27.975" endTime="28.685">
+<Sync time="27.975"/>
+bardzo proszę
+</Turn>
+<Turn startTime="28.685" endTime="32.370">
+<Sync time="28.685"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

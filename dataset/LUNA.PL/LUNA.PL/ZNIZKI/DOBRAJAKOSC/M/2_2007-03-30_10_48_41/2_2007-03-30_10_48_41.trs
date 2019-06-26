@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-30_10_48_41" version="5" version_date="080418">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="166.490" topic="to1">
+<Turn startTime="0" endTime="1.37">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.37" endTime="3.173">
+<Sync time="1.37"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.173" endTime="26.438">
+<Sync time="3.173"/>
+dzień dobry proszę pana dzwonię do pana w takiej sprawie chciałbym się dowiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ po pierwsze czy są a 
+<Event desc="noise" type="noise" extent="begin"/>
+ po drugie jeżeli tak to gdzie można złożyć 
+<Event desc="noise" type="noise" extent="end"/>
+ chodzi mi że 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ teść jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ osobą pierwszej 
+<Event desc="*" type="pronounce" extent="begin"/>
+grupy inwalidzkiej
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ i czy przysługują mu jakieś zniżki jeżeli tak to jakie i jeżeli tak 
+<Event desc="noise" type="noise" extent="begin"/>
+ to gdzie by 
+<Event desc="*" type="pronounce" extent="begin"/>
+trzeba było
+<Event desc="*" type="pronounce" extent="end"/>
+ złożyć wniosek 
+<Event desc="noise" type="noise" extent="end"/>
+ bo z tego co mi wiadomo na pewno jakieś przysługują a kto wie czy nawet nie ma darmowych przeja
+<Event desc="~" type="lexical" extent="begin"/>
+zdów
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.438" endTime="34.437">
+<Sync time="26.438"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana żadnego wniosku nie trzeba składać są przejazdy bezpłatne na podstawie orzeczenia o przyznaniu pierwszej grupy inwalidzkiej wraz z dokumentem 
+<Event desc="*" type="pronounce" extent="begin"/>
+tożsamości
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="34.437" endTime="40.373">
+<Sync time="34.437"/>
+czyli ja rozumiem że po prostu jeżeli ma przy sobie dostał że tak powiem taki że zostaje panu przyznana pierwsza grupa inwalidzka
+</Turn>
+<Turn speaker="spk1" startTime="40.373" endTime="41.253">
+<Sync time="40.373"/>
+tak tak 
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="41.253" endTime="42.583">
+<Sync time="41.253"/>
+ skserować ją i zawsze przy sobie 
+<Event desc="*" type="pronounce" extent="begin"/>
+nosić
+<Event desc="*" type="pronounce" extent="end"/>
+ bo
+</Turn>
+<Turn speaker="spk1" startTime="42.583" endTime="46.061">
+<Sync time="42.583"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ znaczy no 
+<Event desc="babble" type="noise" extent="end"/>
+ jeżeli chodzi o ksero to musiałoby być poświadczone notarialnie 
+</Turn>
+<Turn speaker="spk2" startTime="46.061" endTime="48.362">
+<Sync time="46.061"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ aha czyli 
+<Event desc="babble" type="noise" extent="end"/>
+ z or
+<Event desc="~" type="lexical" extent="begin"/>
+y
+<Event desc="~" type="lexical" extent="end"/>
+ginałem zawsze jeździć
+</Turn>
+<Turn speaker="spk1" startTime="48.362" endTime="49.81">
+<Sync time="48.362"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+tak
+<Event desc="*" type="pronounce" extent="end"/>
+ i dokument tożsamoś
+<Event desc="~" type="lexical" extent="begin"/>
+ci
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="49.81" endTime="54.943">
+<Sync time="49.81"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę pana 
+<Event desc="babble" type="noise" extent="end"/>
+ czy to ma 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ czy teraz mam takie pytanie a jak to wygląda jak na przykład 
+<Event desc="babble" type="noise" extent="begin"/>
+ chce się wejść do metra 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="54.943" endTime="59.408">
+<Sync time="54.943"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę pana
+<Event desc="*" type="pronounce" extent="end"/>
+ jeżeli chodzi o metro to jeżeli na peron zjedziemy windą no to tam nie ma bramki
+</Turn>
+<Turn speaker="spk2" startTime="59.408" endTime="60.339">
+<Sync time="59.408"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="60.339" endTime="65.377">
+<Sync time="60.339"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a jeżeli by teś
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+ chciał przechodzić przez bramkę no to w jednym z naszych punktów 
+</Turn>
+<Turn speaker="spk2" startTime="65.377" endTime="65.814">
+<Sync time="65.377"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="65.814" endTime="73.257">
+<Sync time="65.814"/>
+należy pobrać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ bezpłatną 
+<Event desc="babble" type="noise" extent="end"/>
+ wejściówkę do metra tak wejściówka ma 
+<Event desc="*" type="pronounce" extent="begin"/>
+format
+<Event desc="*" type="pronounce" extent="end"/>
+ biletu kartonikowego
+</Turn>
+<Turn speaker="spk2" startTime="73.257" endTime="73.519">
+<Sync time="73.257"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="73.519" endTime="78.667">
+<Sync time="73.519"/>
+jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ bezpłatna wielo
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ wielorazowego użytku a i 
+<Event desc="babble" type="noise" extent="begin"/>
+ w ten sposób można przez bramkę przechodzić 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="78.667" endTime="87.715">
+<Sync time="78.667"/>
+proszę pana jeszcze kiedyś z tego co mi teś
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+ tłumaczył jakiś da
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ dawny czas temu było tak że opiekun czyli powiedzmy żona również jakie
+<Event desc="~" type="lexical" extent="begin"/>
+ś
+<Event desc="~" type="lexical" extent="end"/>
+ zniżki otrzymuje
+</Turn>
+<Turn speaker="spk1" startTime="87.715" endTime="97.344">
+<Sync time="87.715"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ w trakcie 
+<Event desc="babble" type="noise" extent="end"/>
+ przejazdu wraz z 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z osobą uprawnioną do przejazdów bezpłatnych 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ opiekun ma 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ również przejazd bezpłatny ale jeżeli jedzie sam
+</Turn>
+<Turn speaker="spk2" startTime="97.344" endTime="97.597">
+<Sync time="97.344"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="97.597" endTime="98.386">
+<Sync time="97.597"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ no to nie ma żadny
+<Event desc="~" type="lexical" extent="begin"/>
+ch
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="98.386" endTime="99.241">
+<Sync time="98.386"/>
+<Who nb="1"/>
+czyli rozumiem
+<Who nb="2"/>
+ulgi
+</Turn>
+<Turn speaker="spk2" startTime="99.241" endTime="107.192">
+<Sync time="99.241"/>
+że jazda metrem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z osobą pier
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+szej grupy 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="int" type="noise" extent="next"/>
+inwalidzkiej jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dla opiekuna że się tak wyrażę bezpła
+<Event desc="~" type="lexical" extent="begin"/>
+tna
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="107.192" endTime="107.502">
+<Sync time="107.192"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="107.502" endTime="108.502">
+<Sync time="107.502"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ na tej samej zasa
+<Event desc="~" type="lexical" extent="begin"/>
+dzie
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="108.502" endTime="108.639">
+<Sync time="108.502"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="108.639" endTime="111.846">
+<Sync time="108.639"/>
+a proszę mi powiedzieć czy opiekun musi być żoną czy opiekunem może być
+</Turn>
+<Turn speaker="spk1" startTime="111.846" endTime="116.889">
+<Sync time="111.846"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie nieko
+<Event desc="~" type="lexical" extent="begin"/>
+niecznie
+<Event desc="~" type="lexical" extent="end"/>
+ nie niekoniecznie nie nie jest sprecyzowane może być osoba postron
+<Event desc="~" type="lexical" extent="begin"/>
+na
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="116.889" endTime="118.97">
+<Sync time="116.889"/>
+tak dalej generalnie rodzina najbliższa
+</Turn>
+<Turn speaker="spk1" startTime="118.97" endTime="123.919">
+<Sync time="118.97"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie nie nie nie może może być także osoba postronna to nie musi być nikt z rodziny
+</Turn>
+<Turn speaker="spk2" startTime="123.919" endTime="125.735">
+<Sync time="123.919"/>
+czyli na zasadzie takiej że gdyby po
+<Event desc="~" type="lexical" extent="begin"/>
+wiedzmy 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="125.735" endTime="126.532">
+<Sync time="125.735"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ na wskazanie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="126.532" endTime="137.768">
+<Sync time="126.532"/>
+sobie pan kontroler i bilety do kontroli to mówimy że to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ mój na przykład teść ja z nim jadę i i on ma tutaj zniżki a ja jestem na dzień dzisiejszy w tym momencie 
+<Event desc="babble" type="noise" extent="begin"/>
+ jego opiekunem 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="137.768" endTime="147.201">
+<Sync time="137.768"/>
+tak generalnie tak z tym że no tutaj bardziej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ osoba uprawniona musi powiedzieć że pan jest akura
+<Event desc="~" type="lexical" extent="begin"/>
+t 
+<Event desc="~" type="lexical" extent="end"/>
+ na przykład 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tutaj opiekunem i wtedy
+</Turn>
+<Turn speaker="spk2" startTime="147.201" endTime="151.705">
+<Sync time="147.201"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ czyli rozumiem 
+<Event desc="babble" type="noise" extent="end"/>
+ że powiedzmy teść jeżeli z nim jadę to mówi że to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ na teraz mój opiekun
+</Turn>
+<Turn speaker="spk1" startTime="151.705" endTime="151.969">
+<Sync time="151.705"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="151.969" endTime="153.979">
+<Sync time="151.969"/>
+w zasadzie nie żadne notarialne dokumen
+<Event desc="~" type="lexical" extent="begin"/>
+ty
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="153.979" endTime="154.23">
+<Sync time="153.979"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="154.23" endTime="154.938">
+<Sync time="154.23"/>
+<Who nb="1"/>
+
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+I T P
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+I T D
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+nie nie nie
+</Turn>
+<Turn speaker="spk1" startTime="154.938" endTime="155.221">
+<Sync time="154.938"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ nie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="155.221" endTime="160.207">
+<Sync time="155.221"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a może mi jeszcze pan powiedzieć taką sprawę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z parkometrami czy to już do WAPARKu
+</Turn>
+<Turn speaker="spk1" startTime="160.207" endTime="160.788">
+<Sync time="160.207"/>
+nie to już
+</Turn>
+<Turn speaker="spk1 spk2" startTime="160.788" endTime="161.336">
+<Sync time="160.788"/>
+<Who nb="1"/>
+do WAPARKu
+<Who nb="2"/>
+to już
+</Turn>
+<Turn speaker="spk2" startTime="161.336" endTime="162.634">
+<Sync time="161.336"/>
+do WAPARKu dobra dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="162.634" endTime="163.462">
+<Sync time="162.634"/>
+<Who nb="1"/>
+panu serdecznie
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="163.462" endTime="163.916">
+<Sync time="163.462"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="163.916" endTime="164.429">
+<Sync time="163.916"/>
+do 
+<Event desc="*" type="pronounce" extent="begin"/>
+usłyszenia
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn startTime="164.429" endTime="166.490">
+<Sync time="164.429"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,46 @@
+<Frames>
+  <Set id="1" subset="1" span="word_9" frame="RESIDENCE" head="mieszkać">
+    <Frame fe="1" span="word_10..word_11" concept_id="5" name="LOCATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_14" frame="GET" head="dostać">
+    <Frame fe="1" span="word_15..word_19" concept_id="8" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_27" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_23..word_24" concept_id="9" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="2" span="word_26" concept_id="10" name="SOURCE" />
+  </Set>
+  <Set id="4" subset="1" span="word_40" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_35..word_37" concept_id="13" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="2" span="word_38..word_39" concept_id="14" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_43" frame="CAUSE_CHANGE" head="przesiąść">
+    <Frame fe="1" span="word_45,word_46..word_49" concept_id="18,19" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="6" subset="1" span="word_53" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_56,word_57..word_58" concept_id="22,23" name="ENTITY" />
+  </Set>
+  <Set id="7" subset="1" span="word_62" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_60..word_61" concept_id="24" name="GOAL" />
+  </Set>
+  <Set id="8" subset="1" span="word_65" frame="RESIDENCE" head="mieszkać">
+    <Frame fe="1" span="word_66..word_67" concept_id="28" name="LOCATION" />
+  </Set>
+  <Set id="9" subset="1" span="word_69" frame="RESIDENCE" head="mieszkać">
+    <Frame fe="1" span="word_70..word_71" concept_id="30" name="LOCATION" />
+  </Set>
+  <Set id="10" subset="1" span="word_86" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_84..word_85" concept_id="34" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="2" span="word_87..word_88" concept_id="36" name="GOAL" />
+  </Set>
+  <Set id="11" subset="1" span="word_101" frame="CAUSE_CHANGE" head="przesiadać">
+    <Frame fe="1" span="word_100" concept_id="42" name="PLACE" />
+    <Frame fe="2" span="word_103,word_104..word_106" concept_id="44,45" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="12" subset="1" span="word_111" frame="HALT" head="stawać">
+    <Frame fe="1" span="word_108..word_110" concept_id="46" name="PLACE" />
+    <Frame fe="2" span="word_113..word_115" concept_id="48" name="THEME" />
+  </Set>
+  <Set id="13" subset="1" span="word_121" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_122..word_124" concept_id="50" name="VEHICLE" />
+  </Set>
+</Frames>

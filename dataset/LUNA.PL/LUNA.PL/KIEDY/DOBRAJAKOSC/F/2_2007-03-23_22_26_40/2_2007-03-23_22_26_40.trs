@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_22_26_40" version="3" version_date="070529">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="35.498">
+<Turn startTime="0" endTime="1.464">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.464" endTime="3.301">
+<Sync time="1.464"/>
+dobry wieczór xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.301" endTime="24.477">
+<Sync time="3.301"/>
+<Event desc="noise" type="noise" extent="begin"/> dobry wieczór panu mam do pana prośbę <Event desc="filler" type="lexical" extent="instantaneous"/> proszę zobaczyć z pętli Szczęśliwickiej sto osiemdziesiąt cztery <Event desc="filler" type="lexical" extent="instantaneous"/> jutro w sobotę <Event desc="filler" type="lexical" extent="instantaneous"/> o <Event desc="filler" type="lexical" extent="instantaneous"/> dwunastej <Event desc="filler" type="lexical" extent="instantaneous"/> i trzynastej proszę podać rozkład <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="24.477" endTime="25.85">
+<Sync time="24.477"/>
+dwunasta dwie
+</Turn>
+<Turn speaker="spk2" startTime="25.85" endTime="26.291">
+<Sync time="25.85"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="26.291" endTime="27.297">
+<Sync time="26.291"/>
+dwadzieścia dwie
+</Turn>
+<Turn speaker="spk2" startTime="27.297" endTime="27.619">
+<Sync time="27.297"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="27.619" endTime="31.121">
+<Sync time="27.619"/>
+<Event desc="noise" type="noise" extent="begin"/> czterdzieści dwie trzynasta tak samo <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="31.121" endTime="31.68">
+<Sync time="31.121"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="31.68" endTime="32.744">
+<Sync time="31.68"/>
+<Who nb="1"/>
+panu dobranoc
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="32.744" endTime="33.347">
+<Sync time="32.744"/>
+dobranoc
+</Turn>
+<Turn startTime="33.347" endTime="35.498">
+<Sync time="33.347"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

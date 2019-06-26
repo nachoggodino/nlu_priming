@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-13_11_26_26" version="4" version_date="071001">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="85.995" topic="to1">
+<Turn startTime="0" endTime="1.492">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.492" endTime="3.235">
+<Sync time="1.492"/>
+<Event desc="babble" type="noise" extent="begin"/> <Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry xxx <Event desc="*" type="pronounce" extent="begin"/>słucham<Event desc="*" type="pronounce" extent="end"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.235" endTime="12.108">
+<Sync time="3.235"/>
+<Event desc="babble" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pana chciałbym się dowiedzieć <Event desc="filler" type="lexical" extent="instantaneous"/> w sprawie <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> przejazdów ulgowych <Event desc="babble" type="noise" extent="end"/> dla honorowych krwiodawców <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="12.108" endTime="27.998">
+<Sync time="12.108"/>
+pan jako mężczyzna musi <Event desc="babble" type="noise" extent="begin"/> mieć <Event desc="filler" type="lexical" extent="instantaneous"/> oddano osiemnaście litrów krwi odpowiedni <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> wpis o tym że oddał pan <Event desc="filler" type="lexical" extent="instantaneous"/> osiemnaście litrów i na podstawie tego wpisu wraz z dokumentem <Event desc="filler" type="lexical" extent="instantaneous"/> tożsamości przejazdy bezpłatne <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="27.998" endTime="35.949">
+<Sync time="27.998"/>
+<Event desc="babble" type="noise" extent="begin"/> to znaczy <Event desc="filler" type="lexical" extent="instantaneous"/> co jeszcze chcia<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>em ta<Event desc="~" type="lexical" extent="begin"/>k<Event desc="~" type="lexical" extent="end"/> ta<Event desc="~" type="lexical" extent="begin"/>k<Event desc="~" type="lexical" extent="end"/> bo mam <Event desc="noise" type="noise" extent="begin"/> wydrukowany w<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>aśnie ten <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> taryfowy <Event desc="noise" type="noise" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> ale <Event desc="*" type="pronounce" extent="begin"/>proszę pana<Event desc="*" type="pronounce" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> to obowiązuje w<Event desc="~" type="lexical" extent="begin"/>ła<Event desc="~" type="lexical" extent="end"/>śnie i na metro i <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="35.949" endTime="63.141">
+<Sync time="35.949"/>
+tak proszę pana na na całość komunikacji miejskiej organizowanej przez nas czyli metro autobusy tramwaje Szybka Kolej Miejska na całej trasie <Event desc="babble" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> auto<Event desc="~" type="lexical" extent="instantaneous"/> nasze autobusy podmiejskie czyli wszystkie siedemsetki i osiemsetki <Event desc="filler" type="lexical" extent="instantaneous"/> no i także mamy tutaj umowę <Event desc="filler" type="lexical" extent="instantaneous"/> o wspólnym bilecie z <Event desc="filler" type="lexical" extent="instantaneous"/> z Kolejami Mazowieckimi i <Event desc="SPELLED" type="pronounce" extent="begin"/>W K D<Event desc="SPELLED" type="pronounce" extent="end"/> <Event desc="babble" type="noise" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> ale jeżeli chodzi o Koleje Mazowieckie i <Event desc="SPELLED" type="pronounce" extent="begin"/>W K D<Event desc="SPELLED" type="pronounce" extent="end"/> to <Event desc="filler" type="lexical" extent="instantaneous"/> ich środkami można się poruszać tylko w obrębie Warszawy
+</Turn>
+<Turn speaker="spk2" startTime="63.141" endTime="69.961">
+<Sync time="63.141"/>
+aha tylko <Event desc="*" type="pronounce" extent="begin"/>w obrębie<Event desc="*" type="pronounce" extent="end"/> Warszawy czyli <Event desc="babble" type="noise" extent="begin"/> tutaj ta <Event desc="filler" type="lexical" extent="instantaneous"/> stacja końcowa tu licząc od Skierniewic <Event desc="babble" type="noise" extent="end"/> to <Event desc="*" type="pronounce" extent="begin"/>byłaby<Event desc="*" type="pronounce" extent="end"/> Warszawa Ursus tak <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="69.961" endTime="71.461">
+<Sync time="69.961"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> tak tak tak <Event desc="babble" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="71.461" endTime="76.616">
+<Sync time="71.461"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> no dobrze to wystarczy właśnie to zaświadczenie to znaczy <Event desc="*" type="pronounce" extent="begin"/>legitymacja<Event desc="*" type="pronounce" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="76.616" endTime="81.413">
+<Sync time="76.616"/>
+<Event desc="babble" type="noise" extent="begin"/> legitymacja honorowego krwiodawcy z wpisem o oddaniu osiemnastu litrów oraz  dokumentem tożsamoś<Event desc="~" type="lexical" extent="begin"/>ci<Event desc="~" type="lexical" extent="end"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="81.413" endTime="82.428">
+<Sync time="81.413"/>
+<Event desc="babble" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="int" type="noise" extent="instantaneous"/>dobrze to dziękuję <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="82.428" endTime="83.336">
+<Sync time="82.428"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="83.336" endTime="83.854">
+<Sync time="83.336"/>
+do <Event desc="*" type="pronounce" extent="begin"/>usłyszenia<Event desc="*" type="pronounce" extent="end"/>
+</Turn>
+<Turn startTime="83.854" endTime="85.995">
+<Sync time="83.854"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

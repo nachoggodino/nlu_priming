@@ -1,0 +1,34 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_10" concept_id="6" name="MANNER" />
+    <Frame fe="2" span="word_11" concept_id="7" name="TIME" />
+    <Frame fe="3" span="word_12" concept_id="8" name="MANNER" />
+    <Frame fe="4" span="word_14..word_16" concept_id="10" name="SOURCE" />
+    <Frame fe="5" span="word_17..word_19" concept_id="11" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_25" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_20..word_22" concept_id="12" name="GOAL" />
+    <Frame fe="2" span="word_24" concept_id="13" name="MANNER" />
+    <Frame fe="3" span="word_27" concept_id="15" name="MANNER" />
+  </Set>
+  <Set id="3" subset="1" span="word_29" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_30..word_31" concept_id="17" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="2" span="word_32..word_33" concept_id="18" name="GOAL" />
+  </Set>
+  <Set id="4" subset="1" span="word_36" frame="CAUSE_CHANGE" head="przesiąść">
+    <Frame fe="1" span="word_37..word_38" concept_id="20" name="PLACE" />
+    <Frame fe="2" span="word_39,word_40..word_41" concept_id="21,22" name="FINAL_CATEGORY" />
+    <Frame fe="3" span="word_43,word_44..word_45" concept_id="24,25" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="5" subset="1" span="word_49" frame="BOARD_VEHICLE" head="wsiadać">
+    <Frame fe="1" span="word_48" concept_id="27" name="TIME" />
+    <Frame fe="2" span="word_51..word_52" concept_id="29" name="VEHICLE" />
+  </Set>
+  <Set id="6" subset="1" span="word_59" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_60..word_61" concept_id="31" name="GOAL" />
+    <Frame fe="2" span="word_62..word_64" concept_id="32" name="GOAL" />
+  </Set>
+  <Set id="7" subset="1" span="word_69" frame="CAUSE_CHANGE" head="przesiąść">
+    <Frame fe="1" span="word_67" concept_id="34" name="PLACE" />
+  </Set>
+</Frames>

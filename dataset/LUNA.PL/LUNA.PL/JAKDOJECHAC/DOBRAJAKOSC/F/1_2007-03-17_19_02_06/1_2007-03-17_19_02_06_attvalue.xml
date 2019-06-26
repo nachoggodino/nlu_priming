@@ -1,0 +1,55 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_10..word_13" attribute="AT_HOUR" value="5 : 00 am" />
+  <concept id="5" span="word_14" attribute="ACTION" value="Approach" />
+  <concept id="6" span="word_15..word_16" attribute="SOURCE_TD" value="Służewiec" />
+  <concept id="7" span="word_17..word_18" attribute="GOAL_RS" value="Dworzec Zachodni" />
+  <concept id="8" span="word_19" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="9" span="word_20" attribute="METRO" value="General" />
+  <concept id="10" span="word_21" attribute="TIME_DAYPERIOD" value="Morning" />
+  <concept id="11" span="word_22" attribute="ACTION" value="Go" />
+  <concept id="12" span="word_24..word_25" attribute="GOAL_TD" value="Centrum" />
+  <concept id="13" span="word_27..word_29" attribute="DAYTIME_PERIOD_BEG" value="5 : 00 am" />
+  <concept id="14" span="word_31..word_33" attribute="DAYTIME_PERIOD_BEG" value="5 : 00 am" />
+  <concept id="15" span="word_36" attribute="REACTION" value="Confirmation" />
+  <concept id="16" span="word_42" attribute="LINE_TYPE" value="Night" />
+  <concept id="17" span="word_44..word_45" attribute="BEFORE_HOUR" value="5 : 00" />
+  <concept id="18" span="word_46" attribute="REACTION" value="Confirmation" />
+  <concept id="19" span="word_47" attribute="REACTION" value="Confirmation" />
+  <concept id="20" span="word_52" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="21" span="word_54" attribute="ACTION" value="Need" />
+  <concept id="22" span="word_57" attribute="ACTION" value="ToBe" />
+  <concept id="23" span="word_58..word_60" attribute="AT_HOUR" value="5 : 30" />
+  <concept id="24" span="word_61..word_63" attribute="LOCATION_BLD" value="PKS Zachodni" />
+  <concept id="25" span="word_65" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="26" span="word_67..word_68" attribute="TIME_WEEKPERIOD" value="Holiday" />
+  <concept id="27" span="word_71" attribute="METRO" value="General" />
+  <concept id="28" span="word_73" attribute="METRO" value="General" />
+  <concept id="29" span="word_74" attribute="ACTION" value="Go" />
+  <concept id="30" span="word_78..word_79" attribute="TIME_WEEKPERIOD" value="Weekend" />
+  <concept id="31" span="word_80" attribute="ACTION" value="Go" />
+  <concept id="32" span="word_85" attribute="TIME_REL" value="Today" />
+  <concept id="33" span="word_86" attribute="ACTION" value="ToBe" />
+  <concept id="34" span="word_87" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="35" span="word_89" attribute="TIME_WEEKPERIOD" value="Saturday" />
+  <concept id="36" span="word_91" attribute="TIME_WEEKPERIOD" value="Holiday" />
+  <concept id="37" span="word_92..word_94" attribute="TRANSPORT_RATE" value="30 min" />
+  <concept id="38" span="word_102" attribute="ACTION" value="Tell" />
+  <concept id="39" span="word_103..word_104" attribute="SOURCE_TD" value="Służewiec" />
+  <concept id="40" span="word_105..word_106" attribute="SOURCE_TD" value="Służewiec" />
+  <concept id="41" span="word_111..word_112" attribute="AT_HOUR" value="5 : 00" />
+  <concept id="42" span="word_115" attribute="LOCATION_REL" value="There" />
+  <concept id="43" span="word_116" attribute="ACTION" value="ToBe" />
+  <concept id="44" span="word_117" attribute="Q_CONF" value="IsIt" />
+  <concept id="45" span="word_120" attribute="REACTION" value="Negation" />
+  <concept id="46" span="word_121..word_123" attribute="AT_HOUR" value="2 : 39" />
+  <concept id="47" span="word_124" attribute="ACTION" value="ToHave" />
+  <concept id="48" span="word_125" attribute="DEPARTURE" value="Last" />
+  <concept id="49" span="word_130" attribute="REACTION" value="Negation" />
+  <concept id="50" span="word_131" attribute="LINE_TYPE" value="Night" />
+  <concept id="51" span="word_135" attribute="LINE_TYPE" value="Night" />
+  <concept id="52" span="word_141" attribute="CONV_FORM" value="BYE" />
+  <concept id="53" span="word_142" attribute="CONV_FORM" value="BYE" />
+</concepts>

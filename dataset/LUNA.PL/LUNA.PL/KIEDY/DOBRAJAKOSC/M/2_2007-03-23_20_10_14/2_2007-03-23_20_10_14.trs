@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_20_10_14" version="3" version_date="100912">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="24.998">
+<Turn startTime="0" endTime="0.327">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.327" endTime="2.326">
+<Sync time="0.327"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="next"/>
+dzień dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.326" endTime="3.218">
+<Sync time="2.326"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień 
+<Event desc="int" type="noise" extent="next"/>
+dobry
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3.218" endTime="3.758">
+<Sync time="3.218"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="int" type="noise" extent="next"/>
+dobry 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.758" endTime="7.05">
+<Sync time="3.758"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ p
+<Event desc="~" type="lexical" extent="begin"/>
+ro
+<Event desc="~" type="lexical" extent="end"/>
+szę panią chodzi mi o autobus linii sto dziewięćdziesiąt
+</Turn>
+<Turn speaker="spk1" startTime="7.05" endTime="7.663">
+<Sync time="7.05"/>
+tak 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="7.663" endTime="13.665">
+<Sync time="7.663"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jutro chodzi mi o pierwszy autobus z przystanku 
+<Event desc="noise" type="noise" extent="begin"/>
+ Leszno w kierunku 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Radzymińskiej
+</Turn>
+<Turn speaker="spk1" startTime="13.665" endTime="21.101">
+<Sync time="13.665"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w kierunku ma 
+<Event desc="*" type="pronounce" extent="begin"/>
+Radzymińskiej
+<Event desc="*" type="pronounce" extent="end"/>
+ przystanek Leszno pierwszy jutro 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana to mamy czwarta czterdzieści pięć 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.101" endTime="22.533">
+<Sync time="21.101"/>
+czwarta czterdzieści pięć dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="22.533" endTime="23.643">
+<Sync time="22.533"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dziękuję uprzejmie do widzenia
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="23.643" endTime="24.066">
+<Sync time="23.643"/>
+do widzenia
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn startTime="24.066" endTime="24.998">
+<Sync time="24.066"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

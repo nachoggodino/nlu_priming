@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_23_37_41" version="6" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="27.998" topic="to1">
+<Turn startTime="0" endTime="1.313">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.313" endTime="3.033">
+<Sync time="1.313"/>
+dobry wieczór xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.033" endTime="15.575">
+<Sync time="3.033"/>
+dobry wieczór autobus sto dwadzieścia pięć w stronę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Międzylesia z przystanku Żółkiewskiego 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ pa 
+<Event desc="noise" type="noise" extent="begin"/>
+ ja wysiadam zadzwonię do ciebie zaraz 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.575" endTime="19.037">
+<Sync time="15.575"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ za dwie minuty powinien być dwudziesta trzecia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="19.037" endTime="20.389">
+<Sync time="19.037"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a kolejny 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.389" endTime="21.769">
+<Sync time="20.389"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to jest ostatni 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.769" endTime="23.173">
+<Sync time="21.769"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to jest ostatni za dwie minuty 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.173" endTime="23.99">
+<Sync time="23.173"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="23.99" endTime="25.001">
+<Sync time="23.99"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze dziękuję bardzo 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="25.001" endTime="25.5">
+<Sync time="25.001"/>
+<Who nb="1"/>
+dobranoc
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="25.5" endTime="26.029">
+<Sync time="25.5"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobranoc
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="26.029" endTime="27.998">
+<Sync time="26.029"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_17_38_09" version="8" version_date="071227">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="user" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="operator" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="52.497" topic="to1">
+<Turn startTime="0" endTime="0.464">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="0.464" endTime="1.76">
+<Sync time="0.464"/>
+xxx dzień dobry 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.76" endTime="8.636">
+<Sync time="1.76"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry ja 
+<Event desc="*" type="pronounce" extent="begin"/>
+chciałem się
+<Event desc="*" type="pronounce" extent="end"/>
+ dowiedzieć jak dojechać z Ronda Starzyńskiego 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na ulicą 
+<Event desc="*" type="pronounce" extent="begin"/>
+Domaniewską
+<Event desc="*" type="pronounce" extent="end"/>
+ czterdzieści jeden 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="8.636" endTime="23.885">
+<Sync time="8.636"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ do Domaniewskiej czterdzieści jeden 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Ronda Starzyńskiego 
+<Event desc="babble" type="noise" extent="end"/>
+ trzeba by wsiąść w tramwaj linii 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ może być jedynka dwójka 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dojedzie pan do Ronda Radosława 
+</Turn>
+<Turn speaker="spk1" startTime="23.885" endTime="24.714">
+<Sync time="23.885"/>
+aha
+</Turn>
+<Turn speaker="spk2" startTime="24.714" endTime="28.471">
+<Sync time="24.714"/>
+i na Rondzie Radosława przesiądzie się pan w tramwaj linii siedemnaście
+</Turn>
+<Turn speaker="spk1" startTime="28.471" endTime="32.495">
+<Sync time="28.471"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha i to jest 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ta Domaniewska to jest tam zaraz przy 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="32.495" endTime="35.707">
+<Sync time="32.495"/>
+przy Wołoskiej róg Wołoskiej Domaniewskiej tam jest czterdzieści jeden
+</Turn>
+<Turn speaker="spk1" startTime="35.707" endTime="40.463">
+<Sync time="35.707"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha no to 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest
+<Event desc="*" type="pronounce" extent="end"/>
+ to jest zaraz 
+<Event desc="*" type="pronounce" extent="begin"/>
+za
+<Event desc="*" type="pronounce" extent="end"/>
+ tym jaka ta ulica 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ to telewizja się nazywa 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="40.463" endTime="41.275">
+<Sync time="40.463"/>
+za Woronicza 
+</Turn>
+<Turn speaker="spk1" startTime="41.275" endTime="41.606">
+<Sync time="41.275"/>
+tak 
+</Turn>
+<Turn speaker="spk2" startTime="41.606" endTime="47.151">
+<Sync time="41.606"/>
+no za Woronicza ale to będzie zaraz dwa przystanki za Woronicza 
+<Event desc="babble" type="noise" extent="begin"/>
+ przystanek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="en" type="language" extent="begin"/>
+Curtis Plaza
+<Event desc="en" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="47.151" endTime="49.575">
+<Sync time="47.151"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ aha no 
+<Event desc="en" type="language" extent="begin"/>
+okey
+<Event desc="en" type="language" extent="end"/>
+ to będę wiedział dobrze dziękuję 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="49.575" endTime="50.551">
+<Sync time="49.575"/>
+proszę 
+<Event desc="babble" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="50.551" endTime="52.497">
+<Sync time="50.551"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,17 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_12" concept_id="6" name="MANNER" />
+    <Frame fe="2" span="word_14..word_16" concept_id="8" name="SOURCE" />
+    <Frame fe="3" span="word_17..word_19" concept_id="9" name="GOAL" />
+    <Frame fe="4" span="word_20" concept_id="10" name="MODE_OF_TRANSPORTATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_23" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_25" concept_id="13" name="ENTITY" />
+  </Set>
+  <Set id="3" subset="1" span="word_29" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_26..word_28" concept_id="14" name="MODE_OF_TRANSPORTATION" />
+  </Set>
+  <Set id="4" subset="1" span="word_39" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_36..word_37,word_38" concept_id="18,19" name="TIME" />
+  </Set>
+</Frames>

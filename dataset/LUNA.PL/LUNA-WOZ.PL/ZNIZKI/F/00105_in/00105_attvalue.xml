@@ -1,0 +1,26 @@
+<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_11" attribute="COMMAND_CHOOSE" value="OPTION" />
+  <concept id="3" span="word_12..word_13" attribute="OPTION" value="DepartureTime" />
+  <concept id="4" span="word_14..word_15" attribute="OPTION" value="Route" />
+  <concept id="5" span="word_16..word_17" attribute="OPTION" value="Complaint" />
+  <concept id="6" span="word_18..word_20" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="7" span="word_21..word_22" attribute="OPTION" value="LostLuggage" />
+  <concept id="8" span="word_23..word_24" attribute="OPTION" value="OtherInformation" />
+  <concept id="9" span="word_25" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="10" span="word_26..word_28" attribute="OPTION" value="DiscountRegulations" />
+  <concept id="11" span="word_29..word_42" attribute="Q_FARE" value="Age 70" />
+  <concept id="12" span="word_43" attribute="REACTION" value="Negation" />
+  <concept id="13" span="word_44..word_45" attribute="REACTION" value="Negation" />
+  <concept id="14" span="word_46..word_59" attribute="Q_FARE" value="Person" />
+  <concept id="15" span="word_60" attribute="PERSON" value="Student" />
+  <concept id="16" span="word_61" attribute="PERSON" value="Student" />
+  <concept id="17" span="word_62..word_69" attribute="Q_FARE" value="Student" />
+  <concept id="18" span="word_70" attribute="PERSON" value="PolishStudent" />
+  <concept id="19" span="word_71" attribute="PERSON" value="PolishStudent" />
+  <concept id="20" span="word_72..word_95" attribute="INFORMATION" value="FARE_PolishStudents" />
+  <concept id="21" span="word_96..word_98" attribute="Q_CONF" value="RepeatInformation" />
+  <concept id="22" span="word_99" attribute="REACTION" value="Confirmation" />
+  <concept id="23" span="word_100..word_123" attribute="INFORMATION" value="FARE_PolishStudents" />
+  <concept id="24" span="word_124..word_126" attribute="Q_CONF" value="RepeatInformation" />
+</concepts>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_01_22_39" version="5" version_date="071227">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="73.495" topic="to1">
+<Turn startTime="0" endTime="0.84">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.84" endTime="2.268">
+<Sync time="0.84"/>
+xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.268" endTime="3.227">
+<Sync time="2.268"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobry 
+<Event desc="babble" type="noise" extent="begin"/>
+ wieczór 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3.227" endTime="3.954">
+<Sync time="3.227"/>
+<Who nb="1"/>
+mam do pani
+<Who nb="2"/>
+dobry wieczór
+</Turn>
+<Turn speaker="spk2" startTime="3.954" endTime="16.846">
+<Sync time="3.954"/>
+taką prośbę chciałbym się dowiedzieć o 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ połączenie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z miejsca 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+A
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ czyli to będzie skrzyżowanie ulic Powstańców Śląskich Wrocławska 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.846" endTime="17.334">
+<Sync time="16.846"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.334" endTime="27.833">
+<Sync time="17.334"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przy do 
+<Event desc="babble" type="noise" extent="end"/>
+ przystanku Bemowo Ratusz 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nocny jakiś autobus około godziny 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ drugiej po drugiej jakoś tak
+</Turn>
+<Turn speaker="spk1" startTime="27.833" endTime="31.213">
+<Sync time="27.833"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę pana bo stąd 
+<Event desc="noise" type="noise" extent="end"/>
+ to mamy autobus sześćset trzy
+</Turn>
+<Turn speaker="spk2" startTime="31.213" endTime="32.034">
+<Sync time="31.213"/>
+sześćset trz
+<Event desc="~" type="lexical" extent="begin"/>
+y
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="32.034" endTime="32.596">
+<Sync time="32.034"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+sześćset
+</Turn>
+<Turn speaker="spk1" startTime="32.596" endTime="34.037">
+<Sync time="32.596"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ trzy ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko zaraz zobaczymy 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="34.037" endTime="35.962">
+<Sync time="34.037"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ on odjeżdża 
+<Event desc="babble" type="noise" extent="end"/>
+ z przystanku 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.962" endTime="44.067">
+<Sync time="35.962"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="next"/>
+tutaj jedzie z Wrocławskie
+<Event desc="~" type="lexical" extent="begin"/>
+j
+<Event desc="~" type="lexical" extent="end"/>
+ on rusza z Chomiczówki i przystanek jest 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Wrocławska 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to już jak z Powstańców Śląskich tylko 
+<Event desc="babble" type="noise" extent="begin"/>
+ wjedzie w 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="44.067" endTime="45.469">
+<Sync time="44.067"/>
+<Who nb="1"/>
+ulicę Wrocławską
+<Who nb="2"/>
+Pirenejską jakoś tak
+</Turn>
+<Turn speaker="spk2" startTime="45.469" endTime="47.843">
+<Sync time="45.469"/>
+coś takiego aha on przy 
+<Event desc="en" type="language" extent="begin"/>
+McDonald
+<Event desc="en" type="language" extent="end"/>
+zie tam będzie
+</Turn>
+<Turn speaker="spk1" startTime="47.843" endTime="50.573">
+<Sync time="47.843"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak 
+<Event desc="babble" type="noise" extent="begin"/>
+ zaraz Powstańców Śląskich 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na samym 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="50.573" endTime="50.783">
+<Sync time="50.573"/>
+<Who nb="1"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+czy
+</Turn>
+<Turn speaker="spk2" startTime="50.783" endTime="52.074">
+<Sync time="50.783"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ za Wrocławs
+<Event desc="~" type="lexical" extent="begin"/>
+ką
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="52.074" endTime="58.484">
+<Sync time="52.074"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak i przystanek się nazywa Wrocławska
+<Event desc="babble" type="noise" extent="end"/>
+ zero cztery 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i on odjeżdża proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ zero 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="58.484" endTime="59.313">
+<Sync time="58.484"/>
+po drugiej
+</Turn>
+<Turn speaker="spk1" startTime="59.313" endTime="61.89">
+<Sync time="59.313"/>
+tu druga zero dziewięć i trzydzieści dziewięć
+</Turn>
+<Turn speaker="spk2" startTime="61.89" endTime="64.66">
+<Sync time="61.89"/>
+druga zero dziewięć i trzydzieści dziewięć czy
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+i co pół godziny 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="64.66" endTime="65.118">
+<Sync time="64.66"/>
+<Who nb="1"/>
+jeździ
+<Who nb="2"/>
+co pół
+</Turn>
+<Turn speaker="spk1" startTime="65.118" endTime="67.305">
+<Sync time="65.118"/>
+godziny tak do 
+<Event desc="babble" type="noise" extent="begin"/>
+ czwartej 
+<Event desc="babble" type="noise" extent="end"/>
+ włącznie
+</Turn>
+<Turn speaker="spk2" startTime="67.305" endTime="68.257">
+<Sync time="67.305"/>
+dobrze dziękuję pani 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="68.257" endTime="70.127">
+<Sync time="68.257"/>
+<Who nb="1"/>
+serdecznie życzę
+<Who nb="2"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dziękuję
+<Event desc="*" type="pronounce" extent="end"/>
+ uprzejmie
+</Turn>
+<Turn speaker="spk2" startTime="70.127" endTime="70.835">
+<Sync time="70.127"/>
+miłego wieczoru
+</Turn>
+<Turn speaker="spk1 spk2" startTime="70.835" endTime="71.645">
+<Sync time="70.835"/>
+<Who nb="1"/>
+do usłyszenia
+<Who nb="2"/>
+dziękuję pięknie
+</Turn>
+<Turn speaker="spk1" startTime="71.645" endTime="72.317">
+<Sync time="71.645"/>
+do usłyszenia
+</Turn>
+<Turn startTime="72.317" endTime="73.495">
+<Sync time="72.317"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

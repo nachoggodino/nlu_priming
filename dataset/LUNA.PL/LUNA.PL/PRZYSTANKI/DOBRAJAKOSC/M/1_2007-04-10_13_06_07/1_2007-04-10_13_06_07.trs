@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-10_13_06_07" version="3" version_date="080112">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="34.998" topic="to1">
+<Turn startTime="0" endTime="1.323">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.323" endTime="3.288">
+<Sync time="1.323"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.288" endTime="17.707">
+<Sync time="3.288"/>
+dzień dobry proszę pana ja bardzo przepraszam że zawracam 
+<Event desc="babble" type="noise" extent="begin"/>
+ zawracam panu głowę mam takie pytanie czy 
+<Event desc="*" type="pronounce" extent="begin"/>
+mógłby
+<Event desc="*" type="pronounce" extent="end"/>
+ mi pan podpowiedzieć gdzie jest przystanek Centrum pięćdziesiąt trzy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na tym przystanku mam odebrać rodzinę i po prostu zgłupiałem na mapie nie mogę znaleźć tego 
+<Event desc="*" type="pronounce" extent="begin"/>
+przystanku
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.707" endTime="25.672">
+<Sync time="17.707"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+zn
+<Event desc="~" type="lexical" extent="end"/>
+aczy 
+<Event desc="babble" type="noise" extent="end"/>
+ to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ przystanek naprzeciwko Domów Centrum tutaj nie 
+<Event desc="~" type="lexical" extent="begin"/>
+wi
+<Event desc="~" type="lexical" extent="end"/>
+em cz
+<Event desc="~" type="lexical" extent="begin"/>
+y
+<Event desc="~" type="lexical" extent="end"/>
+ pan wie ja
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ tam jest taki tunel żeby przejechać z ulicy Złotej na Plac Defilad
+</Turn>
+<Turn speaker="spk2" startTime="25.672" endTime="26.397">
+<Sync time="25.672"/>
+ach tak
+</Turn>
+<Turn speaker="spk1" startTime="26.397" endTime="29.081">
+<Sync time="26.397"/>
+to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ ten przystanek 
+<Event desc="babble" type="noise" extent="end"/>
+ dokładnie nad tym tunelem takim
+</Turn>
+<Turn speaker="spk2" startTime="29.081" endTime="31.581">
+<Sync time="29.081"/>
+dobrze teraz już będę wiedział dziękuję bardzo tak
+</Turn>
+<Turn speaker="spk1" startTime="31.581" endTime="32.04">
+<Sync time="31.581"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ bardzo pro
+<Event desc="~" type="lexical" extent="begin"/>
+szę
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="32.04" endTime="32.967">
+<Sync time="32.04"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie zawracam 
+<Event desc="babble" type="noise" extent="end"/>
+ głowy do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="32.967" endTime="33.601">
+<Sync time="32.967"/>
+do usłyszenia
+</Turn>
+<Turn startTime="33.601" endTime="34.998">
+<Sync time="33.601"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-11_14_27_27" version="4" version_date="071001">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="52.497" topic="to1">
+<Turn startTime="0" endTime="0.544">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.544" endTime="2.288">
+<Sync time="0.544"/>
+dzień dobry xxx w czym mogę 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2.288" endTime="2.934">
+<Sync time="2.288"/>
+<Who nb="1"/>
+pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+<Who nb="2"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień
+</Turn>
+<Turn speaker="spk2" startTime="2.934" endTime="14.087">
+<Sync time="2.934"/>
+dobry proszę panią ja mam taką prośbę <Event desc="filler" type="lexical" extent="instantaneous"/> od <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> ilu <Event desc="filler" type="lexical" extent="instantaneous"/> lat jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> się zwolnionym <Event desc="filler" type="lexical" extent="instantaneous"/> z przejazdów <Event desc="filler" type="lexical" extent="instantaneous"/> z przejazdów <Event desc="filler" type="lexical" extent="instantaneous"/> no <Event desc="filler" type="lexical" extent="instantaneous"/> komunikacyjnych w Warszawie <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="14.087" endTime="16.301">
+<Sync time="14.087"/>
+<Event desc="~" type="lexical" extent="begin"/>z<Event desc="~" type="lexical" extent="end"/>naczy od od ilu od jakiego wieku
+</Turn>
+<Turn speaker="spk1 spk2" startTime="16.301" endTime="17.869">
+<Sync time="16.301"/>
+<Who nb="1"/>
+można jeździć bezpłatnie tak <Event desc="?" type="lexical" extent="instantaneous"/>
+<Who nb="2"/>
+jakiego wieku przepraszam 
+</Turn>
+<Turn speaker="spk2" startTime="17.869" endTime="19.097">
+<Sync time="17.869"/>
+źle <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="19.097" endTime="21.42">
+<Sync time="19.097"/>
+<Who nb="1"/>
+nie szkodzi <Event desc="filler" type="lexical" extent="instantaneous"/> 
+<Who nb="2"/>
+pytanie zrobiłam przepraszam
+</Turn>
+<Turn speaker="spk1" startTime="21.42" endTime="28.331">
+<Sync time="21.42"/>
+od momentu ukończenia siedemdziesiątego roku życia czy<Event desc="~" type="lexical" extent="begin"/>l<Event desc="~" type="lexical" extent="end"/>i w dniu <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> od dnia siedemdziesiątych urodzin
+</Turn>
+<Turn speaker="spk2" startTime="28.331" endTime="32.785">
+<Sync time="28.331"/>
+aha <Event desc="int" type="noise" extent="next"/>czyli <Event desc="filler" type="lexical" extent="instantaneous"/> te <Event desc="filler" type="lexical" extent="instantaneous"/> miesiące wchodzą w grę
+</Turn>
+<Turn speaker="spk1" startTime="32.785" endTime="34.347">
+<Sync time="32.785"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> tak tak <Event desc="noise" type="noise" extent="begin"/> oczywiście <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="34.347" endTime="41.369">
+<Sync time="34.347"/>
+no bo wie pani ja <Event desc="*" type="pronounce" extent="begin"/>jak<Event desc="*" type="pronounce" extent="end"/> raz jestem urodzona w grudniu i mi tu podpowiadano że przecież to chyba rok się liczy dlatego <Event desc="babble" type="noise" extent="begin"/> chcia<Event desc="~" type="lexical" extent="begin"/>łam<Event desc="~" type="lexical" extent="end"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="41.369" endTime="44.107">
+<Sync time="41.369"/>
+<Event desc="babble" type="noise" extent="begin"/> nie nie nie nie nie <Event desc="babble" type="noise" extent="end"/> to liczy się <Event desc="*" type="pronounce" extent="begin"/>konkretny<Event desc="*" type="pronounce" extent="end"/> dzień
+</Turn>
+<Turn speaker="spk1 spk2" startTime="44.107" endTime="45.179">
+<Sync time="44.107"/>
+<Who nb="1"/>
+urodzin
+<Who nb="2"/>
+konkretny
+</Turn>
+<Turn speaker="spk2" startTime="45.179" endTime="45.316">
+<Sync time="45.179"/>
+dzień czyli
+</Turn>
+<Turn speaker="spk2 spk1" startTime="45.316" endTime="45.977">
+<Sync time="45.316"/>
+<Who nb="1"/>
+dopiero <Event desc="filler" type="lexical" extent="instantaneous"/> 
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="45.977" endTime="48.539">
+<Sync time="45.977"/>
+w grudniu dziękuję serdecznie pani
+</Turn>
+<Turn speaker="spk1 spk2" startTime="48.539" endTime="49.454">
+<Sync time="48.539"/>
+<Who nb="1"/>
+proszę bardzo
+<Who nb="2"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="49.454" endTime="50.259">
+<Sync time="49.454"/>
+do usłyszenia
+</Turn>
+<Turn startTime="50.259" endTime="52.497">
+<Sync time="50.259"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

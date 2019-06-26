@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-04_14_18_55" version="5" version_date="080113">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="87.495" topic="to1">
+<Turn startTime="0" endTime="0.739">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.739" endTime="2.921">
+<Sync time="0.739"/>
+dzień dobry przy telefonie xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.921" endTime="8.938">
+<Sync time="2.921"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dob
+<Event desc="~" type="lexical" extent="begin"/>
+r
+<Event desc="~" type="lexical" extent="end"/>
+y proszę pana moja mama we wrześniu stawała na komisję lekarską
+</Turn>
+<Turn speaker="spk1" startTime="8.938" endTime="9.38">
+<Sync time="8.938"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="9.38" endTime="21.188">
+<Sync time="9.38"/>
+i ta 
+<Event desc="*" type="pronounce" extent="begin"/>
+komisja
+<Event desc="*" type="pronounce" extent="end"/>
+ przyznała 
+<Event desc="*" type="pronounce" extent="begin"/>
+mamie
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ orzeczenie o stopniu 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ niepełnosprawności i 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+zaliczyli
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ ją do znacznego stopnia niepełnosprawności 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ i 
+<Event desc="babble" type="noise" extent="begin"/>
+ ma takie orzeczenie w
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+aśnie to orzeczenie 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="21.188" endTime="21.415">
+<Sync time="21.188"/>
+<Who nb="1"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="21.415" endTime="29.811">
+<Sync time="21.415"/>
+tej komisji 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ że wymaga 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ma 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ konieczność stałej lub długotrwałej opieki lub pomocy innej oso
+<Event desc="~" type="lexical" extent="begin"/>
+by
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.811" endTime="30.337">
+<Sync time="29.811"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="30.337" endTime="36.286">
+<Sync time="30.337"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja się chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am zapytać czy mama na podstawie 
+<Event desc="*" type="pronounce" extent="begin"/>
+tego
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dokumentu musi 
+<Event desc="~" type="lexical" extent="begin"/>
+wy
+<Event desc="~" type="lexical" extent="end"/>
+kupywać bilet taki gdzie po Warsz
+<Event desc="~" type="lexical" extent="begin"/>
+awie
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.286" endTime="42.368">
+<Sync time="36.286"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie 
+<Event desc="babble" type="noise" extent="end"/>
+ ale jeszcze proszę pani muszę się tu dopytać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tam jest zapis niepełnosprawność stopniu znacznym ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="42.368" endTime="42.724">
+<Sync time="42.368"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="42.724" endTime="46.139">
+<Sync time="42.724"/>
+czyli całkowita niezdolność do pracy oraz do samodzielnej egzyste
+<Event desc="~" type="lexical" extent="begin"/>
+n
+<Event desc="~" type="lexical" extent="end"/>
+cji
+</Turn>
+<Turn speaker="spk2" startTime="46.139" endTime="46.927">
+<Sync time="46.139"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="46.927" endTime="53.869">
+<Sync time="46.927"/>
+to proszę pani to tak to ma 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ oczywiście przejazdy bezpłatne 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ trzeba wozić ze sobą to orzeczenie
+</Turn>
+<Turn speaker="spk2" startTime="53.869" endTime="54.228">
+<Sync time="53.869"/>
+ta
+</Turn>
+<Turn speaker="spk1" startTime="54.228" endTime="56.611">
+<Sync time="54.228"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wraz oczywiście z dokumentem tożsamości
+</Turn>
+<Turn speaker="spk2" startTime="56.611" endTime="56.943">
+<Sync time="56.611"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="56.943" endTime="69.626">
+<Sync time="56.943"/>
+i proszę pani 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ opiekun który jedzie 
+<Event desc="noise" type="noise" extent="begin"/>
+ z 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z 
+<Event desc="noise" type="noise" extent="end"/>
+ no tutaj akurat z pani mamą też również ma przejazd bezpłatny 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ i to wystarczy być 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ musi być osoba no wskazana przez pani 
+<Event desc="babble" type="noise" extent="begin"/>
+ mamę 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="69.626" endTime="74.794">
+<Sync time="69.626"/>
+rozumiem rozumiem czyli bez bez różnicy czy mama jedzie sama czy z opiekunem czyli nie musi płacić
+</Turn>
+<Turn speaker="spk1" startTime="74.794" endTime="81.346">
+<Sync time="74.794"/>
+nie 
+<Event desc="babble" type="noise" extent="begin"/>
+ musi tak jeżeli 
+<Event desc="babble" type="noise" extent="end"/>
+ na orzeczeniu jest tak jak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ taki zapisy ja
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ tutaj 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pani przeczytałem 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="81.346" endTime="83.324">
+<Sync time="81.346"/>
+no tak dobrze 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ dziękuję panu
+</Turn>
+<Turn speaker="spk1" startTime="83.324" endTime="83.804">
+<Sync time="83.324"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="83.804" endTime="84.305">
+<Sync time="83.804"/>
+widzenia
+</Turn>
+<Turn speaker="spk1" startTime="84.305" endTime="84.844">
+<Sync time="84.305"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="84.844" endTime="87.495">
+<Sync time="84.844"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

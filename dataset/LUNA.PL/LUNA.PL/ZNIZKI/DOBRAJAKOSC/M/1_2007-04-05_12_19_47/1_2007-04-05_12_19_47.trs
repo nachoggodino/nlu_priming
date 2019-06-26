@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-05_12_19_47" version="5" version_date="080125">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="195.488" topic="to1">
+<Turn startTime="0" endTime="1.058">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.058" endTime="3.332">
+<Sync time="1.058"/>
+
+<Event desc="int" type="noise" extent="next"/>
+dzień 
+<Event desc="int" type="noise" extent="next"/>
+dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.332" endTime="17.603">
+<Sync time="3.332"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry pani 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja chciałbym się zapytać ponieważ jako honorowy dawca krwi to przys
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+ugiwała mi powyżej osiemnastu litrów 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ darmowe przejazdy na 
+<Event desc="babble" type="noise" extent="begin"/>
+ podstawie tej 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ kiedyś legitymacji zasłużonego 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ krwiodawcy pier
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+szego 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="17.603" endTime="18.038">
+<Sync time="17.603"/>
+<Who nb="1"/>
+stopnia
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="18.038" endTime="26.302">
+<Sync time="18.038"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a teraz zastąpiła zmiana że na podstawie legitymacji honorowego dawcy krwi 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na podstawie 
+<Event desc="*" type="pronounce" extent="begin"/>
+odpowiedniego
+<Event desc="*" type="pronounce" extent="end"/>
+ wpisu w legitymacji 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="26.302" endTime="26.912">
+<Sync time="26.302"/>
+<Who nb="1"/>
+czy tak
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="26.912" endTime="27.516">
+<Sync time="26.912"/>
+tak 
+</Turn>
+<Turn speaker="spk2" startTime="27.516" endTime="28.764">
+<Sync time="27.516"/>
+na czym polega ten wpis 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.764" endTime="36.684">
+<Sync time="28.764"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ chodzi o to żeby tam było chodzi o to żeby tam było w
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+aśnie 
+<Event desc="*" type="pronounce" extent="begin"/>
+uwzględnione
+<Event desc="*" type="pronounce" extent="end"/>
+ to ile pan tej że że oddał pan odpowiednią ilość krwi do tej 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="36.684" endTime="39.03">
+<Sync time="36.684"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ al
+<Event desc="~" type="lexical" extent="begin"/>
+e
+<Event desc="~" type="lexical" extent="end"/>
+ to to co mam się do państwa zgłosić że państwo sobie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.03" endTime="39.821">
+<Sync time="39.03"/>
+<Who nb="1"/>
+zliczycie te
+<Who nb="2"/>
+nie nie nie
+</Turn>
+<Turn speaker="spk1" startTime="39.821" endTime="44.711">
+<Sync time="39.821"/>
+to 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w stacji 
+<Event desc="babble" type="noise" extent="begin"/>
+ krwiodawstwa się 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="44.711" endTime="56.518">
+<Sync time="44.711"/>
+ a czyli jeżeli załóżmy że jeżeli ja mam 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+tę
+<Event desc="*" type="pronounce" extent="end"/>
+ legitymację pierwszego stopnia czyli że ona jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ od 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tam osiemnastu litrów to 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ jednoznaczne też 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ ta 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="56.518" endTime="58.450">
+<Sync time="56.518"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to musi być legitymacja honorowego 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="58.450" endTime="59.857">
+<Sync time="58.450"/>
+<Who nb="1"/>
+dawcy 
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="59.857" endTime="60.689">
+<Sync time="59.857"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ krwi 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="60.689" endTime="75.919">
+<Sync time="60.689"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ no i mam 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ w nich wpis że mam to 
+<Event desc="*" type="pronounce" extent="begin"/>
+zasłużonego
+<Event desc="*" type="pronounce" extent="end"/>
+ krwiodawcy pierwszego stopnia która jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+przysługuje
+<Event desc="*" type="pronounce" extent="end"/>
+ tam po 
+<Event desc="*" type="pronounce" extent="begin"/>
+osiemnastu
+<Event desc="*" type="pronounce" extent="end"/>
+ litrach 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+czy
+<Event desc="*" type="pronounce" extent="end"/>
+ to oni muszą wpisać że no bo ja za każdym razem 
+<Event desc="*" type="pronounce" extent="begin"/>
+jak
+<Event desc="*" type="pronounce" extent="end"/>
+ chodzę do krwioda
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+stwa to mi się jednak ten ten 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ te ta iloś
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+ zwiększa nie 
+<Event desc="*" type="pronounce" extent="begin"/>
+czy
+<Event desc="*" type="pronounce" extent="end"/>
+ ta 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="75.919" endTime="76.316">
+<Sync time="75.919"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+s
+<Event desc="~" type="lexical" extent="end"/>
+łucham
+</Turn>
+<Turn speaker="spk2" startTime="76.316" endTime="79.137">
+<Sync time="76.316"/>
+wpis że 
+<Event desc="babble" type="noise" extent="begin"/>
+ już mam te osiemnaście litrów 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="79.137" endTime="79.952">
+<Sync time="79.137"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="79.952" endTime="84.15">
+<Sync time="79.952"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ma być taki wpis że on ma już osiemnaście lit
+<Event desc="~" type="lexical" extent="begin"/>
+r
+<Event desc="~" type="lexical" extent="end"/>
+ów nie tak że za każdym razem ma mi dodawać te litry 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="84.15" endTime="87.073">
+<Sync time="84.15"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana to ma być legitymacja honorowego dawcy 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="87.073" endTime="87.387">
+<Sync time="87.073"/>
+<Who nb="1"/>
+krwi
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="87.387" endTime="88.477">
+<Sync time="87.387"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ czy 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="88.477" endTime="91.235">
+<Sync time="88.477"/>
+<Who nb="1"/>
+widziała pani tę legitymację 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+taka ze zdjęciem
+</Turn>
+<Turn speaker="spk2" startTime="91.235" endTime="96.101">
+<Sync time="91.235"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ no bo tam nie ma jakiejś adnotacji ile litrów krwi jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ w danej chwili 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ nie ma takiej pozycji
+</Turn>
+<Turn speaker="spk1" startTime="96.101" endTime="106.172">
+<Sync time="96.101"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a ma tam odpowiedni ma tam pan odpowiedni 
+<Event desc="babble" type="noise" extent="end"/>
+ wpis 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ dokonany przez 
+<Event desc="babble" type="noise" extent="begin"/>
+ stację krwioda
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+stwa 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="106.172" endTime="118.725">
+<Sync time="106.172"/>
+tam są tylko pieczątki z każdej 
+<Event desc="babble" type="noise" extent="begin"/>
+ z każdego poboru 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ czy to gdzieś na przyk
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+ad na ostatniej stronie na okładce ma 
+<Event desc="*" type="pronounce" extent="begin"/>
+być
+<Event desc="*" type="pronounce" extent="end"/>
+ to pieczątka taka zrobiona 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="118.725" endTime="120.152">
+<Sync time="118.725"/>
+
+<Event desc="int" type="noise" extent="next"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ chwi
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+eczkę poczekać
+</Turn>
+<Turn speaker="spk2" startTime="120.152" endTime="125.16">
+<Sync time="120.152"/>
+
+<Event desc="en" type="language" extent="begin"/>
+ okey 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="en" type="language" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="125.16" endTime="146.555">
+<Sync time="125.16"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="146.555" endTime="149.789">
+<Sync time="146.555"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dziękuję za czas oczekiwania proszę pana 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="149.789" endTime="150.813">
+<Sync time="149.789"/>
+<Who nb="1"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+no no
+</Turn>
+<Turn speaker="spk1" startTime="150.813" endTime="151.44">
+<Sync time="150.813"/>
+tak 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="151.44" endTime="151.799">
+<Sync time="151.44"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ no s
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+ucha
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="151.799" endTime="152.331">
+<Sync time="151.799"/>
+<Who nb="1"/>
+słucham
+<Who nb="2"/>
+tak jestem
+</Turn>
+<Turn speaker="spk1" startTime="152.331" endTime="153.27">
+<Sync time="152.331"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="153.27" endTime="153.57">
+<Sync time="153.27"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+słucham
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="153.57" endTime="163.242">
+<Sync time="153.57"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to 
+<Event desc="babble" type="noise" extent="end"/>
+ powinien pan otrzymać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ w stacji krwioda
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+stwa 
+<Event desc="babble" type="noise" extent="begin"/>
+ legitymację nie zasłużonego ale 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ honorowego dawcy krwi
+</Turn>
+<Turn speaker="spk2" startTime="163.242" endTime="164.817">
+<Sync time="163.242"/>
+tak taka szara ze 
+<Event desc="*" type="pronounce" extent="begin"/>
+zdjęciem
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="164.817" endTime="165.3">
+<Sync time="164.817"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="165.3" endTime="166.232">
+<Sync time="165.3"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="166.232" endTime="173.086">
+<Sync time="166.232"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i na podstawie 
+<Event desc="babble" type="noise" extent="end"/>
+ tej legitymacji 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ tak
+</Turn>
+<Turn speaker="spk2" startTime="173.086" endTime="173.263">
+<Sync time="173.086"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="173.263" endTime="178.339">
+<Sync time="173.263"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i na podstawie 
+<Event desc="babble" type="noise" extent="end"/>
+ tej legitymacji wraz z dowodem tożsamości ma pan przejazdy bezpłatne
+</Turn>
+<Turn speaker="spk2" startTime="178.339" endTime="182.329">
+<Sync time="178.339"/>
+aha 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ na podstawie tej samej legitymacji 
+<Event desc="noise" type="noise" extent="begin"/>
+ już tylko 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="182.329" endTime="184.743">
+<Sync time="182.329"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ wraz z dowodem tożsamości
+</Turn>
+<Turn speaker="spk2" startTime="184.743" endTime="186.13">
+<Sync time="184.743"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ o to zawsze muszę mieć 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="186.13" endTime="187.318">
+<Sync time="186.13"/>
+no tak
+</Turn>
+<Turn speaker="spk2" startTime="187.318" endTime="191.858">
+<Sync time="187.318"/>
+no dobrze czyli to się wyjaśniło 
+<Event desc="babble" type="noise" extent="begin"/>
+ dobrze w 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+takim razie
+<Event desc="*" type="pronounce" extent="end"/>
+ dziękuję 
+<Event desc="*" type="pronounce" extent="begin"/>
+pani ślicznie
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="191.858" endTime="192.298">
+<Sync time="191.858"/>
+<Who nb="1"/>
+do widzenia
+<Who nb="2"/>
+proszę 
+</Turn>
+<Turn speaker="spk1" startTime="192.298" endTime="192.729">
+<Sync time="192.298"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+bardzo
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="192.729" endTime="195.488">
+<Sync time="192.729"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

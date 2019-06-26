@@ -1,0 +1,16 @@
+<Frames>
+  <Set id="1" subset="1" span="word_36" frame="COMMERCE_PAY" head="kasować">
+    <Frame fe="1" span="word_35" concept_id="7" name="GOODS" />
+    <Frame fe="2" span="word_38" concept_id="9" name="PLACE" />
+  </Set>
+  <Set id="2" subset="1" span="word_44" frame="COMMERCE_PAY" head="kasować">
+    <Frame fe="1" span="word_45,word_46" concept_id="11,12" name="GOODS" />
+  </Set>
+  <Set id="3" subset="1" span="word_52" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_47" concept_id="13" name="BENEFICIARY" />
+    <Frame fe="2" span="word_53" concept_id="16" name="PRIVILEGE" />
+  </Set>
+  <Set id="4" subset="1" span="word_69" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_66..word_67" concept_id="17" name="PRIVILEGE" />
+  </Set>
+</Frames>

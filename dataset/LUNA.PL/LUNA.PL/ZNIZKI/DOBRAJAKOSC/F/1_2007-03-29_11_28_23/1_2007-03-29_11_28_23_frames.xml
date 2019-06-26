@@ -1,0 +1,32 @@
+<Frames>
+  <Set id="1" subset="1" span="word_23" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_22" concept_id="10" name="BENEFICIARY" />
+    <Frame fe="2" span="word_24..word_27" concept_id="12" name="TITLE" />
+  </Set>
+  <Set id="2" subset="1" span="word_30" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_32" concept_id="15" name="GOODS" />
+  </Set>
+  <Set id="3" subset="1" span="word_53" frame="BECOMING" head="ukończyć">
+    <Frame fe="1" span="word_51" concept_id="19" name="ENTITY" />
+    <Frame fe="2" span="word_54..word_56" concept_id="21" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="4" subset="1" span="word_61" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_57..word_60" concept_id="22" name="TITLE" />
+    <Frame fe="2" span="word_62..word_63" concept_id="24" name="PRIVILEGE" />
+  </Set>
+  <Set id="5" subset="1" span="word_70" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_68" concept_id="25" name="BENEFICIARY" />
+    <Frame fe="2" span="word_71" concept_id="27" name="PRIVILEGE" />
+  </Set>
+  <Set id="6" subset="1" span="word_81" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_83" concept_id="30" name="TOPIC" />
+  </Set>
+  <Set id="7" subset="1" span="word_89" frame="GETTING" head="pobierać">
+    <Frame fe="1" span="word_87" concept_id="31" name="RECIPIENT" />
+    <Frame fe="2" span="word_90" concept_id="33" name="THEME" />
+    <Frame fe="3" span="word_92" concept_id="34" name="SOURCE" />
+  </Set>
+  <Set id="8" subset="1" span="word_100" frame="RESIDENCE" head="mieszkać">
+    <Frame fe="1" span="word_101..word_102" concept_id="37" name="LOCATION" />
+  </Set>
+</Frames>

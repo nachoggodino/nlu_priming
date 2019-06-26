@@ -1,0 +1,22 @@
+<Frames>
+  <Set id="1" subset="1" span="word_22" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_16" concept_id="7" name="BUYER" />
+    <Frame fe="2" span="word_17..word_18" concept_id="8" name="PLACE" />
+    <Frame fe="3" span="word_19..word_20" concept_id="9" name="PLACE" />
+    <Frame fe="4" span="word_25" concept_id="11" name="GOODS" />
+  </Set>
+  <Set id="2" subset="1" span="word_28" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_27" concept_id="12" name="BENEFICIARY" />
+    <Frame fe="2" span="word_30..word_32" concept_id="14" name="TITLE" />
+  </Set>
+  <Set id="3" subset="1" span="word_49" frame="COMMERCE_PAY" head="kosztować">
+    <Frame fe="1" span="word_37..word_42" concept_id="17" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_43..word_44" concept_id="18" name="GOODS" />
+    <Frame fe="3" span="word_45..word_46" concept_id="19" name="PLACE" />
+    <Frame fe="4" span="word_47..word_48" concept_id="20" name="PLACE" />
+    <Frame fe="5" span="word_50..word_51" concept_id="22" name="MONEY" />
+  </Set>
+  <Set id="4" subset="1" span="word_71" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_72..word_73" concept_id="34" name="SOURCE" />
+  </Set>
+</Frames>

@@ -1,0 +1,53 @@
+<Frames>
+  <Set id="1" subset="1" span="word_11" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_12,word_13" concept_id="6,7" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_15" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_16..word_18" concept_id="9" name="ENTITY" />
+  </Set>
+  <Set id="3" subset="1" span="word_22" frame="BEING_IN_EFFECT" head="obowiązywać">
+    <Frame fe="1" span="word_19..word_21" concept_id="10" name="BINDING_PRINCIPLE" />
+    <Frame fe="2" span="word_24" concept_id="12" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="4" subset="1" span="word_40" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_42..word_44" concept_id="18" name="TITLE" />
+  </Set>
+  <Set id="5" subset="1" span="word_57" frame="RECEIVING" head="dostawać">
+    <Frame fe="1" span="word_55" concept_id="22" name="THEME" />
+  </Set>
+  <Set id="6" subset="1" span="word_61" frame="RECEIVING" head="dostawać">
+    <Frame fe="1" span="word_60" concept_id="25" name="THEME" />
+    <Frame fe="2" span="word_64..word_66" concept_id="28" name="THEME" />
+  </Set>
+  <Set id="7" subset="1" span="word_92" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_94" concept_id="38" name="TOPIC" />
+  </Set>
+  <Set id="8" subset="1" span="word_99" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_101..word_103" concept_id="41" name="ENTITY" />
+  </Set>
+  <Set id="9" subset="1" span="word_108" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_109..word_112" concept_id="43" name="PRIVILEGE" />
+    <Frame fe="2" span="word_113..word_116" concept_id="44" name="TITLE" />
+  </Set>
+  <Set id="10" subset="1" span="word_124" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_125..word_126" concept_id="47" name="POSSESSION" />
+    <Frame fe="2" span="word_129..word_130" concept_id="49" name="POSSESSION" />
+  </Set>
+  <Set id="11" subset="1" span="word_148" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_149" concept_id="55" name="POSSESSION" />
+  </Set>
+  <Set id="12" subset="1" span="word_153" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_156..word_158" concept_id="57" name="ENTITY" />
+    <Frame fe="2" span="word_160" concept_id="59" name="ENTITY" />
+  </Set>
+  <Set id="13" subset="1" span="word_163" frame="RECEIVING" head="dostawać">
+    <Frame fe="1" span="word_164" concept_id="61" name="THEME" />
+  </Set>
+  <Set id="14" subset="1" span="word_176" frame="COMMERCE_BUY" head="kupić">
+    <Frame fe="1" span="word_175" concept_id="65" name="PLACE" />
+    <Frame fe="2" span="word_178" concept_id="67" name="GOODS" />
+  </Set>
+  <Set id="15" subset="1" span="word_188" frame="COMMERCE_BUY" head="kupić">
+    <Frame fe="1" span="word_183..word_185" concept_id="68" name="PLACE" />
+  </Set>
+</Frames>

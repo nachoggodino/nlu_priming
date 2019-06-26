@@ -1,0 +1,11 @@
+<Frames>
+  <Set id="1" subset="1" span="word_18" frame="ENTITLED" head="korzystać">
+    <Frame fe="1" span="word_20..word_22" concept_id="6" name="PRIVILEGE" />
+  </Set>
+  <Set id="2" subset="1" span="word_30" frame="RIDE_VEHICLE" head="jeździć">
+    <Frame fe="1" span="word_32..word_33" concept_id="11" name="MANNER" />
+  </Set>
+  <Set id="3" subset="1" span="word_38" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_40..word_42" concept_id="14" name="CHARACTERIZATION" />
+  </Set>
+</Frames>

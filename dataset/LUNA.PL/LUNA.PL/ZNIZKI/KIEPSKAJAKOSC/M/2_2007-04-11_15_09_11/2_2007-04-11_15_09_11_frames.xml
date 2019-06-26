@@ -1,0 +1,18 @@
+<Frames>
+  <Set id="1" subset="1" span="word_23" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_24..word_25" concept_id="7" name="POSSESSION" />
+  </Set>
+  <Set id="2" subset="1" span="word_26" frame="PERMITTING" head="uprawniać">
+    <Frame fe="1" span="word_28..word_30" concept_id="9" name="STATE_OF_AFFAIRS" />
+    <Frame fe="2" span="word_32" concept_id="10" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="3" subset="1" span="word_45" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_46" concept_id="16" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="4" subset="1" span="word_47" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_48..word_50" concept_id="18" name="TITLE" />
+  </Set>
+  <Set id="5" subset="1" span="word_56" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_59..word_60" concept_id="24" name="ENTITY" />
+  </Set>
+</Frames>

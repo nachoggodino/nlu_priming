@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-17_16_48_43" version="9" version_date="080104">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="82.995" topic="to1">
+<Turn startTime="0" endTime="0.959">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.959" endTime="2.386">
+<Sync time="0.959"/>
+dzień dobry xxx
+</Turn>
+<Turn speaker="spk2" startTime="2.386" endTime="15.487">
+<Sync time="2.386"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry kłaniam się proszę pani ja mam taki problem 
+<Event desc="noise" type="noise" extent="begin"/>
+ chciałem się 
+<Event desc="*" type="pronounce" extent="begin"/>
+dowiedzieć
+<Event desc="*" type="pronounce" extent="end"/>
+ chciałem dojechać do Ikei i tu z Warszawy z Woli 
+<Event desc="noise" type="noise" extent="end"/>
+ i mam podane autobusy sto dwanaście 
+<Event desc="noise" type="noise" extent="begin"/>
+ sto dwadzieścia sześć i sto czterdzieści że mogę dojechać 
+<Event desc="noise" type="noise" extent="end"/>
+ to jest tam koło Marek 
+</Turn>
+<Turn speaker="spk1" startTime="15.487" endTime="16.775">
+<Sync time="15.487"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.775" endTime="30.381">
+<Sync time="16.775"/>
+w Ząbkach 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ i chciałem wiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie mogę na mapie się zorientować 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ komunikacji skąd te autobusy wyjeżdżają czy mogłaby mi pani podać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ start tych autobusów 
+<Event desc="noise" type="noise" extent="begin"/>
+ sto dwanaście sto dwadzieścia sześć i sto czterdzieści
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.381" endTime="33.268">
+<Sync time="30.381"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę pana sto dwanaście zaczyna 
+<Event desc="babble" type="noise" extent="end"/>
+ z Karolina
+</Turn>
+<Turn speaker="spk2" startTime="33.268" endTime="34.463">
+<Sync time="33.268"/>
+Karolin dobrze
+</Turn>
+<Turn speaker="spk1 spk2" startTime="34.463" endTime="34.734">
+<Sync time="34.463"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+sto
+</Turn>
+<Turn speaker="spk2" startTime="34.734" endTime="38.34">
+<Sync time="34.734"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dwanaście to już mi wystarczy to znajdę sto dwanaście Karolin 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.34" endTime="41.144">
+<Sync time="38.34"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale jeszcze 
+<Event desc="babble" type="noise" extent="end"/>
+ tam dojeżdża sto dziewięćdziesiąt również
+</Turn>
+<Turn speaker="spk2" startTime="41.144" endTime="47.503">
+<Sync time="41.144"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak ale wie pani do Ikei to jest bardzo niewygodny dojazd sto dziewięćdziesiąt bo trzeba tam kawał iść a 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="47.503" endTime="48.25">
+<Sync time="47.503"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale one 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="48.25" endTime="50.579">
+<Sync time="48.25"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+pozo
+<Event desc="~" type="lexical" extent="end"/>
+stałe dojeżdżają pod 
+<Event desc="*" type="pronounce" extent="begin"/>
+samo wejście
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="50.579" endTime="51.166">
+<Sync time="50.579"/>
+<Who nb="1"/>
+dobrze 
+<Who nb="2"/>
+tylko
+</Turn>
+<Turn speaker="spk2" startTime="51.166" endTime="52.259">
+<Sync time="51.166"/>
+dwadzieścia sześć i sto
+</Turn>
+<Turn speaker="spk1" startTime="52.259" endTime="55.746">
+<Sync time="52.259"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dobrze to sto dwanaście mamy z Karolina 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ zaczyna 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="55.746" endTime="56.906">
+<Sync time="55.746"/>
+już zapisane 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="56.906" endTime="58.851">
+<Sync time="56.906"/>
+tak sto dwadzieścia sześć teraz
+</Turn>
+<Turn speaker="spk2" startTime="58.851" endTime="59.116">
+<Sync time="58.851"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="59.116" endTime="61.79">
+<Sync time="59.116"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ on zaczyna z Tarchomina proszę pana
+</Turn>
+<Turn speaker="spk2" startTime="61.79" endTime="63.108">
+<Sync time="61.79"/>
+a 
+<Event desc="*" type="pronounce" extent="begin"/>
+Tarchomin
+<Event desc="*" type="pronounce" extent="end"/>
+ tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="63.108" endTime="63.441">
+<Sync time="63.108"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="63.441" endTime="64.451">
+<Sync time="63.441"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+am wraca potem
+</Turn>
+<Turn speaker="spk1" startTime="64.451" endTime="68.309">
+<Sync time="64.451"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i on jedzie sobie 
+<Event desc="*" type="pronounce" extent="begin"/>
+Mehoffera
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Modlińską tutaj 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="68.309" endTime="68.909">
+<Sync time="68.309"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+do
+<Event desc="~" type="lexical" extent="end"/>
+brze dobrze dobrze
+</Turn>
+<Turn speaker="spk1" startTime="68.909" endTime="69.931">
+<Sync time="68.909"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ do Toruńskiej 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="69.931" endTime="71.96">
+<Sync time="69.931"/>
+dobrze i sto czterdzieści
+</Turn>
+<Turn speaker="spk1" startTime="71.96" endTime="75.606">
+<Sync time="71.96"/>
+a sto czterdzieści zaczyna z Dworca Wschodniego od Kijowskiej
+</Turn>
+<Turn speaker="spk2" startTime="75.606" endTime="79.077">
+<Sync time="75.606"/>
+Dworzec 
+<Event desc="noise" type="noise" extent="begin"/>
+ Wschodni od 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ dziękuję uprzejmie i wszystko jasne już 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="79.077" endTime="79.903">
+<Sync time="79.077"/>
+<Who nb="1"/>
+do 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+bardzo proszę
+</Turn>
+<Turn speaker="spk2" startTime="79.903" endTime="80.404">
+<Sync time="79.903"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="80.404" endTime="80.984">
+<Sync time="80.404"/>
+dziękuję
+</Turn>
+<Turn startTime="80.984" endTime="82.995">
+<Sync time="80.984"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

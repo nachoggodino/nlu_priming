@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-05_16_56_08" version="1" version_date="070731">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="36.9976875" topic="to1">
+<Turn startTime="0" endTime="1.474">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.474" endTime="3.563">
+<Sync time="1.474"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry xxx <Event desc="*" type="pronounce" extent="begin"/>słucham<Event desc="*" type="pronounce" extent="end"/> <Event desc="int" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.563" endTime="14.693">
+<Sync time="3.563"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry ja mam takie pytanie <Event desc="filler" type="lexical" extent="instantaneous"/> studiuję <Event desc="filler" type="lexical" extent="instantaneous"/> mam <Event desc="*" type="pronounce" extent="begin"/>już<Event desc="*" type="pronounce" extent="end"/> skończone dwadzieścia sześć lat czy mogę <Event desc="filler" type="lexical" extent="instantaneous"/> jeździć na zniżkę autobusami miejskimi <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="14.693" endTime="16.671">
+<Sync time="14.693"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> jakie są to studia <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="16.671" endTime="17.876">
+<Sync time="16.671"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> to są zaoczne
+</Turn>
+<Turn speaker="spk1" startTime="17.876" endTime="19.045">
+<Sync time="17.876"/>
+magisterskie <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="19.045" endTime="20.675">
+<Sync time="19.045"/>
+tak <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="int" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="20.675" endTime="24.969">
+<Sync time="20.675"/>
+<Event desc="~" type="lexical" extent="begin"/>n<Event desc="~" type="lexical" extent="end"/>a podstawie <Event desc="*" type="pronounce" extent="begin"/>ważnej<Event desc="*" type="pronounce" extent="end"/> legitymacji studen<Event desc="~" type="lexical" extent="begin"/>ckiej<Event desc="~" type="lexical" extent="end"/> a są jest to uczelnia polska <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="24.969" endTime="25.758">
+<Sync time="24.969"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="25.758" endTime="31.443">
+<Sync time="25.758"/>
+podstawie ważnej legitymacji studenckiej pięćdziesiąt procent <Event desc="noise" type="noise" extent="begin"/> ulgi bez względu na wiek <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="31.443" endTime="32.687">
+<Sync time="31.443"/>
+aha dobrze dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="32.687" endTime="33.775">
+<Sync time="32.687"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="33.775" endTime="34.282">
+<Sync time="33.775"/>
+do <Event desc="*" type="pronounce" extent="begin"/>usłyszenia<Event desc="*" type="pronounce" extent="end"/>
+</Turn>
+<Turn startTime="34.282" endTime="36.9976875">
+<Sync time="34.282"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

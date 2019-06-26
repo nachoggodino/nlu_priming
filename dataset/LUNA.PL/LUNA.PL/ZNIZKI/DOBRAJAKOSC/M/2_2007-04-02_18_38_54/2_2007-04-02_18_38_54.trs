@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-02_18_38_54" version="6" version_date="091207">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="102.994" topic="to1">
+<Turn startTime="0" endTime="1.149">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.149" endTime="2.746">
+<Sync time="1.149"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx 
+<Event desc="*" type="pronounce" extent="begin"/>
+ w czym
+<Event desc="*" type="pronounce" extent="end"/>
+ mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.746" endTime="25.722">
+<Sync time="2.746"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień 
+<Event desc="noise" type="noise" extent="end"/>
+ dobry xxx proszę pana uprzejme pytanie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z tego co 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ mi wiadomo nauczyciele akademiccy 
+<Event desc="*" type="pronounce" extent="begin"/>
+mają
+<Event desc="*" type="pronounce" extent="end"/>
+ zniżkę 
+<Event desc="noise" type="noise" extent="begin"/>
+ przejeździe tramwajami autobusami od niedawna chyba od miesiąca czy półtora natomiast w punkcie tutaj obsługi klienta 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ na Placu 
+<Event desc="noise" type="noise" extent="end"/>
+ Bankowym 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ państwo nic na ten temat nie wiedzą czy pan coś wie na ten temat 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.722" endTime="37.267">
+<Sync time="25.722"/>
+ proszę pana ustawa mogła wejść natomiast tutaj nas obligują uchwały 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jeżeli dopóki tego Rada Warszawy nie zatwierdzi no to niestety no ale takiej takiej ulgi nie ma
+</Turn>
+<Turn speaker="spk2" startTime="37.267" endTime="42.491">
+<Sync time="37.267"/>
+aha aha no tak rzeczywiście nowa ustawa szkolnictwie wyższym daje takie
+</Turn>
+<Turn speaker="spk2 spk1" startTime="42.491" endTime="43.611">
+<Sync time="42.491"/>
+<Who nb="1"/>
+uprawnienia
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="43.611" endTime="54.781">
+<Sync time="43.611"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z tego co 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ też słyszałem 
+<Event desc="noise" type="noise" extent="begin"/>
+ o tym natomiast no nie weszło poprzez 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ poprzez uchwałę Rady Miasta Warszawy 
+<Event desc="noise" type="noise" extent="end"/>
+ no i niestety no ale ale w takim momencie no ta tej ulgi jakby 
+<Event desc="la" type="language" extent="begin"/>
+de facto
+<Event desc="la" type="language" extent="end"/>
+ nie było
+</Turn>
+<Turn speaker="spk2" startTime="54.781" endTime="55.27">
+<Sync time="54.781"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="55.27" endTime="76.869">
+<Sync time="55.27"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="76.869" endTime="82.886">
+<Sync time="76.869"/>
+a proszę 
+<Event desc="*" type="pronounce" extent="begin"/>
+powiedzieć
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy są w ogóle jakieś zniżki trzydziestokilkuprocentowe czy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie ma ta
+<Event desc="~" type="lexical" extent="begin"/>
+kich
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="82.886" endTime="92.874">
+<Sync time="82.886"/>
+nie trzydziestoprocentowych nie ma 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ natomiast są 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ halo 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ halo
+</Turn>
+<Turn startTime="92.874" endTime="102.994">
+<Sync time="92.874"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

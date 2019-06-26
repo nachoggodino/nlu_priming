@@ -1,0 +1,20 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_9..word_13" attribute="SOURCE_CROSSROADS" value="Puławska CROSS  Wałbrzyska" />
+  <concept id="5" span="word_14" attribute="STREET" value="Lotników" />
+  <concept id="6" span="word_16" attribute="Q_WHERE" value="LOCATION" />
+  <concept id="7" span="word_19..word_20" attribute="GOAL_TOWN" value="Piaseczno" />
+  <concept id="8" span="word_21..word_23" attribute="BUS" value="709" />
+  <concept id="9" span="word_24" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="10" span="word_25..word_27" attribute="BUS" value="727" />
+  <concept id="11" span="word_28..word_30" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="12" span="word_32" attribute="ACTION" value="ToHave" />
+  <concept id="13" span="word_33" attribute="TIME_REL" value="Now" />
+  <concept id="14" span="word_38..word_39" attribute="BUS" value="709" />
+  <concept id="15" span="word_40..word_43" attribute="AT_HOUR" value="23 : 43" />
+  <concept id="16" span="word_44" attribute="REACTION" value="Confirmation" />
+  <concept id="17" span="word_45..word_47" attribute="AT_HOUR" value="23 : 13" />
+  <concept id="18" span="word_48..word_50" attribute="BUS" value="727" />
+</concepts>

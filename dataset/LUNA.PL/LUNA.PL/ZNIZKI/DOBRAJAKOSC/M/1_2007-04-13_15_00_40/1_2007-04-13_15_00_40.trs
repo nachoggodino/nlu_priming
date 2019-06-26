@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-13_15_00_40" version="3" version_date="071001">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="24.499" topic="to1">
+<Turn startTime="0" endTime="0.718">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.718" endTime="2.083">
+<Sync time="0.718"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.083" endTime="12.06">
+<Sync time="2.083"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry mam takie pytanie <Event desc="noise" type="noise" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> czy <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="begin"/> legitymacja studencka po dwudziestym szóstym roku życia <Event desc="babble" type="noise" extent="end"/> uprawnia do zniżki <Event desc="filler" type="lexical" extent="instantaneous"/> na bilety <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="12.06" endTime="15.476">
+<Sync time="12.06"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> ta<Event desc="~" type="lexical" extent="begin"/>k<Event desc="~" type="lexical" extent="end"/> jeśli pan jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> studentem uczelni polskiej to tak
+</Turn>
+<Turn speaker="spk2" startTime="15.476" endTime="18.799">
+<Sync time="15.476"/>
+ta<Event desc="~" type="lexical" extent="begin"/>k<Event desc="~" type="lexical" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> czyli nawet jeżeli mam dwadzieścia siedem lat to nie jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> żaden<Event desc="int" type="noise" extent="previous"/>
+</Turn>
+<Turn speaker="spk1" startTime="18.799" endTime="21.099">
+<Sync time="18.799"/>
+<Event desc="babble" type="noise" extent="begin"/> ta<Event desc="~" type="lexical" extent="begin"/>k<Event desc="~" type="lexical" extent="end"/> nie <Event desc="babble" type="noise" extent="end"/> ma ograniczenia wtedy wieku <Event desc="babble" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="21.099" endTime="21.717">
+<Sync time="21.099"/>
+dobrze dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="21.717" endTime="22.082">
+<Sync time="21.717"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="22.082" endTime="22.481">
+<Sync time="22.082"/>
+bardzo
+</Turn>
+<Turn startTime="22.481" endTime="24.499">
+<Sync time="22.481"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

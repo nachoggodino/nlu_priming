@@ -1,0 +1,18 @@
+<Frames>
+  <Set id="1" subset="1" span="word_17" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_15,word_16" concept_id="4,5" name="MANNER" />
+    <Frame fe="2" span="word_18..word_19" concept_id="7" name="SOURCE" />
+    <Frame fe="3" span="word_21..word_23" concept_id="9" name="SOURCE" />
+    <Frame fe="4" span="word_24..word_26" concept_id="10" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_54" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_49..word_50,word_51..word_53" concept_id="17,18" name="PLACE" />
+    <Frame fe="2" span="word_55..word_57" concept_id="20" name="ENTITY" />
+    <Frame fe="3" span="word_58..word_61" concept_id="21" name="CIRCUMSTANCES" />
+    <Frame fe="4" span="word_68,word_69..word_71" concept_id="26,27" name="PLACE" />
+  </Set>
+  <Set id="3" subset="1" span="word_67" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_64" concept_id="23" name="SELF_MOVER" />
+    <Frame fe="2" span="word_65..word_66" concept_id="24" name="FREQUENCY" />
+  </Set>
+</Frames>

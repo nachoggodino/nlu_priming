@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-16_20_24_06" version="1" version_date="070529">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="106.9933125" topic="to1">
+<Turn startTime="0" endTime="0.976">
+<Sync time="0"/>
+ 
+</Turn>
+<Turn speaker="spk1" startTime="0.976" endTime="3.095">
+<Sync time="0.976"/>
+dzień dobry xxx <Event desc="babble" type="noise" extent="begin"/> słucham <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.095" endTime="18.194">
+<Sync time="3.095"/>
+<Event desc="babble" type="noise" extent="begin"/> dobry wieczór proszę pana chciałbym ustalić jak jak z przystanku Praga Południe  <Event desc="filler" type="lexical" extent="instantaneous"/> Ratusz <Event desc="filler" type="lexical" extent="instantaneous"/> mogę dojechać na <Event desc="*" type="pronounce" extent="begin"/>przystanek<Event desc="*" type="pronounce" extent="end"/> Wiertnicza na dwudziestą pierwszą trzydzieści <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="18.194" endTime="19.621">
+<Sync time="18.194"/>
+<Event desc="babble" type="noise" extent="begin"/> proszę chwileczkę zaczekać <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="19.621" endTime="39.193">
+<Sync time="19.621"/>
+<Event desc="babble" type="noise" extent="begin"/> dobrze <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="jingle" type="noise" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="39.193" endTime="50.089">
+<Sync time="39.193"/>
+proszę pana najszybciej ósemką do przystanku Muzeum Narodowe <Event desc="noise" type="noise" extent="instantaneous"/> i stamtąd autobusem sto osiemdziesiąt <Event desc="int" type="noise" extent="instantaneous"/> już bezpośrednio do Wiertniczej
+</Turn>
+<Turn speaker="spk2" startTime="50.089" endTime="55.994">
+<Sync time="50.089"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dobrze ale chcia<Event desc="~" type="lexical" extent="begin"/>łe<Event desc="~" type="lexical" extent="end"/>m <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="begin"/> jakieś godziny może od pana uzyskać odjazdów <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="55.994" endTime="57.520">
+<Sync time="55.994"/>
+<Event desc="babble" type="noise" extent="begin"/> a jakie to mają <Event desc="babble" type="noise" extent="end"/> być godziny <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="57.520" endTime="72.525">
+<Sync time="57.520"/>
+no powiedziałem panu że na dwudziestą pierwszą trzydzieści chciałbym dojechać na Wiertniczą <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="72.525" endTime="87.451">
+<Sync time="72.525"/>
+<Event desc="babble" type="noise" extent="begin"/> ósemka dwudziesta trzydzieści sześć <Event desc="babble" type="noise" extent="end"/> <Event desc="noise" type="noise" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> sto osiemdziesiąt z przystanku Foksal bo to trzeba przejść na przystanek 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="87.451" endTime="88.352">
+<Sync time="87.451"/>
+<Who nb="1"/>
+na No<Event desc="~" type="lexical" extent="begin"/>wym Świecie<Event desc="~" type="lexical" extent="end"/>
+<Who nb="2"/>
+tak tak
+</Turn>
+<Turn speaker="spk2" startTime="88.352" endTime="94.808">
+<Sync time="88.352"/>
+jasne <Event desc="noise" type="noise" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="94.808" endTime="96.566">
+<Sync time="94.808"/>
+dwudziesta pierwsza trzy
+</Turn>
+<Turn speaker="spk2" startTime="96.566" endTime="100.469">
+<Sync time="96.566"/>
+dwudziesta pierwsza trzy dobrze <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="*" type="pronounce" extent="begin"/>czyli<Event desc="*" type="pronounce" extent="end"/> dwudziesta trzydzieści sześć a która jest <Event desc="babble" type="noise" extent="begin"/> godzina <Event desc="babble" type="noise" extent="end"/> w tej chwili <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="100.469" endTime="102.16">
+<Sync time="100.469"/>
+dwudziesta dwadzieścia sześć
+</Turn>
+<Turn speaker="spk2" startTime="102.16" endTime="103.403">
+<Sync time="102.16"/>
+dwudziesta dwadzieścia sześć dobrze dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="103.403" endTime="104.256">
+<Sync time="103.403"/>
+<Who nb="1"/>
+serdecznie
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="104.256" endTime="105.097">
+<Sync time="104.256"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="105.097" endTime="105.729">
+<Sync time="105.097"/>
+do usłyszenia
+</Turn>
+<Turn startTime="105.729" endTime="106.9933125">
+<Sync time="105.729"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,10 @@
+<Frames>
+  <Set id="1" subset="1" span="word_19" frame="ENTITLED" head="korzystać">
+    <Frame fe="1" span="word_12,word_13..word_17" concept_id="6,7" name="BENEFICIARY" />
+    <Frame fe="2" span="word_23..word_24" concept_id="9" name="PRIVILEGE" />
+    <Frame fe="3" span="word_26,word_27..word_28" concept_id="10,11" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="2" subset="1" span="word_35" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_36..word_39" concept_id="16" name="CHARACTERIZATION" />
+  </Set>
+</Frames>

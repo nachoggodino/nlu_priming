@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-13_13_09_52" version="6" version_date="091202">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="173.989" topic="to1">
+<Turn startTime="0" endTime="0.82">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.82" endTime="2.117">
+<Sync time="0.82"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.117" endTime="3.242">
+<Sync time="2.117"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry informacja 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3.242" endTime="3.637">
+<Sync time="3.242"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="3.637" endTime="17.993">
+<Sync time="3.637"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana jestem rencistą 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ KRUSu to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ Kasa 
+<Event desc="*" type="pronounce" extent="begin"/>
+Rolniczego Ubezpieczenia
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jaka mi zniżka obowiązuje 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w transporcie czy w ogóle nie płacę bo 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bo nie mogę podjąć żadnej pracy jak jestem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.993" endTime="20.928">
+<Sync time="17.993"/>
+a ma pan pierwszą grupę inwalidzką 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.928" endTime="24.368">
+<Sync time="20.928"/>
+to znaczy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tam w 
+<Event desc="*" type="pronounce" extent="begin"/>
+ KRUSie
+<Event desc="*" type="pronounce" extent="end"/>
+ nie ma grup 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.368" endTime="26.221">
+<Sync time="24.368"/>
+ale rentę pan dostaje tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.221" endTime="35.559">
+<Sync time="26.221"/>
+rentę dostaje czterysta zł
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czterysta trzydzieści złotych 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i nie mogę podjąć żadnej pracy bo w 
+<Event desc="*" type="pronounce" extent="begin"/>
+ KRUSie
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ po dostaniu renciści nie nie 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie nie można podjąć żadnej pracy
+</Turn>
+<Turn speaker="spk1" startTime="35.559" endTime="56.567">
+<Sync time="35.559"/>
+rozumiem momencik 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ proszę pana jeśli chodzi o rencistów to jeśli to nie jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ żadna grupa inwalidzka pier
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+sza no to wtedy tylko jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ zniżka czterdzieści osiem procent na podstawie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ odcinka renty
+</Turn>
+<Turn speaker="spk2" startTime="56.567" endTime="60.002">
+<Sync time="56.567"/>
+na 
+<Event desc="*" type="pronounce" extent="begin"/>
+podstawie
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na 
+<Event desc="*" type="pronounce" extent="begin"/>
+podstawie
+<Event desc="*" type="pronounce" extent="end"/>
+ aha 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="60.002" endTime="64.431">
+<Sync time="60.002"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ musi 
+<Event desc="babble" type="noise" extent="end"/>
+ pan mieć odcinki renty ewentualnie no legitymację rencisty
+</Turn>
+<Turn speaker="spk2" startTime="64.431" endTime="65.4">
+<Sync time="64.431"/>
+i czterdzieści
+</Turn>
+<Turn speaker="spk1" startTime="65.4" endTime="66.894">
+<Sync time="65.4"/>
+osiem procent zniżki
+</Turn>
+<Turn speaker="spk2" startTime="66.894" endTime="68.298">
+<Sync time="66.894"/>
+czterdzieści osiem procent zniżki
+</Turn>
+<Turn speaker="spk1" startTime="68.298" endTime="68.668">
+<Sync time="68.298"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="68.668" endTime="71.045">
+<Sync time="68.668"/>
+legitymacja 
+<Event desc="*" type="pronounce" extent="begin"/>
+żadna
+<Event desc="*" type="pronounce" extent="end"/>
+ niepotrzebna w 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="71.045" endTime="77.348">
+<Sync time="71.045"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy może pan mieć legitymację ale to musi być jeszcze 
+<Event desc="*" type="pronounce" extent="begin"/>
+jakiś
+<Event desc="*" type="pronounce" extent="end"/>
+ dokument ze zdjęciem albo odcinek jak pan dostaje odcinki to odcinek wtedy
+</Turn>
+<Turn speaker="spk2" startTime="77.348" endTime="80.373">
+<Sync time="77.348"/>
+czterdzieści osiem procent a ja
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ jak kupić gdzie kupić takie bilety 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="80.373" endTime="84.688">
+<Sync time="80.373"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana no na każdej poczcie może pan kupić tylko 
+<Event desc="*" type="pronounce" extent="begin"/>
+prosić
+<Event desc="*" type="pronounce" extent="end"/>
+ z ulgą czterdziestu osiem procent
+</Turn>
+<Turn speaker="spk2" startTime="84.688" endTime="171.334">
+<Sync time="84.688"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="171.334" endTime="172.707">
+<Sync time="171.334"/>
+aha dobrze 
+<Event desc="noise" type="noise" extent="begin"/>
+ dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="172.707" endTime="173.034">
+<Sync time="172.707"/>
+proszę
+</Turn>
+<Turn startTime="173.034" endTime="173.989">
+<Sync time="173.034"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

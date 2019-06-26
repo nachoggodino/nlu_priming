@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-07_16_42_08" version="7" version_date="080421">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="68.496">
+<Turn startTime="0" endTime="0.85">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.85" endTime="2.904">
+<Sync time="0.85"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.904" endTime="14.117">
+<Sync time="2.904"/>
+dzień dobry chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+em się pana zapytać o autobus siedemset dziesięć z przystanku Metro Wilano
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+ska po piątej o której teraz będzie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.117" endTime="18.245">
+<Sync time="14.117"/>
+proszę pana będzie o szesnastej pięćdziesiąt a po piątej będzie siedemnasta trzydzieści
+</Turn>
+<Turn speaker="spk2" startTime="18.245" endTime="34.195">
+<Sync time="18.245"/>
+siedemnasta trzydzieści a w do Konstancina do przystanku nie wiem jak on się nazywa nazwa tego przystanku to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ przy Wilano
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+skiej blisko Wilano
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+skiej 
+<Event desc="noise" type="noise" extent="begin"/>
+ w Konstancinie 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jaka 
+<Event desc="noise" type="noise" extent="begin"/>
+ jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ ulica 
+<Event desc="noise" type="noise" extent="end"/>
+ po Starej Papierni pan mi powie 
+<Event desc="*" type="pronounce" extent="begin"/>
+jak on
+<Event desc="*" type="pronounce" extent="end"/>
+ jedzie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="34.195" endTime="44.714">
+<Sync time="34.195"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ za Starą Papiernią 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+przy
+<Event desc="*" type="pronounce" extent="end"/>
+ przy Starej 
+<Event desc="*" type="pronounce" extent="begin"/>
+Papierni
+<Event desc="*" type="pronounce" extent="end"/>
+ to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ przystanek Aleja Wojska Polskiego 
+<Event desc="*" type="pronounce" extent="begin"/>
+natomiast
+<Event desc="*" type="pronounce" extent="end"/>
+ następny to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="previous"/>
+ Sobieskiego
+</Turn>
+<Turn speaker="spk2" startTime="44.714" endTime="45.642">
+<Sync time="44.714"/>
+a później 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.642" endTime="46.805">
+<Sync time="45.642"/>
+Sienkiewicza
+</Turn>
+<Turn speaker="spk2" startTime="46.805" endTime="47.426">
+<Sync time="46.805"/>
+a potem 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="47.426" endTime="49.231">
+<Sync time="47.426"/>
+STOCER 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="49.231" endTime="56.188">
+<Sync time="49.231"/>
+STOCER 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Sienkiewicza no to o której dojeżdża ten siedemnasta trzydzieści 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="56.188" endTime="58.634">
+<Sync time="56.188"/>
+proszę pana po trzydziestu pięciu minutach
+</Turn>
+<Turn speaker="spk2" startTime="58.634" endTime="60.218">
+<Sync time="58.634"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ trzydzieści pięć minut 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ dziękuję 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="60.218" endTime="61.213">
+<Sync time="60.218"/>
+<Who nb="1"/>
+uprzejmie
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2 spk1" startTime="61.213" endTime="64.064">
+<Sync time="61.213"/>
+<Who nb="1"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wesołych świąt i życzę wszystkiego dobrego
+<Who nb="2"/>
+dziękuję wzajemnie
+</Turn>
+<Turn speaker="spk1" startTime="64.064" endTime="64.763">
+<Sync time="64.064"/>
+do usłyszenia
+</Turn>
+<Turn startTime="64.763" endTime="68.496">
+<Sync time="64.763"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

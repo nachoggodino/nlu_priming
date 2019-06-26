@@ -1,0 +1,138 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_10" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_11" attribute="Q_HOW_TO" value="Reach" />
+  <concept id="7" span="word_12" attribute="Q_HOW_TO" value="Reach" />
+  <concept id="8" span="word_15" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="9" span="word_16" attribute="ACTION" value="Approach" />
+  <concept id="10" span="word_17" attribute="CONNECTION_F" value="Shortest" />
+  <concept id="11" span="word_18..word_20" attribute="BUS" value="401" />
+  <concept id="12" span="word_21..word_22" attribute="SOURCE_STR" value="Wałbrzyska" />
+  <concept id="13" span="word_23" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="14" span="word_25" attribute="ACTION" value="ToBe" />
+  <concept id="15" span="word_26..word_27" attribute="STREET" value="Aleja Lotników" />
+  <concept id="16" span="word_28" attribute="LOCATION_REL" value="There" />
+  <concept id="17" span="word_30" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="18" span="word_33" attribute="ACTION" value="ToBe" />
+  <concept id="19" span="word_34" attribute="REACTION" value="Confirmation" />
+  <concept id="20" span="word_35..word_37" attribute="STREET" value="RelThatOne" />
+  <concept id="21" span="word_39..word_42" attribute="GOAL_NEAR_STR" value="Astronautów" />
+  <concept id="22" span="word_44" attribute="ACTION" value="ToBe" />
+  <concept id="23" span="word_45" attribute="TOWN_DISTRICT" value="Wola" />
+  <concept id="24" span="word_46" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="25" span="word_49" attribute="ACTION" value="ToBe" />
+  <concept id="26" span="word_51" attribute="TOWN_DISTRICT" value="Włochy" />
+  <concept id="27" span="word_56..word_57" attribute="BUS" value="401" />
+  <concept id="28" span="word_58" attribute="ACTION" value="ToSee" />
+  <concept id="29" span="word_63" attribute="LOCATION_REL" value="There" />
+  <concept id="30" span="word_64" attribute="ACTION" value="Go" />
+  <concept id="31" span="word_67" attribute="ACTION" value="Get" />
+  <concept id="32" span="word_70..word_73" attribute="GOAL_REL" value="Nearby" />
+  <concept id="33" span="word_74..word_78" attribute="AT_HOUR" value="7 : 40" />
+  <concept id="34" span="word_80..word_82" attribute="AT_HOUR" value="7 : 50" />
+  <concept id="35" span="word_83..word_85" attribute="SOURCE_STR" value="Aleja Lotników" />
+  <concept id="36" span="word_86" attribute="REACTION" value="Confirmation" />
+  <concept id="37" span="word_87" attribute="REACTION" value="Confirmation" />
+  <concept id="38" span="word_88..word_89" attribute="LOCATION_STR" value="Puławska" />
+  <concept id="39" span="word_91" attribute="ACTION" value="Request" />
+  <concept id="40" span="word_92" attribute="ACTION" value="Approach" />
+  <concept id="41" span="word_93..word_95" attribute="GOAL_STR" value="Astronautów" />
+  <concept id="42" span="word_96" attribute="Q_CONF" value="IsIt" />
+  <concept id="43" span="word_98..word_101" attribute="GOAL_REL" value="Nearby" />
+  <concept id="44" span="word_102" attribute="REACTION" value="Negation" />
+  <concept id="45" span="word_103" attribute="ACTION" value="Know" />
+  <concept id="46" span="word_104" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="47" span="word_105" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="48" span="word_106" attribute="ACTION" value="ToBe" />
+  <concept id="49" span="word_108..word_109" attribute="LOCATION_STR" value="Astronautów" />
+  <concept id="50" span="word_111..word_112" attribute="LOCATION_REL" value="There" />
+  <concept id="51" span="word_113..word_114" attribute="LOCATION_REL" value="Nearby" />
+  <concept id="52" span="word_115" attribute="REACTION" value="Confirmation" />
+  <concept id="53" span="word_119" attribute="ACTION" value="Check" />
+  <concept id="54" span="word_120" attribute="Q_WHAT_STP" value="General" />
+  <concept id="55" span="word_123" attribute="ACTION" value="BeCalled" />
+  <concept id="56" span="word_124" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="57" span="word_125" attribute="REACTION" value="Confirmation" />
+  <concept id="58" span="word_128" attribute="REACTION" value="Confirmation" />
+  <concept id="59" span="word_131" attribute="ACTION" value="ToBe" />
+  <concept id="60" span="word_132..word_133" attribute="STOP_DESCRIPTION" value="Hynka" />
+  <concept id="61" span="word_135..word_137" attribute="SOURCE_STR" value="Aleja Lotników" />
+  <concept id="62" span="word_140" attribute="ACTION" value="Go" />
+  <concept id="63" span="word_141..word_142" attribute="BUS_REL" value="ThisBus" />
+  <concept id="64" span="word_143..word_145" attribute="RIDE_DURATION_M" value="14" />
+  <concept id="65" span="word_150..word_151" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="66" span="word_154" attribute="ACTION" value="ToBe" />
+  <concept id="67" span="word_157..word_158" attribute="LOC_TIME_REL" value="Somewhere" />
+  <concept id="68" span="word_162" attribute="AT_HOUR_MINPART" value="15 min" />
+  <concept id="69" span="word_163..word_164" attribute="AT_HOUR_MINPART" value="40" />
+  <concept id="70" span="word_166..word_168" attribute="AT_HOUR" value="7 : 50" />
+  <concept id="71" span="word_170" attribute="REACTION" value="Confirmation" />
+  <concept id="72" span="word_172" attribute="ACTION" value="ToStart" />
+  <concept id="73" span="word_173" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="74" span="word_174..word_176" attribute="LOCATION_REL" value="There" />
+  <concept id="75" span="word_178..word_180" attribute="LOCATION_REL" value="There" />
+  <concept id="76" span="word_181" attribute="ACTION" value="ToBe" />
+  <concept id="77" span="word_183" attribute="ROAD_DISTURBANCE" value="TraficJam" />
+  <concept id="78" span="word_184..word_186" attribute="AT_HOUR" value="7 : 27" />
+  <concept id="79" span="word_187" attribute="ACTION" value="ToBe" />
+  <concept id="80" span="word_188" attribute="BUS" value="General" />
+  <concept id="81" span="word_192..word_194" attribute="AT_HOUR" value="7 : 27" />
+  <concept id="82" span="word_195..word_196" attribute="Q_DEPARTURE" value="Earlier" />
+  <concept id="83" span="word_198..word_199" attribute="AT_HOUR" value="7 : 11" />
+  <concept id="84" span="word_206..word_207" attribute="AT_HOUR" value="7 : 11" />
+  <concept id="85" span="word_209" attribute="LOCATION_REL" value="There" />
+  <concept id="86" span="word_211" attribute="ACTION" value="ToBe" />
+  <concept id="87" span="word_212" attribute="ROAD_DISTURBANCE" value="TraficJam" />
+  <concept id="88" span="word_217" attribute="ACTION" value="Approach" />
+  <concept id="89" span="word_218..word_220" attribute="AT_HOUR" value="7 : 11" />
+  <concept id="90" span="word_221..word_222" attribute="GOAL_STR" value="Wałbrzyska" />
+  <concept id="91" span="word_224..word_225" attribute="Q_DEPARTURE" value="General" />
+  <concept id="92" span="word_227..word_228" attribute="BUS" value="709" />
+  <concept id="93" span="word_229" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="94" span="word_230..word_232" attribute="BUS" value="727" />
+  <concept id="95" span="word_233" attribute="ACTION" value="ToStart" />
+  <concept id="96" span="word_234..word_236" attribute="SOURCE_STP" value="Piaseczno Lamina" />
+  <concept id="97" span="word_237..word_238" attribute="SOURCE_BLD" value="Lamina" />
+  <concept id="98" span="word_239..word_241" attribute="GOAL_STR" value="Aleja Lotników" />
+  <concept id="99" span="word_244..word_248" attribute="RIDE_DURATION_M" value="30 - 40" />
+  <concept id="100" span="word_249" attribute="ACTION" value="Count" />
+  <concept id="101" span="word_258" attribute="ROAD_DISTURBANCE" value="TraficJam" />
+  <concept id="102" span="word_260" attribute="ACTION" value="Know" />
+  <concept id="103" span="word_262..word_263" attribute="AROUND_HOUR" value="6 : 00" />
+  <concept id="104" span="word_265" attribute="REACTION" value="Negation" />
+  <concept id="105" span="word_266" attribute="ACTION" value="Know" />
+  <concept id="106" span="word_268" attribute="LOCATION_REL" value="There" />
+  <concept id="107" span="word_269..word_270" attribute="AT_HOUR" value="7 : 11" />
+  <concept id="108" span="word_271" attribute="DEPARTURE" value="General" />
+  <concept id="109" span="word_273..word_275" attribute="AT_HOUR" value="6 : 39" />
+  <concept id="110" span="word_276" attribute="ACTION" value="ToBe" />
+  <concept id="111" span="word_280..word_281" attribute="BUS" value="709" />
+  <concept id="112" span="word_282" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="113" span="word_283..word_285" attribute="AT_HOUR" value="6 : 44" />
+  <concept id="114" span="word_289..word_290" attribute="TIME_REL" value="TooLate" />
+  <concept id="115" span="word_291..word_293" attribute="AT_HOUR" value="6 : 33" />
+  <concept id="116" span="word_294" attribute="TIME_REL" value="Earlier" />
+  <concept id="117" span="word_298..word_299" attribute="BUS" value="709" />
+  <concept id="118" span="word_301" attribute="REACTION" value="Confirmation" />
+  <concept id="119" span="word_302" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="120" span="word_303..word_305" attribute="TRANSPORT_RATE" value="6 min" />
+  <concept id="121" span="word_306" attribute="ACTION" value="ToBe" />
+  <concept id="122" span="word_312..word_313" attribute="LOCATION_REL" value="There" />
+  <concept id="123" span="word_316..word_318" attribute="BUS" value="727" />
+  <concept id="124" span="word_321..word_323" attribute="BUS" value="727" />
+  <concept id="125" span="word_326" attribute="REACTION" value="Negation" />
+  <concept id="126" span="word_328" attribute="ACTION" value="ToFit" />
+  <concept id="127" span="word_330" attribute="ACTION" value="ToBe" />
+  <concept id="128" span="word_331..word_332" attribute="AT_HOUR" value="6 : 03" />
+  <concept id="129" span="word_334..word_335" attribute="AT_HOUR_MINPART" value="41" />
+  <concept id="130" span="word_340" attribute="REACTION" value="Negation" />
+  <concept id="131" span="word_342" attribute="ACTION" value="ToFit" />
+  <concept id="132" span="word_345" attribute="ACTION" value="Know" />
+  <concept id="133" span="word_347..word_348" attribute="BUS_REL" value="ThisBus" />
+  <concept id="134" span="word_349" attribute="ACTION" value="ToBe" />
+  <concept id="135" span="word_353..word_354" attribute="CONV_FORM" value="BYE" />
+  <concept id="136" span="word_357..word_358" attribute="CONV_FORM" value="BYE" />
+</concepts>

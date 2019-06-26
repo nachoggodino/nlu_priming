@@ -1,0 +1,25 @@
+<Frames>
+  <Set id="1" subset="1" span="word_26" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_23..word_25" concept_id="4" name="TITLE" />
+    <Frame fe="2" span="word_27..word_28" concept_id="6" name="PRIVILEGE" />
+    <Frame fe="3" span="word_29..word_30" concept_id="7" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="2" subset="1" span="word_43" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_45" concept_id="12" name="TOPIC" />
+  </Set>
+  <Set id="3" subset="1" span="word_49" frame="USING" head="korzystać">
+    <Frame fe="1" span="word_51" concept_id="14" name="INSTRUMENT" />
+  </Set>
+  <Set id="4" subset="1" span="word_70" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_72,word_73" concept_id="19,20" name="ENTITY" />
+    <Frame fe="2" span="word_74..word_75" concept_id="21" name="PLACE" />
+  </Set>
+  <Set id="5" subset="1" span="word_78" frame="GETTING" head="pobrać">
+    <Frame fe="1" span="word_79" concept_id="24" name="MANNER" />
+    <Frame fe="2" span="word_81" concept_id="26" name="THEME" />
+  </Set>
+  <Set id="6" subset="1" span="word_98" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_97" concept_id="29" name="PLACE" />
+    <Frame fe="2" span="word_100" concept_id="31" name="THEME" />
+  </Set>
+</Frames>

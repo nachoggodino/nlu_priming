@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_16_54_29" version="5" version_date="071227">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="106.493" topic="to1">
+<Turn startTime="0" endTime="0.499">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.499" endTime="2.758">
+<Sync time="0.499"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.758" endTime="16.503">
+<Sync time="2.758"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę pana ja mam takie pytanie 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ czy z przystanku autobusowego z ulicy Modlińskiej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dokładnie z Konwaliowej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bezpośrednio przez Most Gdański na Plac Zawiszy jakimś autobusem dojadę 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.503" endTime="18.762">
+<Sync time="16.503"/>
+nie 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="18.762" endTime="28.092">
+<Sync time="18.762"/>
+nie ma tam bezpośredniego a jakieś połączenie takie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ w miarę ż
+<Event desc="~" type="lexical" extent="begin"/>
+e
+<Event desc="~" type="lexical" extent="end"/>
+ tak powiem możliwe i dosyć częste 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ w głównie w godzinach wieczornych
+</Turn>
+<Turn speaker="spk1" startTime="28.092" endTime="30.698">
+<Sync time="28.092"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a czy to 
+<Event desc="babble" type="noise" extent="end"/>
+ musi 
+<Event desc="int" type="noise" extent="next"/>
+być przez Most Gdański 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="30.698" endTime="37.011">
+<Sync time="30.698"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to znaczy 
+<Event desc="*" type="pronounce" extent="begin"/>
+wie
+<Event desc="*" type="pronounce" extent="end"/>
+ pan co bo tu chodzi o to że jeżeli będzie zamknięta ta Trasa Toruńska to żeby to pominąć 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.011" endTime="49.161">
+<Sync time="37.011"/>
+t
+<Event desc="~" type="lexical" extent="begin"/>
+o
+<Event desc="~" type="lexical" extent="end"/>
+ tak jak 
+<Event desc="*" type="pronounce" extent="begin"/>
+powiedziałem
+<Event desc="*" type="pronounce" extent="end"/>
+ bezpośredniego nie będzie takie najprostsze 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ to będzie pięćset trzy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="49.161" endTime="51.237">
+<Sync time="49.161"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to będzie gdzie z przesiadką 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="51.237" endTime="60.849">
+<Sync time="51.237"/>
+pięćset trzy do przystanku Foksal to będzie na skrzyżowaniu Nowego Światu i Alei Jerozolimskich i stąd każdym tramwajem w kierunku Placu Zawiszy
+</Turn>
+<Turn speaker="spk2" startTime="60.849" endTime="67.509">
+<Sync time="60.849"/>
+aha żeby nie Mostem Gdańskim powiedzmy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Grota 
+<Event desc="*" type="pronounce" extent="begin"/>
+Mostem
+<Event desc="*" type="pronounce" extent="end"/>
+ Grota dojadę 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ jakimś bezpośredni 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="67.509" endTime="75.713">
+<Sync time="67.509"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie nie 
+<Event desc="babble" type="noise" extent="end"/>
+ żaden autobus tutaj z Białołęki nie dojeżdża do 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ Placu Zawiszy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="75.713" endTime="85.924">
+<Sync time="75.713"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no dobrze to nic za to pięćset trzy a jakimś takim właśnie żeby dojechać autobusem 
+<Event desc="~" type="lexical" extent="begin"/>
+do
+<Event desc="~" type="lexical" extent="end"/>
+ najbliższego metra i później właśnie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Placu Zawiszy jakaś stacja metra 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="85.924" endTime="90.156">
+<Sync time="85.924"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+ale
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ stację metrem pan w Centrum będzie się musiał pan dwa razy przesiadać
+</Turn>
+<Turn speaker="spk2" startTime="90.156" endTime="96.845">
+<Sync time="90.156"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha to nie to nie nie 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ to pięćset trzy tylko i tu na skrzyżowaniu Alei Jerozolimskich tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="96.845" endTime="102.479">
+<Sync time="96.845"/>
+tak ewentualnie pięćset dziesięć do Dworca Centralnego 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ i stąd także 
+<Event desc="babble" type="noise" extent="begin"/>
+ tramwajem 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="102.479" endTime="103.581">
+<Sync time="102.479"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="103.581" endTime="104.342">
+<Sync time="103.581"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę bardzo 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="104.342" endTime="106.493">
+<Sync time="104.342"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

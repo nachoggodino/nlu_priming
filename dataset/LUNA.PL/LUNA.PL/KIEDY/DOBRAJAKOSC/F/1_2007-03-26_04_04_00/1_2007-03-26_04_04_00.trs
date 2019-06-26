@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-26_04_04_00" version="5" version_date="100914">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="67.996" topic="to1">
+<Turn startTime="0" endTime="0.379">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.379" endTime="1.984">
+<Sync time="0.379"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="1.984" endTime="2.57">
+<Sync time="1.984"/>
+dobry wieczór
+</Turn>
+<Turn speaker="spk1" startTime="2.57" endTime="2.991">
+<Sync time="2.57"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dobry wieczór
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.991" endTime="6.437">
+<Sync time="2.991"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+chciałam się
+<Event desc="*" type="pronounce" extent="end"/>
+ dowiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ z przystanku Dworzec Centralny 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="6.437" endTime="6.729">
+<Sync time="6.437"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="6.729" endTime="10.365">
+<Sync time="6.729"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ pierwszy tramwaj o której odchodzi w kierunku Ochoty ewentualnie Okęcia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.365" endTime="11.021">
+<Sync time="10.365"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="11.021" endTime="12.799">
+<Sync time="11.021"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ Banacha 
+<Event desc="babble" type="noise" extent="end"/>
+ albo Okęcie 
+<Event desc="noise" type="noise" extent="begin"/>
+ bo to 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.799" endTime="15.254">
+<Sync time="12.799"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze to tak z Dworca Centralnego tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.254" endTime="15.474">
+<Sync time="15.254"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+tak
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.474" endTime="17.699">
+<Sync time="15.474"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to tak na przykład mamy dziewiątkę 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.699" endTime="18.961">
+<Sync time="17.699"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.961" endTime="31.571">
+<Sync time="18.961"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to pierwszy mamy proszę pani już momencik 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ dobrze mamy Dworzec Centralny 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ proszę pani pierwsza jest czwarta pięćdziesiąt dwie
+</Turn>
+<Turn speaker="spk2" startTime="31.571" endTime="32.451">
+<Sync time="31.571"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ czwarta pięćdziesiąt dwie 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="32.451" endTime="32.638">
+<Sync time="32.451"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+i
+</Turn>
+<Turn speaker="spk1" startTime="32.638" endTime="50.715">
+<Sync time="32.638"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ potem piąta 
+<Event desc="babble" type="noise" extent="begin"/>
+ dwanaście 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i teraz proszę pani dwadzieścia pięć 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tramwaj dwadzieścia pięć mamy proszę pani o godzinie czwarta pięćdziesiąt osiem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i piąta osiemnaście 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="50.715" endTime="51.286">
+<Sync time="50.715"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="51.286" endTime="56.168">
+<Sync time="51.286"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ a siódemkę też 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="56.168" endTime="57.184">
+<Sync time="56.168"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ jeszcze siódemka 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="57.184" endTime="64.503">
+<Sync time="57.184"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze 
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę bardzo 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ dobrze 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pani siódemkę mamy piąta zero 
+<Event desc="babble" type="noise" extent="begin"/>
+ sześć 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="64.503" endTime="65.276">
+<Sync time="64.503"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to dziękuję pani 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="65.276" endTime="66.561">
+<Sync time="65.276"/>
+<Who nb="1"/>
+uprzejmie do widzenia
+<Who nb="2"/>
+dziękuję do widzenia
+</Turn>
+<Turn startTime="66.561" endTime="67.996">
+<Sync time="66.561"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

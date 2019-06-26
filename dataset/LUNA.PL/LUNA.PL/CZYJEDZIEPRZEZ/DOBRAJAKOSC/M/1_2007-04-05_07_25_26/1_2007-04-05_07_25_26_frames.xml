@@ -1,0 +1,34 @@
+<Frames>
+  <Set id="1" subset="1" span="word_25" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_23..word_24" concept_id="8" name="SOURCE" />
+  </Set>
+  <Set id="2" subset="2" span="word_29" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_28" concept_id="12" name="SELF_MOVER" />
+    <Frame fe="2" span="word_30..word_31" concept_id="14" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_35" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_34" concept_id="16" name="SELF_MOVER" />
+    <Frame fe="2" span="word_36..word_37" concept_id="18" name="GOAL" />
+  </Set>
+  <Set id="4" subset="1" span="word_53" frame="HALT" head="stawać">
+    <Frame fe="1" span="word_48" concept_id="21" name="THEME" />
+    <Frame fe="2" span="word_49..word_50" concept_id="22" name="PLACE" />
+  </Set>
+  <Set id="5" subset="1" span="word_59" frame="BEING_LOCATED" head="stać">
+    <Frame fe="1" span="word_56..word_57" concept_id="24" name="PLACE" />
+  </Set>
+  <Set id="6" subset="1" span="word_70" frame="HALT" head="stawać">
+    <Frame fe="1" span="word_66" concept_id="31" name="THEME" />
+    <Frame fe="2" span="word_68" concept_id="32" name="PLACE" />
+  </Set>
+  <Set id="7" subset="1" span="word_72" frame="HALT" head="stawać">
+    <Frame fe="1" span="word_73" concept_id="37" name="PLACE" />
+  </Set>
+  <Set id="8" subset="1" span="word_78" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_77" concept_id="40" name="SELF_MOVER" />
+    <Frame fe="2" span="word_79..word_80" concept_id="42" name="PATH" />
+  </Set>
+  <Set id="9" subset="1" span="word_87" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_86" concept_id="45" name="PATH" />
+  </Set>
+</Frames>

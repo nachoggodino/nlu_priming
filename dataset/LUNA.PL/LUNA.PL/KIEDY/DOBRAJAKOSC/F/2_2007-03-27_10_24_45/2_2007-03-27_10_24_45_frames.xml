@@ -1,0 +1,18 @@
+<Frames>
+  <Set id="1" subset="1" span="word_8" frame="TOPIC" head="zapytać">
+    <Frame fe="1" span="word_11..word_13" concept_id="6" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="4" span="word_15" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_16..word_18" concept_id="9" name="ENTITY" />
+  </Set>
+  <Set id="3" subset="1" span="word_28" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_25..word_26" concept_id="11" name="OWNER" />
+    <Frame fe="2" span="word_29" concept_id="14" name="POSSESSION" />
+  </Set>
+  <Set id="4" subset="1" span="word_36" frame="GIVE" head="podać">
+    <Frame fe="1" span="word_38,word_39" concept_id="16,17" name="THEME" />
+  </Set>
+  <Set id="5" subset="1" span="word_44" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_40..word_42,word_43" concept_id="18,19" name="TIME" />
+  </Set>
+</Frames>

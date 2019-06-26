@@ -1,0 +1,15 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="MOTION" head="chodzić">
+    <Frame fe="1" span="word_12" concept_id="4" name="THEME" />
+  </Set>
+  <Set id="2" subset="1" span="word_23" frame="ARRIVING" head="wjeżdżać">
+    <Frame fe="1" span="word_21" concept_id="10" name="THEME" />
+    <Frame fe="2" span="word_25..word_26" concept_id="12" name="GOAL" />
+  </Set>
+  <Set id="3" subset="2" span="word_45" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_41..word_43" concept_id="19" name="GOAL" />
+  </Set>
+  <Set id="4" subset="1" span="word_54" frame="MOTION" head="wracać">
+    <Frame fe="1" span="word_53" concept_id="26" name="TIME" />
+  </Set>
+</Frames>

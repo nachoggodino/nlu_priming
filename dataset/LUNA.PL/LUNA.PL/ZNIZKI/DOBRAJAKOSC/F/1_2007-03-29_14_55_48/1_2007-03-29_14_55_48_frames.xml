@@ -1,0 +1,9 @@
+<Frames>
+  <Set id="1" subset="1" span="word_17" frame="COMMERCE_PAY" head="kosztować">
+    <Frame fe="1" span="word_16" concept_id="6" name="MONEY" />
+    <Frame fe="2" span="word_18..word_19,word_20,word_21" concept_id="8,9,10" name="GOODS" />
+  </Set>
+  <Set id="2" subset="1" span="word_46" frame="COMMERCE_PAY" head="kosztować">
+    <Frame fe="1" span="word_47..word_51" concept_id="23" name="MONEY" />
+  </Set>
+</Frames>

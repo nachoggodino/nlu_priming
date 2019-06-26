@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_21_28_09" version="5" version_date="100914">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="59.996" topic="to1">
+<Turn startTime="0" endTime="0.763">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.763" endTime="2.037">
+<Sync time="0.763"/>
+xxx dobry wieczór
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.037" endTime="9.07">
+<Sync time="2.037"/>
+dzień dobry chciałam się dowiedzieć jutro od godziny dziewiątej rano 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto dziewięćdziesiąt z Wola Ratusz 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ niskopodłogowe w której są
+</Turn>
+<Turn speaker="spk1" startTime="9.07" endTime="10.135">
+<Sync time="9.07"/>
+w kierunku Centrum tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="10.135" endTime="12.701">
+<Sync time="10.135"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie w kierunku w 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Marki Marek
+</Turn>
+<Turn speaker="spk1" startTime="12.701" endTime="15.642">
+<Sync time="12.701"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w kierun
+<Event desc="~" type="lexical" extent="begin"/>
+ku
+<Event desc="~" type="lexical" extent="end"/>
+ Mar
+<Event desc="~" type="lexical" extent="begin"/>
+ki
+<Event desc="~" type="lexical" extent="end"/>
+ dobrze 
+<Event desc="noise" type="noise" extent="end"/>
+ od której rano przepraszam 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.642" endTime="16.404">
+<Sync time="15.642"/>
+od dziewiątej 
+<Event desc="babble" type="noise" extent="begin"/>
+ rano 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.404" endTime="22.65">
+<Sync time="16.404"/>
+dziewiątej 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ Wola Ratusz są same niskie podłogi 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dziewiąta dziewiętnaście 
+</Turn>
+<Turn speaker="spk2" startTime="22.65" endTime="24.385">
+<Sync time="22.65"/>
+a czy same niskopodłogowe są 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.385" endTime="25.072">
+<Sync time="24.385"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="25.072" endTime="27.936">
+<Sync time="25.072"/>
+i do której a o której są nie niskopodłogowe 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="27.936" endTime="29.715">
+<Sync time="27.936"/>
+same niskie podłogi jutro 
+</Turn>
+<Turn speaker="spk2" startTime="29.715" endTime="31.051">
+<Sync time="29.715"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w 
+<Event desc="en" type="language" extent="begin"/>
+weekend
+<Event desc="en" type="language" extent="end"/>
+ jest same z 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.051" endTime="31.298">
+<Sync time="31.051"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="31.298" endTime="31.641">
+<Sync time="31.298"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.641" endTime="32.135">
+<Sync time="31.641"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="32.135" endTime="33.844">
+<Sync time="32.135"/>
+dobra to dziewiąta piętnaście dalej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="33.844" endTime="35.366">
+<Sync time="33.844"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ dziewiąta dziewiętnaście
+</Turn>
+<Turn speaker="spk2" startTime="35.366" endTime="36.094">
+<Sync time="35.366"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.094" endTime="38.806">
+<Sync time="36.094"/>
+trzydzieści cztery czterdzieści dziewięć
+</Turn>
+<Turn speaker="spk2" startTime="38.806" endTime="40.415">
+<Sync time="38.806"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ dziewięć o dziesiąta 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.415" endTime="41.686">
+<Sync time="40.415"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ zero cztery
+</Turn>
+<Turn speaker="spk2" startTime="41.686" endTime="42.404">
+<Sync time="41.686"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="42.404" endTime="46.298">
+<Sync time="42.404"/>
+dziewiętnaście trzydzieści cztery czterdzieści dziewięć 
+</Turn>
+<Turn speaker="spk2" startTime="46.298" endTime="48.287">
+<Sync time="46.298"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ czterdzieści dziewięć
+<Event desc="noise" type="noise" extent="end"/>
+ i jeszcze jedenasta
+</Turn>
+<Turn speaker="spk1" startTime="48.287" endTime="53.105">
+<Sync time="48.287"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak samo co 
+<Event desc="babble" type="noise" extent="begin"/>
+ piętnaście minut 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ aż tak jeździ do osiemnastej do
+</Turn>
+<Turn speaker="spk1 spk2" startTime="53.105" endTime="54.37">
+<Sync time="53.105"/>
+<Who nb="1"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ do siedemnastej
+<Who nb="2"/>
+aha czyli 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="54.37" endTime="55.058">
+<Sync time="54.37"/>
+cztery dziewiętnaście 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="55.058" endTime="55.802">
+<Sync time="55.058"/>
+<Who nb="1"/>
+trzydzieści cztery
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="55.802" endTime="57.605">
+<Sync time="55.802"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ czterdzieści dziewięć dobrze dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="57.605" endTime="57.94">
+<Sync time="57.605"/>
+<Who nb="1"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk2" startTime="57.94" endTime="58.391">
+<Sync time="57.94"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="58.391" endTime="58.747">
+<Sync time="58.391"/>
+do widzenia
+</Turn>
+<Turn startTime="58.747" endTime="59.996">
+<Sync time="58.747"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

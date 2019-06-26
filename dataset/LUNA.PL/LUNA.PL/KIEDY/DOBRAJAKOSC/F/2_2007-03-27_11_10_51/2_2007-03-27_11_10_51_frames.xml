@@ -1,0 +1,6 @@
+<Frames>
+  <Set id="1" subset="1" span="word_14" frame="TOPIC" head="dowiedzieć">
+    <Frame fe="1" span="word_17..word_18" concept_id="7" name="TOPIC" />
+    <Frame fe="2" span="word_19..word_22,word_23..word_25" concept_id="8,9" name="EXPLANATION" />
+  </Set>
+</Frames>

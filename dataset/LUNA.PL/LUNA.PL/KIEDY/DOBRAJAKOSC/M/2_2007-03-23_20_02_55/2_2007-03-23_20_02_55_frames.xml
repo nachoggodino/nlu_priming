@@ -1,0 +1,14 @@
+<Frames>
+  <Set id="1" subset="1" span="word_10" frame="TOPIC" head="zapytać">
+    <Frame fe="1" span="word_12..word_15" concept_id="6" name="TOPIC" />
+    <Frame fe="2" span="word_16..word_18,word_19..word_22" concept_id="7,8" name="EXPLANATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_37" frame="GIVE" head="podawać">
+    <Frame fe="1" span="word_26..word_28" concept_id="10" name="THEME" />
+    <Frame fe="2" span="word_31..word_32,word_33..word_34" concept_id="12,13" name="THEME" />
+  </Set>
+  <Set id="3" subset="1" span="word_50" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_52..word_54" concept_id="20" name="TIME" />
+    <Frame fe="2" span="word_56..word_57" concept_id="21" name="TIME" />
+  </Set>
+</Frames>

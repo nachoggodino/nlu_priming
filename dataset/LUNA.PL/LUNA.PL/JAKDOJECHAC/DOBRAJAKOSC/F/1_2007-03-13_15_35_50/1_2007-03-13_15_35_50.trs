@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-13_15_35_50" version="8" version_date="071204">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="29.998" topic="to1">
+<Turn startTime="0" endTime="0.882">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.882" endTime="2.904">
+<Sync time="0.882"/>
+dzień dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.904" endTime="12.354">
+<Sync time="2.904"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry jak mogę się dostać z z 
+<Event desc="*" type="pronounce" extent="begin"/>
+ Placu 
+<Event desc="*" type="pronounce" extent="end"/>
+ Narutowicza do Galerii Mokotów albo w pobliżu Placu Narutowicza 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ bezpośrednim jakimś
+</Turn>
+<Turn speaker="spk1" startTime="12.354" endTime="15.743">
+<Sync time="12.354"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a czy proszę podjechać tramwajem do Bitwy Warszawskiej
+</Turn>
+<Turn speaker="spk2" startTime="15.743" endTime="16.877">
+<Sync time="15.743"/>
+aha do Bitwy Warszawskiej
+</Turn>
+<Turn speaker="spk2 spk1" startTime="16.877" endTime="17.822">
+<Sync time="16.877"/>
+<Who nb="1"/>
+i tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+i stamtąd
+</Turn>
+<Turn speaker="spk1" startTime="17.822" endTime="19.231">
+<Sync time="17.822"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ sto osiemdziesiąt sześć 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="19.231" endTime="20.484">
+<Sync time="19.231"/>
+sto osiemdziesiąt sześć
+</Turn>
+<Turn speaker="spk1" startTime="20.484" endTime="20.957">
+<Sync time="20.484"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="20.957" endTime="23.678">
+<Sync time="20.957"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nic innego już nic pan nie może mi pan polecić 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.678" endTime="25.352">
+<Sync time="23.678"/>
+czy to jest najlepsze takie najprostsze 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="25.352" endTime="26.194">
+<Sync time="25.352"/>
+<Who nb="1"/>
+połączenie
+<Who nb="2"/>
+najprostsze
+</Turn>
+<Turn speaker="spk2" startTime="26.194" endTime="27.076">
+<Sync time="26.194"/>
+połączenie dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="27.076" endTime="28.101">
+<Sync time="27.076"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="28.101" endTime="28.77">
+<Sync time="28.101"/>
+do usłyszenia
+</Turn>
+<Turn startTime="28.77" endTime="29.998">
+<Sync time="28.77"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-29_08_25_32" version="3" version_date="080113">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="83.495" topic="to1">
+<Turn startTime="0" endTime="0.2">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.2" endTime="2.284">
+<Sync time="0.2"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx w czym 
+<Event desc="int" type="noise" extent="next"/>
+mogę 
+<Event desc="int" type="noise" extent="next"/>
+pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.284" endTime="23.921">
+<Sync time="2.284"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę pana 
+<Event desc="int" type="noise" extent="next"/>
+chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am uzyskać
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+od
+<Event desc="*" type="pronounce" extent="end"/>
+ pana taką informację 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę mi powiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ że 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ chodzi mi o ulgi 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chodzi m
+<Event desc="~" type="lexical" extent="begin"/>
+i
+<Event desc="~" type="lexical" extent="end"/>
+ o ulgi 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy jeżeli dziecko
+<Event desc="int" type="noise" extent="previous"/>
+ ma bezpłatne przejazdy autobusowe i tramwajowe 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy na tą szybką 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ emzetkę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dziecko też ma 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ musi płacić bilet 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.921" endTime="25.459">
+<Sync time="23.921"/>
+to znaczy na Szybką Kolej Miejską 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.459" endTime="25.828">
+<Sync time="25.459"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="25.828" endTime="30.798">
+<Sync time="25.828"/>
+nie proszę panią te i te bezpłatne przejazdy również 
+<Event desc="*" type="pronounce" extent="begin"/>
+przysługują 
+<Event desc="*" type="pronounce" extent="end"/>
+ i na ten środek transportu 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="30.798" endTime="53.616">
+<Sync time="30.798"/>
+aha 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze dobrze bo wie pan bo dziecko ma 
+<Event desc="*" type="pronounce" extent="begin"/>
+po prostu
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bezpłatnie jeździ autobusami i tramwajami 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja jestem jako jego opiekun 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ po prostu chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am się ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko dowiedzieć czy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przysługuje nam taka ulga 
+<Event desc="*" type="pronounce" extent="begin"/>
+jeżeli 
+<Event desc="*" type="pronounce" extent="end"/>
+ dziecko ma taką 
+<Event desc="*" type="pronounce" extent="begin"/>
+legitymację
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i po prostu czy dziecko będzie może czy dziecko może 
+<Event desc="*" type="pronounce" extent="begin"/>
+jeździć
+<Event desc="*" type="pronounce" extent="end"/>
+ na tą szybką kolej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na tą 
+<Event desc="*" type="pronounce" extent="begin"/>
+legitymację
+<Event desc="*" type="pronounce" extent="end"/>
+ ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="53.616" endTime="62.3">
+<Sync time="53.616"/>
+tak proszę panią ze względu na to że na Szybkiej Kolei Miejskiej obowiązuje ten sam regulamin co w pojazdach 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ komunikacji miejskiej czyli autobusy tramwaje metro 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="62.3" endTime="62.639">
+<Sync time="62.3"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="62.639" endTime="64.516">
+<Sync time="62.639"/>
+to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ ten sam rodzaj regulaminu
+</Turn>
+<Turn speaker="spk2" startTime="64.516" endTime="68.111">
+<Sync time="64.516"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i proszę mi 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+powiedzieć
+<Event desc="*" type="pronounce" extent="end"/>
+ ona w ogóle jeździ co pół godziny 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="68.111" endTime="76.605">
+<Sync time="68.111"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy tutaj jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ tak nieregularnie co pół godziny co co czterdzieści minu
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ czasam
+<Event desc="~" type="lexical" extent="begin"/>
+i
+<Event desc="~" type="lexical" extent="end"/>
+ to zależy 
+<Event desc="*" type="pronounce" extent="begin"/>
+tutaj
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ od pory dnia szczerze mówiąc
+</Turn>
+<Turn speaker="spk2" startTime="76.605" endTime="78.856">
+<Sync time="76.605"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha 
+<Event desc="noise" type="noise" extent="end"/>
+ dobrze 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bardzo panu dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="78.856" endTime="79.522">
+<Sync time="78.856"/>
+<Who nb="1"/>
+życzę miłego 
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="79.522" endTime="79.766">
+<Sync time="79.522"/>
+dnia
+</Turn>
+<Turn speaker="spk2 spk1" startTime="79.766" endTime="80.331">
+<Sync time="79.766"/>
+<Who nb="1"/>
+do widzenia
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="80.331" endTime="81.204">
+<Sync time="80.331"/>
+wzajemnie do widzenia
+</Turn>
+<Turn startTime="81.204" endTime="83.495">
+<Sync time="81.204"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

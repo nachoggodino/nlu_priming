@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-16_16_21_09" version="3" version_date="071205">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="90.994" topic="to1">
+<Turn startTime="0" endTime="1.121">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.121" endTime="2.975">
+<Sync time="1.121"/>
+dzień dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.975" endTime="12.002">
+<Sync time="2.975"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry panu proszę pana jak najlepiej dojechać z Wilanowa na ulicę Modlińską 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.002" endTime="13.537">
+<Sync time="12.002"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę chwileczkę zaczekać
+</Turn>
+<Turn speaker="spk2" startTime="13.537" endTime="27.338">
+<Sync time="13.537"/>
+dobrze 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="27.338" endTime="30.563">
+<Sync time="27.338"/>
+ proszę pani a pani będzie jecha
+<Event desc="~" type="lexical" extent="begin"/>
+ła
+<Event desc="~" type="lexical" extent="end"/>
+ tutaj z pętli w Wilanowie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ może 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="30.563" endTime="33.476">
+<Sync time="30.563"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ od czy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ od Sobieskiego tu od tej strony
+</Turn>
+<Turn speaker="spk1" startTime="33.476" endTime="34.814">
+<Sync time="33.476"/>
+od Sobieskiego tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="34.814" endTime="38.592">
+<Sync time="34.814"/>
+tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.592" endTime="42.135">
+<Sync time="38.592"/>
+a proszę mi podać adres Modlińskiej gdzie 
+<Event desc="*" type="pronounce" extent="begin"/>
+chce
+<Event desc="*" type="pronounce" extent="end"/>
+ pani dojechać 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="42.135" endTime="49.998">
+<Sync time="42.135"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Modlińska pięćdziesiąt 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ile jest Jurek 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ pięćdziesiąt dwa tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ Modlińska pięćdziesiąt dwa 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="49.998" endTime="68.627">
+<Sync time="49.998"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+Modlińska
+<Event desc="*" type="pronounce" extent="end"/>
+ pięćdziesiąt dwa 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ proszę pani najszybciej będzie autobusem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pięćset 
+<Event desc="babble" type="noise" extent="begin"/>
+ dziewiętnaście 
+<Event desc="babble" type="noise" extent="end"/>
+ albo sto szesnaście do Dolnej 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="68.627" endTime="69.436">
+<Sync time="68.627"/>
+<Who nb="1"/>
+i stamtąd
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="69.436" endTime="72.202">
+<Sync time="69.436"/>
+pięćset trzy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="72.202" endTime="73.082">
+<Sync time="72.202"/>
+pięćset trzy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="73.082" endTime="75.208">
+<Sync time="73.082"/>
+pięćset trzy tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="75.208" endTime="76.427">
+<Sync time="75.208"/>
+i dojadę do Modlińskiej 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="76.427" endTime="86.755">
+<Sync time="76.427"/>
+tak dojedzie pani na 
+<Event desc="*" type="pronounce" extent="begin"/>
+Modlińską
+<Event desc="*" type="pronounce" extent="end"/>
+ do Modlińskiej bo tutaj akurat trasę tej linii przedłużono na Tarchomin 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ do 
+<Event desc="int" type="noise" extent="next"/>
+przystanku Konwaliowa ten numer jest zaraz 
+<Event desc="babble" type="noise" extent="begin"/>
+ obok tego przystanku 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="86.755" endTime="88.26">
+<Sync time="86.755"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ dziękuję 
+<Event desc="babble" type="noise" extent="end"/>
+ panu 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="88.26" endTime="90.017">
+<Sync time="88.26"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+bardzo proszę do usłyszenia
+</Turn>
+<Turn startTime="90.017" endTime="90.994">
+<Sync time="90.017"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

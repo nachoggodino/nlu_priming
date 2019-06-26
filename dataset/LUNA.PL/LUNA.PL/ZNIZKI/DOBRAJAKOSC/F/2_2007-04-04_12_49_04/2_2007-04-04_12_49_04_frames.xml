@@ -1,0 +1,31 @@
+<Frames>
+  <Set id="1" subset="2" span="word_22" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_23,word_24..word_25" concept_id="6,7" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_27" frame="BECOMING" head="skończyć">
+    <Frame fe="1" span="word_28..word_30" concept_id="9" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="3" subset="1" span="word_36" frame="ENTITLED" head="skorzystać">
+    <Frame fe="1" span="word_38..word_40" concept_id="12" name="PRIVILEGE" />
+  </Set>
+  <Set id="4" subset="1" span="word_42" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_44..word_45" concept_id="14" name="TOPIC" />
+  </Set>
+  <Set id="5" subset="1" span="word_50" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_51..word_52" concept_id="18" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="6" subset="1" span="word_64" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_63" concept_id="22" name="PRIVILEGE" />
+    <Frame fe="2" span="word_65..word_68" concept_id="24" name="CIRCUMSTANCES" />
+    <Frame fe="3" span="word_70..word_71" concept_id="25" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="7" subset="1" span="word_82" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_84..word_85" concept_id="31" name="POSSESSION" />
+  </Set>
+  <Set id="8" subset="1" span="word_108" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_111..word_112" concept_id="42" name="TOPIC" />
+  </Set>
+  <Set id="9" subset="1" span="word_125" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_126..word_127" concept_id="46" name="TITLE" />
+  </Set>
+</Frames>

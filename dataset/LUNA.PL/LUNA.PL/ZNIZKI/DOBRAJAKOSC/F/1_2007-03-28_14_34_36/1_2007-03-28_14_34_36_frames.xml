@@ -1,0 +1,38 @@
+<Frames>
+  <Set id="1" subset="1" span="word_11" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_12" concept_id="5" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_16" frame="COMMERCE_BUY" head="kupić">
+    <Frame fe="1" span="word_17..word_18" concept_id="8" name="GOODS" />
+  </Set>
+  <Set id="3" subset="1" span="word_27" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_25..word_26" concept_id="11" name="RATE" />
+    <Frame fe="2" span="word_29" concept_id="14" name="RATE" />
+  </Set>
+  <Set id="4" subset="1" span="word_32" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_35..word_36" concept_id="17" name="TITLE" />
+  </Set>
+  <Set id="5" subset="2" span="word_43" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_45" concept_id="21" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="6" subset="1" span="word_57" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_47..word_53" concept_id="22" name="TITLE" />
+    <Frame fe="2" span="word_55..word_56" concept_id="23" name="TITLE" />
+    <Frame fe="3" span="word_58..word_61" concept_id="25" name="PRIVILEGE" />
+  </Set>
+  <Set id="7" subset="1" span="word_75" frame="COMMERCE_BUY" head="kupić">
+    <Frame fe="1" span="word_77..word_78" concept_id="31" name="GOODS" />
+    <Frame fe="2" span="word_81" concept_id="32" name="PURPOSE" />
+  </Set>
+  <Set id="8" subset="1" span="word_100" frame="RIDE_VEHICLE" head="jeździć">
+    <Frame fe="1" span="word_101" concept_id="39" name="VEHICLE" />
+    <Frame fe="2" span="word_102" concept_id="40" name="GOAL" />
+  </Set>
+  <Set id="9" subset="1" span="word_118" frame="COMMERCE_PAY" head="kosztować">
+    <Frame fe="1" span="word_113..word_116" concept_id="44" name="GOODS" />
+    <Frame fe="2" span="word_120..word_122" concept_id="46" name="MONEY" />
+  </Set>
+  <Set id="10" subset="1" span="word_133" frame="REFFERING_BY_NAME" head="nazywać">
+    <Frame fe="1" span="word_134..word_136" concept_id="51" name="NAME" />
+  </Set>
+</Frames>

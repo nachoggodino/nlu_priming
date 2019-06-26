@@ -1,0 +1,83 @@
+<Frames>
+  <Set id="1" subset="2" span="word_22" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_21" concept_id="4" name="MANNER" />
+    <Frame fe="2" span="word_24..word_26,word_27" concept_id="6,7" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_33" frame="STATEMENT" head="omówić">
+    <Frame fe="1" span="word_35,word_36..word_39" concept_id="10,11" name="TOPIC" />
+  </Set>
+  <Set id="3" subset="1" span="word_45" frame="START" head="zaczynać">
+    <Frame fe="1" span="word_42" concept_id="13" name="AGENT" />
+    <Frame fe="2" span="word_43..word_44" concept_id="14" name="PLACE" />
+    <Frame fe="3" span="word_48" concept_id="16" name="PLACE" />
+  </Set>
+  <Set id="4" subset="1" span="word_52" frame="START" head="zaczynać">
+    <Frame fe="1" span="word_51" concept_id="17" name="AGENT" />
+    <Frame fe="2" span="word_53..word_54,word_55..word_57" concept_id="19,20" name="PLACE" />
+  </Set>
+  <Set id="5" subset="1" span="word_65" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_63" concept_id="23" name="SELF_MOVER" />
+    <Frame fe="2" span="word_64" concept_id="24" name="DIRECTION" />
+    <Frame fe="3" span="word_66..word_67" concept_id="26" name="PATH" />
+    <Frame fe="4" span="word_69,word_70,word_71..word_74" concept_id="28,29,30" name="PATH" />
+  </Set>
+  <Set id="6" subset="1" span="word_79" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_78" concept_id="33" name="TIME" />
+    <Frame fe="2" span="word_80..word_81" concept_id="35" name="DIRECTION" />
+    <Frame fe="3" span="word_82..word_84" concept_id="36" name="GOAL" />
+    <Frame fe="4" span="word_85..word_86" concept_id="37" name="SOURCE" />
+  </Set>
+  <Set id="7" subset="1" span="word_112" frame="ARRIVING" head="wjeżdżać">
+    <Frame fe="1" span="word_109" concept_id="48" name="THEME" />
+    <Frame fe="2" span="word_110" concept_id="49" name="PATH" />
+  </Set>
+  <Set id="8" subset="2" span="word_117" frame="PATH_SHAPE" head="dochodzić">
+    <Frame fe="1" span="word_116" concept_id="54" name="ROAD" />
+    <Frame fe="2" span="word_118..word_120" concept_id="56" name="GOAL" />
+  </Set>
+  <Set id="9" subset="1" span="word_132" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_126" concept_id="61" name="THEME" />
+    <Frame fe="2" span="word_128..word_129" concept_id="62" name="SOURCE" />
+    <Frame fe="3" span="word_130..word_131" concept_id="63" name="DIRECTION" />
+    <Frame fe="4" span="word_134..word_136" concept_id="65" name="GOAL" />
+  </Set>
+  <Set id="10" subset="1" span="word_146" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_143" concept_id="69" name="TIME" />
+    <Frame fe="2" span="word_144" concept_id="70" name="DIRECTION" />
+    <Frame fe="3" span="word_145" concept_id="71" name="PATH" />
+  </Set>
+  <Set id="11" subset="2" span="word_151" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_148" concept_id="73" name="PATH" />
+  </Set>
+  <Set id="12" subset="1" span="word_161" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_160" concept_id="76" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_162..word_163" concept_id="78" name="PHENOMENON" />
+  </Set>
+  <Set id="13" subset="1" span="word_169" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_171" concept_id="80" name="TIME" />
+    <Frame fe="2" span="word_172" concept_id="81" name="PATH" />
+  </Set>
+  <Set id="14" subset="1" span="word_173" frame="CHANGE_DIRECTION" head="skręcić">
+    <Frame fe="1" span="word_174..word_176" concept_id="83" name="GOAL" />
+  </Set>
+  <Set id="15" subset="1" span="word_180" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_178..word_179" concept_id="85" name="PATH" />
+    <Frame fe="2" span="word_181..word_182" concept_id="87" name="GOAL" />
+  </Set>
+  <Set id="16" subset="1" span="word_185" frame="CHANGE_DIRECTION" head="skręcić">
+    <Frame fe="1" span="word_184" concept_id="89" name="TIME" />
+    <Frame fe="2" span="word_186..word_187" concept_id="91" name="DIRECTION" />
+    <Frame fe="3" span="word_188..word_190" concept_id="92" name="GOAL" />
+  </Set>
+  <Set id="17" subset="1" span="word_196" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_197..word_198" concept_id="95" name="PATH" />
+  </Set>
+  <Set id="18" subset="1" span="word_202" frame="BECOMING" head="przechodzić">
+    <Frame fe="1" span="word_200" concept_id="97" name="TIME" />
+    <Frame fe="2" span="word_201" concept_id="98" name="ENTITY" />
+    <Frame fe="3" span="word_203..word_204" concept_id="100" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="19" subset="1" span="word_209" frame="ARRIVING" head="dojeżdżać">
+    <Frame fe="1" span="word_210..word_212" concept_id="105" name="GOAL" />
+  </Set>
+</Frames>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-11_15_09_11" version="2" version_date="071001">
+<Topics>
+<Topic id="to1" desc="male user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="36.998" topic="to1">
+<Turn startTime="0" endTime="0.943">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.943" endTime="2.728">
+<Sync time="0.943"/>
+dzień dobry <Event desc="noise" type="noise" extent="begin"/> xxx w czym mogę <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2.728" endTime="3.526">
+<Sync time="2.728"/>
+<Who nb="1"/>
+pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+<Who nb="2"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="3.526" endTime="8.795">
+<Sync time="3.526"/>
+<Event desc="noise" type="noise" extent="begin"/> dzień dobry pani <Event desc="filler" type="lexical" extent="instantaneous"/> ja chcia<Event desc="~" type="lexical" extent="begin"/>łem<Event desc="~" type="lexical" extent="end"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> zasięgnąć u pani krótkiej <Event desc="filler" type="lexical" extent="instantaneous"/> informacji mianowicie <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="8.795" endTime="9.252">
+<Sync time="8.795"/>
+<Who nb="1"/>
+takiej
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="9.252" endTime="15.508">
+<Sync time="9.252"/>
+<Event desc="noise" type="noise" extent="begin"/> że <Event desc="filler" type="lexical" extent="instantaneous"/> mając legitymację studencką uprawnia <Event desc="*" type="pronounce" extent="begin"/>mnie<Event desc="*" type="pronounce" extent="end"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> zniżki pięćdziesięciu procent na przejazdy miejskie tak <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="15.508" endTime="17.547">
+<Sync time="15.508"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> tak
+</Turn>
+<Turn speaker="spk2" startTime="17.547" endTime="22.639">
+<Sync time="17.547"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> dobrze to jakby nie ma znaczenia że ja jestem studentem mając dwadzieścia osiem lat <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="22.639" endTime="26.064">
+<Sync time="22.639"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> nie tutaj nie ma nie ma żadnego żadnej granicy wiekowej
+</Turn>
+<Turn speaker="spk2" startTime="26.064" endTime="30.817">
+<Sync time="26.064"/>
+nie to <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> komunikację miejską w Warszawie pięćdziesiąt procent tak <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="30.817" endTime="31.514">
+<Sync time="30.817"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> tak
+</Turn>
+<Turn speaker="spk2" startTime="31.514" endTime="33.654">
+<Sync time="31.514"/>
+<Event desc="noise" type="noise" extent="begin"/> a to świetnie <Event desc="filler" type="lexical" extent="instantaneous"/> dziękuję pani uprzejmie <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="33.654" endTime="34.232">
+<Sync time="33.654"/>
+<Who nb="1"/>
+do widzenia
+<Who nb="2"/>
+proszę 
+</Turn>
+<Turn speaker="spk1" startTime="34.232" endTime="35.282">
+<Sync time="34.232"/>
+bardzo do usłyszenia<Event desc="int" type="noise" extent="previous"/>
+</Turn>
+<Turn startTime="35.282" endTime="36.998">
+<Sync time="35.282"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

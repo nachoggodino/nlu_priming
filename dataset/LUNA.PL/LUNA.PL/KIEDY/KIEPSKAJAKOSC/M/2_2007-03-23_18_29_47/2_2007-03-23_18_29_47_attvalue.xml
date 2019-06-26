@@ -1,0 +1,50 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_10..word_11" attribute="CONV_FORM" value="HELLO" />
+  <concept id="5" span="word_14" attribute="ACTION" value="Give" />
+  <concept id="6" span="word_15..word_16" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="7" span="word_17" attribute="ACTION" value="Leave" />
+  <concept id="8" span="word_18" attribute="BUS" value="General" />
+  <concept id="9" span="word_20" attribute="ACTION" value="ToBe" />
+  <concept id="10" span="word_21..word_23" attribute="BUS" value="708" />
+  <concept id="11" span="word_24" attribute="REACTION" value="Confirmation" />
+  <concept id="12" span="word_27" attribute="ACTION" value="ToBe" />
+  <concept id="13" span="word_28..word_29" attribute="LOCATION_TOWN" value="Izabelin" />
+  <concept id="14" span="word_30" attribute="TOWN" value="Truskaw" />
+  <concept id="15" span="word_31" attribute="TOWN" value="Truskaw" />
+  <concept id="16" span="word_32..word_33" attribute="STOP_DESCRIPTION" value="Parkowa" />
+  <concept id="17" span="word_34..word_37" attribute="GOAL_DIRECTION_STR" value="Plac Wilsona" />
+  <concept id="18" span="word_42" attribute="ACTION" value="ToBe" />
+  <concept id="19" span="word_43" attribute="TIME_REL" value="Today" />
+  <concept id="20" span="word_44" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="21" span="word_45" attribute="TIME_REL" value="Tomorrow" />
+  <concept id="22" span="word_47" attribute="TIME_REL" value="Today" />
+  <concept id="23" span="word_51" attribute="DEPARTURE" value="Nearest" />
+  <concept id="24" span="word_57" attribute="ACTION" value="ToHave" />
+  <concept id="25" span="word_59..word_61" attribute="AT_HOUR" value="18 : 54" />
+  <concept id="26" span="word_62" attribute="REACTION" value="Confirmation" />
+  <concept id="27" span="word_63..word_65" attribute="AT_HOUR" value="18 : 54" />
+  <concept id="28" span="word_66" attribute="REACTION" value="Confirmation" />
+  <concept id="29" span="word_67" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="30" span="word_68" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="31" span="word_69" attribute="ACTION" value="Go" />
+  <concept id="32" span="word_70..word_71" attribute="PATH_TOWN" value="Hornówek" />
+  <concept id="33" span="word_72" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="34" span="word_73" attribute="TOWN" value="Sieraków" />
+  <concept id="35" span="word_75" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="36" span="word_76" attribute="DIRECTION" value="Straight" />
+  <concept id="37" span="word_78" attribute="REACTION" value="Negation" />
+  <concept id="38" span="word_80" attribute="ACTION" value="ToBe" />
+  <concept id="39" span="word_82" attribute="ROUTE" value="OnePass" />
+  <concept id="40" span="word_83" attribute="DIRECTION" value="Straight" />
+  <concept id="41" span="word_84" attribute="ACTION" value="Go" />
+  <concept id="42" span="word_87" attribute="ROAD_DISTURBANCE" value="Detour" />
+  <concept id="43" span="word_88..word_90" attribute="AT_HOUR" value="18 : 54" />
+  <concept id="44" span="word_91" attribute="REACTION" value="Confirmation" />
+  <concept id="45" span="word_93" attribute="REACTION" value="Confirmation" />
+  <concept id="46" span="word_94" attribute="REACTION" value="Confirmation" />
+  <concept id="47" span="word_97..word_98" attribute="CONV_FORM" value="BYE" />
+  <concept id="48" span="word_101..word_102" attribute="CONV_FORM" value="BYE" />
+</concepts>

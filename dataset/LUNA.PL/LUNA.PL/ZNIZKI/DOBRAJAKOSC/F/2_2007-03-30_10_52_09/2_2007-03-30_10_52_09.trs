@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-30_10_52_09" version="6" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="43.497" topic="to1">
+<Turn startTime="0" endTime="1.312">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.312" endTime="3.378">
+<Sync time="1.312"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.378" endTime="8.249">
+<Sync time="3.378"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana do jakiego wieku dzieci mogą jeździć bez biletów 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="8.249" endTime="14.408">
+<Sync time="8.249"/>
+do czasu objęcia obowiązkiem szkolnym czyli do roku kalendarzowego w którym dziecko kończy siedem lat
+</Turn>
+<Turn speaker="spk2" startTime="14.408" endTime="14.878">
+<Sync time="14.408"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ aha 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.878" endTime="20.471">
+<Sync time="14.878"/>
+trzeba mu dopiero od pierwszego września bilet zakupić jeżeli będzie korzystało 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z autobusów 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.471" endTime="23.64">
+<Sync time="20.471"/>
+to znaczy ja mam dwaj 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ dwuipółletnie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.64" endTime="24.873">
+<Sync time="23.64"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ o to jeszcze 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.873" endTime="26.027">
+<Sync time="24.873"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+jeszcze
+<Event desc="*" type="pronounce" extent="end"/>
+ dużo czasu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="26.027" endTime="26.479">
+<Sync time="26.027"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="26.479" endTime="31.178">
+<Sync time="26.479"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy pan się orientuje też czy w metrze i w tramwajach 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.178" endTime="34.428">
+<Sync time="31.178"/>
+proszę pani na autobusy metro tramwaje 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="34.428" endTime="34.884">
+<Sync time="34.428"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to samo 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="34.884" endTime="37.204">
+<Sync time="34.884"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+ko
+<Event desc="~" type="lexical" extent="end"/>
+munikacja 
+<Event desc="babble" type="noise" extent="begin"/>
+ organizowana przez Zarząd Transport
+<Event desc="~" type="lexical" extent="begin"/>
+u
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="37.204" endTime="38.182">
+<Sync time="37.204"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+spólnie jakoś 
+<Event desc="*" type="pronounce" extent="begin"/>
+tak
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="38.182" endTime="39.775">
+<Sync time="38.182"/>
+<Who nb="1"/>
+tak proszę bardzo
+<Who nb="2"/>
+dziękuję serdecznie dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="39.775" endTime="40.3">
+<Sync time="39.775"/>
+bardzo do
+</Turn>
+<Turn speaker="spk2 spk1" startTime="40.3" endTime="41.219">
+<Sync time="40.3"/>
+<Who nb="1"/>
+widzenia
+<Who nb="2"/>
+do usłyszenia
+</Turn>
+<Turn startTime="41.219" endTime="43.497">
+<Sync time="41.219"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

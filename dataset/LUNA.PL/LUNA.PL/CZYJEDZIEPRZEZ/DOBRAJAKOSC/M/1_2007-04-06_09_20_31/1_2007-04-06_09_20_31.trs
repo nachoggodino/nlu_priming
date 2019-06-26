@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-06_09_20_31" version="3" version_date="071001">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="31.998" topic="to1">
+<Turn startTime="0" endTime="1.312">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.312" endTime="3.359">
+<Sync time="1.312"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry xxx słucham <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.359" endTime="20.46">
+<Sync time="3.359"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry <Event desc="*" type="pronounce" extent="begin"/>proszę<Event desc="*" type="pronounce" extent="end"/> pana <Event desc="noise" type="noise" extent="end"/> mam pytanie jak dojadę do <Event desc="filler" type="lexical" extent="instantaneous"/> Nowego Światu i wsiądę tam w jakiś sto szesnaście czy tam <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> dwa <Event desc="filler" type="lexical" extent="instantaneous"/> w stronę Żoliborza chciałbym wysiąść na Placu <Event desc="babble" type="noise" extent="begin"/> Zamkowym <Event desc="babble" type="noise" extent="end"/> czy one tam przejeżdżają jak okrążają czy wracają na Plac Zamkowy <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="20.46" endTime="21.683">
+<Sync time="20.46"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="21.683" endTime="27.515">
+<Sync time="21.683"/>
+aha czyli jakoś <Event desc="*" type="pronounce" extent="begin"/>tam okrążają<Event desc="*" type="pronounce" extent="end"/> <Event desc="noise" type="noise" extent="begin"/> pewnie Mazowiecką <Event desc="noise" type="noise" extent="end"/> albo coś tam i <Event desc="*" type="pronounce" extent="begin"/>zawracają<Event desc="*" type="pronounce" extent="end"/> na Plac Zamkowy ta<Event desc="~" type="lexical" extent="begin"/>k<Event desc="~" type="lexical" extent="end"/> <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="27.515" endTime="28.531">
+<Sync time="27.515"/>
+tak <Event desc="noise" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="28.531" endTime="29.596">
+<Sync time="28.531"/>
+dobrze dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="29.596" endTime="30.225">
+<Sync time="29.596"/>
+<Event desc="noise" type="noise" extent="begin"/> bardzo proszę <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="30.225" endTime="31.998">
+<Sync time="30.225"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

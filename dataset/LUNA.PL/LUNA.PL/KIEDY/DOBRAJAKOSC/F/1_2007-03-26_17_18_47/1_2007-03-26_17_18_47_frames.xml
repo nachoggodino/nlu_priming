@@ -1,0 +1,7 @@
+<Frames>
+  <Set id="1" subset="1" span="word_64" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_56" concept_id="23" name="DURATION" />
+    <Frame fe="2" span="word_57" concept_id="24" name="SELF_MOVER" />
+    <Frame fe="3" span="word_58..word_60,word_61,word_62..word_63" concept_id="25,26,27" name="GOAL" />
+  </Set>
+</Frames>

@@ -1,0 +1,14 @@
+<Frames>
+  <Set id="1" subset="1" span="word_19" frame="HALT" head="zatrzymywać">
+    <Frame fe="1" span="word_15..word_17" concept_id="6" name="THEME" />
+    <Frame fe="2" span="word_21..word_23" concept_id="8" name="PLACE" />
+    <Frame fe="3" span="word_25..word_26" concept_id="9" name="PLACE" />
+  </Set>
+  <Set id="2" subset="1" span="word_29" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_30..word_32" concept_id="12" name="POSITION" />
+  </Set>
+  <Set id="3" subset="1" span="word_36" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_35" concept_id="13" name="SELF_MOVER" />
+    <Frame fe="2" span="word_37" concept_id="15" name="PATH" />
+  </Set>
+</Frames>

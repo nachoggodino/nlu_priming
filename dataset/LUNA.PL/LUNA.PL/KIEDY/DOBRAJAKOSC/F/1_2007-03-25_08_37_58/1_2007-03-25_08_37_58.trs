@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_08_37_58" version="5" version_date="100914">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="42.997" topic="to1">
+<Turn startTime="0" endTime="0.755">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.755" endTime="1.832">
+<Sync time="0.755"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.832" endTime="16.039">
+<Sync time="1.832"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień 
+<Event desc="*" type="pronounce" extent="begin"/>
+dobry
+<Event desc="*" type="pronounce" extent="end"/>
+ proszę pana jeszcze 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chciałam linię sto pięćdziesiąt jeden z Młynowa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w kierunku Centrum z 
+<Event desc="*" type="pronounce" extent="begin"/>
+Płockiej
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w 
+<Event desc="*" type="pronounce" extent="begin"/>
+kierunku
+<Event desc="*" type="pronounce" extent="end"/>
+ Centrum w dni świąteczne proszę pana w dni świąteczne
+</Turn>
+<Turn speaker="spk1" startTime="16.039" endTime="16.791">
+<Sync time="16.039"/>
+sto pięć
+<Event desc="~" type="lexical" extent="begin"/>
+dziesiąt
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.791" endTime="19.167">
+<Sync time="16.791"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ o siódmej 
+<Event desc="babble" type="noise" extent="end"/>
+ rano i o dziewiętnastej
+</Turn>
+<Turn speaker="spk1" startTime="19.167" endTime="27.12">
+<Sync time="19.167"/>
+dobrze 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z przystanku którego przepraszam 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="27.12" endTime="27.555">
+<Sync time="27.12"/>
+Młynów
+</Turn>
+<Turn speaker="spk1" startTime="27.555" endTime="28.532">
+<Sync time="27.555"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a od 
+<Event desc="babble" type="noise" extent="end"/>
+ pętli
+</Turn>
+<Turn speaker="spk1 spk2" startTime="28.532" endTime="28.952">
+<Sync time="28.532"/>
+<Who nb="1"/>
+dobrze 
+<Who nb="2"/>
+tak od
+</Turn>
+<Turn speaker="spk2" startTime="28.952" endTime="30.643">
+<Sync time="28.952"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ pętli 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.643" endTime="34.887">
+<Sync time="30.643"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w dzień świąteczny siódma zero zero siódma trzydzieści
+</Turn>
+<Turn speaker="spk2" startTime="34.887" endTime="35.392">
+<Sync time="34.887"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+tak
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.392" endTime="37.715">
+<Sync time="35.392"/>
+i dziewiętnasta tak samo zero zero i trzydzieści
+</Turn>
+<Turn speaker="spk2" startTime="37.715" endTime="40.123">
+<Sync time="37.715"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze dobrze dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="40.123" endTime="40.734">
+<Sync time="40.123"/>
+proszę bardzo
+</Turn>
+<Turn startTime="40.734" endTime="42.997">
+<Sync time="40.734"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

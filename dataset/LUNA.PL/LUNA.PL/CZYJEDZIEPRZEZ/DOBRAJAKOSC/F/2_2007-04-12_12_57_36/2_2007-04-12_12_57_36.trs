@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-12_12_57_36" version="6" version_date="080111">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="85.495" topic="to1">
+<Turn startTime="0" endTime="0.005">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.005" endTime="2.103">
+<Sync time="0.005"/>
+dzień dobry przy telefonie xxx 
+<Event desc="*" type="pronounce" extent="begin"/>
+słucham
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.103" endTime="7.111">
+<Sync time="2.103"/>
+dzień dobry panu proszę pana ja z takim pytaniem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy autobus numer sto dwa 
+</Turn>
+<Turn speaker="spk1" startTime="7.111" endTime="7.447">
+<Sync time="7.111"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="7.447" endTime="10.303">
+<Sync time="7.447"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ kursuje przez Most
+<Event desc="filler" type="lexical" extent="previous"/>
+ Syreny 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.303" endTime="21.168">
+<Sync time="10.303"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ pani sprawdzam dokładnie on kursuje przez Most
+<Event desc="filler" type="lexical" extent="previous"/>
+ Świętokrzyski czyli 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czyli no tak przy Moście Syreny Most Świętokrzyski on się nazywa dokład
+<Event desc="~" type="lexical" extent="begin"/>
+nie
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.168" endTime="21.887">
+<Sync time="21.168"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="21.887" endTime="22.317">
+<Sync time="21.887"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+aha
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="22.317" endTime="36.995">
+<Sync time="22.317"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bo konkretnie bym chciała 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wiem że będę musia
+<Event desc="~" type="lexical" extent="begin"/>
+ła
+<Event desc="~" type="lexical" extent="end"/>
+ się przesiąś
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+ na Nowy Zjaz
+<Event desc="~" type="lexical" extent="begin"/>
+d
+<Event desc="~" type="lexical" extent="end"/>
+ i nie chciałabym przez Pragę jechać 
+<Event desc="noise" type="noise" extent="begin"/>
+ a a wiem że trasa jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ zmieniona 
+<Event desc="noise" type="noise" extent="end"/>
+ sto dwa 
+<Event desc="*" type="pronounce" extent="begin"/>
+dlatego
+<Event desc="*" type="pronounce" extent="end"/>
+ z tym pytaniem do pana wysta
+<Event desc="~" type="lexical" extent="begin"/>
+rtowałam
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.995" endTime="43.686">
+<Sync time="36.995"/>
+ale niezupełnie trasa zmieniona jeździ 
+<Event desc="*" type="pronounce" extent="begin"/>
+nadal
+<Event desc="*" type="pronounce" extent="end"/>
+ z Dworca Centralnego na Olszynkę tutaj przez Emilii Plater
+</Turn>
+<Turn speaker="spk1 spk2" startTime="43.686" endTime="44.638">
+<Sync time="43.686"/>
+<Who nb="1"/>
+Świętokrzyska
+<Who nb="2"/>
+tak tak ale
+</Turn>
+<Turn speaker="spk2" startTime="44.638" endTime="48.132">
+<Sync time="44.638"/>
+to m
+<Event desc="~" type="lexical" extent="begin"/>
+n
+<Event desc="~" type="lexical" extent="end"/>
+ie interesuje 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Rondo Waszyngtona 
+</Turn>
+<Turn speaker="spk1" startTime="48.132" endTime="48.534">
+<Sync time="48.132"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="48.534" endTime="50.731">
+<Sync time="48.534"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w kierunku Śródmieścia
+</Turn>
+<Turn speaker="spk1" startTime="50.731" endTime="62.719">
+<Sync time="50.731"/>
+Rondo Waszyngtona kierunek Śródmieście dobrze już sprawdzam 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Rondo Waszyngtona kierunek Śródmieścia autobus sto dwa jakie godziny 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="62.719" endTime="65.349">
+<Sync time="62.719"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no godziny to nie są istotne
+</Turn>
+<Turn speaker="spk1" startTime="65.349" endTime="69.458">
+<Sync time="65.349"/>
+ale to 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przepraszam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jakie pytanie to znaczy
+</Turn>
+<Turn speaker="spk1 spk2" startTime="69.458" endTime="70.338">
+<Sync time="69.458"/>
+<Who nb="1"/>
+co mam pani powiedzieć
+<Who nb="2"/>
+pytanie było
+</Turn>
+<Turn speaker="spk2" startTime="70.338" endTime="73.729">
+<Sync time="70.338"/>
+czy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dojadę do Tamki
+</Turn>
+<Turn speaker="spk1" startTime="73.729" endTime="73.985">
+<Sync time="73.729"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="73.985" endTime="75.084">
+<Sync time="73.985"/>
+autobusem sto dw
+<Event desc="~" type="lexical" extent="begin"/>
+a
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="75.084" endTime="80.904">
+<Sync time="75.084"/>
+tak z Ronda Waszyngtona dojedzie pani do Tamki 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przystanek ma na Tamce Topiel 
+<Event desc="babble" type="noise" extent="begin"/>
+ autobusem 
+<Event desc="babble" type="noise" extent="end"/>
+ sto dwa
+</Turn>
+<Turn speaker="spk2" startTime="80.904" endTime="81.967">
+<Sync time="80.904"/>
+dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="81.967" endTime="82.535">
+<Sync time="81.967"/>
+proszę
+</Turn>
+<Turn speaker="spk2" startTime="82.535" endTime="82.68">
+<Sync time="82.535"/>
+do
+</Turn>
+<Turn speaker="spk2 spk1" startTime="82.68" endTime="83.567">
+<Sync time="82.68"/>
+<Who nb="1"/>
+widzenia
+<Who nb="2"/>
+do widzenia
+</Turn>
+<Turn startTime="83.567" endTime="85.495">
+<Sync time="83.567"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

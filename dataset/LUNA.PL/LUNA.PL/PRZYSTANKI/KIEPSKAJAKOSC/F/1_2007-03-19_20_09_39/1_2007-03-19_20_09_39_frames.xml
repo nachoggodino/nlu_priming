@@ -1,0 +1,13 @@
+<Frames>
+  <Set id="1" subset="1" span="word_19" frame="DEPARTING" head="odjeżdżać">
+    <Frame fe="1" span="word_16..word_18" concept_id="6" name="SOURCE" />
+    <Frame fe="2" span="word_20..word_23" concept_id="8" name="THEME" />
+  </Set>
+  <Set id="2" subset="1" span="word_26" frame="DEPARTING" head="być">
+    <Frame fe="1" span="word_27..word_29" concept_id="11" name="SOURCE" />
+    <Frame fe="2" span="word_30..word_32" concept_id="12" name="GOAL" />
+  </Set>
+  <Set id="3" subset="3" span="word_36" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_37..word_38" concept_id="15" name="ENTITY" />
+  </Set>
+</Frames>

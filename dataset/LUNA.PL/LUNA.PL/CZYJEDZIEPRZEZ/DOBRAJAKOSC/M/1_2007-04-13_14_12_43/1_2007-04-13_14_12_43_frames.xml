@@ -1,0 +1,42 @@
+<Frames>
+  <Set id="1" subset="1" span="word_22" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_14..word_15" concept_id="6" name="SOURCE" />
+    <Frame fe="2" span="word_16..word_20" concept_id="7" name="GOAL" />
+    <Frame fe="3" span="word_23..word_25" concept_id="9" name="MODE_OF_TRANSPORTATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_46" frame="ARRIVING" head="dojeżdżać">
+    <Frame fe="1" span="word_44" concept_id="14" name="THEME" />
+    <Frame fe="2" span="word_45" concept_id="15" name="GOAL" />
+    <Frame fe="3" span="word_47..word_48" concept_id="17" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_55" frame="TRAVERSING" head="przejeżdżać">
+    <Frame fe="1" span="word_51..word_52" concept_id="18" name="PLACE" />
+  </Set>
+  <Set id="4" subset="1" span="word_59" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_58" concept_id="21" name="LOCATION" />
+    <Frame fe="2" span="word_60" concept_id="23" name="THEME" />
+  </Set>
+  <Set id="5" subset="1" span="word_75" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_76..word_78,word_79" concept_id="29,30" name="PATH" />
+  </Set>
+  <Set id="6" subset="1" span="word_91" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_82" concept_id="33" name="TOPIC" />
+    <Frame fe="2" span="word_85..word_86" concept_id="34" name="EXPLANATION" />
+  </Set>
+  <Set id="7" subset="1" span="word_120" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_116..word_117" concept_id="44" name="THEME" />
+    <Frame fe="2" span="word_121" concept_id="46" name="LOCATION" />
+    <Frame fe="3" span="word_122..word_123" concept_id="47" name="LOCATION" />
+  </Set>
+  <Set id="8" subset="1" span="word_129" frame="ESCAPING" head="wysiąść">
+    <Frame fe="1" span="word_125..word_126" concept_id="48" name="PLACE" />
+  </Set>
+  <Set id="9" subset="1" span="word_133" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_130..word_132" concept_id="50" name="LOCATION" />
+    <Frame fe="2" span="word_134" concept_id="52" name="THEME" />
+  </Set>
+  <Set id="10" subset="2" span="word_152" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_149" concept_id="55" name="PATH" />
+    <Frame fe="2" span="word_151" concept_id="56" name="PATH" />
+  </Set>
+</Frames>

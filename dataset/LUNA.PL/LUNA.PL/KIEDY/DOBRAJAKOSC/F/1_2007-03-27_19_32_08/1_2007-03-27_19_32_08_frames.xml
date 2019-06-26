@@ -1,0 +1,23 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="TOPIC" head="dowiedzieć">
+    <Frame fe="1" span="word_15,word_16..word_18,word_19..word_20" concept_id="6,7,8" name="TOPIC" />
+    <Frame fe="2" span="word_22..word_24,word_25..word_27" concept_id="9,10" name="EXPLANATION" />
+    <Frame fe="3" span="word_29..word_30" concept_id="11" name="EXPLANATION" />
+  </Set>
+  <Set id="2" subset="1" span="word_42" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_40..word_41" concept_id="16" name="THEME" />
+    <Frame fe="2" span="word_43..word_45" concept_id="18" name="TIME" />
+  </Set>
+  <Set id="3" subset="1" span="word_59" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_55..word_56" concept_id="23" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_67" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_65..word_66" concept_id="27" name="THEME" />
+    <Frame fe="2" span="word_68..word_69" concept_id="29" name="TIME" />
+    <Frame fe="3" span="word_71..word_73" concept_id="30" name="TIME" />
+  </Set>
+  <Set id="5" subset="1" span="word_86" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_80..word_82" concept_id="34" name="ENTITY" />
+    <Frame fe="2" span="word_83..word_84" concept_id="35" name="TIME" />
+  </Set>
+</Frames>

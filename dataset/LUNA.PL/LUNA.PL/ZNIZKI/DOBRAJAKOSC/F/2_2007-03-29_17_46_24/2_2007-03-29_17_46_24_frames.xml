@@ -1,0 +1,14 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_12" concept_id="4" name="BENEFICIARY" />
+    <Frame fe="2" span="word_15..word_16" concept_id="6" name="TITLE" />
+  </Set>
+  <Set id="2" subset="1" span="word_18" frame="COMMERCE_BUY" head="kupować">
+    <Frame fe="1" span="word_20" concept_id="8" name="PURPOSE" />
+    <Frame fe="2" span="word_21..word_22" concept_id="9" name="RATE" />
+  </Set>
+  <Set id="3" subset="1" span="word_25" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_26..word_28" concept_id="12" name="VEHICLE" />
+    <Frame fe="2" span="word_29" concept_id="13" name="MANNER" />
+  </Set>
+</Frames>

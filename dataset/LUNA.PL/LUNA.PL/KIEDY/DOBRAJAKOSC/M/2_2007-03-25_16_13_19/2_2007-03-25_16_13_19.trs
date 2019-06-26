@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-25_16_13_19" version="4" version_date="080418">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="39.498" topic="to1">
+<Turn startTime="0" endTime="0.707">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.707" endTime="2.112">
+<Sync time="0.707"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.112" endTime="9.98">
+<Sync time="2.112"/>
+no witam xxx z tej strony proszę pana o której będę miał 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ z przystanku 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Rybna autobus sto dwadzieścia cztery 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.98" endTime="12.189">
+<Sync time="9.98"/>
+sto dwadzieścia cztery w stronę Okęcia 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="12.189" endTime="17.045">
+<Sync time="12.189"/>
+tak 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.045" endTime="21.717">
+<Sync time="17.045"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ najbliższy 
+<Event desc="babble" type="noise" extent="end"/>
+ odjazd jest szesnasta dwadzieścia 
+<Event desc="babble" type="noise" extent="begin"/>
+ osiem 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.717" endTime="25.448">
+<Sync time="21.717"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie 
+<Event desc="babble" type="noise" extent="end"/>
+ to w dzień roboczy dzisiaj jest niedziela proszę pana pomyłka
+</Turn>
+<Turn speaker="spk1" startTime="25.448" endTime="28.395">
+<Sync time="25.448"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to tak to w niedzielę jest szesnasta dwadzieścia osiem 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="28.395" endTime="28.8">
+<Sync time="28.395"/>
+ tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.8" endTime="29.629">
+<Sync time="28.8"/>
+tak 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="29.629" endTime="31.163">
+<Sync time="29.629"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dobra dzięki 
+<Event desc="babble" type="noise" extent="end"/>
+ a następny 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.163" endTime="33.686">
+<Sync time="31.163"/>
+następny szesnasta czterdzieści sześć 
+</Turn>
+<Turn speaker="spk2" startTime="33.686" endTime="35.52">
+<Sync time="33.686"/>
+no dziękuję pozdrawiam
+</Turn>
+<Turn speaker="spk2 spk1" startTime="35.52" endTime="36.727">
+<Sync time="35.52"/>
+<Who nb="1"/>
+miłego dnia
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="36.727" endTime="37.082">
+<Sync time="36.727"/>
+cześ
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn startTime="37.082" endTime="39.498">
+<Sync time="37.082"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

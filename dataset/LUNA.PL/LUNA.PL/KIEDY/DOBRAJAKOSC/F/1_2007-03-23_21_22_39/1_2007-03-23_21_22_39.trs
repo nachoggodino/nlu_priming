@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_21_22_39" version="4" version_date="070925">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="22.499" topic="to1">
+<Turn startTime="0" endTime="0.267">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.267" endTime="1.296">
+<Sync time="0.267"/>
+xxx dobry wieczór
+</Turn>
+<Turn speaker="spk2" startTime="1.296" endTime="14.168">
+<Sync time="1.296"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+dobry
+<Event desc="*" type="pronounce" extent="end"/>
+ wieczó
+<Event desc="~" type="lexical" extent="begin"/>
+r
+<Event desc="~" type="lexical" extent="end"/>
+ chciałabym jutro tramwaj jutro rano tramwaj 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dwudziesta 
+<Event desc="babble" type="noise" extent="end"/>
+ mijanka Groty w stronę Koła tak 
+<Event desc="babble" type="noise" extent="begin"/>
+ gdzieś ko
+<Event desc="~" type="lexical" extent="begin"/>
+ło
+<Event desc="~" type="lexical" extent="end"/>
+ po siódma siódma trzydzieści 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.168" endTime="17.475">
+<Sync time="14.168"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ siódma trzydzieści trzy jest 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.475" endTime="19.874">
+<Sync time="17.475"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ trzydzieści trzy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dob
+<Event desc="~" type="lexical" extent="begin"/>
+r
+<Event desc="~" type="lexical" extent="end"/>
+a dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="19.874" endTime="20.184">
+<Sync time="19.874"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="20.184" endTime="20.664">
+<Sync time="20.184"/>
+bardzo
+</Turn>
+<Turn startTime="20.664" endTime="22.499">
+<Sync time="20.664"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-04_18_43_17" version="6" version_date="080111">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="161.490" topic="to1">
+<Turn startTime="0" endTime="0.83">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.83" endTime="2.935">
+<Sync time="0.83"/>
+dzień dobry przy telefonie xxx 
+<Event desc="*" type="pronounce" extent="begin"/>
+słucham
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.935" endTime="15.502">
+<Sync time="2.935"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana od Dworca 
+<Event desc="*" type="pronounce" extent="begin"/>
+Wileńskiego
+<Event desc="*" type="pronounce" extent="end"/>
+ do elektrowni do Elektrociepłowni Żerań 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jakimi autobusem dojechać czy sto dwadzieścia przy Dworcu Wileńskim
+</Turn>
+<Turn speaker="spk1" startTime="15.502" endTime="18.56">
+<Sync time="15.502"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ do ale do Żerania pani chce
+</Turn>
+<Turn speaker="spk2" startTime="18.56" endTime="20.817">
+<Sync time="18.56"/>
+tak 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ elektrownia Żerań tak
+</Turn>
+<Turn speaker="spk1 spk2" startTime="20.817" endTime="22.061">
+<Sync time="20.817"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+Elektrociepłownia
+</Turn>
+<Turn speaker="spk1" startTime="22.061" endTime="31.709">
+<Sync time="22.061"/>
+to znaczy no nie sto dwadzieścia to nie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to proszę pani proponuję 
+<Event desc="*" type="pronounce" extent="begin"/>
+autobus
+<Event desc="*" type="pronounce" extent="end"/>
+ znaczy naj
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ dobry by
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+by też tramwaj dwadzieścia jeden
+</Turn>
+<Turn speaker="spk1 spk2" startTime="31.709" endTime="32.482">
+<Sync time="31.709"/>
+<Who nb="1"/>
+do sa
+<Event desc="~" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+dwadzieścia 
+</Turn>
+<Turn speaker="spk2" startTime="32.482" endTime="32.93">
+<Sync time="32.482"/>
+jeden
+</Turn>
+<Turn speaker="spk1 spk2" startTime="32.93" endTime="33.363">
+<Sync time="32.93"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+tutaj
+</Turn>
+<Turn speaker="spk2" startTime="33.363" endTime="34.855">
+<Sync time="33.363"/>
+
+<Event desc="int" type="noise" extent="next"/>
+spod ze 
+<Event desc="int" type="noise" extent="next"/>
+Śpiących 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="34.855" endTime="71.35">
+<Sync time="34.855"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak tak z ulicy Targowej 
+<Event desc="babble" type="noise" extent="begin"/>
+ do samej 
+<Event desc="babble" type="noise" extent="end"/>
+ pętli on ma pętlę na Żeraniu 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+F S O
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ tam niedaleko 
+<Event desc="babble" type="noise" extent="end"/>
+ od w
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+aśnie tej elektrowni 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ewentualnie jeżeli pani życzy autobus 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to już zaraz sprawdzę jaki autobus 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ już momencik 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ autobus sto czterdzieści cztery będzie z Dworca Wileńskiego 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ do 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Żerania 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+F S O
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ i autobus bodajże pięćset dziewięć jeszcze to sprawdzę
+</Turn>
+<Turn speaker="spk2" startTime="71.35" endTime="73.648">
+<Sync time="71.35"/>
+no ale to on pewnie nie leci 
+<Event desc="int" type="noise" extent="next"/>
+przez
+</Turn>
+<Turn speaker="spk1" startTime="73.648" endTime="89.306">
+<Sync time="73.648"/>
+w
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+aśnie muszę sprawdzić czy się zatrzymuje 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pięćset dziewięć bezpośrednio 
+<Event desc="*" type="pronounce" extent="begin"/>
+tutaj
+<Event desc="*" type="pronounce" extent="end"/>
+ by jechał 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Jagiellońską później Modlińską ma przystanek Żerań 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+F S O
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ również 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to jest 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ wie pani jak 
+<Event desc="noise" type="noise" extent="begin"/>
+ jest Trasa Toruńska 
+<Event desc="noise" type="noise" extent="end"/>
+ i Modlińska
+</Turn>
+<Turn speaker="spk2" startTime="89.306" endTime="89.597">
+<Sync time="89.306"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="89.597" endTime="99.427">
+<Sync time="89.597"/>
+ to ma tam pod Trasą Toruńską przystanek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no to do do Elektrociepłowni Żerań no to to już bardzo 
+<Event desc="noise" type="noise" extent="begin"/>
+ blisko jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ na piechotę to pani przejdzie tylko ulicę Modlińską i to 
+<Event desc="babble" type="noise" extent="begin"/>
+ już 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="99.427" endTime="100.227">
+<Sync time="99.427"/>
+<Who nb="1"/>
+Żerań
+<Who nb="2"/>
+a proszę
+</Turn>
+<Turn speaker="spk2" startTime="100.227" endTime="106.486">
+<Sync time="100.227"/>
+pana czy trójka to jeszcze bo kiedyś to wiem że trójka 
+<Event desc="*" type="pronounce" extent="begin"/>
+jeździła
+<Event desc="*" type="pronounce" extent="end"/>
+ ze 
+<Event desc="int" type="noise" extent="next"/>
+spod Wileńskie
+<Event desc="~" type="lexical" extent="begin"/>
+go
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="106.486" endTime="113.898">
+<Sync time="106.486"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie 
+<Event desc="babble" type="noise" extent="end"/>
+ trójka jeździ proszę pani na Żerań Wschodni to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ to 
+<Event desc="babble" type="noise" extent="begin"/>
+ jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tam 
+<Event desc="babble" type="noise" extent="end"/>
+ ulica Rembielińska 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="113.898" endTime="116.68">
+<Sync time="113.898"/>
+<Who nb="1"/>
+Annopol ta tak do do 
+<Who nb="2"/>
+aha aha no tak tak tak
+</Turn>
+<Turn speaker="spk1" startTime="116.68" endTime="118.809">
+<Sync time="116.68"/>
+Elektrociepłowni Żerań to daleko bar
+<Event desc="~" type="lexical" extent="begin"/>
+dzo
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="118.809" endTime="119.414">
+<Sync time="118.809"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="119.414" endTime="120.553">
+<Sync time="119.414"/>
+tutaj dwadzieścia jeden
+</Turn>
+<Turn speaker="spk1 spk2" startTime="120.553" endTime="121.543">
+<Sync time="120.553"/>
+<Who nb="1"/>
+tramwaj też
+<Who nb="2"/>
+dwadzieścia
+</Turn>
+<Turn speaker="spk2" startTime="121.543" endTime="122.128">
+<Sync time="121.543"/>
+jeden
+</Turn>
+<Turn speaker="spk1" startTime="122.128" endTime="122.311">
+<Sync time="122.128"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="122.311" endTime="125.639">
+<Sync time="122.311"/>
+sto czterdzieści cztery 
+<Event desc="babble" type="noise" extent="begin"/>
+ od 
+<Event desc="babble" type="noise" extent="end"/>
+ Dworca Wileńskiego
+</Turn>
+<Turn speaker="spk1" startTime="125.639" endTime="129.53">
+<Sync time="125.639"/>
+tak zgadza się 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pięćset dziewięć również do Żerania 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+F S O
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="129.53" endTime="130.459">
+<Sync time="129.53"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="130.459" endTime="132.273">
+<Sync time="130.459"/>
+od Dworca Wileńskiego też
+</Turn>
+<Turn speaker="spk2" startTime="132.273" endTime="145.633">
+<Sync time="132.273"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy on staje 
+<Event desc="noise" type="noise" extent="begin"/>
+ tu 
+<Event desc="noise" type="noise" extent="end"/>
+ to znaczy jak skręca w Jagiellońską to on pewnie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ staje 
+<Event desc="noise" type="noise" extent="begin"/>
+ przy 
+<Event desc="noise" type="noise" extent="end"/>
+ Alei Solidarności 
+<Event desc="int" type="noise" extent="next"/>
+pew
+<Event desc="~" type="lexical" extent="begin"/>
+nie
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="145.633" endTime="147.163">
+<Sync time="145.633"/>
+o którym pani mówi auto
+<Event desc="~" type="lexical" extent="begin"/>
+busie
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="147.163" endTime="148.202">
+<Sync time="147.163"/>
+<Who nb="1"/>
+autobu
+<Event desc="~" type="lexical" extent="begin"/>
+sie
+<Event desc="~" type="lexical" extent="end"/>
+
+<Who nb="2"/>
+ten pięćset
+</Turn>
+<Turn speaker="spk2" startTime="148.202" endTime="148.761">
+<Sync time="148.202"/>
+dziewię
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="148.761" endTime="154.704">
+<Sync time="148.761"/>
+pięćset dziewięć nie to jest linia przyśpieszona od Dworca Wileńskiego to dopiero następny przystanek ma 
+<Event desc="*" type="pronounce" extent="begin"/>
+Rondo
+<Event desc="*" type="pronounce" extent="end"/>
+ Starzyńskiego
+</Turn>
+<Turn speaker="spk2" startTime="154.704" endTime="156.463">
+<Sync time="154.704"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ aha dziękuję 
+<Event desc="int" type="noise" extent="next"/>
+panu 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="156.463" endTime="157.072">
+<Sync time="156.463"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="157.072" endTime="161.490">
+<Sync time="157.072"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,51 @@
+<Frames>
+  <Set id="1" subset="1" span="word_27" frame="DEPARTING" head="odchodzić">
+    <Frame fe="1" span="word_15..word_16" concept_id="6" name="SOURCE" />
+    <Frame fe="2" span="word_17..word_19" concept_id="7" name="THEME" />
+    <Frame fe="3" span="word_21..word_25" concept_id="8" name="TIME" />
+    <Frame fe="4" span="word_26" concept_id="9" name="TIME" />
+  </Set>
+  <Set id="2" subset="1" span="word_38" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_33..word_35" concept_id="12" name="DIRECTION" />
+  </Set>
+  <Set id="3" subset="1" span="word_47" frame="NEEDING" head="chcieć">
+    <Frame fe="1" span="word_46" concept_id="17" name="TIME" />
+    <Frame fe="2" span="word_49..word_51" concept_id="19" name="REQUIREMENT" />
+    <Frame fe="3" span="word_52..word_53" concept_id="20" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="4" subset="1" span="word_55" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_57" concept_id="22" name="ENTITY" />
+  </Set>
+  <Set id="5" subset="1" span="word_67" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_62..word_63" concept_id="23" name="TIME" />
+    <Frame fe="2" span="word_69..word_71" concept_id="27" name="TIME" />
+  </Set>
+  <Set id="6" subset="1" span="word_74" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_75..word_76" concept_id="30" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="7" subset="2" span="word_107" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_104..word_105" concept_id="39" name="GOAL" />
+    <Frame fe="2" span="word_108..word_110" concept_id="41" name="DURATION" />
+  </Set>
+  <Set id="8" subset="1" span="word_116" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_113..word_115" concept_id="42" name="TIME" />
+  </Set>
+  <Set id="9" subset="1" span="word_122" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_123..word_125" concept_id="46" name="ENTITY" />
+  </Set>
+  <Set id="10" subset="1" span="word_135" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_132..word_134" concept_id="49" name="ENTITY" />
+    <Frame fe="2" span="word_136..word_138" concept_id="51" name="TIME" />
+  </Set>
+  <Set id="11" subset="1" span="word_154" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_152..word_153" concept_id="57" name="DURATION" />
+    <Frame fe="2" span="word_155" concept_id="59" name="SELF_MOVER" />
+  </Set>
+  <Set id="12" subset="1" span="word_159" frame="MOTION" head="iść">
+    <Frame fe="1" span="word_157..word_158" concept_id="61" name="FREQUENCY" />
+  </Set>
+  <Set id="13" subset="1" span="word_166" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_163..word_165" concept_id="63" name="FREQUENCY" />
+    <Frame fe="2" span="word_167..word_169" concept_id="65" name="SELF_MOVER" />
+  </Set>
+</Frames>

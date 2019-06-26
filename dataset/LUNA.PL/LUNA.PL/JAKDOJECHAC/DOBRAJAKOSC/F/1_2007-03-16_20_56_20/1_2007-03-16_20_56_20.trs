@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-16_20_56_20" version="3" version_date="071205">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="71.996" topic="to1">
+<Turn startTime="0" endTime="1.121">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.121" endTime="2.786">
+<Sync time="1.121"/>
+dobry wieczór xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.786" endTime="5.839">
+<Sync time="2.786"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobry wieczór 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ dobry wieczór
+</Turn>
+<Turn speaker="spk1" startTime="5.839" endTime="6.379">
+<Sync time="5.839"/>
+słucham
+</Turn>
+<Turn speaker="spk2" startTime="6.379" endTime="13.938">
+<Sync time="6.379"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ chciałabym o taka informację z Pragi tutaj przy miśkach tu wie pan z Targowej
+</Turn>
+<Turn speaker="spk1" startTime="13.938" endTime="14.425">
+<Sync time="13.938"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="14.425" endTime="31.382">
+<Sync time="14.425"/>
+jak dojechać na ulicę najprościej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na ulicę Powstańców Śląskich tam do na do 
+<Event desc="*" type="pronounce" extent="begin"/>
+
+<Event desc="fr" type="language" extent="begin"/>
+Carrefour
+<Event desc="fr" type="language" extent="end"/>
+
+<Event desc="*" type="pronounce" extent="end"/>
+a czy tramwajem czy jest tam jakiś autobus bezpośredni 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ może pan mi pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.382" endTime="33.232">
+<Sync time="31.382"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę chwileczkę zaczekać 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="33.232" endTime="34.966">
+<Sync time="33.232"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="34.966" endTime="37.834">
+<Sync time="34.966"/>
+proszę
+<Event desc="int" type="noise" extent="previous"/>
+ pani tramwajem trzynastką dojedzie 
+<Event desc="noise" type="noise" extent="begin"/>
+ pani 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="37.834" endTime="39.882">
+<Sync time="37.834"/>
+pod sam pod sam 
+<Event desc="*" type="pronounce" extent="begin"/>
+
+<Event desc="fr" type="language" extent="begin"/>
+Carrefour
+<Event desc="fr" type="language" extent="end"/>
+
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="39.882" endTime="40.592">
+<Sync time="39.882"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="40.592" endTime="41.996">
+<Sync time="40.592"/>
+tramwaj trzynastka 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="41.996" endTime="42.222">
+<Sync time="41.996"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+i
+</Turn>
+<Turn speaker="spk2" startTime="42.222" endTime="45.813">
+<Sync time="42.222"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to 
+<Event desc="babble" type="noise" extent="end"/>
+ tutaj pod 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pod 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ spod miśków tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="45.813" endTime="47.224">
+<Sync time="45.813"/>
+tak 
+<Event desc="noise" type="noise" extent="begin"/>
+ jedzie 
+<Event desc="noise" type="noise" extent="end"/>
+ spod miśków
+</Turn>
+<Turn speaker="spk2" startTime="47.224" endTime="48.265">
+<Sync time="47.224"/>
+trzynastka
+</Turn>
+<Turn speaker="spk1" startTime="48.265" endTime="48.863">
+<Sync time="48.265"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak
+</Turn>
+<Turn speaker="spk2" startTime="48.863" endTime="55.116">
+<Sync time="48.863"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to bo to tam aż do końca tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ to jest za 
+<Event desc="en" type="language" extent="begin"/>
+Tesco
+<Event desc="en" type="language" extent="end"/>
+ jak to 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ nie wie pan 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="55.116" endTime="60.408">
+<Sync time="55.116"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy to jest na Powstańców Śląskich tramwaj będzie jechał Powstańców Śląskich i będzie mijał 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="fr" type="language" extent="begin"/>
+Carrefour
+<Event desc="fr" type="language" extent="end"/>
+a
+</Turn>
+<Turn speaker="spk1" startTime="60.408" endTime="61.703">
+<Sync time="60.408"/>
+
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ będzie mijał 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="61.703" endTime="62.395">
+<Sync time="61.703"/>
+<Who nb="1"/>
+
+<Event desc="fr" type="language" extent="begin"/>
+Carrefour
+<Event desc="fr" type="language" extent="end"/>
+a
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="62.395" endTime="66.724">
+<Sync time="62.395"/>
+i czyli z Pragi trzynastką do miejsca dojedzie
+</Turn>
+<Turn speaker="spk1" startTime="66.724" endTime="67.038">
+<Sync time="66.724"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="67.038" endTime="67.965">
+<Sync time="67.038"/>
+bez przesiadki
+</Turn>
+<Turn speaker="spk1" startTime="67.965" endTime="68.355">
+<Sync time="67.965"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="68.355" endTime="69.28">
+<Sync time="68.355"/>
+bardzo dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="69.28" endTime="70.016">
+<Sync time="69.28"/>
+<Who nb="1"/>
+dobranoc 
+<Who nb="2"/>
+bardzo proszę
+</Turn>
+<Turn speaker="spk1" startTime="70.016" endTime="70.611">
+<Sync time="70.016"/>
+dobranoc
+</Turn>
+<Turn startTime="70.611" endTime="71.996">
+<Sync time="70.611"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

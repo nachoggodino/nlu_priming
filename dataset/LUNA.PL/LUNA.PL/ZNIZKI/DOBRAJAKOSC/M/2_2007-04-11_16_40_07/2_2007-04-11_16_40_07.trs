@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-11_16_40_07" version="3" version_date="080113">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="93.494" topic="to1">
+<Turn startTime="0" endTime="1.385">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.385" endTime="3.793">
+<Sync time="1.385"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.793" endTime="10.118">
+<Sync time="3.793"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę panią mam taki dylemat 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jest osoba która skończyła siedemdziesiąt lat 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="10.118" endTime="10.881">
+<Sync time="10.118"/>
+<Who nb="1"/>
+tak 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+ale jest
+</Turn>
+<Turn speaker="spk2" startTime="10.881" endTime="17.497">
+<Sync time="10.881"/>
+z innego 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+miasta
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ i 
+<Event desc="int" type="noise" extent="next"/>
+ona może korzystać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bezpłatnie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z autobu
+<Event desc="~" type="lexical" extent="begin"/>
+su
+<Event desc="~" type="lexical" extent="end"/>
+ tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.497" endTime="18.457">
+<Sync time="17.497"/>
+tak 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="18.457" endTime="22.930">
+<Sync time="18.457"/>
+a jakim 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ z wejściem do metra 
+<Event desc="*" type="pronounce" extent="begin"/>
+bo
+<Event desc="*" type="pronounce" extent="end"/>
+ jak nie ma 
+<Event desc="babble" type="noise" extent="begin"/>
+ biletu 
+<Event desc="babble" type="noise" extent="end"/>
+ tylko ma 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ osobisty
+</Turn>
+<Turn speaker="spk2 spk1" startTime="22.930" endTime="24.082">
+<Sync time="22.930"/>
+<Who nb="1"/>
+osobisty że to
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="24.082" endTime="30.313">
+<Sync time="24.082"/>
+pana najprościej jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ zjechać windą 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ ale można też pobrać takie wejściówki
+</Turn>
+<Turn speaker="spk2" startTime="30.313" endTime="33.049">
+<Sync time="30.313"/>
+i te wejściówki 
+<Event desc="*" type="pronounce" extent="begin"/>
+gdzie
+<Event desc="*" type="pronounce" extent="end"/>
+ się pobiera 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="33.049" endTime="44.284">
+<Sync time="33.049"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ można na przykład albo na Senatorskiej 
+<Event desc="*" type="pronounce" extent="begin"/>
+trzydzieści
+<Event desc="*" type="pronounce" extent="end"/>
+ siedem albo przy na stacjach metra z to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ stacja metra 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Świętokrzyska 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="44.284" endTime="44.806">
+<Sync time="44.284"/>
+<Who nb="1"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+aha
+<Event desc="*" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+stacja
+</Turn>
+<Turn speaker="spk1" startTime="44.806" endTime="48.232">
+<Sync time="44.806"/>
+metra Ratusz oraz Plac Wilsona
+</Turn>
+<Turn speaker="spk2" startTime="48.232" endTime="53.131">
+<Sync time="48.232"/>
+aha 
+<Event desc="*" type="pronounce" extent="begin"/>
+aha
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i tam powinny być i w tym one są w jakimś pojemniku czy 
+<Event desc="babble" type="noise" extent="begin"/>
+ czy 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="53.131" endTime="54.055">
+<Sync time="53.131"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie tam
+</Turn>
+<Turn speaker="spk2 spk1" startTime="54.055" endTime="55.399">
+<Sync time="54.055"/>
+<Who nb="1"/>
+czy w punkcie
+<Who nb="2"/>
+podejdzie
+</Turn>
+<Turn speaker="spk1" startTime="55.399" endTime="63.901">
+<Sync time="55.399"/>
+ pan do do okienka i poprosi to jest wydawane wydawane tak normalnie bezpłatnie one są w formie takiego jak jak bilet taki 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="63.901" endTime="64.645">
+<Sync time="63.901"/>
+<Who nb="1"/>
+jednorazowy
+<Who nb="2"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="64.645" endTime="66.541">
+<Sync time="64.645"/>
+w formie takiego kartonika 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="66.541" endTime="66.904">
+<Sync time="66.541"/>
+czyli na 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="66.904" endTime="67.718">
+<Sync time="66.904"/>
+<Who nb="1"/>
+Świętokrzyskiej
+<Who nb="2"/>
+ale one są
+</Turn>
+<Turn speaker="spk1" startTime="67.718" endTime="70.377">
+<Sync time="67.718"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ wielorazowe 
+<Event desc="babble" type="noise" extent="end"/>
+ tak można na 
+<Event desc="noise" type="noise" extent="begin"/>
+ Świętokrzyskiej 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="70.377" endTime="72.747">
+<Sync time="70.377"/>
+i tam jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ taki punkt państwa tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="72.747" endTime="76.797">
+<Sync time="72.747"/>
+tak tam jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ punkt 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ pawilon tysiąc 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+G
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="76.797" endTime="78.793">
+<Sync time="76.797"/>
+tysiąc 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+G
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ na Świętokrzyskiej tysią
+<Event desc="~" type="lexical" extent="begin"/>
+c
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="78.793" endTime="79.122">
+<Sync time="78.793"/>
+<Who nb="1"/>
+
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+G
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+me
+<Event desc="~" type="lexical" extent="begin"/>
+tro
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="79.122" endTime="85.529">
+<Sync time="79.122"/>
+Metro Świętokrzyska 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ czynny od poniedziałku do piątku w godzinach 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ od siódmej 
+<Event desc="noise" type="noise" extent="begin"/>
+ do dwudziestej 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="85.529" endTime="87.154">
+<Sync time="85.529"/>
+aha dziękuję pani bardzo
+</Turn>
+<Turn speaker="spk1" startTime="87.154" endTime="87.931">
+<Sync time="87.154"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="87.931" endTime="88.488">
+<Sync time="87.931"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="88.488" endTime="89.181">
+<Sync time="88.488"/>
+do usłyszenia
+</Turn>
+<Turn startTime="89.181" endTime="93.494">
+<Sync time="89.181"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

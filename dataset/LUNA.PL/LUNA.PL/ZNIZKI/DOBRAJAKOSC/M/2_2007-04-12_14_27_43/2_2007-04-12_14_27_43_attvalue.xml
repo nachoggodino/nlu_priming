@@ -1,0 +1,52 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_13" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_15" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_18" attribute="ACTION" value="Request" />
+  <concept id="7" span="word_25" attribute="ACTION" value="End" />
+  <concept id="8" span="word_26..word_28" attribute="AGE" value="70" />
+  <concept id="9" span="word_29" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="10" span="word_31" attribute="ACTION" value="Benefit" />
+  <concept id="11" span="word_38" attribute="ACTION" value="Concern" />
+  <concept id="12" span="word_42" attribute="TRAIN" value="General" />
+  <concept id="13" span="word_54..word_55" attribute="GOAL_TOWN" value="Falenica" />
+  <concept id="14" span="word_62" attribute="BUS" value="General" />
+  <concept id="15" span="word_66" attribute="ACTION" value="Go" />
+  <concept id="16" span="word_67" attribute="TRAIN" value="General" />
+  <concept id="17" span="word_71" attribute="ACTION" value="Use" />
+  <concept id="18" span="word_73..word_74" attribute="TRANSP_INSTITUTION" value="Koleje Mazowieckie" />
+  <concept id="19" span="word_75..word_77" attribute="LOCATION_TOWN" value="Warszawa" />
+  <concept id="20" span="word_78" attribute="REACTION" value="Confirmation" />
+  <concept id="21" span="word_79" attribute="FARE" value="Free" />
+  <concept id="22" span="word_80" attribute="REACTION" value="Confirmation" />
+  <concept id="23" span="word_89..word_90" attribute="PUBLIC_TRANSPORT" value="General" />
+  <concept id="24" span="word_93..word_96" attribute="LOCATION_TOWN" value="Warszawa" />
+  <concept id="25" span="word_100..word_101" attribute="TRANSP_INSTITUTION" value="Koleje Mazowieckie" />
+  <concept id="26" span="word_102" attribute="REACTION" value="Confirmation" />
+  <concept id="27" span="word_107" attribute="STOP_DESCRIPTION" value="RailStationGeneral" />
+  <concept id="28" span="word_112" attribute="RAILWAY_STATION" value="Falenica" />
+  <concept id="29" span="word_113" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="30" span="word_114" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="31" span="word_115..word_116" attribute="RAILWAY_STATION" value="Wola Grzybowska" />
+  <concept id="32" span="word_117" attribute="Q_CONF" value="IsIt" />
+  <concept id="33" span="word_118" attribute="REACTION" value="Confirmation" />
+  <concept id="34" span="word_121" attribute="ACTION" value="ToBe" />
+  <concept id="35" span="word_122" attribute="STOP_DESCRIPTION" value="RailStationGeneral" />
+  <concept id="36" span="word_124" attribute="REACTION" value="Confirmation" />
+  <concept id="37" span="word_135..word_136" attribute="PUBLIC_TRANSPORT" value="General" />
+  <concept id="38" span="word_137" attribute="REACTION" value="Confirmation" />
+  <concept id="39" span="word_140" attribute="REACTION" value="Negation" />
+  <concept id="40" span="word_148..word_149" attribute="TICKET" value="TICKET_NORM_M" />
+  <concept id="41" span="word_150" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="42" span="word_151" attribute="TICKET" value="TICKET_NORM_P" />
+  <concept id="43" span="word_152" attribute="REACTION" value="Confirmation" />
+  <concept id="44" span="word_156" attribute="ACTION" value="ToHave" />
+  <concept id="45" span="word_159..word_161" attribute="DOCUMENT_DISCOUNT_TITLE" value="Card" />
+  <concept id="46" span="word_162" attribute="REACTION" value="Confirmation" />
+  <concept id="47" span="word_168" attribute="ACTION" value="ToBe" />
+  <concept id="48" span="word_169..word_170" attribute="DOCUMENT_DISCOUNT_TITLE" value="IdentityCard" />
+  <concept id="49" span="word_171" attribute="REACTION" value="Confirmation" />
+  <concept id="50" span="word_172" attribute="REACTION" value="Confirmation" />
+</concepts>

@@ -1,0 +1,43 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_7" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_9" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_10..word_11" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="7" span="word_12" attribute="ACTION" value="Leave" />
+  <concept id="8" span="word_13..word_15" attribute="BUS" value="510" />
+  <concept id="9" span="word_16..word_20" attribute="SOURCE_STP" value="Świętokrzyska" />
+  <concept id="10" span="word_22" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="11" span="word_23" attribute="STOP_DESCRIPTION" value="Femina" />
+  <concept id="12" span="word_25" attribute="ACTION" value="BeCalled" />
+  <concept id="13" span="word_27" attribute="TOWN_DISTRICT" value="Tarchomin" />
+  <concept id="14" span="word_31" attribute="MEANS_OF_TRANSPORT" value="General" />
+  <concept id="15" span="word_32" attribute="ACTION" value="ToHave" />
+  <concept id="16" span="word_35" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="17" span="word_36..word_37" attribute="SOURCE_RS" value="Dworzec Centralny" />
+  <concept id="18" span="word_39" attribute="ACTION" value="ToStart" />
+  <concept id="19" span="word_40" attribute="LOCATION_REL" value="NextStop" />
+  <concept id="20" span="word_41" attribute="ACTION" value="ToHave" />
+  <concept id="21" span="word_42..word_44" attribute="LOCATION_STR" value="Rondo ONZ" />
+  <concept id="22" span="word_45..word_47" attribute="LOCATION_STR" value="Jana Pawła" />
+  <concept id="23" span="word_48" attribute="REACTION" value="Confirmation" />
+  <concept id="24" span="word_49" attribute="REACTION" value="Confirmation" />
+  <concept id="25" span="word_50..word_51" attribute="Q_WHAT_STP" value="Next" />
+  <concept id="26" span="word_52..word_53" attribute="Q_WHAT_STP" value="Next" />
+  <concept id="27" span="word_55" attribute="LOCATION_REL" value="NextStop" />
+  <concept id="28" span="word_56" attribute="ACTION" value="Tell" />
+  <concept id="29" span="word_57..word_59" attribute="LOCATION_BLD" value="Kino Femina" />
+  <concept id="30" span="word_64" attribute="ACTION" value="ToBe" />
+  <concept id="31" span="word_65" attribute="TIME_REL" value="Now" />
+  <concept id="32" span="word_66" attribute="DEPARTURE" value="Nearest" />
+  <concept id="33" span="word_67" attribute="Q_CONF" value="IsIt" />
+  <concept id="34" span="word_69" attribute="REACTION" value="Confirmation" />
+  <concept id="35" span="word_70..word_72" attribute="AT_HOUR" value="9 : 48" />
+  <concept id="36" span="word_73" attribute="DEPARTURE" value="Next" />
+  <concept id="37" span="word_74..word_75" attribute="AT_HOUR" value="10 : 08" />
+  <concept id="38" span="word_76..word_78" attribute="AT_HOUR" value="9 : 48" />
+  <concept id="39" span="word_79" attribute="REACTION" value="Confirmation" />
+  <concept id="40" span="word_85..word_86" attribute="CONV_FORM" value="BYE" />
+  <concept id="41" span="word_87..word_88" attribute="CONV_FORM" value="BYE" />
+</concepts>

@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-28_13_47_38-1" version="5" version_date="070907">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="104.494" topic="to1">
+<Turn startTime="0" endTime="0.316">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.316" endTime="1.597">
+<Sync time="0.316"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.597" endTime="9.475">
+<Sync time="1.597"/>
+<Event desc="noise" type="noise" extent="begin"/> dzień dobry ja chcia<Event desc="~" type="lexical" extent="begin"/>ła<Event desc="~" type="lexical" extent="end"/>m spytać <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> <Event desc="*" type="pronounce" extent="begin"/>jestem<Event desc="*" type="pronounce" extent="end"/> krwiodawcą i doszłam do piętnastu litrach <Event desc="filler" type="lexical" extent="instantaneous"/> oddanej krwi <Event desc="noise" type="noise" extent="end"/> 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="9.475" endTime="9.599">
+<Sync time="9.475"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+i
+</Turn>
+<Turn speaker="spk2" startTime="9.599" endTime="15.376">
+<Sync time="9.599"/>
+s<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>yszałam że są <Event desc="noise" type="noise" extent="begin"/> uprawnienia <Event desc="noise" type="noise" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> bezpłatne przejazdów po Warszawie środkami lokomocji
+</Turn>
+<Turn speaker="spk1" startTime="15.376" endTime="23.498">
+<Sync time="15.376"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> tak tylko musi pani mieć odpowiedni wpis właśnie że oddała pani <Event desc="filler" type="lexical" extent="instantaneous"/> piętnaście litrów <Event desc="babble" type="noise" extent="begin"/> krwi <Event desc="babble" type="noise" extent="end"/> honorowo to ma być w legitymacji honorowego dawcy krwi
+</Turn>
+<Turn speaker="spk2" startTime="23.498" endTime="28.429">
+<Sync time="23.498"/>
+tak <Event desc="filler" type="lexical" extent="instantaneous"/> i proszę mi powiedzieć a jak ja mieszkam poza miejscem to znaczy w Pruszkowie mieszka<Event desc="~" type="lexical" extent="begin"/>m<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="28.429" endTime="29.877">
+<Sync time="28.429"/>
+a to jest nieważne skąd<Event desc="int" type="noise" extent="previous"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="29.877" endTime="30.105">
+<Sync time="29.877"/>
+<Who nb="1"/>
+ale
+<Who nb="2"/>
+pani
+</Turn>
+<Turn speaker="spk2" startTime="30.105" endTime="32.648">
+<Sync time="30.105"/>
+czy w P<Event desc="~" type="lexical" extent="begin"/>r<Event desc="~" type="lexical" extent="end"/>uszkowie też obowiązują te przejazdy <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="32.648" endTime="36.918">
+<Sync time="32.648"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> ale do od nas do <Event desc="babble" type="noise" extent="begin"/> Pruszkowa tylko <Event desc="babble" type="noise" extent="end"/> <Event desc="SPELLED" type="pronounce" extent="begin"/>S K M<Event desc="SPELLED" type="pronounce" extent="end"/> dojeżdża
+</Turn>
+<Turn speaker="spk2" startTime="36.918" endTime="42.195">
+<Sync time="36.918"/>
+tylko <Event desc="SPELLED" type="pronounce" extent="begin"/>S K M<Event desc="SPELLED" type="pronounce" extent="end"/> a nie ma <Event desc="filler" type="lexical" extent="instantaneous"/> autobusów które które łączą Warszawę <Event desc="filler" type="lexical" extent="instantaneous"/> z Pruszkowem <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="42.195" endTime="44.975">
+<Sync time="42.195"/>
+nie najdalej nasze autobusy tylko do Piastowa jeżdżą
+</Turn>
+<Turn speaker="spk2" startTime="44.975" endTime="48.267">
+<Sync time="44.975"/>
+aha tak że nie ma <Event desc="filler" type="lexical" extent="instantaneous"/> z <Event desc="SPELLED" type="pronounce" extent="begin"/>M Z A<Event desc="SPELLED" type="pronounce" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="48.267" endTime="51.809">
+<Sync time="48.267"/>
+<Event desc="babble" type="noise" extent="begin"/> od nas <Event desc="babble" type="noise" extent="end"/> nic nie ma <Event desc="*" type="pronounce" extent="begin"/>takiego<Event desc="*" type="pronounce" extent="end"/> do <Event desc="babble" type="noise" extent="begin"/> Pruszkowa <Event desc="babble" type="noise" extent="end"/> prócz <Event desc="SPELLED" type="pronounce" extent="begin"/>S K M<Event desc="SPELLED" type="pronounce" extent="end"/> <Event desc="noise" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="51.809" endTime="61.148">
+<Sync time="51.809"/>
+aha a <Event desc="SPELLED" type="pronounce" extent="begin"/>S K M<Event desc="SPELLED" type="pronounce" extent="end"/> <Event desc="filler" type="lexical" extent="instantaneous"/> mogę a jak w eskaemce jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> napisane że <Event desc="filler" type="lexical" extent="instantaneous"/> również <Event desc="filler" type="lexical" extent="instantaneous"/> pociągami można dojeżdżać ale do <Event desc="unintelligible" type="pronounce" extent="instantaneous"/>jakich stacji
+</Turn>
+<Turn speaker="spk1" startTime="61.148" endTime="66.646">
+<Sync time="61.148"/>
+<Event desc="babble" type="noise" extent="begin"/> pociągami <Event desc="babble" type="noise" extent="end"/> proszę pani to można dojeżdżać ale <Event desc="*" type="pronounce" extent="begin"/>podstawie<Event desc="*" type="pronounce" extent="end"/> biletów trzydziesto i dziewięćdziesięciodniowych
+</Turn>
+<Turn speaker="spk2" startTime="66.646" endTime="67.997">
+<Sync time="66.646"/>
+aha tak że ten ten
+</Turn>
+<Turn speaker="spk1" startTime="67.997" endTime="74.465">
+<Sync time="67.997"/>
+<Event desc="babble" type="noise" extent="begin"/> to znaczy w sumie <Event desc="babble" type="noise" extent="end"/> też może pani na podstawie tej legitymacji ale tylko w granicach Warszawy
+</Turn>
+<Turn speaker="spk2" startTime="74.465" endTime="75.606">
+<Sync time="74.465"/>
+aha tak że na 
+</Turn>
+<Turn speaker="spk1" startTime="75.606" endTime="76.575">
+<Sync time="75.606"/>
+<Event desc="babble" type="noise" extent="begin"/> tak że do Pruszkowa <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="76.575" endTime="77.591">
+<Sync time="76.575"/>
+<Event desc="~" type="lexical" extent="begin"/>Ur<Event desc="~" type="lexical" extent="end"/>susie się kończy
+</Turn>
+<Turn speaker="spk1" startTime="77.591" endTime="78.3">
+<Sync time="77.591"/>
+dokładnie
+</Turn>
+<Turn speaker="spk2" startTime="78.3" endTime="80.817">
+<Sync time="78.3"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="80.817" endTime="86.417">
+<Sync time="80.817"/>
+<Event desc="babble" type="noise" extent="begin"/> jeśli by pani chciała <Event desc="babble" type="noise" extent="end"/> kolej<Event desc="~" type="lexical" extent="instantaneous"/> korzystać z kolei no to musia<Event desc="~" type="lexical" extent="begin"/>ła<Event desc="~" type="lexical" extent="end"/>by pani do nich wtedy zadzwonić o te ulgi się pytać
+</Turn>
+<Turn speaker="spk2" startTime="86.417" endTime="100.4">
+<Sync time="86.417"/>
+<Event desc="no annotated" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="100.4" endTime="101.451">
+<Sync time="100.4"/>
+no nic no dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="101.451" endTime="103.065">
+<Sync time="101.451"/>
+<Who nb="1"/>
+bardzo w takim razie do widzenia
+<Who nb="2"/>
+proszę bardzo do widzenia
+</Turn>
+<Turn startTime="103.065" endTime="104.494">
+<Sync time="103.065"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

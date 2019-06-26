@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-13_10_59_59" version="2" version_date="071001">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="54.997" topic="to1">
+<Turn startTime="0" endTime="0.985">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.985" endTime="3.089">
+<Sync time="0.985"/>
+dzień dobry przy telefonie xxx <Event desc="*" type="pronounce" extent="begin"/>słucham<Event desc="*" type="pronounce" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.089" endTime="7.518">
+<Sync time="3.089"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> proszę pana ja chcia<Event desc="~" type="lexical" extent="begin"/>ła<Event desc="~" type="lexical" extent="end"/>m zapytać <Event desc="noise" type="noise" extent="begin"/> o taką <Event desc="noise" type="noise" extent="end"/> sprawę jeżeli się skończyło siedemdziesiąt lat
+</Turn>
+<Turn speaker="spk1" startTime="7.518" endTime="8.245">
+<Sync time="7.518"/>
+tak <Event desc="noise" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="8.245" endTime="10.491">
+<Sync time="8.245"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> jak do <Event desc="noise" type="noise" extent="begin"/> metra wchodzić <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="10.491" endTime="23.395">
+<Sync time="10.491"/>
+proszę pani <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="*" type="pronounce" extent="begin"/>są<Event desc="*" type="pronounce" extent="end"/> dwa sposoby albo windą na każdej stacji jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> winda można windą zjechać przy windach nie ma bramek albo drugi sposób <Event desc="filler" type="lexical" extent="instantaneous"/> chyba łatwiejszy wydajemy takie bezpłatne wejściówki one
+</Turn>
+<Turn speaker="spk1 spk2" startTime="23.395" endTime="24.495">
+<Sync time="23.395"/>
+<Who nb="1"/>
+są w formie
+<Who nb="2"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="24.495" endTime="37.678">
+<Sync time="24.495"/>
+biletu kartonikowego <Event desc="filler" type="lexical" extent="instantaneous"/> tak jak powiedziałem bezpłatne i są wielorazowego użytku <Event desc="babble" type="noise" extent="begin"/> <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/> po prostu w naszych punktach może pani dostać <Event desc="filler" type="lexical" extent="instantaneous"/> poprosisz taką wejściówkę do metra dla osoby <Event desc="filler" type="lexical" extent="instantaneous"/> powyżej <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> siedemdziesiątego roku życia 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="37.678" endTime="37.901">
+<Sync time="37.678"/>
+<Who nb="1"/>
+no i 
+<Who nb="2"/>
+tak tak
+</Turn>
+<Turn speaker="spk1" startTime="37.901" endTime="39.599">
+<Sync time="37.901"/>
+<Event desc="babble" type="noise" extent="begin"/> bez problemów <Event desc="babble" type="noise" extent="end"/> można nawet dwie dosta<Event desc="~" type="lexical" extent="begin"/>ć<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="39.599" endTime="42.486">
+<Sync time="39.599"/>
+<Event desc="babble" type="noise" extent="begin"/> czy <Event desc="babble" type="noise" extent="end"/> to <Event desc="filler" type="lexical" extent="instantaneous"/> czy to jest na Senatorskiej czy
+</Turn>
+<Turn speaker="spk1" startTime="42.486" endTime="45.833">
+<Sync time="42.486"/>
+<Event desc="babble" type="noise" extent="begin"/> na <Event desc="babble" type="noise" extent="end"/> Senatorskiej ale także na stacji metra Świętokrzyska
+</Turn>
+<Turn speaker="spk2 spk1" startTime="45.833" endTime="46.362">
+<Sync time="45.833"/>
+<Who nb="1"/>
+aha
+<Who nb="2"/>
+stacja
+</Turn>
+<Turn speaker="spk1" startTime="46.362" endTime="49.862">
+<Sync time="46.362"/>
+metra Ratusz stacja <Event desc="babble" type="noise" extent="begin"/> metra <Event desc="babble" type="noise" extent="end"/> Plac Wilsona wszędzie tam gdzie są nasze punkty
+</Turn>
+<Turn speaker="spk2" startTime="49.862" endTime="50.66">
+<Sync time="49.862"/>
+dziękuję panu 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="50.66" endTime="51.928">
+<Sync time="50.66"/>
+<Who nb="1"/>
+uprzejmie dziękuję do widzenia
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="51.928" endTime="52.442">
+<Sync time="51.928"/>
+do widzenia
+</Turn>
+<Turn startTime="52.442" endTime="54.997">
+<Sync time="52.442"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

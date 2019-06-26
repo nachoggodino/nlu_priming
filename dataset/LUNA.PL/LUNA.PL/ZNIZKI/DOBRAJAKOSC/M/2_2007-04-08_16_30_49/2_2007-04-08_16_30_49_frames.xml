@@ -1,0 +1,11 @@
+<Frames>
+  <Set id="1" subset="1" span="word_18" frame="BECOMING" head="ukończyć">
+    <Frame fe="1" span="word_16" concept_id="5" name="ENTITY" />
+    <Frame fe="2" span="word_19..word_21" concept_id="7" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="2" subset="1" span="word_24" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_23" concept_id="8" name="PRIVILEGE" />
+    <Frame fe="2" span="word_28,word_29" concept_id="10,11" name="MANNER" />
+    <Frame fe="3" span="word_32..word_34" concept_id="13" name="CIRCUMSTANCES" />
+  </Set>
+</Frames>

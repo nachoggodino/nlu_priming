@@ -1,0 +1,42 @@
+<Chunks>
+  <chunk id="1" span="word_1..word_2" cat="NP" main="word_2" />
+  <chunk id="2" span="word_3" cat="PN" />
+  <chunk id="3" span="word_4" cat="VP" main="word_4" />
+  <chunk id="4" span="word_5..word_6" cat="NP" main="word_6" />
+  <chunk id="5" span="word_7" cat="NP" main="word_7" />
+  <chunk id="6" span="word_8" cat="VP" main="word_8" />
+  <chunk id="7" span="word_9" cat="PP" />
+  <chunk id="8" span="word_10" cat="NP" main="word_10" />
+  <chunk id="9" span="word_11" cat="NP" main="word_11" />
+  <chunk id="10" span="word_12" cat="VP" main="word_12" />
+  <chunk id="11" span="word_13" cat="VP_INF" />
+  <chunk id="12" span="word_14" cat="PP" />
+  <chunk id="13" span="word_15" cat="NP" main="word_15" />
+  <chunk id="14" span="word_16" cat="PN" />
+  <chunk id="15" span="word_17..word_19" cat="NUM" />
+  <chunk id="16" span="word_20" cat="PART" />
+  <chunk id="17" span="word_21" cat="PP" />
+  <chunk id="18" span="word_22" cat="NP" main="word_22" />
+  <chunk id="19" span="word_23" cat="PP" />
+  <chunk id="20" span="word_24" cat="ADJP" />
+  <chunk id="21" span="word_25" cat="CC" />
+  <chunk id="22" span="word_26" cat="ADJP" />
+  <chunk id="23" span="word_27" cat="VP" main="word_27" />
+  <chunk id="24" span="word_28" cat="VP_INF" />
+  <chunk id="25" span="word_29" cat="NP" main="word_29" />
+  <chunk id="26" span="word_30" cat="ADJP" />
+  <chunk id="27" span="word_31" cat="NUM" />
+  <chunk id="28" span="word_32" cat="PART" />
+  <chunk id="29" span="word_33..word_34" cat="NUM" />
+  <chunk id="30" span="word_35" cat="PART" />
+  <chunk id="31" span="word_36..word_37" cat="NUM" />
+  <chunk id="32" span="word_38" cat="ADJP" />
+  <chunk id="33" span="word_39" cat="PART" />
+  <chunk id="34" span="word_40" cat="ADJP" />
+  <chunk id="35" span="word_41" cat="VP" main="word_41" />
+  <chunk id="36" span="word_42" cat="NP" main="word_42" />
+  <chunk id="37" span="word_43" cat="ITJ" />
+  <chunk id="38" span="word_44" cat="VP" main="word_44" />
+  <chunk id="39" span="word_45" cat="ADV" />
+  <chunk id="40" span="word_46" cat="ITJ" />
+</Chunks>

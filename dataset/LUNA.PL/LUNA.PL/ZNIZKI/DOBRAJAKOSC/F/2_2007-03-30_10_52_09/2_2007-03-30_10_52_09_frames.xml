@@ -1,0 +1,21 @@
+<Frames>
+  <Set id="1" subset="1" span="word_14" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_9..word_11" concept_id="4" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_12" concept_id="5" name="BENEFICIARY" />
+    <Frame fe="3" span="word_15..word_16" concept_id="7" name="PRIVILEGE" />
+  </Set>
+  <Set id="2" subset="1" span="word_30" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_29" concept_id="9" name="ENTITY" />
+    <Frame fe="2" span="word_31..word_32" concept_id="11" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="3" subset="1" span="word_41" frame="COMMERCE_BUY" head="zakupić">
+    <Frame fe="1" span="word_35" concept_id="13" name="PURPOSE" />
+    <Frame fe="2" span="word_40" concept_id="15" name="GOODS" />
+  </Set>
+  <Set id="4" subset="1" span="word_44" frame="USING" head="korzystać">
+    <Frame fe="1" span="word_46" concept_id="18" name="INSTRUMENT" />
+  </Set>
+  <Set id="5" subset="2" span="word_50" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_52" concept_id="21" name="ENTITY" />
+  </Set>
+</Frames>

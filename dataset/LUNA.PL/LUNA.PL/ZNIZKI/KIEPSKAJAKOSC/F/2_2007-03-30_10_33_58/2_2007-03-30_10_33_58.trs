@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-30_10_33_58" version="7" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="69.496" topic="to1">
+<Turn startTime="0" endTime="1.132">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.132" endTime="2.665">
+<Sync time="1.132"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.665" endTime="4.798">
+<Sync time="2.665"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry moje nazwisko xxx 
+</Turn>
+<Turn speaker="spk2" startTime="4.798" endTime="6.911">
+<Sync time="4.798"/>
+
+<Event desc="no annotated" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="6.911" endTime="29.803">
+<Sync time="6.911"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ bardzo bym pana prosiła o udzielenie mi 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ takiej odpowiedzi na moje pytanie ponieważ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ dostanę 
+<Event desc="*" type="pronounce" extent="begin"/>
+legitymację
+<Event desc="*" type="pronounce" extent="end"/>
+ studencką teraz na studiach rozpoczęłam studia ale 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i wiem że są jakieś zniżki tylko 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ważny 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest
+<Event desc="*" type="pronounce" extent="end"/>
+ chyba też wiek prawda i dlatego chcia
+<Event desc="~" type="lexical" extent="begin"/>
+ła
+<Event desc="~" type="lexical" extent="end"/>
+bym się upewnić czy ta legitymacja studencka uprawnia m
+<Event desc="~" type="lexical" extent="begin"/>
+n
+<Event desc="~" type="lexical" extent="end"/>
+ie do zniżki za bilet 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na przejazd bo kupowałam 
+<Event desc="*" type="pronounce" extent="begin"/>
+sobie
+<Event desc="*" type="pronounce" extent="end"/>
+ ten normalny za sześćdziesiąt sześć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i czy jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ jakiś przedział wiekowo bo pamiętam że kiedyś to 
+<Event desc="*" type="pronounce" extent="begin"/>
+było
+<Event desc="*" type="pronounce" extent="end"/>
+ do dwudziestu 
+<Event desc="int" type="noise" extent="next"/>
+chyba sześciu lat 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.803" endTime="32.074">
+<Sync time="29.803"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jakie 
+<Event desc="babble" type="noise" extent="end"/>
+ to są studia proszę pani
+</Turn>
+<Turn speaker="spk2" startTime="32.074" endTime="34.992">
+<Sync time="32.074"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="next"/>
+ekonomia 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ ekono
+<Event desc="~" type="lexical" extent="begin"/>
+mia
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ to
+</Turn>
+<Turn speaker="spk1" startTime="34.992" endTime="37.311">
+<Sync time="34.992"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale 
+<Event desc="babble" type="noise" extent="end"/>
+ to są studia 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ zaoczne magisterskie 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="37.311" endTime="40.49">
+<Sync time="37.311"/>
+tak proszę pana zao
+<Event desc="~" type="lexical" extent="begin"/>
+czne
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+zaoczne
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ na magisters
+<Event desc="~" type="lexical" extent="begin"/>
+kie
+<Event desc="~" type="lexical" extent="end"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.49" endTime="52.471">
+<Sync time="40.49"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pani ta ulga dwudziestu sześciu lat to dotyczy kolei a 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ w Warszawie 
+<Event desc="babble" type="noise" extent="end"/>
+ w środkach komunikacji na podstawie ważnej legitymacji ma pani pięćdziesiąt procent ulgi bez względu na wiek
+</Turn>
+<Turn speaker="spk2" startTime="52.471" endTime="59.815">
+<Sync time="52.471"/>
+aha więc 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+mając
+<Event desc="*" type="pronounce" extent="end"/>
+ ta legitymację ze względu na wiek mogę korzystać sobie teraz zamiast 
+<Event desc="*" type="pronounce" extent="begin"/>
+sześćdziesięciu sześciu
+<Event desc="*" type="pronounce" extent="end"/>
+ płacić te trzydzieści trzy 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="59.815" endTime="60.357">
+<Sync time="59.815"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="60.357" endTime="61.132">
+<Sync time="60.357"/>
+i będzie wszystko dobrze
+</Turn>
+<Turn speaker="spk1" startTime="61.132" endTime="61.46">
+<Sync time="61.132"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="61.46" endTime="64.845">
+<Sync time="61.46"/>
+wola
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am się upewnić 
+<Event desc="noise" type="noise" extent="begin"/>
+ niż potem mieć nieprzyjemności 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="64.845" endTime="65.669">
+<Sync time="64.845"/>
+<Who nb="1"/>
+panu pięknie
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn startTime="65.669" endTime="69.496">
+<Sync time="65.669"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

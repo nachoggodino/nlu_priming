@@ -1,0 +1,56 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_5" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_7..word_8" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_9" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_10" attribute="ACTION" value="ToAsk" />
+  <concept id="6" span="word_11" attribute="BUS" value="General" />
+  <concept id="7" span="word_12..word_15" attribute="STOP_DESCRIPTION" value="LAST  195" />
+  <concept id="8" span="word_16" attribute="REACTION" value="Confirmation" />
+  <concept id="9" span="word_18" attribute="ACTION" value="ToBe" />
+  <concept id="10" span="word_19..word_21" attribute="Q_WHAT_BLD" value="ShoppingCenter" />
+  <concept id="11" span="word_23" attribute="ACTION" value="Excuse" />
+  <concept id="12" span="word_24..word_27" attribute="Q_WHAT_STP" value="MetroStationGeneral" />
+  <concept id="13" span="word_35..word_37" attribute="LOCATION_STP" value="MetroStationGeneral" />
+  <concept id="14" span="word_38" attribute="ACTION" value="ToBe" />
+  <concept id="15" span="word_39..word_46" attribute="LOCATION_BETW_STP" value="Metro Natolin and Metro Imielin" />
+  <concept id="16" span="word_47..word_50" attribute="LOCATION_BETW_STP" value="Metro Natolin and Metro Imielin" />
+  <concept id="17" span="word_51" attribute="REACTION" value="Confirmation" />
+  <concept id="18" span="word_53" attribute="ACTION" value="ToBe" />
+  <concept id="19" span="word_54" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="20" span="word_57" attribute="STOP_DESCRIPTION" value="LAST" />
+  <concept id="21" span="word_59" attribute="ACTION" value="BeCalled" />
+  <concept id="22" span="word_60..word_61" attribute="STOP_DESCRIPTION" value="Natolin Północny" />
+  <concept id="23" span="word_64..word_67" attribute="GOAL_STP" value="Metro Natolin" />
+  <concept id="24" span="word_68" attribute="ACTION" value="ToBe" />
+  <concept id="25" span="word_71..word_73" attribute="DISTANCE" value="400 - 500 m" />
+  <concept id="26" span="word_76..word_77" attribute="GOAL_STP" value="Metro Imielin" />
+  <concept id="27" span="word_79" attribute="ACTION" value="ToBe" />
+  <concept id="28" span="word_80..word_81" attribute="DISTANCE" value="500 m" />
+  <concept id="29" span="word_83" attribute="LOC_TIME_REL" value="BETWEEN" />
+  <concept id="30" span="word_84" attribute="LOC_TIME_REL" value="BETWEEN" />
+  <concept id="31" span="word_85" attribute="REACTION" value="Confirmation" />
+  <concept id="32" span="word_86" attribute="LOC_TIME_REL" value="BETWEEN" />
+  <concept id="33" span="word_87" attribute="REACTION" value="Confirmation" />
+  <concept id="34" span="word_88..word_91" attribute="LOCATION_BETW_STP" value="Metro Natolin and Metro Imielin" />
+  <concept id="35" span="word_92" attribute="Q_CONF" value="IsIt" />
+  <concept id="36" span="word_94" attribute="REACTION" value="Confirmation" />
+  <concept id="37" span="word_102" attribute="ACTION" value="Request" />
+  <concept id="38" span="word_104..word_106" attribute="BUS" value="195" />
+  <concept id="39" span="word_108" attribute="METRO" value="General" />
+  <concept id="40" span="word_110" attribute="ACTION" value="ToBe" />
+  <concept id="41" span="word_111..word_112" attribute="STOP_DESCRIPTION" value="Metro Stokłosy" />
+  <concept id="42" span="word_113..word_115" attribute="LOCATION_STP" value="Metro Stokłosy" />
+  <concept id="43" span="word_116" attribute="ACTION" value="ToPass" />
+  <concept id="44" span="word_118..word_120" attribute="BUS" value="195" />
+  <concept id="45" span="word_122..word_124" attribute="LOCATION_STP" value="MetroStationGeneral" />
+  <concept id="46" span="word_126" attribute="REACTION" value="Negation" />
+  <concept id="47" span="word_129" attribute="ACTION" value="Request" />
+  <concept id="48" span="word_130" attribute="STOP_DESCRIPTION" value="LAST" />
+  <concept id="49" span="word_131" attribute="STOP_DESCRIPTION" value="LAST" />
+  <concept id="50" span="word_132" attribute="NUM_BUS_PART" value="5" />
+  <concept id="51" span="word_133..word_135" attribute="BUS" value="195" />
+  <concept id="52" span="word_137..word_138" attribute="STOP_DESCRIPTION" value="Natolin Północny" />
+  <concept id="53" span="word_140" attribute="ACTION" value="ToBe" />
+  <concept id="54" span="word_141..word_149" attribute="LOCATION_BETW_STP" value="Metro Natolin and Metro Imielin" />
+</concepts>

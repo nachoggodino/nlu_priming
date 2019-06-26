@@ -1,0 +1,26 @@
+<Frames>
+  <Set id="1" subset="1" span="word_18" frame="GIVE" head="podać">
+    <Frame fe="1" span="word_19..word_20,word_21..word_22" concept_id="6,7" name="THEME" />
+    <Frame fe="2" span="word_23..word_26,word_27..word_29" concept_id="8,9" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="2" subset="1" span="word_37" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_33..word_35" concept_id="11" name="TIME" />
+    <Frame fe="2" span="word_38..word_39" concept_id="13" name="THEME" />
+    <Frame fe="3" span="word_41..word_42" concept_id="14" name="SOURCE" />
+    <Frame fe="4" span="word_43..word_45,word_46..word_47" concept_id="15,16" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_57..word_58" frame="DEPARTING" head="być">
+    <Frame fe="1" span="word_54..word_56" concept_id="19" name="SOURCE" />
+    <Frame fe="2" span="word_59..word_62" concept_id="22" name="TIME" />
+  </Set>
+  <Set id="4" subset="1" span="word_86" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_82..word_83" concept_id="30" name="GOAL" />
+    <Frame fe="2" span="word_84..word_85" concept_id="31" name="TIME" />
+  </Set>
+  <Set id="5" subset="1" span="word_90" frame="TAKING_TIME" head="doliczać">
+    <Frame fe="1" span="word_92..word_93" concept_id="34" name="TIME_LENGTH" />
+  </Set>
+  <Set id="6" subset="2" span="word_114" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_116..word_118" concept_id="43" name="TIME" />
+  </Set>
+</Frames>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_06_51_26" version="7" version_date="091207">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="49.868" topic="to1">
+<Turn startTime="0" endTime="0.766">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.766" endTime="2.879">
+<Sync time="0.766"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.879" endTime="9.962">
+<Sync time="2.879"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ dzień dobry witam chciałabym żeby pan mi pomógł 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w takiej sprawie potrzebuję się dostać do szpitala na Banacha 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.962" endTime="10.683">
+<Sync time="9.962"/>
+
+<Event desc="noise+" type="noise" extent="instantaneous"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="10.683" endTime="20.184">
+<Sync time="10.683"/>
+i ja mieszkam że mogę jechać 
+<Event desc="*" type="pronounce" extent="begin"/>
+z przystanku
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="sta" type="noise" extent="begin"/>
+ Czarnomorska Klarysewska Goraszewska 
+<Event desc="sta" type="noise" extent="end"/>
+ to jest Sadyba 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.184" endTime="26.337">
+<Sync time="20.184"/>
+dobrze proszę pani jeżeli
+<Event desc="int" type="noise" extent="previous"/>
+ z Czarnomorskiej 
+<Event desc="*" type="pronounce" extent="begin"/>
+Klarysewskiej
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to sto siedemdziesiąt dwa 
+</Turn>
+<Turn speaker="spk2" startTime="26.337" endTime="27.809">
+<Sync time="26.337"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sto siedemdziesiąt dwa i gdzie mam 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="27.809" endTime="28.295">
+<Sync time="27.809"/>
+<Who nb="1"/>
+wysiąść 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+do
+</Turn>
+<Turn speaker="spk1" startTime="28.295" endTime="29.59">
+<Sync time="28.295"/>
+przystanku Banacha
+</Turn>
+<Turn speaker="spk2" startTime="29.59" endTime="33.144">
+<Sync time="29.59"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i naprawdę sto siedemdziesiąt dwa do Banacha 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="33.144" endTime="38.025">
+<Sync time="33.144"/>
+tak ma przystanek przy Banacha i tam jest do do szpitala dojść jakieś 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="38.025" endTime="39.537">
+<Sync time="38.025"/>
+<Who nb="1"/>
+pięć dziesięć minut tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+około stu 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ no
+</Turn>
+<Turn speaker="spk1" startTime="39.537" endTime="41.58">
+<Sync time="39.537"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ proszę pani dwie trzy minuty
+</Turn>
+<Turn speaker="spk2" startTime="41.58" endTime="43.729">
+<Sync time="41.58"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble+" type="noise" extent="instantaneous"/>
+dobrze na jakim przystanku mam wysiąść
+</Turn>
+<Turn speaker="spk2 spk1" startTime="43.729" endTime="44.766">
+<Sync time="43.729"/>
+<Who nb="1"/>
+Banacha
+<Who nb="2"/>
+Banacha
+</Turn>
+<Turn speaker="spk2" startTime="44.766" endTime="45.986">
+<Sync time="44.766"/>
+dziękuję ślicznie
+</Turn>
+<Turn speaker="spk2 spk1" startTime="45.986" endTime="46.672">
+<Sync time="45.986"/>
+<Who nb="1"/>
+do widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk1" startTime="46.672" endTime="47.249">
+<Sync time="46.672"/>
+do usłyszenia
+</Turn>
+<Turn startTime="47.249" endTime="49.868">
+<Sync time="47.249"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

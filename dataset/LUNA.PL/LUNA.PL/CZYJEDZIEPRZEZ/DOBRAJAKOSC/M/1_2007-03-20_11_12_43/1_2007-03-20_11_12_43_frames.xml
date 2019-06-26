@@ -1,0 +1,23 @@
+<Frames>
+  <Set id="1" subset="1" span="word_17" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_10..word_11" concept_id="5" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="2" span="word_12..word_13" concept_id="6" name="SOURCE" />
+    <Frame fe="3" span="word_14..word_16" concept_id="7" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_26" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_27" concept_id="12" name="ENTITY" />
+  </Set>
+  <Set id="3" subset="1" span="word_40" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_39" concept_id="14" name="SELF_MOVER" />
+  </Set>
+  <Set id="4" subset="1" span="word_43" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_41..word_42" concept_id="16" name="PATH" />
+  </Set>
+  <Set id="5" subset="1" span="word_48" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_49" concept_id="19" name="ENTITY" />
+  </Set>
+  <Set id="6" subset="1" span="word_61" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_59..word_60" concept_id="23" name="MODE_OF_TRANSPORTATION" />
+    <Frame fe="2" span="word_63..word_65" concept_id="25" name="GOAL" />
+  </Set>
+</Frames>

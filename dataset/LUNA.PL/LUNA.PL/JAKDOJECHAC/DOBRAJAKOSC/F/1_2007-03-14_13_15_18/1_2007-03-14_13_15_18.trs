@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_13_15_18" version="2" version_date="071204">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="32.498" topic="to1">
+<Turn startTime="0" endTime="1.268">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.268" endTime="2.704">
+<Sync time="1.268"/>
+xxx 
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień dobry
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.704" endTime="10.227">
+<Sync time="2.704"/>
+halo dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana ja mam takie pytanie
+<Event desc="int" type="noise" extent="previous"/>
+ jestem na wysokości tu Wybrzeże
+<Event desc="int" type="noise" extent="previous"/>
+ Kościuszkowskie Jaracza
+</Turn>
+<Turn speaker="spk1" startTime="10.227" endTime="10.881">
+<Sync time="10.227"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="10.881" endTime="17.525">
+<Sync time="10.881"/>
+tuż przy Teatrze Ateneum i chciałabym się dostać
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ na do szpitala na Banacha
+<Event desc="int" type="noise" extent="previous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.525" endTime="22.001">
+<Sync time="17.525"/>
+to ja bym pani 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ radził takie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ trzeba by było dojść do Mostu Poniatowskiego i tam
+</Turn>
+<Turn speaker="spk1 spk2" startTime="22.001" endTime="22.292">
+<Sync time="22.001"/>
+<Who nb="1"/>
+wyjść
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="22.292" endTime="23.398">
+<Sync time="22.292"/>
+na górę do tramwaju
+</Turn>
+<Turn speaker="spk2" startTime="23.398" endTime="23.859">
+<Sync time="23.398"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="23.859" endTime="25.811">
+<Sync time="23.859"/>
+siódemka do samego szpitala dojeżdż
+<Event desc="~" type="lexical" extent="begin"/>
+a
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.811" endTime="27.315">
+<Sync time="25.811"/>
+a siódemka do 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="27.315" endTime="27.992">
+<Sync time="27.315"/>
+<Who nb="1"/>
+szpitala dobrze
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="27.992" endTime="29.553">
+<Sync time="27.992"/>
+dziękuję panu bardzo dziękuję do 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="29.553" endTime="30.048">
+<Sync time="29.553"/>
+<Who nb="1"/>
+widzenia
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="30.048" endTime="30.703">
+<Sync time="30.048"/>
+do widzenia
+</Turn>
+<Turn startTime="30.703" endTime="32.498">
+<Sync time="30.703"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

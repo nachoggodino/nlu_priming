@@ -1,0 +1,27 @@
+<Frames>
+  <Set id="1" subset="1" span="word_10" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_13..word_15" concept_id="6" name="SOURCE" />
+    <Frame fe="2" span="word_16..word_18" concept_id="7" name="GOAL" />
+    <Frame fe="3" span="word_20..word_22" concept_id="8" name="TIME" />
+  </Set>
+  <Set id="2" subset="2" span="word_27" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_28..word_29" concept_id="10" name="ENTITY" />
+  </Set>
+  <Set id="3" subset="3" span="word_40" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_34" concept_id="13" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_52" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_53..word_54" concept_id="18" name="TIME" />
+  </Set>
+  <Set id="5" subset="1" span="word_62" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_63,word_64" concept_id="22,23" name="TIME" />
+  </Set>
+  <Set id="6" subset="1" span="word_84" frame="MOTION" head="kursować">
+    <Frame fe="1" span="word_77..word_80" concept_id="29" name="FREQUENCY" />
+  </Set>
+  <Set id="7" subset="1" span="word_99" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_92..word_93" concept_id="34" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_96..word_97" concept_id="36" name="CIRCUMSTANCES" />
+    <Frame fe="3" span="word_101..word_103" concept_id="38" name="ENTITY" />
+  </Set>
+</Frames>

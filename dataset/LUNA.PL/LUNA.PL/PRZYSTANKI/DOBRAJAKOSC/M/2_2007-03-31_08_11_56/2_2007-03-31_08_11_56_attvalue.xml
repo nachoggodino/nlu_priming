@@ -1,0 +1,35 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_10" attribute="ACTION" value="Request" />
+  <concept id="6" span="word_11..word_13" attribute="Q_WHAT_STP" value="General" />
+  <concept id="7" span="word_15" attribute="ACTION" value="GetOut" />
+  <concept id="8" span="word_16" attribute="ACTION" value="Go" />
+  <concept id="9" span="word_17" attribute="TRAM" value="3" />
+  <concept id="10" span="word_19..word_20" attribute="LOCATION_NEAR_RS" value="RailwayStation" />
+  <concept id="11" span="word_24..word_25" attribute="GOAL_STR" value="Jubilerska" />
+  <concept id="12" span="word_26" attribute="ACTION" value="Get" />
+  <concept id="13" span="word_28" attribute="LOCATION_REL" value="There" />
+  <concept id="14" span="word_29..word_30" attribute="GOAL_BLD" value="Geant" />
+  <concept id="15" span="word_32" attribute="REACTION" value="Confirmation" />
+  <concept id="16" span="word_33..word_36" attribute="LOCATION_STP" value="LAST Gocławek" />
+  <concept id="17" span="word_37..word_39" attribute="LOCATION_STP" value="LAST Gocławek" />
+  <concept id="18" span="word_40" attribute="REACTION" value="Confirmation" />
+  <concept id="19" span="word_41" attribute="REACTION" value="Confirmation" />
+  <concept id="20" span="word_45" attribute="REACTION" value="Confirmation" />
+  <concept id="21" span="word_46..word_48" attribute="GOAL_REL" value="Opposite" />
+  <concept id="22" span="word_49" attribute="STREET" value="General" />
+  <concept id="23" span="word_52" attribute="ACTION" value="ToPass" />
+  <concept id="24" span="word_57" attribute="ACTION" value="ToBe" />
+  <concept id="25" span="word_64" attribute="BUILDING" value="Geant" />
+  <concept id="26" span="word_65" attribute="REACTION" value="Confirmation" />
+  <concept id="27" span="word_68" attribute="ACTION" value="ToBe" />
+  <concept id="28" span="word_69" attribute="TOWN_DISTRICT" value="Gocławek" />
+  <concept id="29" span="word_71" attribute="ACTION" value="ToBe" />
+  <concept id="30" span="word_73..word_74" attribute="STOP_DESCRIPTION" value="LAST" />
+  <concept id="31" span="word_76" attribute="REACTION" value="Confirmation" />
+  <concept id="32" span="word_77" attribute="REACTION" value="Confirmation" />
+  <concept id="33" span="word_78" attribute="REACTION" value="Confirmation" />
+</concepts>

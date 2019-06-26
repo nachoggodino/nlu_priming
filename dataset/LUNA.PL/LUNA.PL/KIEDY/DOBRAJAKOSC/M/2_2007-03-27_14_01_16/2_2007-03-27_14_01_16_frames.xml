@@ -1,0 +1,5 @@
+<Frames>
+  <Set id="1" subset="1" span="word_27" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_23..word_24" concept_id="11" name="TIME" />
+  </Set>
+</Frames>

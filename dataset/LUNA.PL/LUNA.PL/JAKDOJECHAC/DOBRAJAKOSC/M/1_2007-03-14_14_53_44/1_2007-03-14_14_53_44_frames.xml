@@ -1,0 +1,42 @@
+<Frames>
+  <Set id="1" subset="1" span="word_25" frame="DEPARTING" head="odjeżdżać">
+    <Frame fe="1" span="word_18..word_19" concept_id="9" name="SOURCE" />
+    <Frame fe="2" span="word_20..word_21" concept_id="10" name="GOAL" />
+    <Frame fe="3" span="word_23" concept_id="11" name="SOURCE" />
+    <Frame fe="4" span="word_24" concept_id="12" name="THEME" />
+  </Set>
+  <Set id="2" subset="1" span="word_56" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_50" concept_id="21" name="PLACE" />
+    <Frame fe="2" span="word_53..word_54" concept_id="22" name="PLACE" />
+    <Frame fe="3" span="word_58" concept_id="25" name="ENTITY" />
+  </Set>
+  <Set id="3" subset="1" span="word_67" frame="ARRIVING" head="dojechać">
+    <Frame fe="1" span="word_65..word_66" concept_id="27" name="GOAL" />
+  </Set>
+  <Set id="4" subset="1" span="word_78" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_76" concept_id="32" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_77" concept_id="33" name="GROUND" />
+    <Frame fe="3" span="word_79" concept_id="35" name="PHENOMENON" />
+  </Set>
+  <Set id="5" subset="1" span="word_98" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_91" concept_id="41" name="SELF_MOVER" />
+    <Frame fe="2" span="word_92" concept_id="42" name="SOURCE" />
+    <Frame fe="3" span="word_93,word_94..word_96" concept_id="43,44" name="PATH" />
+  </Set>
+  <Set id="6" subset="1" span="word_107" frame="HALT" head="mieć">
+    <Frame fe="1" span="word_108" concept_id="50" name="POSITION" />
+    <Frame fe="2" span="word_109..word_111" concept_id="51" name="PLACE" />
+  </Set>
+  <Set id="7" subset="1" span="word_129" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_118..word_120" concept_id="53" name="THEME" />
+    <Frame fe="2" span="word_121..word_122" concept_id="54" name="PLACE" />
+    <Frame fe="3" span="word_125,word_126..word_128" concept_id="56,57" name="LOCATION" />
+  </Set>
+  <Set id="8" subset="2" span="word_138" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_137" concept_id="61" name="PLACE" />
+    <Frame fe="2" span="word_141..word_142" concept_id="63" name="ENTITY" />
+  </Set>
+  <Set id="9" subset="1" span="word_147" frame="DEPARTING" head="odjeżdżać">
+    <Frame fe="1" span="word_144..word_146" concept_id="64" name="SOURCE" />
+  </Set>
+</Frames>

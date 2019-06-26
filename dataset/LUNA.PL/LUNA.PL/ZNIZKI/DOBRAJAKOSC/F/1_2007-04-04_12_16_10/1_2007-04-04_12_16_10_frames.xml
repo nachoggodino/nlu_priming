@@ -1,0 +1,24 @@
+<Frames>
+  <Set id="1" subset="1" span="word_17" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_12..word_14" concept_id="4" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_15" concept_id="5" name="BENEFICIARY" />
+    <Frame fe="3" span="word_18..word_19" concept_id="7" name="PRIVILEGE" />
+    <Frame fe="4" span="word_20" concept_id="8" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="2" subset="1" span="word_53" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_52" concept_id="15" name="ENTITY" />
+    <Frame fe="2" span="word_54" concept_id="17" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="3" subset="1" span="word_62" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_59" concept_id="18" name="ENTITY" />
+    <Frame fe="2" span="word_63..word_64" concept_id="20" name="FINAL_CATEGORY" />
+    <Frame fe="3" span="word_67" concept_id="21" name="TIME" />
+  </Set>
+  <Set id="4" subset="1" span="word_70" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_71" concept_id="24" name="PRIVILEGE" />
+    <Frame fe="2" span="word_72..word_75" concept_id="25" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="5" subset="1" span="word_91" frame="START" head="zaczynać">
+    <Frame fe="1" span="word_89..word_90" concept_id="30" name="ACTIVITY" />
+  </Set>
+</Frames>

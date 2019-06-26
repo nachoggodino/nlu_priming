@@ -1,0 +1,27 @@
+<Frames>
+  <Set id="1" subset="1" span="word_11" frame="BEING_IN_EFFECT" head="obowiązywać">
+    <Frame fe="1" span="word_10" concept_id="6" name="BINDING_PRINCIPLE" />
+    <Frame fe="2" span="word_12" concept_id="8" name="BINDING_PRINCIPLE" />
+    <Frame fe="3" span="word_13" concept_id="9" name="OBLIGATED_PARTY" />
+    <Frame fe="4" span="word_14" concept_id="10" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="2" subset="2" span="word_21..word_22" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_18..word_20" concept_id="11" name="BENEFICIARY" />
+    <Frame fe="2" span="word_24" concept_id="13" name="PRIVILEGE" />
+    <Frame fe="3" span="word_26..word_29" concept_id="14" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="1" span="word_40" frame="GETTING" head="pobierać">
+    <Frame fe="1" span="word_41" concept_id="16" name="THEME" />
+  </Set>
+  <Set id="4" subset="1" span="word_44" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_45..word_47" concept_id="19" name="TITLE" />
+  </Set>
+  <Set id="5" subset="1" span="word_48" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_49" concept_id="21" name="PRIVILEGE" />
+  </Set>
+  <Set id="6" subset="1" span="word_60..word_61" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_55" concept_id="23" name="BENEFICIARY" />
+    <Frame fe="2" span="word_56..word_59" concept_id="24" name="TITLE" />
+    <Frame fe="3" span="word_63..word_64" concept_id="26" name="PRIVILEGE" />
+  </Set>
+</Frames>

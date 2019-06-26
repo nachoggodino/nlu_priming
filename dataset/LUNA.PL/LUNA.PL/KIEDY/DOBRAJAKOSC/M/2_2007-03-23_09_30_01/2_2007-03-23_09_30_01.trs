@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_09_30_01" version="3" version_date="070530">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="49.497" topic="to1">
+<Turn startTime="0" endTime="0.656">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.656" endTime="3.18">
+<Sync time="0.656"/>
+dzień dobry xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.18" endTime="25.785">
+<Sync time="3.18"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> xxx proszę pana potrzebny jest dla mnie autobus <Event desc="filler" type="lexical" extent="instantaneous"/> z Kondratowicza <Event desc="filler" type="lexical" extent="instantaneous"/> to jest Targówek Ratusz przystanek <Event desc="filler" type="lexical" extent="instantaneous"/> linii pięćset <Event desc="filler" type="lexical" extent="instantaneous"/> tak gdzieś o godzinie <Event desc="filler" type="lexical" extent="instantaneous"/> no powiedzmy tam dziesiąta parę minut po dziesiątej <Event desc="filler" type="lexical" extent="instantaneous"/> tak że<Event desc="~" type="lexical" extent="begin"/>by<Event desc="~" type="lexical" extent="end"/> był w Centrum gdzieś za piętnaście jedenasta <Event desc="noise" type="noise" extent="begin"/><Event desc="filler" type="lexical" extent="instantaneous"/> no tak mniej więcej tam <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> za dziesięć powiedzmy <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="25.785" endTime="29.074">
+<Sync time="25.785"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="babble" type="noise" extent="begin"/> dobrze <Event desc="babble" type="noise" extent="end"/> proszę pana <Event desc="noise" type="noise" extent="end"/> pół godziny będzie jechał <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="29.074" endTime="31.395">
+<Sync time="29.074"/>
+tak <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="31.395" endTime="38.487">
+<Sync time="31.395"/>
+a to odjazdy są o dziesiątej zero sześć i dziesiątej dwadzieścia <Event desc="noise" type="noise" extent="begin"/> jeden <Event desc="noise" type="noise" extent="end"/> <Event desc="babble" type="noise" extent="begin"/> z Targówek Ratusz <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="38.487" endTime="40.07">
+<Sync time="38.487"/>
+dziesiąta dwadzieścia jeden tak <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="40.07" endTime="41.153">
+<Sync time="40.07"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="41.153" endTime="42.923">
+<Sync time="41.153"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/> pół godziny mówi pan je<Event desc="~" type="lexical" extent="begin"/>dzie<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="42.923" endTime="43.596">
+<Sync time="42.923"/>
+<Who nb="1"/>
+tak <Event desc="?" type="lexical" extent="instantaneous"/>
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="43.596" endTime="44.334">
+<Sync time="43.596"/>
+dobrze dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="44.334" endTime="45.064">
+<Sync time="44.334"/>
+<Event desc="babble" type="noise" extent="begin"/> proszę bardzo<Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="45.064" endTime="46.437">
+<Sync time="45.064"/>
+ <Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="46.437" endTime="47.01">
+<Sync time="46.437"/>
+do usłyszenia
+</Turn>
+<Turn startTime="47.01" endTime="49.497">
+<Sync time="47.01"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

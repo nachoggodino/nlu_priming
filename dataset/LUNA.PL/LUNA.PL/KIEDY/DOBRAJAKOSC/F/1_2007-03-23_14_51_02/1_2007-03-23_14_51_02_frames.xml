@@ -1,0 +1,19 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_11..word_12" concept_id="6" name="DURATION" />
+    <Frame fe="2" span="word_14..word_18" concept_id="8" name="SELF_MOVER" />
+    <Frame fe="3" span="word_19..word_21,word_22..word_24" concept_id="9,10" name="SOURCE" />
+    <Frame fe="4" span="word_25..word_27" concept_id="11" name="GOAL" />
+  </Set>
+  <Set id="2" subset="2" span="word_31" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_28..word_30" concept_id="12" name="GOAL" />
+    <Frame fe="2" span="word_32..word_38" concept_id="14" name="DURATION" />
+  </Set>
+  <Set id="3" subset="2" span="word_48" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_47" concept_id="19" name="PATH" />
+    <Frame fe="2" span="word_49..word_53" concept_id="21" name="SELF_MOVER" />
+  </Set>
+  <Set id="4" subset="1" span="word_83" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_84" concept_id="33" name="ENTITY" />
+  </Set>
+</Frames>

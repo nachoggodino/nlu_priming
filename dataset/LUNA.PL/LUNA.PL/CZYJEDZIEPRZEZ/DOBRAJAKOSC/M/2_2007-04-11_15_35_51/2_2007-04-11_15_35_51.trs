@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-11_15_35_51" version="4" version_date="080111">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="59.496" topic="to1">
+<Turn startTime="0" endTime="0.708">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.708" endTime="3.019">
+<Sync time="0.708"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.019" endTime="12.406">
+<Sync time="3.019"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ ja chcia
+<Event desc="~" type="lexical" extent="begin"/>
+łe
+<Event desc="~" type="lexical" extent="end"/>
+m 
+<Event desc="*" type="pronounce" extent="begin"/>
+się
+<Event desc="*" type="pronounce" extent="end"/>
+ dowiedzieć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ trasa autobusu 
+<Event desc="noise" type="noise" extent="end"/>
+ sto osiemnaście 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ z Woronicza czy on jedzie na 
+<Event desc="*" type="pronounce" extent="begin"/>
+Bródno
+<Event desc="*" type="pronounce" extent="end"/>
+ na Wincentego 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.406" endTime="40.218">
+<Sync time="12.406"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ już sprawdzam 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ nie proszę pana on nie jedzie Wincentego 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ halo
+</Turn>
+<Turn speaker="spk2" startTime="40.218" endTime="40.843">
+<Sync time="40.218"/>
+ tak tak
+</Turn>
+<Turn speaker="spk1" startTime="40.843" endTime="42.704">
+<Sync time="40.843"/>
+on 
+<Event desc="noise" type="noise" extent="begin"/>
+ nie jedzie Wincentego 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="42.704" endTime="44.019">
+<Sync time="42.704"/>
+Wincentego nie jedzie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="44.019" endTime="44.715">
+<Sync time="44.019"/>
+nie
+</Turn>
+<Turn speaker="spk2" startTime="44.715" endTime="48.363">
+<Sync time="44.715"/>
+aha 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ którą on 
+<Event desc="*" type="pronounce" extent="begin"/>
+teraz
+<Event desc="*" type="pronounce" extent="end"/>
+ on Toruńską jedzie tam z tamtej strony tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="48.363" endTime="48.987">
+<Sync time="48.363"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="48.987" endTime="51.261">
+<Sync time="48.987"/>
+Toruńską do Chodeckiej tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="51.261" endTime="51.822">
+<Sync time="51.261"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="51.822" endTime="55.747">
+<Sync time="51.822"/>
+aha w tą trasą 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ to dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="55.747" endTime="56.471">
+<Sync time="55.747"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę bardzo 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="56.471" endTime="59.496">
+<Sync time="56.471"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

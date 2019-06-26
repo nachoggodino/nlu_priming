@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_05_39_49" version="4" version_date="100912">
+<Topics>
+<Topic id="to1" desc="male user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="32.998" topic="to1">
+<Turn startTime="0" endTime="1.477">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.477" endTime="2.704">
+<Sync time="1.477"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ xxx słucham 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.704" endTime="16.07">
+<Sync time="2.704"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="next"/>
+czy mogę dowiedzieć się 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ taką informację o której godzinie mam autobus 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+E
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ pięć z przystanku Władysława Hermana Śmigielska przy w Ursusie w kierunku Centrum 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.07" endTime="19.214">
+<Sync time="16.07"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to jest przystanku Śmigielska do Centrum w jakich godzinach 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="19.214" endTime="21.264">
+<Sync time="19.214"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+a
+<Event desc="*" type="pronounce" extent="end"/>
+ to od szóstej 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="21.264" endTime="23.234">
+<Sync time="21.264"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ piąta pięćdziesiąt sześć 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="23.234" endTime="23.653">
+<Sync time="23.234"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.653" endTime="24.865">
+<Sync time="23.653"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ szósta osiem 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.865" endTime="26.188">
+<Sync time="24.865"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ szósta osiem 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.188" endTime="27.746">
+<Sync time="26.188"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dwadzieścia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="27.746" endTime="28.143">
+<Sync time="27.746"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dziękuję bar
+<Event desc="~" type="lexical" extent="begin"/>
+dzo
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.143" endTime="28.847">
+<Sync time="28.143"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę bardzo 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="28.847" endTime="32.998">
+<Sync time="28.847"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

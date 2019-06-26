@@ -1,0 +1,16 @@
+<Frames>
+  <Set id="1" subset="1" span="word_9" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_7..word_8" concept_id="4" name="LOCATION" />
+    <Frame fe="2" span="word_10..word_13" concept_id="6" name="THEME" />
+    <Frame fe="3" span="word_14..word_16" concept_id="7" name="PLACE" />
+  </Set>
+  <Set id="2" subset="1" span="word_20" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_19" concept_id="8" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_21" concept_id="10" name="PHENOMENON" />
+    <Frame fe="3" span="word_22" concept_id="11" name="GROUND" />
+  </Set>
+  <Set id="3" subset="3" span="word_35" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_31..word_32" concept_id="14" name="SELF_MOVER" />
+    <Frame fe="2" span="word_34" concept_id="15" name="GOAL" />
+  </Set>
+</Frames>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-23_17_07_40" version="7" version_date="080117">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="48.497">
+<Turn startTime="0" endTime="0.434">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.434" endTime="1.74">
+<Sync time="0.434"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.74" endTime="11.446">
+<Sync time="1.74"/>
+dzień dobry ja się chciałam dowiedzieć jakie autobusy jadą spod Dworca Centralnego albo Śródmieście 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na Okęcie tam na terminali czy w ogóle dojeżdżają na terminal tam na
+</Turn>
+<Turn speaker="spk2 spk1" startTime="11.446" endTime="11.914">
+<Sync time="11.446"/>
+<Who nb="1"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+no czy
+</Turn>
+<Turn speaker="spk1" startTime="11.914" endTime="17.394">
+<Sync time="11.914"/>
+do lotniska tak do portu lotniczego jeździ sto siedemdziesiąt pięć autobus Alejami Jerozolimskimi
+</Turn>
+<Turn speaker="spk2" startTime="17.394" endTime="19.178">
+<Sync time="17.394"/>
+aha tylko sto siedemdziesiąt 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="19.178" endTime="19.738">
+<Sync time="19.178"/>
+<Who nb="1"/>
+pięć 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="19.738" endTime="23.703">
+<Sync time="19.738"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a coś tam bliżej nie 
+<Event desc="sta" type="noise" extent="begin"/>
+ inny jakiś 
+<Event desc="sta" type="noise" extent="end"/>
+ pośpiesznego nie ma
+</Turn>
+<Turn speaker="spk2 spk1" startTime="23.703" endTime="24.343">
+<Sync time="23.703"/>
+<Who nb="1"/>
+autobusu
+<Who nb="2"/>
+nie
+</Turn>
+<Turn speaker="spk1" startTime="24.343" endTime="25.149">
+<Sync time="24.343"/>
+nie ma pośpieszne
+<Event desc="~" type="lexical" extent="begin"/>
+go
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.149" endTime="28.018">
+<Sync time="25.149"/>
+a na przykład tramwaje gdzieś tam dojeżdżają blisko 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.018" endTime="28.879">
+<Sync time="28.018"/>
+oj nie proszę 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="28.879" endTime="30.122">
+<Sync time="28.879"/>
+<Who nb="1"/>
+pani
+<Who nb="2"/>
+nie tylko autobus
+</Turn>
+<Turn speaker="spk1" startTime="30.122" endTime="33.767">
+<Sync time="30.122"/>
+sto siedemdziesiąt pięć z Centrum no i ewentualnie nocny sześćset jedenaście
+</Turn>
+<Turn speaker="spk2" startTime="33.767" endTime="38.23">
+<Sync time="33.767"/>
+dobrze 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ aha a jeszcze te
+<Event desc="~" type="lexical" extent="begin"/>
+n
+<Event desc="~" type="lexical" extent="end"/>
+ sto siedemdziesiąt pięć to się zatrzymuje przy Śródmieściu czy 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.23" endTime="38.603">
+<Sync time="38.23"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="38.603" endTime="39.075">
+<Sync time="38.603"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+dalej
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="39.075" endTime="44.427">
+<Sync time="39.075"/>
+tutaj przystanek wpierw ma przy Metrze Centrum a potem przy Dworcu Centralnym
+</Turn>
+<Turn speaker="spk2" startTime="44.427" endTime="45.818">
+<Sync time="44.427"/>
+dobrze dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="45.818" endTime="47.250">
+<Sync time="45.818"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+proszę bardzo 
+<Event desc="babble" type="noise" extent="end"/>
+ do widzenia
+</Turn>
+<Turn startTime="47.250" endTime="48.497">
+<Sync time="47.250"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

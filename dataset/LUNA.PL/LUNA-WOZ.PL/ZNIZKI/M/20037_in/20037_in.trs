@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="20037_in;20037_out" version="2" version_date="080728">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="47.136" topic="to1">
+<Turn startTime="0" endTime="0.677">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.677" endTime="8.32">
+<Sync time="0.677"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ kim jest osoba ubiegająca się o zniżkę
+</Turn>
+<Turn speaker="spk2" startTime="8.32" endTime="10.77">
+<Sync time="8.32"/>
+
+<Event desc="int" type="noise" extent="instantaneous"/>
+ osoba jest studentem z Anglii 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.77" endTime="15.831">
+<Sync time="10.77"/>
+studentem czy osoba jest studentem uczelni polskiej czy zagranicznej
+</Turn>
+<Turn speaker="spk2" startTime="15.831" endTime="18.921">
+<Sync time="15.831"/>
+osoba jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ studentem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ uczelni zagranicznej
+</Turn>
+<Turn speaker="spk1" startTime="18.921" endTime="23.234">
+<Sync time="18.921"/>
+zagranicznej ile ma lat osoba ubiegająca się o zniżkę
+</Turn>
+<Turn speaker="spk2" startTime="23.234" endTime="25.24">
+<Sync time="23.234"/>
+dwadzieścia trzy i pół roku
+</Turn>
+<Turn speaker="spk1" startTime="25.24" endTime="43.349">
+<Sync time="25.24"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ do przejazdów ze zniżką czterdzieści osiem procent uprawnieni są studenci i uczniowie zagranicznych szkół wyższych i średnich nie dłużej niż do ukończenia dwudziestego szóstego roku życia na podstawie ważnej na dany rok kalendarzowy międzynarodowej legitymacji ISIC czy udzielić jeszcze innych informacji
+</Turn>
+<Turn speaker="spk2" startTime="43.349" endTime="43.684">
+<Sync time="43.349"/>
+nie
+</Turn>
+<Turn speaker="spk1" startTime="43.684" endTime="46.799">
+<Sync time="43.684"/>
+dziękuję za rozmowę do usłyszenia
+</Turn>
+<Turn startTime="46.799" endTime="47.136">
+<Sync time="46.799"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

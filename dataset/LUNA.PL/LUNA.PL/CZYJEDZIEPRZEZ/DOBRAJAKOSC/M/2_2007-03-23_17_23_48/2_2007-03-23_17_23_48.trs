@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_17_23_48" version="3" version_date="080104">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="48.868" topic="to1">
+<Turn startTime="0" endTime="0.83">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.83" endTime="2.659">
+<Sync time="0.83"/>
+dzień dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.659" endTime="6.652">
+<Sync time="2.659"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ panią
+<Event desc="int" type="noise" extent="previous"/>
+ jak 
+<Event desc="int" type="noise" extent="next"/>
+teraz chodzi autobus trzysta dwadzieścia sześć
+</Turn>
+<Turn speaker="spk1" startTime="6.652" endTime="10.302">
+<Sync time="6.652"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ trzysta ale to 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ interesuje pana trasa czy rozkład
+</Turn>
+<Turn speaker="spk2" startTime="10.302" endTime="15.045">
+<Sync time="10.302"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no nie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ którą trasą idzie
+</Turn>
+<Turn speaker="spk1" startTime="15.045" endTime="19.109">
+<Sync time="15.045"/>
+proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jedzie z Placu Hallera na Nowodwory
+</Turn>
+<Turn speaker="spk2" startTime="19.109" endTime="21.334">
+<Sync time="19.109"/>
+ale 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ jedzie przez Bródno
+</Turn>
+<Turn speaker="spk1" startTime="21.334" endTime="28.33">
+<Sync time="21.334"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana przez Bródno tak jedzie Chodecką Kondratowicza Rembielińską Annopol 
+</Turn>
+<Turn speaker="spk2" startTime="28.33" endTime="28.531">
+<Sync time="28.33"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="28.531" endTime="30.167">
+<Sync time="28.531"/>
+i potem 
+<Event desc="babble" type="noise" extent="begin"/>
+Odlewnicza
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="30.167" endTime="32.029">
+<Sync time="30.167"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a 
+<Event desc="*" type="pronounce" extent="begin"/>
+Marywilską
+<Event desc="*" type="pronounce" extent="end"/>
+ też idzie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="32.029" endTime="33.496">
+<Sync time="32.029"/>
+na Rembielińską tak 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="33.496" endTime="34.005">
+<Sync time="33.496"/>
+<Who nb="1"/>
+ma przystanek
+<Who nb="2"/>
+a ma 
+</Turn>
+<Turn speaker="spk2" startTime="34.005" endTime="35.031">
+<Sync time="34.005"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+Marywilską
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.031" endTime="45.722">
+<Sync time="35.031"/>
+a na Marywilską zaraz sprawdzę 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ na Marywilską momencik tak proszę pana tak od z Odlewniczej 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ z Odlewniczej wjeżdża w Marywilską 
+</Turn>
+<Turn speaker="spk2" startTime="45.722" endTime="46.541">
+<Sync time="45.722"/>
+dziękuję pani bar
+<Event desc="~" type="lexical" extent="begin"/>
+dzo
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="46.541" endTime="47.317">
+<Sync time="46.541"/>
+dziękuję uprzejmie
+</Turn>
+<Turn startTime="47.317" endTime="48.868">
+<Sync time="47.317"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

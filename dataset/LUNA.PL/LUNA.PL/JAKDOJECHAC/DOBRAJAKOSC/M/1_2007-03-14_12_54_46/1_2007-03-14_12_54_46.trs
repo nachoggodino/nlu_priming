@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_12_54_46" version="4" version_date="071227">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="64.496" topic="to1">
+<Turn startTime="0" endTime="1.154">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.154" endTime="2.696">
+<Sync time="1.154"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.696" endTime="19.312">
+<Sync time="2.696"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry panu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę mi powiedzieć ja ze Śródmieścia i i 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ skąd 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jedzie taki tramwaj który jedzie albo ulicą 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Aleja Zieleniecką 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a ja muszę dojechać do Teatru Powszechnego tam na Pradze
+</Turn>
+<Turn speaker="spk1" startTime="19.312" endTime="26.197">
+<Sync time="19.312"/>
+to z Alei Jerozolimskich jest siódemka ósemka dwadzieścia pięć i czterdzieści trzy
+</Turn>
+<Turn speaker="spk2" startTime="26.197" endTime="27.889">
+<Sync time="26.197"/>
+aha i one skręcają w Zieleniec
+<Event desc="~" type="lexical" extent="begin"/>
+ką
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="27.889" endTime="28.925">
+<Sync time="27.889"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ wszystkie 
+<Event desc="babble" type="noise" extent="end"/>
+ tak
+</Turn>
+<Turn speaker="spk2" startTime="28.925" endTime="32.48">
+<Sync time="28.925"/>
+z Ronda Waszyngtona siedem osiem dziewięć
+</Turn>
+<Turn speaker="spk1" startTime="32.48" endTime="34.175">
+<Sync time="32.48"/>
+siedem osiem dwadzieścia pięć
+</Turn>
+<Turn speaker="spk2" startTime="34.175" endTime="41.624">
+<Sync time="34.175"/>
+siedem osiem 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ chwileczkę ja 
+<Event desc="*" type="pronounce" extent="begin"/>
+to sobie
+<Event desc="*" type="pronounce" extent="end"/>
+ zapiszę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ siedem osiem i dwadzieścia pię
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="41.624" endTime="43.255">
+<Sync time="41.624"/>
+i czterdzieści trzy 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="43.255" endTime="46.249">
+<Sync time="43.255"/>
+ czterdzieści trzy a z Placu Bankowego 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jedzie coś 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ czy ni
+<Event desc="~" type="lexical" extent="begin"/>
+c
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="46.249" endTime="50.616">
+<Sync time="46.249"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ z Placu Bankowego 
+<Event desc="babble" type="noise" extent="end"/>
+ przez Trasę 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+W Z
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ dwadzieścia sześć
+</Turn>
+<Turn speaker="spk2" startTime="50.616" endTime="51.405">
+<Sync time="50.616"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="51.405" endTime="53.727">
+<Sync time="51.405"/>
+ale przez Trasę 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+W Z
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="53.727" endTime="57.196">
+<Sync time="53.727"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ale skręca potem w 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ w Targową 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ czy nie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="57.196" endTime="58.56">
+<Sync time="57.196"/>
+w Targową skręca tak
+</Turn>
+<Turn speaker="spk2" startTime="58.56" endTime="60.873">
+<Sync time="58.56"/>
+aha dwadzieścia sześć dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="60.873" endTime="61.709">
+<Sync time="60.873"/>
+<Who nb="1"/>
+ do usłyszenia
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="61.709" endTime="62.379">
+<Sync time="61.709"/>
+do usłyszenia
+</Turn>
+<Turn startTime="62.379" endTime="64.496">
+<Sync time="62.379"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

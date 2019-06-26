@@ -1,0 +1,50 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_9" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_13..word_17" attribute="SOURCE_STP" value="Praga Południe Ratusz" />
+  <concept id="6" span="word_19" attribute="ACTION" value="Approach" />
+  <concept id="7" span="word_20..word_22" attribute="GOAL_STP" value="Wiertnicza" />
+  <concept id="8" span="word_23..word_26" attribute="AT_HOUR" value="21 : 30" />
+  <concept id="9" span="word_29" attribute="ACTION" value="Wait" />
+  <concept id="10" span="word_30" attribute="REACTION" value="Confirmation" />
+  <concept id="11" span="word_33" attribute="CONNECTION_F" value="Shortest" />
+  <concept id="12" span="word_34" attribute="TRAM" value="8" />
+  <concept id="13" span="word_35..word_38" attribute="GOAL_STP" value="Muzeum Narodowe" />
+  <concept id="14" span="word_40" attribute="SOURCE_REL" value="FromThere" />
+  <concept id="15" span="word_41..word_43" attribute="BUS" value="180" />
+  <concept id="16" span="word_45" attribute="CONNECTION_F" value="Direct" />
+  <concept id="17" span="word_46..word_47" attribute="GOAL_STR" value="Wiertnicza" />
+  <concept id="18" span="word_48" attribute="REACTION" value="Confirmation" />
+  <concept id="19" span="word_50..word_57" attribute="Q_DEPARTURE" value="General" />
+  <concept id="20" span="word_59..word_60" attribute="Q_WHAT_TIME" value="Trip" />
+  <concept id="21" span="word_62" attribute="ACTION" value="ToBe" />
+  <concept id="22" span="word_66" attribute="ACTION" value="Tell" />
+  <concept id="23" span="word_69..word_72" attribute="AT_HOUR" value="21 : 30" />
+  <concept id="24" span="word_73" attribute="ACTION" value="Request" />
+  <concept id="25" span="word_74" attribute="ACTION" value="Approach" />
+  <concept id="26" span="word_75..word_76" attribute="GOAL_STR" value="Wiertnicza" />
+  <concept id="27" span="word_77" attribute="TRAM" value="8" />
+  <concept id="28" span="word_78..word_80" attribute="AT_HOUR" value="20 : 36" />
+  <concept id="29" span="word_81..word_82" attribute="BUS" value="180" />
+  <concept id="30" span="word_83..word_85" attribute="SOURCE_STP" value="Foksal" />
+  <concept id="31" span="word_89" attribute="ACTION" value="ToPass" />
+  <concept id="32" span="word_90..word_91" attribute="GOAL_STP" value="General" />
+  <concept id="33" span="word_92..word_94" attribute="LOCATION_STR" value="Nowy Świat" />
+  <concept id="34" span="word_95" attribute="REACTION" value="Confirmation" />
+  <concept id="35" span="word_96" attribute="REACTION" value="Confirmation" />
+  <concept id="36" span="word_97" attribute="REACTION" value="Confirmation" />
+  <concept id="37" span="word_98..word_100" attribute="AT_HOUR" value="21 : 03" />
+  <concept id="38" span="word_101..word_103" attribute="AT_HOUR" value="21 : 03" />
+  <concept id="39" span="word_104" attribute="REACTION" value="Confirmation" />
+  <concept id="40" span="word_106..word_108" attribute="AT_HOUR" value="20 : 36" />
+  <concept id="41" span="word_110" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="42" span="word_111" attribute="ACTION" value="ToBe" />
+  <concept id="43" span="word_113..word_115" attribute="TIME_REL" value="Now" />
+  <concept id="44" span="word_117..word_119" attribute="AT_HOUR" value="20 : 26" />
+  <concept id="45" span="word_120..word_122" attribute="AT_HOUR" value="20 : 26" />
+  <concept id="46" span="word_123" attribute="REACTION" value="Confirmation" />
+  <concept id="47" span="word_128..word_129" attribute="CONV_FORM" value="BYE" />
+  <concept id="48" span="word_130..word_131" attribute="CONV_FORM" value="BYE" />
+</concepts>

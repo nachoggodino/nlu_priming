@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-27_10_22_47" version="2" version_date="071114">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="40.9974375" topic="to1">
+<Turn startTime="0" endTime="0.432">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.432" endTime="1.675">
+<Sync time="0.432"/>
+xxx dzień dobry 
+</Turn>
+<Turn speaker="spk2" startTime="1.675" endTime="8.089">
+<Sync time="1.675"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę pana czy autobus sto dwanaście w tej chwili jeździ do Marek tam do Ikei 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="8.089" endTime="9.708">
+<Sync time="8.089"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak do tej pętli
+</Turn>
+<Turn speaker="spk2" startTime="9.708" endTime="11.674">
+<Sync time="9.708"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do tej pętli tam w dalszym ciągu jeździ sto 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.674" endTime="12.552">
+<Sync time="11.674"/>
+dokładnie tak
+</Turn>
+<Turn speaker="spk2" startTime="12.552" endTime="20.364">
+<Sync time="12.552"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ a może pan mi 
+<Event desc="*" type="pronounce" extent="begin"/>
+powiedzieć
+<Event desc="*" type="pronounce" extent="end"/>
+ na 
+<Event desc="*" type="pronounce" extent="begin"/>
+przykład
+<Event desc="*" type="pronounce" extent="end"/>
+ tak po dwunastej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ z Mostu Toruńskiego to znaczy no 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.364" endTime="20.669">
+<Sync time="20.364"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.669" endTime="22.052">
+<Sync time="20.669"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ no z Gwiaździstej no 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="22.052" endTime="23.723">
+<Sync time="22.052"/>
+aha czy
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+i tu od osiedla Potok 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="23.723" endTime="30.839">
+<Sync time="23.723"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ po dwunastej tak w pół do pierwszej po pie
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.839" endTime="32.222">
+<Sync time="30.839"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ dwunasta 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="32.222" endTime="33.612">
+<Sync time="32.222"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ między 
+<Event desc="babble" type="noise" extent="end"/>
+ dwunastą a pierwszą
+</Turn>
+<Turn speaker="spk1" startTime="33.612" endTime="34.815">
+<Sync time="33.612"/>
+dwunasta szesnaście
+</Turn>
+<Turn speaker="spk2" startTime="34.815" endTime="35.214">
+<Sync time="34.815"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="35.214" endTime="36.67">
+<Sync time="35.214"/>
+dwunasta trzydzieści cztery
+</Turn>
+<Turn speaker="spk2" startTime="36.67" endTime="37.03">
+<Sync time="36.67"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="37.03" endTime="38.296">
+<Sync time="37.03"/>
+dwunasta pięćdziesiąt dwa
+</Turn>
+<Turn speaker="spk2" startTime="38.296" endTime="38.734">
+<Sync time="38.296"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="38.734" endTime="39.188">
+<Sync time="38.734"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="39.188" endTime="39.579">
+<Sync time="39.188"/>
+bardzo
+</Turn>
+<Turn startTime="39.579" endTime="40.9974375">
+<Sync time="39.579"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

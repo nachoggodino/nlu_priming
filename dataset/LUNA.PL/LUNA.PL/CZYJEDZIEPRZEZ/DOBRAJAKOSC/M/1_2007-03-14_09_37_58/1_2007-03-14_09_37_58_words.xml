@@ -1,0 +1,43 @@
+<words>
+  <word id="1" word="xxx" lemma="xxx" POS="Np" morph="case.number.gender" />
+  <word id="2" word="dzień" lemma="dzień" POS="Nc" morph="nom.sg.m3" />
+  <word id="3" word="dobry" lemma="dobry" POS="ADJc" morph="nom.sg.masc" />
+  <word id="4" word="dzień" lemma="dzień" POS="Nc" morph="nom.sg.m3" />
+  <word id="5" word="dobry" lemma="dobry" POS="ADJc" morph="nom.sg.masc" />
+  <word id="6" word="proszę" lemma="prosić" POS="VV" morph="1.sg.gender.pres.ind.imperf" />
+  <word id="7" word="pana" lemma="pan" POS="Nc" morph="gen.sg.m1" />
+  <word id="8" word="ja" lemma="ja" POS="PPER" morph="1.nom.sg.gender" />
+  <word id="9" word="chciałem" lemma="chcieć" POS="VV" morph="1.sg.masc.past.ind.imperf " />
+  <word id="10" word="zapytać" lemma="zapytać" POS="VV" morph="inf.perf" />
+  <word id="11" word="o" lemma="o" POS="PreP" morph="-" />
+  <word id="12" word="linię" lemma="linia" POS="Nc" morph="acc.sg.fem" />
+  <word id="13" word="siedemset" lemma="siedemset" POS="NUM" morph="nom.nm1" />
+  <word id="14" word="idzie" lemma="iść" POS="VV" morph="3.sg.gender.pres.ind.imperf" />
+  <word id="15" word="do" lemma="do" POS="PreP" morph="-" />
+  <word id="16" word="Konstancina" lemma="Konstancin" POS="Np" morph="gen.sg.m3" />
+  <word id="17" word="tak" lemma="tak" POS="PART" morph="-" />
+  <word id="18" word="?" lemma="?" POS="PQ" morph="-" />
+  <word id="19" word="siedemset" lemma="siedemset" POS="NUM" morph="nom.nm1" />
+  <word id="20" word="tak" lemma="tak" POS="PART" morph="-" />
+  <word id="21" word="od" lemma="od" POS="PreP" morph="-" />
+  <word id="22" word="Centralnego" lemma="Centralny" POS="ADJp" morph="gen.sg.masc|neut" />
+  <word id="23" word="do" lemma="do" POS="PreP" morph="-" />
+  <word id="24" word="Konstancina" lemma="Konstancin" POS="Np" morph="gen.sg.m3" />
+  <word id="25" word="tak" lemma="tak" POS="PART" morph="-" />
+  <word id="26" word="którędy" lemma="którędy" POS="PART" morph="-" />
+  <word id="27" word="on" lemma="on" POS="PPER" morph="3.nom.sg.masc" />
+  <word id="28" word="jedzie" lemma="jechać" POS="VV" morph="3.sg.gender.pres.ind.imperf" />
+  <word id="29" word="od" lemma="od" POS="PreP" morph="-" />
+  <word id="30" word="Centralnego" lemma="Centralny" POS="ADJp" morph="gen.sg.masc|neut" />
+  <word id="31" word="on" lemma="on" POS="PPER" morph="3.nom.sg.masc" />
+  <word id="32" word="jedzie" lemma="jechać" POS="VV" morph="3.sg.gender.pres.ind.imperf" />
+  <word id="33" word="przez" lemma="przez" POS="PreP" morph="-" />
+  <word id="34" word="Chałubińskiego" lemma="Chałubiński" POS="ADJp" morph="gen.sg.masc|neut" />
+  <word id="35" word="Aleję" lemma="Aleja" POS="Np" morph="acc.sg.fem" />
+  <word id="36" word="Niepodległości" lemma="Niepodległość" POS="Np" morph="gen.sg.fem" />
+  <word id="37" word="aha" lemma="aha" POS="ITJ" morph="-" />
+  <word id="38" word="dziękuję" lemma="dziękować" POS="VV" morph="1.sg.gender.pres.ind.imperf" />
+  <word id="39" word="dziękuję" lemma="dziękować" POS="VV" morph="1.sg.gender.pres.ind.imperf" />
+  <word id="40" word="bardzo" lemma="bardzo" POS="ADV" morph="pos" />
+  <word id="41" word="dziękuję" lemma="dziękować" POS="VV" morph="1.sg.gender.pres.ind.imperf" />
+</words>

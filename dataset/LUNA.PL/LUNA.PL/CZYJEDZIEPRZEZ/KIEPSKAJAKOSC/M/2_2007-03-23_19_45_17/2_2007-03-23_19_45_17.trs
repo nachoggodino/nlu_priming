@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_19_45_17" version="6" version_date="080103">
+<Topics>
+<Topic id="to1" desc="male user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="62.496" topic="to1">
+<Turn startTime="0" endTime="0.594">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.594" endTime="2.78">
+<Sync time="0.594"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobry wieczór xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.78" endTime="20.184">
+<Sync time="2.78"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry 
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ pani chciałbym się dowiedzieć bo tutaj mam taki problem malutki 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy autobus 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czterysta siedem 
+<Event desc="sta" type="noise" extent="begin"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ trzydzieści dziewięć 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ na rozjeździe jest zazna
+<Event desc="~" type="lexical" extent="begin"/>
+czony
+<Event desc="~" type="lexical" extent="end"/>
+ na 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ na 
+<Event desc="*" type="pronounce" extent="begin"/>
+rozpisce
+<Event desc="*" type="pronounce" extent="end"/>
+ jest zaznaczone że on nie zjeżdża do zajezdni tylko jedzie normalną trasą 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.184" endTime="23.455">
+<Sync time="20.184"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+już
+<Event desc="babble" type="noise" extent="end"/>
+ patrzymy ze Skarbka Z Gór tak czterysta
+</Turn>
+<Turn speaker="spk1 spk2" startTime="23.455" endTime="24.138">
+<Sync time="23.455"/>
+<Who nb="1"/>
+siedem 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="24.138" endTime="26.905">
+<Sync time="24.138"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ on jest tam dziewiętnasta trzydzieści siedem 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.905" endTime="31.44">
+<Sync time="26.905"/>
+dziewiętnasta nie dziewiętnasta trzydzieści trzy to jest zjazdowy kurs 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="31.44" endTime="32.321">
+<Sync time="31.44"/>
+<Who nb="1"/>
+to jest tylko do 
+<Who nb="2"/>
+dziewiętnasta
+</Turn>
+<Turn speaker="spk1" startTime="32.321" endTime="46.3">
+<Sync time="32.321"/>
+przystanku Małej Brzozy dziewiętnasta trzydzieści trzy a w niej teraz mam tylko zjazdowe kursy dwudziesta zero trzy i trzydzieści trzy już są tylko zjazdowe proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tylko do przystanku Małej Brzozy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="46.3" endTime="51.623">
+<Sync time="46.3"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ bo tam właśnie 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+i
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ nie ma tego 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ przy przy tym 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="51.623" endTime="53.596">
+<Sync time="51.623"/>
+przy dziewiętnastej trzydzieści trzy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="53.596" endTime="55.639">
+<Sync time="53.596"/>
+przy dziewiętnaście trzydzieści tak
+</Turn>
+<Turn speaker="spk1" startTime="55.639" endTime="57.696">
+<Sync time="55.639"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ trzy dobrze ja zgłoszę proszę pana 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="57.696" endTime="59.29">
+<Sync time="57.696"/>
+
+<Event desc="sta" type="noise" extent="begin"/>
+ dobrze dziękuję 
+<Event desc="sta" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="59.29" endTime="60.811">
+<Sync time="59.29"/>
+dziękuję 
+<Event desc="babble" type="noise" extent="begin"/>
+uprzejmie
+<Event desc="babble" type="noise" extent="end"/>
+ dobrano
+<Event desc="~" type="lexical" extent="begin"/>
+c
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn startTime="60.811" endTime="62.496">
+<Sync time="60.811"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

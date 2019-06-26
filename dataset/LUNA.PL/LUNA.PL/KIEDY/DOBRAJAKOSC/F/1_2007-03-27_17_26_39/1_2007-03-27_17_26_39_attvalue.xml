@@ -1,0 +1,45 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_13" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_14" attribute="ACTION" value="ToAsk" />
+  <concept id="6" span="word_15..word_17" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="7" span="word_19" attribute="ACTION" value="ToHave" />
+  <concept id="8" span="word_20..word_22" attribute="BUS" value="704" />
+  <concept id="9" span="word_23..word_25" attribute="SOURCE_STR" value="Grochowska" />
+  <concept id="10" span="word_27" attribute="STOP_DESCRIPTION" value="General" />
+  <concept id="11" span="word_28..word_29" attribute="LOCATION_BLD" value="Real" />
+  <concept id="12" span="word_30..word_32" attribute="GOAL_DIRECTION_TOWN" value="Wesoła" />
+  <concept id="13" span="word_34" attribute="ACTION" value="Check" />
+  <concept id="14" span="word_35" attribute="DEPARTURE" value="Nearest" />
+  <concept id="15" span="word_36" attribute="ACTION" value="ToBe" />
+  <concept id="16" span="word_37..word_39" attribute="AT_HOUR" value="17 : 54" />
+  <concept id="17" span="word_40..word_41" attribute="DEPARTURE" value="Next" />
+  <concept id="18" span="word_42..word_44" attribute="AT_HOUR" value="18 : 42" />
+  <concept id="19" span="word_47" attribute="REACTION" value="Negation" />
+  <concept id="20" span="word_52..word_53" attribute="AT_HOUR_MINPART" value="54" />
+  <concept id="21" span="word_57" attribute="ACTION" value="Tell" />
+  <concept id="22" span="word_59..word_60" attribute="AT_HOUR_MINPART" value="54" />
+  <concept id="23" span="word_61..word_63" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="24" span="word_64" attribute="ACTION" value="ToBe" />
+  <concept id="25" span="word_65" attribute="TIME_REL" value="Later" />
+  <concept id="26" span="word_67..word_71" attribute="LOCATION_CROSSROADS" value="CROSS  Jana Pawła" />
+  <concept id="27" span="word_74" attribute="STREET" value="Jana Pawła" />
+  <concept id="28" span="word_76" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="29" span="word_77" attribute="LOCATION_REL" value="There" />
+  <concept id="30" span="word_78" attribute="ACTION" value="ToBe" />
+  <concept id="31" span="word_79..word_82" attribute="STOP_DESCRIPTION" value="Praskiego Pułku" />
+  <concept id="32" span="word_83" attribute="REACTION" value="Confirmation" />
+  <concept id="33" span="word_84..word_86" attribute="STOP_DESCRIPTION" value="Pierwszego Praskiego Pułku" />
+  <concept id="34" span="word_87" attribute="REACTION" value="Confirmation" />
+  <concept id="35" span="word_91..word_92" attribute="AT_HOUR" value="18 : 11" />
+  <concept id="36" span="word_93" attribute="ACTION" value="ToBe" />
+  <concept id="37" span="word_94" attribute="BUS" value="General" />
+  <concept id="38" span="word_95..word_96" attribute="LOCATION_REL" value="There" />
+  <concept id="39" span="word_97..word_98" attribute="AT_HOUR" value="18 : 11" />
+  <concept id="40" span="word_99" attribute="REACTION" value="Confirmation" />
+  <concept id="41" span="word_103" attribute="REACTION" value="Confirmation" />
+  <concept id="42" span="word_109..word_110" attribute="CONV_FORM" value="BYE" />
+  <concept id="43" span="word_111..word_112" attribute="CONV_FORM" value="BYE" />
+</concepts>

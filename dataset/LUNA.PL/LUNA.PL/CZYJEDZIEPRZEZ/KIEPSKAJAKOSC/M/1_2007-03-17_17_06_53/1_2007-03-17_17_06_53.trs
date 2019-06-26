@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-17_17_06_53" version="2" version_date="070907">
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="male user, low recording quality"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="20.999" topic="to1">
+<Turn startTime="0" endTime="1.109">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.109" endTime="2.883">
+<Sync time="1.109"/>
+<Event desc="*" type="pronounce" extent="begin"/>dzień<Event desc="*" type="pronounce" extent="end"/> dobry xxx
+</Turn>
+<Turn speaker="spk2" startTime="2.883" endTime="8.44">
+<Sync time="2.883"/>
+<Event desc="noise" type="noise" extent="begin"/> dzień dobry proszę panią na jakiej trasie jeździ pięćset trzy Natolin Północny a drugi kraniec <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/> 
+</Turn>
+<Turn speaker="spk1" startTime="8.44" endTime="11.748">
+<Sync time="8.44"/>
+<Event desc="*" type="pronounce" extent="begin"/>jedzie<Event desc="*" type="pronounce" extent="end"/> teraz proszę pana na Nowodwory <Event desc="silence" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="11.748" endTime="13.521">
+<Sync time="11.748"/>
+<Event desc="noise" type="noise" extent="begin"/> a jak się nazywa kraniec <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="13.521" endTime="14.908">
+<Sync time="13.521"/>
+Nowodwory
+</Turn>
+<Turn speaker="spk2" startTime="14.908" endTime="16.343">
+<Sync time="14.908"/>
+<Event desc="noise" type="noise" extent="begin"/> pięćset trzy na Nowodwory jeździ <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="16.343" endTime="17.378">
+<Sync time="16.343"/>
+ <Event desc="babble" type="noise" extent="begin"/> tak tak <Event desc="noise" type="noise" extent="end"/> 
+</Turn>
+<Turn speaker="spk2" startTime="17.378" endTime="18.228">
+<Sync time="17.378"/>
+<Event desc="noise" type="noise" extent="begin"/> dobrze dziękuję <Event desc="noise" type="noise" extent="end"/> 
+</Turn>
+<Turn speaker="spk1" startTime="18.228" endTime="18.627">
+<Sync time="18.228"/>
+proszę
+</Turn>
+<Turn startTime="18.627" endTime="20.999">
+<Sync time="18.627"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

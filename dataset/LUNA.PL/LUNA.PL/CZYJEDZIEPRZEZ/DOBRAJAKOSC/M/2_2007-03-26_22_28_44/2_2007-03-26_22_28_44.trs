@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-26_22_28_44" version="7" version_date="100914">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="127.492" topic="to1">
+<Turn startTime="0" endTime="0.733">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.733" endTime="2.025">
+<Sync time="0.733"/>
+dobry wieczór xxx
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2.025" endTime="3.329">
+<Sync time="2.025"/>
+<Who nb="1"/>
+słucham
+<Who nb="2"/>
+dobry wieczór
+</Turn>
+<Turn speaker="spk2" startTime="3.329" endTime="11.082">
+<Sync time="3.329"/>
+proszę pana ja mam takie pytanie czy szóstka z Bielan chodzi na 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ na Gocławek 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.082" endTime="12.214">
+<Sync time="11.082"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="12.214" endTime="12.747">
+<Sync time="12.214"/>
+chodzi 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.747" endTime="13.75">
+<Sync time="12.747"/>
+tak
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="13.75" endTime="15.138">
+<Sync time="13.75"/>
+normalnie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ bo 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="15.138" endTime="15.662">
+<Sync time="15.138"/>
+<Who nb="1"/>
+tam jest
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="15.662" endTime="20.645">
+<Sync time="15.662"/>
+to 
+<Event desc="~" type="lexical" extent="begin"/>
+zn
+<Event desc="~" type="lexical" extent="end"/>
+aczy nie no 
+<Event desc="*" type="pronounce" extent="begin"/>
+tu
+<Event desc="*" type="pronounce" extent="end"/>
+ mam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ mała zmiana trasy bo ma 
+<Event desc="babble" type="noise" extent="begin"/>
+ Słowackiego 
+<Event desc="babble" type="noise" extent="end"/>
+ nie jeździć
+</Turn>
+<Turn speaker="spk2" startTime="20.645" endTime="21.785">
+<Sync time="20.645"/>
+ano tak tak
+</Turn>
+<Turn speaker="spk2 spk1" startTime="21.785" endTime="22.335">
+<Sync time="21.785"/>
+<Who nb="1"/>
+Słowac
+<Event desc="~" type="lexical" extent="begin"/>
+kiego
+<Event desc="~" type="lexical" extent="end"/>
+
+<Who nb="2"/>
+przez
+</Turn>
+<Turn speaker="spk1" startTime="22.335" endTime="24.502">
+<Sync time="22.335"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ przez Rondo Radosława będzie jechała 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.502" endTime="25.295">
+<Sync time="24.502"/>
+Radosława
+</Turn>
+<Turn speaker="spk1" startTime="25.295" endTime="29.087">
+<Sync time="25.295"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale na Gocławek 
+<Event desc="babble" type="noise" extent="end"/>
+ normalnie do 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do 
+<Event desc="babble" type="noise" extent="begin"/>
+ docelowo 
+<Event desc="babble" type="noise" extent="end"/>
+ dojeżdża
+</Turn>
+<Turn speaker="spk2" startTime="29.087" endTime="29.85">
+<Sync time="29.087"/>
+dojeżdża
+</Turn>
+<Turn speaker="spk1" startTime="29.85" endTime="30.946">
+<Sync time="29.85"/>
+tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="30.946" endTime="34.251">
+<Sync time="30.946"/>
+dobrze czy to wcześniej na Bielanach jest 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="34.251" endTime="35.655">
+<Sync time="34.251"/>
+znaczy nie rozumiem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="35.655" endTime="38.51">
+<Sync time="35.655"/>
+czy wcześniej przyjazd jest czy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+odjazd
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.51" endTime="41.232">
+<Sync time="38.51"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ a czy rozkład się 
+<Event desc="*" type="pronounce" extent="begin"/>
+zmienił
+<Event desc="*" type="pronounce" extent="end"/>
+ zaraz panu 
+<Event desc="babble" type="noise" extent="end"/>
+ powiem 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="41.232" endTime="41.782">
+<Sync time="41.232"/>
+tak 
+</Turn>
+<Turn speaker="spk1" startTime="41.782" endTime="44.009">
+<Sync time="41.782"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a z jakiego przystanku 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="44.009" endTime="48.099">
+<Sync time="44.009"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ zaraz chwileczkę tutaj pan 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ halo
+</Turn>
+<Turn speaker="spk1" startTime="48.099" endTime="51.413">
+<Sync time="48.099"/>
+z jakiego przystanku proszę pana 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ pan 
+<Event desc="babble" type="noise" extent="begin"/>
+ będzie jechał na 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="51.413" endTime="57.5">
+<Sync time="51.413"/>
+ja od od Stadionu 
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+siadam 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ przy Stadionie
+</Turn>
+<Turn speaker="spk1" startTime="57.5" endTime="59.703">
+<Sync time="57.5"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+czyli
+<Event desc="*" type="pronounce" extent="end"/>
+ tam przy Teatrze Powszechnym 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="59.703" endTime="63.953">
+<Sync time="59.703"/>
+a nie w tego w tamten do do na do Gocławka tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="63.953" endTime="64.329">
+<Sync time="63.953"/>
+no 
+</Turn>
+<Turn speaker="spk2" startTime="64.329" endTime="66.816">
+<Sync time="64.329"/>
+to z przystanka Żeromskiego
+</Turn>
+<Turn speaker="spk1" startTime="66.816" endTime="70.675">
+<Sync time="66.816"/>
+aha czyli z Żeromskiego na Gocławek
+</Turn>
+<Turn speaker="spk2" startTime="70.675" endTime="71.174">
+<Sync time="70.675"/>
+no
+</Turn>
+<Turn speaker="spk1" startTime="71.174" endTime="72.932">
+<Sync time="71.174"/>
+w tej chwili interesuje pana odjazd
+</Turn>
+<Turn speaker="spk2" startTime="72.932" endTime="74.866">
+<Sync time="72.932"/>
+nie nie rano 
+</Turn>
+<Turn speaker="spk1" startTime="74.866" endTime="76.67">
+<Sync time="74.866"/>
+rano jutro jakie godziny 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="76.67" endTime="81.171">
+<Sync time="76.67"/>
+no tak gdzieś 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ szósta
+</Turn>
+<Turn speaker="spk1" startTime="81.171" endTime="85.723">
+<Sync time="81.171"/>
+no to jest szósta trzy czternaście trzydzieści jeden nic się nie zmieniło
+</Turn>
+<Turn speaker="spk2" startTime="85.723" endTime="87.491">
+<Sync time="85.723"/>
+a przed szóstą też się nic nie zmienił
+<Event desc="~" type="lexical" extent="begin"/>
+o
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="87.491" endTime="89.01">
+<Sync time="87.491"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+nie
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="89.01" endTime="90.916">
+<Sync time="89.01"/>
+i ona leci normalnie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="90.916" endTime="98.218">
+<Sync time="90.916"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy nie do końca normalnie no bo 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tutaj nie jedzie na na 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przez Słowackiego zaraz powiem jak on dokładnie będzie jechał
+</Turn>
+<Turn speaker="spk2" startTime="98.218" endTime="100.856">
+<Sync time="98.218"/>
+no 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="100.856" endTime="113.438">
+<Sync time="100.856"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Marymoncka 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ skręca w Popiełuszki jedzie przez Plac 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Grunwaldzki Rondo 
+<Event desc="noise" type="noise" extent="begin"/>
+ Radosława 
+<Event desc="noise" type="noise" extent="end"/>
+ później Słomińskiego Most Gdański i 
+<Event desc="babble" type="noise" extent="begin"/>
+ dalej już 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ na Gocławek 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="113.438" endTime="116.575">
+<Sync time="113.438"/>
+a 
+<Event desc="*" type="pronounce" extent="begin"/>
+jedzie
+<Event desc="*" type="pronounce" extent="end"/>
+ przez Wisłę i normalnie tak już da
+<Event desc="~" type="lexical" extent="begin"/>
+lej
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="116.575" endTime="118.23">
+<Sync time="116.575"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ak tak Mostem Gdańskim normalnie
+</Turn>
+<Turn speaker="spk2" startTime="118.23" endTime="120.932">
+<Sync time="118.23"/>
+aha no no to dobra to dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="120.932" endTime="121.594">
+<Sync time="120.932"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn startTime="121.594" endTime="127.492">
+<Sync time="121.594"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

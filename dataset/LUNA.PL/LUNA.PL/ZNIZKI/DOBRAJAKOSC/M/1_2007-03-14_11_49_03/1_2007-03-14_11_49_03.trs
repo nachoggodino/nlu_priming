@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_11_49_03" version="4" version_date="091207">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="user2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="53.997" topic="to1">
+<Turn startTime="0" endTime="1.143">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.143" endTime="2.671">
+<Sync time="1.143"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.671" endTime="10.582">
+<Sync time="2.671"/>
+dzień dobry proszę pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja dzwonię w takiej sprawie student jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ za granicą tam studiuje 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy jemu przysługują tu ulgowe bilety 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.582" endTime="16.947">
+<Sync time="10.582"/>
+jeżeli będzie miał legitymację 
+<Event desc="*" type="pronounce" extent="begin"/>
+ 
+<Event desc="en" type="language" extent="begin"/>
+ ISIC 
+<Event desc="en" type="language" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.947" endTime="18.15">
+<Sync time="16.947"/>
+zaraz 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.15" endTime="21.063">
+<Sync time="18.15"/>
+bo tylko na 
+<Event desc="*" type="pronounce" extent="begin"/>
+ 
+<Event desc="en" type="language" extent="begin"/>
+ ISIC 
+<Event desc="en" type="language" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="end"/>
+ i tylko do dwudziestu sześciu lat
+</Turn>
+<Turn speaker="spk3" startTime="21.063" endTime="22.297">
+<Sync time="21.063"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę
+</Turn>
+<Turn speaker="spk1" startTime="22.297" endTime="23.117">
+<Sync time="22.297"/>
+dzień dobry
+</Turn>
+<Turn speaker="spk3" startTime="23.117" endTime="23.57">
+<Sync time="23.117"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.57" endTime="25.838">
+<Sync time="23.57"/>
+ma pan legitymację 
+<Event desc="*" type="pronounce" extent="begin"/>
+ 
+<Event desc="en" type="language" extent="begin"/>
+ ISIC 
+<Event desc="en" type="language" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="end"/>
+ wystawioną za granicą 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="25.838" endTime="27.372">
+<Sync time="25.838"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ taka zielona
+</Turn>
+<Turn speaker="spk1 spk3" startTime="27.372" endTime="28.161">
+<Sync time="27.372"/>
+<Who nb="1"/>
+zielona tak
+<Who nb="2"/>
+mam mam
+</Turn>
+<Turn speaker="spk3" startTime="28.161" endTime="28.907">
+<Sync time="28.161"/>
+mam
+</Turn>
+<Turn speaker="spk1" startTime="28.907" endTime="30.752">
+<Sync time="28.907"/>
+i ma pan mniej niż dwadzieścia sześć lat 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="30.752" endTime="31.489">
+<Sync time="30.752"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ oczy
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+iście 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.489" endTime="37.458">
+<Sync time="31.489"/>
+no to ulga przys
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+uguje panu tylko to jest inna ulga niż mają polscy studenci bo to jest ulga czterdzieści osiem procent
+</Turn>
+<Turn speaker="spk3" startTime="37.458" endTime="38.489">
+<Sync time="37.458"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ a inna ulga 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.489" endTime="45.306">
+<Sync time="38.489"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+ i musi pan ze sobą mieć właśnie zawsze w 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w pojeździe tą legitymację 
+<Event desc="*" type="pronounce" extent="begin"/>
+ 
+<Event desc="en" type="language" extent="begin"/>
+ ISIC 
+<Event desc="en" type="language" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="end"/>
+ bo to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ dowód do 
+<Event desc="babble" type="noise" extent="begin"/>
+ ulgi czterdzieści 
+<Event desc="babble" type="noise" extent="end"/>
+ osiem procent
+</Turn>
+<Turn speaker="spk3" startTime="45.306" endTime="46.452">
+<Sync time="45.306"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ oczy
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+iście 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="46.452" endTime="48.291">
+<Sync time="46.452"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to 
+<Event desc="babble" type="noise" extent="end"/>
+ ma pan 
+<Event desc="noise" type="noise" extent="begin"/>
+ ulgę 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="48.291" endTime="48.427">
+<Sync time="48.291"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ a dziękuję bardzo 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="48.427" endTime="49.225">
+<Sync time="48.427"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dziękuję
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="49.225" endTime="49.926">
+<Sync time="49.225"/>
+dziękuję do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="49.926" endTime="50.545">
+<Sync time="49.926"/>
+do widzenia
+</Turn>
+<Turn startTime="50.545" endTime="53.997">
+<Sync time="50.545"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

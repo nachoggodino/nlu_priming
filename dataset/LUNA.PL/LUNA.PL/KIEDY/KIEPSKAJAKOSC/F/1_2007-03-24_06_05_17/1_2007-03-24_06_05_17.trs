@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-24_06_05_17" version="2" version_date="071103">
+<Topics>
+<Topic id="to1" desc="female user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="19.99875" topic="to1">
+<Turn startTime="0" endTime="0.656">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.656" endTime="2.085">
+<Sync time="0.656"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.085" endTime="6.51">
+<Sync time="2.085"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry tramwaj trzydzieści dwa z Placu Bankowego z kierunku Pragi 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="6.51" endTime="15.395">
+<Sync time="6.51"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ szósta czterdzieści dwa najbliższy 
+</Turn>
+<Turn speaker="spk2" startTime="15.395" endTime="16.992">
+<Sync time="15.395"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="16.992" endTime="17.541">
+<Sync time="16.992"/>
+do widzenia
+</Turn>
+<Turn startTime="17.541" endTime="19.99875">
+<Sync time="17.541"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

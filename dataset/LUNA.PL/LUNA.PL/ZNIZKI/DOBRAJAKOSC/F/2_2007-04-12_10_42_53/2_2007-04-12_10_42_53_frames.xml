@@ -1,0 +1,12 @@
+<Frames>
+  <Set id="1" subset="1" span="word_14" frame="PERMITTING" head="upoważniać">
+    <Frame fe="1" span="word_11..word_13" concept_id="4" name="PRINCIPLE" />
+    <Frame fe="2" span="word_16" concept_id="6" name="STATE_OF_AFFAIRS" />
+  </Set>
+  <Set id="2" subset="1" span="word_31" frame="PERMITTING" head="upoważniać">
+    <Frame fe="1" span="word_39..word_40" concept_id="16" name="PRINCIPLE" />
+  </Set>
+  <Set id="3" subset="1" span="word_54" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_55..word_60" concept_id="24" name="PRIVILEGE" />
+  </Set>
+</Frames>

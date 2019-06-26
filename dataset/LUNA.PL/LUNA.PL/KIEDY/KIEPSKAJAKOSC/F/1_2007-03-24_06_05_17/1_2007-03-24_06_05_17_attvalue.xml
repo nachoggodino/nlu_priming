@@ -1,0 +1,13 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_6..word_8" attribute="TRAM" value="32" />
+  <concept id="5" span="word_9..word_11" attribute="SOURCE_STR" value="Plac Bankowy" />
+  <concept id="6" span="word_12..word_14" attribute="SOURCE_DIRECTION_TD" value="Praga" />
+  <concept id="7" span="word_15" attribute="REACTION" value="Confirmation" />
+  <concept id="8" span="word_16..word_18" attribute="AT_HOUR" value="6 : 42" />
+  <concept id="9" span="word_19" attribute="DEPARTURE" value="Nearest" />
+  <concept id="10" span="word_20..word_21" attribute="CONV_FORM" value="BYE" />
+  <concept id="11" span="word_22..word_23" attribute="CONV_FORM" value="BYE" />
+</concepts>

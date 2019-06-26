@@ -1,0 +1,17 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="REACTION" value="Confirmation" />
+  <concept id="5" span="word_12..word_13" attribute="Q_WHAT_TRM" value="Tram" />
+  <concept id="6" span="word_14..word_16" attribute="SOURCE_STR" value="Nowowiejska" />
+  <concept id="7" span="word_17" attribute="ACTION" value="Go" />
+  <concept id="8" span="word_18..word_20" attribute="GOAL_STP" value="LAST Banacha" />
+  <concept id="9" span="word_21..word_22" attribute="TRAM" value="35" />
+  <concept id="10" span="word_23" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="11" span="word_24" attribute="TRAM" value="15" />
+  <concept id="12" span="word_26..word_27" attribute="TRAM" value="35" />
+  <concept id="13" span="word_28..word_31" attribute="GOAL_STP" value="LAST  Banacha" />
+  <concept id="14" span="word_32..word_33" attribute="TRAM" value="35" />
+  <concept id="15" span="word_34" attribute="REACTION" value="Confirmation" />
+</concepts>

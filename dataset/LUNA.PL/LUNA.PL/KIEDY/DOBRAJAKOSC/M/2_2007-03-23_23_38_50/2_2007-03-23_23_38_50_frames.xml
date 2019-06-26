@@ -1,0 +1,18 @@
+<Frames>
+  <Set id="1" subset="1" span="word_13" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_11..word_12" concept_id="5" name="TIME" />
+    <Frame fe="2" span="word_15..word_18" concept_id="8" name="THEME" />
+    <Frame fe="3" span="word_19..word_21" concept_id="9" name="GOAL" />
+    <Frame fe="4" span="word_24..word_26" concept_id="10" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_35" frame="ARRIVING" head="być">
+    <Frame fe="1" span="word_34" concept_id="13" name="TIME" />
+  </Set>
+  <Set id="3" subset="1" span="word_63" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_58..word_61" concept_id="24" name="TIME" />
+    <Frame fe="2" span="word_64" concept_id="26" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_69" frame="MOTION_DIRECTIONAL" head="zjeżdżać">
+    <Frame fe="1" span="word_66..word_67" concept_id="27" name="GOAL" />
+  </Set>
+</Frames>

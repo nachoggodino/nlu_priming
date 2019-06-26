@@ -1,0 +1,12 @@
+<concepts>
+  <concept id="1" span="word_1..word_7" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_8..word_14" attribute="Q_FARE" value="Person" />
+  <concept id="3" span="word_19..word_21" attribute="PERSON" value="BloodDonor" />
+  <concept id="4" span="word_22..word_32" attribute="Q_FARE" value="BloodDonation" />
+  <concept id="5" span="word_33..word_34" attribute="NUMB_VOLUME" value="20" />
+  <concept id="6" span="word_35..word_59" attribute="INFORMATION" value="FARE_BloodDonors" />
+  <concept id="7" span="word_60..word_64" attribute="Q_CONF" value="OtherInformation" />
+  <concept id="8" span="word_65" attribute="REACTION" value="Negation" />
+  <concept id="9" span="word_66" attribute="REACTION" value="Negation" />
+  <concept id="10" span="word_72..word_73" attribute="CONV_FORM" value="BYE" />
+</concepts>

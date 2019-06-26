@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-10_12_38_20" version="3" version_date="071001">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="45.497" topic="to1">
+<Turn startTime="0" endTime="1.192">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.192" endTime="3.2">
+<Sync time="1.192"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry xxx <Event desc="*" type="pronounce" extent="begin"/>słucham<Event desc="*" type="pronounce" extent="end"/> <Event desc="int" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.2" endTime="11.561">
+<Sync time="3.2"/>
+dzień dobry panu <Event desc="filler" type="lexical" extent="instantaneous"/> <Event desc="*" type="pronounce" extent="begin"/>chciałem<Event desc="*" type="pronounce" extent="end"/> zapytać jakie obowiązują <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> opłaty <Event desc="babble" type="noise" extent="begin"/> emerytów <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="int" type="noise" extent="instantaneous"/> przejazdu o <Event desc="unintelligible" type="pronounce" extent="instantaneous"/><Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="11.561" endTime="21.058">
+<Sync time="11.561"/>
+<Event desc="babble" type="noise" extent="begin"/> proszę <Event desc="babble" type="noise" extent="end"/> pana osoby pobierające emeryturę mają prawo do przejazdu z ulgą czterdzieści osiem procent <Event desc="silence" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="21.058" endTime="25.264">
+<Sync time="21.058"/>
+i to jes<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> przez cały okres <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="int" type="noise" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/> halo
+</Turn>
+<Turn speaker="spk1" startTime="25.264" endTime="28.655">
+<Sync time="25.264"/>
+czy jeśli pobierają emeryturę tak <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="28.655" endTime="33.31">
+<Sync time="28.655"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="*" type="pronounce" extent="begin"/>ale<Event desc="*" type="pronounce" extent="end"/> było <Event desc="noise" type="noise" extent="end"/> siedemdziesiąt chyba lat by<Event desc="~" type="lexical" extent="begin"/>ło<Event desc="~" type="lexical" extent="end"/> bezpłatne zdaje się nie <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="silence" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="33.31" endTime="36.979">
+<Sync time="33.31"/>
+<Event desc="~" type="lexical" extent="begin"/>z<Event desc="~" type="lexical" extent="end"/>naczy osoby powyżej siedemdziesiątego roku życia mają prawo do przejazdów bezpłatnych
+</Turn>
+<Turn speaker="spk2" startTime="36.979" endTime="38.262">
+<Sync time="36.979"/>
+powyżej siedemdziesiątego roku
+</Turn>
+<Turn speaker="spk2 spk1" startTime="38.262" endTime="38.633">
+<Sync time="38.262"/>
+<Who nb="1"/>
+ tak <Event desc="?" type="lexical" extent="instantaneous"/>
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="38.633" endTime="41.467">
+<Sync time="38.633"/>
+<Event desc="noise" type="noise" extent="instantaneous"/> i to nie ma znaczenia czy emeryt czy nie emery<Event desc="~" type="lexical" extent="begin"/>t<Event desc="~" type="lexical" extent="end"/> tak <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="41.467" endTime="42.674">
+<Sync time="41.467"/>
+<Event desc="int" type="noise" extent="next"/>nie ma znaczenia
+</Turn>
+<Turn speaker="spk2" startTime="42.674" endTime="43.428">
+<Sync time="42.674"/>
+dziękuję panu
+</Turn>
+<Turn speaker="spk1" startTime="43.428" endTime="44.219">
+<Sync time="43.428"/>
+proszę bardzo
+</Turn>
+<Turn startTime="44.219" endTime="45.497">
+<Sync time="44.219"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

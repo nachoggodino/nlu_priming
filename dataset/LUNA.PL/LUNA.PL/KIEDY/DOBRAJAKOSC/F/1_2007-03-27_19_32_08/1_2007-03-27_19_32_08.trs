@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-27_19_32_08" version="3" version_date="070927">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="58.496" topic="to1">
+<Turn startTime="0" endTime="0.774">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.774" endTime="2.573">
+<Sync time="0.774"/>
+dzień dobry xxx w czym mogę 
+<Event desc="babble" type="noise" extent="begin"/>
+ pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.573" endTime="13.115">
+<Sync time="2.573"/>
+ dzień dobry chciałabym się dowiedzieć o autobusy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ze Żwirki Wigury przy Pruszkowskiej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jadące w kierunku Śródmieścia przed piątą rano 
+<Event desc="noise" type="noise" extent="begin"/>
+ w rozkładzie powszednim 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="13.115" endTime="14.201">
+<Sync time="13.115"/>
+z przystanku Pruszkowska 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="14.201" endTime="14.879">
+<Sync time="14.201"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+Pruszkowska
+</Turn>
+<Turn speaker="spk2" startTime="14.879" endTime="18.197">
+<Sync time="14.879"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.197" endTime="21.555">
+<Sync time="18.197"/>
+proszę panią pięćset dwanaście będzie czwarta pięćdziesiąt jeden 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.555" endTime="22.651">
+<Sync time="21.555"/>
+czwarta pięćdziesiąt jeden
+</Turn>
+<Turn speaker="spk2 spk1" startTime="22.651" endTime="23.044">
+<Sync time="22.651"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="23.044" endTime="24.35">
+<Sync time="23.044"/>
+czwarta pięćdziesiąt jeden
+</Turn>
+<Turn speaker="spk2" startTime="24.35" endTime="28.303">
+<Sync time="24.35"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ a sześćset jedenaście może jakieś
+<Event desc="noise" type="noise" extent="begin"/>
+ jest 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.303" endTime="40.454">
+<Sync time="28.303"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ sześćset jedenaście tak 
+<Event desc="noise" type="noise" extent="begin"/>
+ już 
+<Event desc="*" type="pronounce" extent="begin"/>
+zerknę
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ sześćset jedenaście byłby czwarta siedemnaście i czwarta czterdzieści siedem 
+</Turn>
+<Turn speaker="spk2" startTime="40.454" endTime="41.888">
+<Sync time="40.454"/>
+czwarta czterdzieści siedem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="41.888" endTime="42.083">
+<Sync time="41.888"/>
+<Who nb="1"/>
+ a
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="42.083" endTime="44.599">
+<Sync time="42.083"/>
+czy sto pięćdziesiąt siedem przed piątą jakieś jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="44.599" endTime="45.601">
+<Sync time="44.599"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+już
+<Event desc="*" type="pronounce" extent="end"/>
+ sprawdzam
+</Turn>
+<Turn speaker="spk2" startTime="45.601" endTime="52.561">
+<Sync time="45.601"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ jeśli można 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="52.561" endTime="54.162">
+<Sync time="52.561"/>
+sto pięćdziesią
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ piąta dziewięć dopiero
+</Turn>
+<Turn speaker="spk2 spk1" startTime="54.162" endTime="54.446">
+<Sync time="54.162"/>
+<Who nb="1"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+do
+<Event desc="~" type="lexical" extent="end"/>
+piero 
+<Who nb="2"/>
+pierwszy
+</Turn>
+<Turn speaker="spk2" startTime="54.446" endTime="55.221">
+<Sync time="54.446"/>
+dziękuję uprzejmie
+</Turn>
+<Turn speaker="spk1" startTime="55.221" endTime="55.483">
+<Sync time="55.221"/>
+proszę
+</Turn>
+<Turn speaker="spk1 spk2" startTime="55.483" endTime="55.946">
+<Sync time="55.483"/>
+<Who nb="1"/>
+bardzo
+<Who nb="2"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+do wi
+<Event desc="~" type="lexical" extent="end"/>
+dzenia
+</Turn>
+<Turn speaker="spk1" startTime="55.946" endTime="56.406">
+<Sync time="55.946"/>
+do widzenia
+</Turn>
+<Turn startTime="56.406" endTime="58.496">
+<Sync time="56.406"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

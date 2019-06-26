@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-31_09_18_17" version="4" version_date="100912">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="36.498" topic="to1">
+<Turn startTime="0" endTime="1.862">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.862" endTime="3.504">
+<Sync time="1.862"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.504" endTime="10.424">
+<Sync time="3.504"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry ja 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mam takie pytanie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy ja za dziecko pięcioipółletnie to płacę to płacę bilet w autobusie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.424" endTime="21.015">
+<Sync time="10.424"/>
+nie proszę pani dopiero 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ będzie trzeba dziecku kupić bilecik w roku kalendarzowym w którym będzie kończyło siedem lat 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ od pierwszego września
+</Turn>
+<Turn speaker="spk1 spk2" startTime="21.015" endTime="22.121">
+<Sync time="21.015"/>
+<Who nb="1"/>
+jeżeli będzie potrzeba
+<Who nb="2"/>
+czyli od czyli
+</Turn>
+<Turn speaker="spk2" startTime="22.121" endTime="24.927">
+<Sync time="22.121"/>
+od siódmego roku ja dopiero za dziecko płacę bilet
+</Turn>
+<Turn speaker="spk2 spk1" startTime="24.927" endTime="25.194">
+<Sync time="24.927"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+od
+</Turn>
+<Turn speaker="spk1" startTime="25.194" endTime="31.061">
+<Sync time="25.194"/>
+rozpoczęcia szkoły czyli od od daty tutaj pierwszy wrzesień 
+<Event desc="babble" type="noise" extent="begin"/>
+ roku kalendarzowego 
+<Event desc="babble" type="noise" extent="end"/>
+ którym dziecko ukończy 
+<Event desc="babble" type="noise" extent="begin"/>
+ siedem lat 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="31.061" endTime="32.542">
+<Sync time="31.061"/>
+rozumiem dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="32.542" endTime="34.263">
+<Sync time="32.542"/>
+<Who nb="1"/>
+bardzo do widzenia
+<Who nb="2"/>
+proszę bardzo do usłyszenia
+</Turn>
+<Turn startTime="34.263" endTime="36.498">
+<Sync time="34.263"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

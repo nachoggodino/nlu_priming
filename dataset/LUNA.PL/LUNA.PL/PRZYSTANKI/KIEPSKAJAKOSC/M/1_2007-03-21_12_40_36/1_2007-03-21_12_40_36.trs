@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-21_12_40_36" version="4" version_date="070926">
+<Topics>
+<Topic id="to1" desc="male user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="21.999" topic="to1">
+<Turn startTime="0" endTime="1.28">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.28" endTime="2.604">
+<Sync time="1.28"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.604" endTime="9.594">
+<Sync time="2.604"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry pana tam gdzie jest pętla 
+<Event desc="noise" type="noise" extent="end"/>
+ sto siedemdziesiąt trzy w Starej Miłosnej to jeszcze jakie są autobusy tam 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.594" endTime="12.862">
+<Sync time="9.594"/>
+sto trzydzieści siedem i pięćset dwa
+</Turn>
+<Turn speaker="spk2" startTime="12.862" endTime="14.768">
+<Sync time="12.862"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ a pięćset dwa to gdzie jedzie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.768" endTime="17.002">
+<Sync time="14.768"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do Dworca Centralnego przez Ostrobramską 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.002" endTime="18.417">
+<Sync time="17.002"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dziękuję bar
+<Event desc="~" type="lexical" extent="begin"/>
+dzo
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.417" endTime="19.013">
+<Sync time="18.417"/>
+dziękuję
+</Turn>
+<Turn startTime="19.013" endTime="21.999">
+<Sync time="19.013"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

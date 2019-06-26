@@ -1,0 +1,37 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_5..word_6" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_9..word_11" attribute="Q_FARE" value="WHEN" />
+  <concept id="5" span="word_12" attribute="PERSON" value="Child" />
+  <concept id="6" span="word_14" attribute="ACTION" value="Go" />
+  <concept id="7" span="word_15..word_16" attribute="FARE" value="Free" />
+  <concept id="8" span="word_20..word_22" attribute="AGE" value="SchoolAge" />
+  <concept id="9" span="word_29" attribute="PERSON" value="Child" />
+  <concept id="10" span="word_30" attribute="ACTION" value="End" />
+  <concept id="11" span="word_31..word_32" attribute="AGE" value="7" />
+  <concept id="12" span="word_33" attribute="REACTION" value="Confirmation" />
+  <concept id="13" span="word_35" attribute="PERSON" value="General" />
+  <concept id="14" span="word_37..word_39" attribute="DATE_BEG" value="1.09" />
+  <concept id="15" span="word_40" attribute="TICKET" value="General" />
+  <concept id="16" span="word_41" attribute="ACTION" value="ToBuy" />
+  <concept id="17" span="word_44" attribute="ACTION" value="Use" />
+  <concept id="18" span="word_46" attribute="BUS" value="General" />
+  <concept id="19" span="word_50" attribute="ACTION" value="ToHave" />
+  <concept id="20" span="word_51" attribute="NUMB" value="2" />
+  <concept id="21" span="word_52" attribute="AGE" value="2,5" />
+  <concept id="22" span="word_59" attribute="Q_CONF" value="IsIt" />
+  <concept id="23" span="word_61" attribute="REACTION" value="Confirmation" />
+  <concept id="24" span="word_62" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="25" span="word_67" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="26" span="word_69" attribute="METRO" value="General" />
+  <concept id="27" span="word_72" attribute="TRAM" value="General" />
+  <concept id="28" span="word_76" attribute="BUS" value="General" />
+  <concept id="29" span="word_77" attribute="METRO" value="General" />
+  <concept id="30" span="word_78" attribute="TRAM" value="General" />
+  <concept id="31" span="word_81" attribute="PUBLIC_TRANSPORT" value="General" />
+  <concept id="32" span="word_84..word_85" attribute="TRANSP_INSTITUTION" value="Zarząd Transportu Miejskiego" />
+  <concept id="33" span="word_89" attribute="REACTION" value="Confirmation" />
+  <concept id="34" span="word_96..word_97" attribute="CONV_FORM" value="BYE" />
+  <concept id="35" span="word_98..word_99" attribute="CONV_FORM" value="BYE" />
+</concepts>

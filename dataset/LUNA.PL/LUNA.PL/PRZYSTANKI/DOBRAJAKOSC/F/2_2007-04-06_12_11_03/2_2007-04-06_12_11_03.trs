@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-06_12_11_03" version="7" version_date="080125">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="65.996" topic="to1">
+<Turn startTime="0" endTime="0.719">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.719" endTime="1.894">
+<Sync time="0.719"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.894" endTime="8.787">
+<Sync time="1.894"/>
+proszę pana na Placu Wilsona w którym miejscu jest przystanek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ stu dziesięciu w stronę cmentarza
+</Turn>
+<Turn speaker="spk1" startTime="8.787" endTime="10.49">
+<Sync time="8.787"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ już sprawdzam
+</Turn>
+<Turn speaker="spk2" startTime="10.49" endTime="15.953">
+<Sync time="10.49"/>
+między 
+<Event desc="noise" type="noise" extent="begin"/>
+ jakimi ulicami bo tutaj są problemy ze znalezieniem tego przystanku krańcowy 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ przystanek 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.953" endTime="19.221">
+<Sync time="15.953"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy 
+<Event desc="babble" type="noise" extent="end"/>
+ krańcowy jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ na Krasińskiego 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ on 
+<Event desc="babble" type="noise" extent="begin"/>
+ praw
+<Event desc="~" type="lexical" extent="begin"/>
+da
+<Event desc="~" type="lexical" extent="end"/>
+ co 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="19.221" endTime="20.197">
+<Sync time="19.221"/>
+na Krasi
+<Event desc="~" type="lexical" extent="begin"/>
+ńskiego
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.197" endTime="28.831">
+<Sync time="20.197"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale tam 
+<Event desc="babble" type="noise" extent="end"/>
+ nie warto chyba wsiadać bo on podjeżdża pod Centrum Olimpijskie i zawraca 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ pani sobie stanie na ulicy Słowackiego tak jak się z metra wychodzi w kierunku 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="28.831" endTime="28.936">
+<Sync time="28.831"/>
+<Who nb="1"/>
+jak
+<Who nb="2"/>
+jak się
+</Turn>
+<Turn speaker="spk2" startTime="28.936" endTime="30.23">
+<Sync time="28.936"/>
+wychodzi z metra
+</Turn>
+<Turn speaker="spk1" startTime="30.23" endTime="31.147">
+<Sync time="30.23"/>
+tak na ulicę 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="31.147" endTime="32.3">
+<Sync time="31.147"/>
+<Who nb="1"/>
+Słowackiego w kierun
+<Event desc="~" type="lexical" extent="begin"/>
+ku
+<Event desc="~" type="lexical" extent="end"/>
+
+<Who nb="2"/>
+na ulicy 
+</Turn>
+<Turn speaker="spk2" startTime="32.3" endTime="33.368">
+<Sync time="32.3"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ Słowackiego 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="33.368" endTime="36.058">
+<Sync time="33.368"/>
+w kierunku tak jak Hala Marymoncka wie 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="36.058" endTime="36.613">
+<Sync time="36.058"/>
+<Who nb="1"/>
+pani
+<Who nb="2"/>
+w kierunku
+</Turn>
+<Turn speaker="spk2" startTime="36.613" endTime="37.511">
+<Sync time="36.613"/>
+Hali Marymon
+<Event desc="~" type="lexical" extent="begin"/>
+ckiej
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.511" endTime="37.939">
+<Sync time="37.511"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k 
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="37.939" endTime="38.498">
+<Sync time="37.939"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.498" endTime="39.029">
+<Sync time="38.498"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ przystanek 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="39.029" endTime="43.28">
+<Sync time="39.029"/>
+stanąć na Słowackiego 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+ pan mówi 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="43.28" endTime="43.602">
+<Sync time="43.28"/>
+tak
+</Turn>
+<Turn speaker="spk1 spk2" startTime="43.602" endTime="45.153">
+<Sync time="43.602"/>
+<Who nb="1"/>
+na Słowa
+<Event desc="~" type="lexical" extent="begin"/>
+ckiego
+<Event desc="~" type="lexical" extent="end"/>
+ dokładnie
+<Who nb="2"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Hali Marymonckiej tak
+</Turn>
+<Turn speaker="spk2" startTime="45.153" endTime="46.554">
+<Sync time="45.153"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ ja
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ się wysiada z metra 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="46.554" endTime="55.31">
+<Sync time="46.554"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tak przystanek to jest Plac Wilsona zero dwa 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ na Słowackiego 
+<Event desc="babble" type="noise" extent="end"/>
+ oznaczenie przystanku Plac Wilsona zero dwa 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="55.31" endTime="59.148">
+<Sync time="55.31"/>
+Plac oznaczenie przystanku Plac Wilsona zero dwa
+</Turn>
+<Turn speaker="spk1" startTime="59.148" endTime="59.873">
+<Sync time="59.148"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="59.873" endTime="63.517">
+<Sync time="59.873"/>
+no 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ no dobrze to to to dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="63.517" endTime="64.702">
+<Sync time="63.517"/>
+proszę 
+<Event desc="*" type="pronounce" extent="begin"/>
+bardzo
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="64.702" endTime="65.996">
+<Sync time="64.702"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

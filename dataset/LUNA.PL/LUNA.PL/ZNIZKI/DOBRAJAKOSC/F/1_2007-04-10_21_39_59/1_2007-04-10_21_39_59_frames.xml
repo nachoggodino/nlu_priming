@@ -1,0 +1,43 @@
+<Frames>
+  <Set id="1" subset="4" span="word_19" frame="EXISTENCE" head="mieć">
+    <Frame fe="1" span="word_20,word_21..word_23" concept_id="5,6" name="ENTITY" />
+  </Set>
+  <Set id="2" subset="1" span="word_29" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_28" concept_id="7" name="OWNER" />
+    <Frame fe="2" span="word_30..word_34" concept_id="9" name="POSSESSION" />
+  </Set>
+  <Set id="3" subset="1" span="word_55" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_54" concept_id="14" name="BENEFICIARY" />
+    <Frame fe="2" span="word_57" concept_id="16" name="PRIVILEGE" />
+    <Frame fe="3" span="word_59,word_60..word_61" concept_id="17,18" name="CIRCUMSTANCES" />
+  </Set>
+  <Set id="4" subset="1" span="word_74" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_72..word_73" concept_id="19" name="BENEFICIARY" />
+    <Frame fe="2" span="word_75..word_77" concept_id="21" name="TITLE" />
+  </Set>
+  <Set id="5" subset="1" span="word_85" frame="ENTITLED" head="przysługiwać">
+    <Frame fe="1" span="word_79..word_81" concept_id="22" name="TITLE" />
+    <Frame fe="2" span="word_83..word_84" concept_id="23" name="TITLE" />
+    <Frame fe="3" span="word_86..word_87" concept_id="25" name="PRIVILEGE" />
+  </Set>
+  <Set id="6" subset="1" span="word_103" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_100..word_102" concept_id="28" name="TIME" />
+    <Frame fe="2" span="word_104..word_105" concept_id="30" name="LOCATION" />
+  </Set>
+  <Set id="7" subset="1" span="word_187" frame="PERMITTING" head="upoważniać">
+    <Frame fe="1" span="word_186" concept_id="52" name="PRINCIPLE" />
+    <Frame fe="2" span="word_189..word_190" concept_id="54" name="STATE_OF_AFFAIRS" />
+  </Set>
+  <Set id="8" subset="1" span="word_213" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_215" concept_id="62" name="LOCATION" />
+  </Set>
+  <Set id="9" subset="1" span="word_218" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_219..word_221" concept_id="64" name="TITLE" />
+  </Set>
+  <Set id="10" subset="1" span="word_226" frame="PERMITTING" head="upoważniać">
+    <Frame fe="1" span="word_229..word_230" concept_id="66" name="STATE_OF_AFFAIRS" />
+  </Set>
+  <Set id="11" subset="1" span="word_243" frame="PERMITTING" head="upoważniać">
+    <Frame fe="1" span="word_247..word_248" concept_id="71" name="STATE_OF_AFFAIRS" />
+  </Set>
+</Frames>

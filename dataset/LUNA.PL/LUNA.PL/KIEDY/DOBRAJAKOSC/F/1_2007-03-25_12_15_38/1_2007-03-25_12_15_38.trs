@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-25_12_15_38" version="5" version_date="100914">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="171.989" topic="to1">
+<Turn startTime="0" endTime="0.157">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.157" endTime="1.525">
+<Sync time="0.157"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.525" endTime="27.609">
+<Sync time="1.525"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień dobry
+<Event desc="*" type="pronounce" extent="end"/>
+ proszę pana chciałabym się 
+<Event desc="babble" type="noise" extent="begin"/>
+ dowiedzieć jakim jakim mam szansę 
+<Event desc="babble" type="noise" extent="end"/>
+ jutro dojechać szybko autobusem czterysta jeden 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Wałbrzyskiej albo może być Aleja Lotników tam już przystanek al
+<Event desc="~" type="lexical" extent="begin"/>
+e
+<Event desc="~" type="lexical" extent="end"/>
+ to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ tak ta sama ulica na 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w okolice ulicy Astronautów to 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest
+<Event desc="*" type="pronounce" extent="end"/>
+ Wola 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ albo może to są już Włochy no w każdym razie czterysta jeden widziałam na planie miasta że tam jeździ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ żeby się dostać w tę 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w tą okolicę gdzieś w granicach za dwadzieścia ósma za za dziesięć ósma
+</Turn>
+<Turn speaker="spk1" startTime="27.609" endTime="28.909">
+<Sync time="27.609"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ od Alei 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="28.909" endTime="29.817">
+<Sync time="28.909"/>
+<Who nb="1"/>
+Lotników
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="29.817" endTime="40.416">
+<Sync time="29.817"/>
+tak przy 
+<Event desc="noise" type="noise" extent="begin"/>
+ Puławskiej 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.416" endTime="42.511">
+<Sync time="40.416"/>
+pani chce dojechać do ulicy Astronautów tak
+</Turn>
+<Turn speaker="spk2" startTime="42.511" endTime="47.004">
+<Sync time="42.511"/>
+no tak gdzieś w okolicę nie wiem czy przystanek jest 
+<Event desc="int" type="noise" extent="next"/>
+akurat przy Astronautów ale 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ gdzieś tam w pobliżu
+</Turn>
+<Turn speaker="spk1" startTime="47.004" endTime="50.116">
+<Sync time="47.004"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ rozumie
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ to muszę 
+<Event desc="*" type="pronounce" extent="begin"/>
+tylko
+<Event desc="*" type="pronounce" extent="end"/>
+ sprawdzić jak się będzie nazywać przystanek 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="50.116" endTime="70.114">
+<Sync time="50.116"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dobrze 
+<Event desc="babble" type="noise" extent="end"/>
+ bardzo proszę 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="70.114" endTime="81.359">
+<Sync time="70.114"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ aha czyli to będzie przystanek Hynka wtedy 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ od Alei Lotników by pani jechał ten autobus 
+<Event desc="noise" type="noise" extent="end"/>
+ jakieś czternaście minut i może pani powtórzyć na którą to ma być 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="81.359" endTime="85.383">
+<Sync time="81.359"/>
+no tak gdzieś 
+<Event desc="*" type="pronounce" extent="begin"/>
+mniej
+<Event desc="*" type="pronounce" extent="end"/>
+ więcej jakieś piętnaście za dwadzieścia 
+<Event desc="*" type="pronounce" extent="begin"/>
+za
+<Event desc="*" type="pronounce" extent="end"/>
+ za dziesięć ósma nawet
+</Turn>
+<Turn speaker="spk1" startTime="85.383" endTime="87.402">
+<Sync time="85.383"/>
+aha żeby wyjechać czy tam na 
+<Event desc="babble" type="noise" extent="begin"/>
+ miejscu 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="87.402" endTime="91.442">
+<Sync time="87.402"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ żeby 
+<Event desc="babble" type="noise" extent="end"/>
+tam na miejscu być uwzględniając korki 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="91.442" endTime="94.222">
+<Sync time="91.442"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ siódma dwadzieścia siedem jest autobus
+</Turn>
+<Turn speaker="spk2" startTime="94.222" endTime="97.339">
+<Sync time="94.222"/>
+ już sobie zapisuję siódma dwadzieścia siedem a wcześniejszy 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="97.339" endTime="98.656">
+<Sync time="97.339"/>
+siódma jedenaście
+</Turn>
+<Turn speaker="spk2" startTime="98.656" endTime="114.967">
+<Sync time="98.656"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to ja będę ryzykowa
+<Event desc="~" type="lexical" extent="begin"/>
+ła
+<Event desc="~" type="lexical" extent="end"/>
+ na ten siódma jedenaście bo tam mogą być korki 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ proszę pana a żebym dojechała na siódmą jedenaście do Wałbrzyskiej to o której muszę siedemset dziewięć 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ lub siedemset dwadzieścia siedem wyjechać z Piaseczna 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Lamina 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="114.967" endTime="118.936">
+<Sync time="114.967"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ od Laminy do Alei Lotników
+</Turn>
+<Turn speaker="spk2" startTime="118.936" endTime="132.888">
+<Sync time="118.936"/>
+no to średnio pół godziny 
+<Event desc="babble" type="noise" extent="begin"/>
+ czterdzieści 
+<Event desc="babble" type="noise" extent="end"/>
+ minut liczmy bo to tak mały 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ mało kilometrów ale dużo korków 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ ja wiem że szósta ileś ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko nie wiem ile 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="132.888" endTime="136.323">
+<Sync time="132.888"/>
+tam siódma jedenaście odjazd no szósta trzydzieści dziewięć jest
+</Turn>
+<Turn speaker="spk2" startTime="136.323" endTime="137.282">
+<Sync time="136.323"/>
+to który 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="137.282" endTime="143.942">
+<Sync time="137.282"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ siedemset dziewięć ewentualnie szósta czterdzieści cztery no to może za późno szósta trzydzieści trzy wcześniej
+</Turn>
+<Turn speaker="spk2" startTime="143.942" endTime="145.41">
+<Sync time="143.942"/>
+też ten sam siedemset dziewię
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="145.41" endTime="146.708">
+<Sync time="145.41"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ on co sześć minut jest
+</Turn>
+<Turn speaker="spk2" startTime="146.708" endTime="160.819">
+<Sync time="146.708"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ że się wszystkie 
+<Event desc="noise" type="noise" extent="end"/>
+ naraz czasem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ gdzieś tam tkwią 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a siedemset dwadzieścia siedem 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="160.819" endTime="165.76">
+<Sync time="160.819"/>
+a siedemset dwadzieścia siedem o chyba nie będzie pasował bo jest szósta trzy i czterdzieści jeden
+</Turn>
+<Turn speaker="spk2" startTime="165.76" endTime="169.566">
+<Sync time="165.76"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ no to faktycznie że nie będzie pasował 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+ale
+<Event desc="*" type="pronounce" extent="end"/>
+ dobrze wiedzieć że taki autobus jest 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="169.566" endTime="171.068">
+<Sync time="169.566"/>
+<Who nb="1"/>
+panu serdecznie do widzenia
+<Who nb="2"/>
+proszę bardzo do widzenia
+</Turn>
+<Turn startTime="171.068" endTime="171.989">
+<Sync time="171.068"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

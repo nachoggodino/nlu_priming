@@ -1,0 +1,28 @@
+<Frames>
+  <Set id="1" subset="1" span="word_15" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_14" concept_id="4" name="ENTITY" />
+    <Frame fe="2" span="word_16..word_17" concept_id="6" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="2" subset="1" span="word_43..word_44" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_38,word_39..word_42" concept_id="15,16" name="BENEFICIARY" />
+    <Frame fe="2" span="word_46..word_47" concept_id="18" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="1" span="word_51" frame="BECOMING" head="ukończyć">
+    <Frame fe="1" span="word_50" concept_id="19" name="ENTITY" />
+    <Frame fe="2" span="word_52..word_53" concept_id="21" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="4" subset="1" span="word_59..word_60" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_56..word_58" concept_id="23" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_62" concept_id="25" name="PRIVILEGE" />
+  </Set>
+  <Set id="5" subset="1" span="word_77" frame="POSSESSION" head="posiadać">
+    <Frame fe="1" span="word_80..word_81" concept_id="31" name="POSSESSION" />
+    <Frame fe="2" span="word_84..word_88" concept_id="33" name="POSSESSION" />
+  </Set>
+  <Set id="6" subset="1" span="word_109" frame="BECOMING" head="skończyć">
+    <Frame fe="1" span="word_110..word_111" concept_id="38" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="7" subset="1" span="word_115" frame="BECOMING" head="skończyć">
+    <Frame fe="1" span="word_116" concept_id="41" name="FINAL_CATEGORY" />
+  </Set>
+</Frames>

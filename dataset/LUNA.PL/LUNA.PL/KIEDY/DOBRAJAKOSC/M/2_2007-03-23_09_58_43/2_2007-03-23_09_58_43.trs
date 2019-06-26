@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_09_58_43" version="7" version_date="100912">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="48.997" topic="to1">
+<Turn startTime="0" endTime="0.704">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.704" endTime="2.648">
+<Sync time="0.704"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.648" endTime="7.832">
+<Sync time="2.648"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry 
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w sobotę o której metro zaczyna kursować 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="7.832" endTime="8.837">
+<Sync time="7.832"/>
+z jakiej stacji 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="8.837" endTime="12.887">
+<Sync time="8.837"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ze stacji Wilanowska w stronę Śródmieścia 
+</Turn>
+<Turn speaker="spk1" startTime="12.887" endTime="14.078">
+<Sync time="12.887"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ już panu mówię 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="14.078" endTime="28.764">
+<Sync time="14.078"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.764" endTime="29.887">
+<Sync time="28.764"/>
+proszę pana z
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="29.887" endTime="30.346">
+<Sync time="29.887"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.346" endTime="37.609">
+<Sync time="30.346"/>
+w sobotę ze stacji Wilanowska w kierunku 
+<Event desc="babble" type="noise" extent="begin"/>
+ Śródmieścia 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ o piątej zero dwa 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+powinien
+<Event desc="*" type="pronounce" extent="end"/>
+ być pierwszy pociąg 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="37.609" endTime="39.51">
+<Sync time="37.609"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ powinien ale czy na pewno bę
+<Event desc="~" type="lexical" extent="begin"/>
+dzie
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="39.51" endTime="41.321">
+<Sync time="39.51"/>
+tak tak jest w 
+<Event desc="noise" type="noise" extent="begin"/>
+ rozkładzie metra 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="41.321" endTime="45.137">
+<Sync time="41.321"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ piąta zero dwa 
+<Event desc="babble" type="noise" extent="begin"/>
+tak
+<Event desc="int" type="noise" extent="previous"/>
+ zaraz 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobrze dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="45.137" endTime="45.714">
+<Sync time="45.137"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę bardzo 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="45.714" endTime="48.997">
+<Sync time="45.714"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

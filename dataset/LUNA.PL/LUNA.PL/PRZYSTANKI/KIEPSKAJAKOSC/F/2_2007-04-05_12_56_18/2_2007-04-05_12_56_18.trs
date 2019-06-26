@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-05_12_56_18" version="5" version_date="080112">
+<Topics>
+<Topic id="to1" desc="female user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="89.494" topic="to1">
+<Turn startTime="0" endTime="0.737">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.737" endTime="3.068">
+<Sync time="0.737"/>
+dzień dobry 
+<Event desc="*" type="pronounce" extent="begin"/>
+przy
+<Event desc="*" type="pronounce" extent="end"/>
+ telefonie xxx 
+<Event desc="*" type="pronounce" extent="begin"/>
+słucham
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.068" endTime="10.596">
+<Sync time="3.068"/>
+dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana z Dworca Centralnego do Konstancina podobno jedzie autobus sto siedemdziesiąt 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.596" endTime="17.077">
+<Sync time="10.596"/>
+nie proszę pani do Konstancina 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+ Konstancin to 
+<Event desc="*" type="pronounce" extent="begin"/>
+już jest
+<Event desc="*" type="pronounce" extent="end"/>
+ strefa podmie
+<Event desc="~" type="lexical" extent="begin"/>
+jska
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+Konstancin
+<Event desc="*" type="pronounce" extent="end"/>
+ Jeziorna o tym mówim
+<Event desc="~" type="lexical" extent="begin"/>
+y
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.077" endTime="18.954">
+<Sync time="17.077"/>
+Konstancin tam 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ gdzie 
+<Event desc="*" type="pronounce" extent="begin"/>
+są
+<Event desc="*" type="pronounce" extent="end"/>
+ sanatoria
+</Turn>
+<Turn speaker="spk1" startTime="18.954" endTime="24.98">
+<Sync time="18.954"/>
+tak to nie jest sto siedemdziesiąt bo to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ strefa podmie
+<Event desc="~" type="lexical" extent="begin"/>
+j
+<Event desc="~" type="lexical" extent="end"/>
+ska 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ autobus numer siedemset bo za
+</Turn>
+<Turn speaker="spk2" startTime="24.98" endTime="25.72">
+<Sync time="24.98"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ siedemset 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.72" endTime="31.979">
+<Sync time="25.72"/>
+tak siedemset za miasto jeżdżą autobusy o numerach siedemset osiemset i to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ autobus 
+<Event desc="*" type="pronounce" extent="begin"/>
+numer
+<Event desc="*" type="pronounce" extent="end"/>
+ siedemset
+</Turn>
+<Turn speaker="spk2" startTime="31.979" endTime="38.131">
+<Sync time="31.979"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ proszę pana proszę mi powiedzieć siedemset 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ z tej samej gdzie 
+<Event desc="en" type="language" extent="begin"/>
+Marriott
+<Event desc="en" type="language" extent="end"/>
+ czy z tej samej gdzie 
+<Event desc="*" type="pronounce" extent="begin"/>
+Pałac
+<Event desc="*" type="pronounce" extent="end"/>
+ Kultury z 
+<Event desc="*" type="pronounce" extent="begin"/>
+której
+<Event desc="*" type="pronounce" extent="end"/>
+ strony to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.131" endTime="45.021">
+<Sync time="38.131"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z tej strony gdzie taka nowa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ budowla Złote Tarasy tam gdzie taka duża pętla jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ autobusowa
+</Turn>
+<Turn speaker="spk2" startTime="45.021" endTime="51.387">
+<Sync time="45.021"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ tam gdzie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na na ten na 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ w tą stronę gdzie jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ ten Dom Emilia tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="51.387" endTime="58.335">
+<Sync time="51.387"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak tak no ale nie 
+<Event desc="*" type="pronounce" extent="begin"/>
+przy
+<Event desc="*" type="pronounce" extent="end"/>
+ samym Domu Emilia przy samym Dworcu Centralnym taka duża pętla autobusowa 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z żółtymi wiatami
+</Turn>
+<Turn speaker="spk2" startTime="58.335" endTime="60.286">
+<Sync time="58.335"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ i to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ na górze czy na dole nie wie pan 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="60.286" endTime="61.438">
+<Sync time="60.286"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na górze
+</Turn>
+<Turn speaker="spk2" startTime="61.438" endTime="61.715">
+<Sync time="61.438"/>
+na 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="61.715" endTime="65.633">
+<Sync time="61.715"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie 
+<Event desc="babble" type="noise" extent="end"/>
+ na Emilii Plater tylko na górze na dworcu przy Dworcu 
+<Event desc="babble" type="noise" extent="begin"/>
+ Central
+<Event desc="~" type="lexical" extent="begin"/>
+nym
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="65.633" endTime="71.494">
+<Sync time="65.633"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ wiem 
+<Event desc="babble" type="noise" extent="end"/>
+ na górze czyli czy trzeba tam na 
+<Event desc="noise" type="noise" extent="begin"/>
+ górę gdzie gdzie są kasy wyjść tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="71.494" endTime="78.57">
+<Sync time="71.494"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no tak tak jak kasy biletowe Dworca Centralnego 
+<Event desc="*" type="pronounce" extent="begin"/>
+wyjść
+<Event desc="*" type="pronounce" extent="end"/>
+ wyjdzie pani na stronę Złotych Tarasów 
+<Event desc="*" type="pronounce" extent="begin"/>
+takie
+<Event desc="*" type="pronounce" extent="end"/>
+ dużej budowli nowej 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="78.57" endTime="78.785">
+<Sync time="78.57"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="78.785" endTime="83.841">
+<Sync time="78.785"/>
+i tam jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ taka pętla 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ duża autobusowa i tam będzie autobus siedemset
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="83.841" endTime="85.416">
+<Sync time="83.841"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+siedemset
+<Event desc="*" type="pronounce" extent="end"/>
+ dziękuję panu bardzo
+</Turn>
+<Turn speaker="spk1 spk2" startTime="85.416" endTime="85.986">
+<Sync time="85.416"/>
+<Who nb="1"/>
+proszę
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk2" startTime="85.986" endTime="86.583">
+<Sync time="85.986"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="86.583" endTime="87.171">
+<Sync time="86.583"/>
+do widzenia
+</Turn>
+<Turn startTime="87.171" endTime="89.494">
+<Sync time="87.171"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

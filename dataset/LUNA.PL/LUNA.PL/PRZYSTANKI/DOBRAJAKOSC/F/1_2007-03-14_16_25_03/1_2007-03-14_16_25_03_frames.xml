@@ -1,0 +1,42 @@
+<Frames>
+  <Set id="1" subset="1" span="word_14" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_13" concept_id="6" name="VEHICLE" />
+    <Frame fe="2" span="word_15..word_17" concept_id="8" name="GOAL" />
+  </Set>
+  <Set id="2" subset="1" span="word_23..word_24" frame="BEING_OPERATIONAL" head="być">
+    <Frame fe="1" span="word_19..word_20,word_21..word_22" concept_id="10,11" name="ARTIFACT" />
+  </Set>
+  <Set id="3" subset="3" span="word_28" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_26" concept_id="13" name="PLACE" />
+    <Frame fe="2" span="word_29" concept_id="15" name="ENTITY" />
+  </Set>
+  <Set id="4" subset="1" span="word_36" frame="MOTION_DIRECTIONAL" head="zejść">
+    <Frame fe="1" span="word_34" concept_id="17" name="AREA" />
+    <Frame fe="2" span="word_37..word_38" concept_id="19" name="DIRECTION" />
+  </Set>
+  <Set id="5" subset="1" span="word_44" frame="STATEMENT" head="mówić">
+    <Frame fe="1" span="word_41..word_43" concept_id="20" name="TOPIC" />
+  </Set>
+  <Set id="6" subset="1" span="word_53..word_54" frame="BEING_OPERATIONAL" head="być">
+    <Frame fe="1" span="word_51" concept_id="24" name="ARTIFACT" />
+    <Frame fe="2" span="word_55" concept_id="27" name="PLACE" />
+    <Frame fe="3" span="word_57..word_59" concept_id="28" name="PLACE" />
+  </Set>
+  <Set id="7" subset="1" span="word_81" frame="BEING_OPERATIONAL" head="funkcjonować">
+    <Frame fe="1" span="word_79" concept_id="33" name="ARTIFACT" />
+  </Set>
+  <Set id="8" subset="3" span="word_86" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_83" concept_id="35" name="PLACE" />
+    <Frame fe="2" span="word_85" concept_id="36" name="ENTITY" />
+  </Set>
+  <Set id="9" subset="3" span="word_98" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_99" concept_id="41" name="ENTITY" />
+  </Set>
+  <Set id="10" subset="1" span="word_105" frame="MOTION_DIRECTIONAL" head="zejść">
+    <Frame fe="1" span="word_106..word_107" concept_id="44" name="DIRECTION" />
+    <Frame fe="2" span="word_108..word_109" concept_id="45" name="GOAL" />
+  </Set>
+  <Set id="11" subset="1" span="word_125" frame="BEING_OPERATIONAL" head="działać">
+    <Frame fe="1" span="word_124" concept_id="49" name="ARTIFACT" />
+  </Set>
+</Frames>

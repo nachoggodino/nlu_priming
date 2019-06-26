@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-04-03_10_44_59" version="5" version_date="080113">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="87.495" topic="to1">
+<Turn startTime="0" endTime="0.928">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.928" endTime="3.013">
+<Sync time="0.928"/>
+dzień dobry 
+<Event desc="*" type="pronounce" extent="begin"/>
+przy
+<Event desc="*" type="pronounce" extent="end"/>
+ telefonie xxx 
+<Event desc="*" type="pronounce" extent="begin"/>
+słucham
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.013" endTime="9.47">
+<Sync time="3.013"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dzień
+<Event desc="*" type="pronounce" extent="end"/>
+ dob
+<Event desc="~" type="lexical" extent="begin"/>
+r
+<Event desc="~" type="lexical" extent="end"/>
+y panie xxx ja chcia
+<Event desc="~" type="lexical" extent="begin"/>
+łe
+<Event desc="~" type="lexical" extent="end"/>
+m się spytać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ komu przysługuje zniżka na bilety
+</Turn>
+<Turn speaker="spk1" startTime="9.47" endTime="10.121">
+<Sync time="9.47"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="10.121" endTime="14.092">
+<Sync time="10.121"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tramwaj autobus w Warszawie o Warszawę chodzi
+</Turn>
+<Turn speaker="spk1" startTime="14.092" endTime="14.803">
+<Sync time="14.092"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="14.803" endTime="20.572674779">
+<Sync time="14.803"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana po ukończeniu 
+<Event desc="*" type="pronounce" extent="begin"/>
+sześćdziesięciu 
+<Event desc="*" type="pronounce" extent="end"/>
+ sześćdziesiątego piątego roku życia
+</Turn>
+<Turn speaker="spk1" startTime="20.572674779" endTime="36.595">
+<Sync time="20.572674779"/>
+to znaczy no no niezupełnie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ emeryci renciści do siedemdziesiątego roku życia mają przejazdy z ulgą czterdzieści osiem procent 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a po siedemdziesiątym roku życia 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ już są przejazdy bezpłatne wystarczy dowód osobisty
+</Turn>
+<Turn speaker="spk2" startTime="36.595" endTime="42.534">
+<Sync time="36.595"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+no
+<Event desc="*" type="pronounce" extent="end"/>
+ ale wie pan ja powiedzmy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ minąłem sześćdziesiąty piąty rok 
+<Event desc="babble" type="noise" extent="begin"/>
+ życia 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+i
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="42.534" endTime="42.683">
+<Sync time="42.534"/>
+ ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="42.683" endTime="44.769">
+<Sync time="42.683"/>
+mam dowód osobisty
+</Turn>
+<Turn speaker="spk1" startTime="44.769" endTime="53.142">
+<Sync time="44.769"/>
+no tak ale to dopiero po siedemdziesiątym roku pan ma 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ będzie miał pan przejazdy bezpłatne a teraz pan pobiera emeryturę albo 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ rentę 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="53.142" endTime="57.627">
+<Sync time="53.142"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+tak
+<Event desc="*" type="pronounce" extent="end"/>
+ ale w Ameryce nie w Polsce dlatego nie mam 
+<Event desc="babble" type="noise" extent="begin"/>
+ żadnych tam 
+<Event desc="babble" type="noise" extent="end"/>
+ legitymacji
+</Turn>
+<Turn speaker="spk1" startTime="57.627" endTime="60.829">
+<Sync time="57.627"/>
+a to bardzo mi przykro ale to żadnych 
+<Event desc="babble" type="noise" extent="begin"/>
+ zniżek 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="60.829" endTime="61.263">
+<Sync time="60.829"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="61.263" endTime="64.756">
+<Sync time="61.263"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie to znaczy musi pan płacić 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ normalny bilet
+</Turn>
+<Turn speaker="spk2" startTime="64.756" endTime="65.613">
+<Sync time="64.756"/>
+ aha aha
+</Turn>
+<Turn speaker="spk1" startTime="65.613" endTime="66.483">
+<Sync time="65.613"/>
+no 
+<Event desc="babble" type="noise" extent="begin"/>
+ niestety 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="66.483" endTime="71.646">
+<Sync time="66.483"/>
+bo 
+<Event desc="*" type="pronounce" extent="begin"/>
+ja
+<Event desc="*" type="pronounce" extent="end"/>
+ bo na przykład w Toruniu to w ogóle po sześćdziesięciu pięciu latach 
+<Event desc="*" type="pronounce" extent="begin"/>
+ukończeniu
+<Event desc="*" type="pronounce" extent="end"/>
+ się w ogóle nie pła
+<Event desc="~" type="lexical" extent="begin"/>
+ci
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="71.646" endTime="75.0">
+<Sync time="71.646"/>
+no tak w Warszawie jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ niestety po siedemdziesiątym roku 
+<Event desc="*" type="pronounce" extent="begin"/>
+życia
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="75.0" endTime="75.806">
+<Sync time="75.0"/>
+<Who nb="1"/>
+no jeszcze
+<Who nb="2"/>
+i ja kupiłem
+</Turn>
+<Turn speaker="spk2" startTime="75.806" endTime="80.815">
+<Sync time="75.806"/>
+proszę pana trzy ulgowe bilety a teraz widzę że 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie mogę ich używać bo bym wpadł
+</Turn>
+<Turn speaker="spk1" startTime="80.815" endTime="81.411">
+<Sync time="80.815"/>
+no 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="81.411" endTime="82.222">
+<Sync time="81.411"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ na dobre
+<Who nb="2"/>
+no tak
+</Turn>
+<Turn speaker="spk1" startTime="82.222" endTime="84.215">
+<Sync time="82.222"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak tak 
+<Event desc="babble" type="noise" extent="end"/>
+ po siedemdziesiątym roku życia
+</Turn>
+<Turn speaker="spk2" startTime="84.215" endTime="85.085">
+<Sync time="84.215"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobra dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="85.085" endTime="85.653">
+<Sync time="85.085"/>
+proszę
+</Turn>
+<Turn startTime="85.653" endTime="87.495">
+<Sync time="85.653"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,17 @@
+<Frames>
+  <Set id="1" subset="1" span="word_10" frame="GET" head="dostać">
+    <Frame fe="1" span="word_7" concept_id="4" name="MANNER" />
+    <Frame fe="2" span="word_12..word_14" concept_id="6" name="SOURCE" />
+    <Frame fe="3" span="word_15..word_17" concept_id="7" name="GOAL" />
+    <Frame fe="4" span="word_19..word_22" concept_id="9" name="SOURCE" />
+    <Frame fe="5" span="word_23..word_24" concept_id="10" name="MANNER" />
+  </Set>
+  <Set id="2" subset="1" span="word_28" frame="MOTION" head="podjechać">
+    <Frame fe="1" span="word_29" concept_id="12" name="MEANS" />
+    <Frame fe="2" span="word_30..word_32" concept_id="13" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_61" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_62" concept_id="24" name="CHARACTERIZATION" />
+    <Frame fe="2" span="word_64..word_65" concept_id="25" name="CHARACTERIZATION" />
+  </Set>
+</Frames>

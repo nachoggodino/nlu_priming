@@ -1,0 +1,24 @@
+<Frames>
+  <Set id="1" subset="1" span="word_25" frame="BECOMING" head="skończyć">
+    <Frame fe="1" span="word_26..word_28" concept_id="8" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="2" subset="1" span="word_38" frame="TOPIC" head="chodzić">
+    <Frame fe="1" span="word_42" concept_id="12" name="TOPIC" />
+  </Set>
+  <Set id="3" subset="1" span="word_66" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_67" concept_id="16" name="VEHICLE" />
+  </Set>
+  <Set id="4" subset="1" span="word_71" frame="USING" head="korzystać">
+    <Frame fe="1" span="word_73..word_74" concept_id="18" name="INSTRUMENT" />
+    <Frame fe="2" span="word_75..word_77" concept_id="19" name="PLACE" />
+  </Set>
+  <Set id="5" subset="1" span="word_121" frame="APPEARANCE" head="być">
+    <Frame fe="1" span="word_122" concept_id="35" name="CHARACTERIZATION" />
+  </Set>
+  <Set id="6" subset="1" span="word_156" frame="POSSESSION" head="mieć">
+    <Frame fe="1" span="word_159..word_161" concept_id="45" name="POSSESSION" />
+  </Set>
+  <Set id="7" subset="1" span="word_168" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_169..word_170" concept_id="48" name="ENTITY" />
+  </Set>
+</Frames>

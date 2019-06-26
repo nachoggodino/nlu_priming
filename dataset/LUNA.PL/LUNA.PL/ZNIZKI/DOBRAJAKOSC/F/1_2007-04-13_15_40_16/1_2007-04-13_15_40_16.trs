@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-13_15_40_16" version="3" version_date="071001">
+<Topics>
+<Topic id="to1" desc="female user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="39.498" topic="to1">
+<Turn startTime="0" endTime="0.465">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.465" endTime="1.519">
+<Sync time="0.465"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.519" endTime="7.542">
+<Sync time="1.519"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry proszę pana czy ja pod tym numerem mogę się mogę zasięgnąć informacji na temat biletów miejskich <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="7.542" endTime="8.25">
+<Sync time="7.542"/>
+tak może
+</Turn>
+<Turn speaker="spk1 spk2" startTime="8.25" endTime="8.631">
+<Sync time="8.25"/>
+<Who nb="1"/>
+pani
+<Who nb="2"/>
+<Event desc="filler" type="lexical" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk2" startTime="8.631" endTime="15.143">
+<Sync time="8.631"/>
+chodzi mi o to <Event desc="filler" type="lexical" extent="instantaneous"/> jaki bilet ja mam skasować za przewóz <Event desc="filler" type="lexical" extent="instantaneous"/> dziecka <Event desc="noise" type="noise" extent="begin"/> <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> z wózkiem <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="15.143" endTime="20.428">
+<Sync time="15.143"/>
+pani dziecko jeździ do czasu objęcia obowiązkiem szkolnym bezpłatnie za wózek się nie płaci tak jak i za bagaż też się nie płaci
+</Turn>
+<Turn speaker="spk2" startTime="20.428" endTime="21.803">
+<Sync time="20.428"/>
+aha czyli bezpłatnie
+</Turn>
+<Turn speaker="spk1" startTime="21.803" endTime="22.096">
+<Sync time="21.803"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="22.096" endTime="26.508">
+<Sync time="22.096"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> a jeszcze niech mi pan powie emeryt <Event desc="filler" type="lexical" extent="instantaneous"/> jaką <Event desc="noise" type="noise" extent="begin"/> opłatę wnosi <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="26.508" endTime="35.955">
+<Sync time="26.508"/>
+emeryt jeśli nie skończył siedemdziesiątego roku życia to na podstawie legitymacji emeryta i rencisty ma ulgę czterdzieści osiem procent <Event desc="babble" type="noise" extent="begin"/> wraz <Event desc="babble" type="noise" extent="end"/> z dokumentem tożsamoś<Event desc="~" type="lexical" extent="begin"/>ci<Event desc="~" type="lexical" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="35.955" endTime="36.694">
+<Sync time="35.955"/>
+aha dobrze dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="36.694" endTime="38.078">
+<Sync time="36.694"/>
+<Who nb="1"/>
+uprzejmie do widzenia
+<Who nb="2"/>
+proszę do widzenia
+</Turn>
+<Turn startTime="38.078" endTime="39.498">
+<Sync time="38.078"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

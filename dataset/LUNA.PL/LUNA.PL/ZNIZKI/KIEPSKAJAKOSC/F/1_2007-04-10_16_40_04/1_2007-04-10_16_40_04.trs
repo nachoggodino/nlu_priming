@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-10_16_40_04" version="6" version_date="080421">
+<Topics>
+<Topic id="to1" desc="female user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="63.496" topic="to1">
+<Turn startTime="0" endTime="0.436">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.436" endTime="2.594">
+<Sync time="0.436"/>
+dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.594" endTime="11.056">
+<Sync time="2.594"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry 
+<Event desc="*" type="pronounce" extent="begin"/>
+chciałabym
+<Event desc="*" type="pronounce" extent="end"/>
+ się dowiedzieć czy 
+<Event desc="*" type="pronounce" extent="begin"/>
+studentowi
+<Event desc="*" type="pronounce" extent="end"/>
+ z kraju 
+<Event desc="babble" type="noise" extent="begin"/>
+ Unii przysługują 
+<Event desc="babble" type="noise" extent="end"/>
+ zniżki w naszych 
+<Event desc="noise" type="noise" extent="begin"/>
+ autobusach 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.056" endTime="20.041">
+<Sync time="11.056"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to znaczy jeżeli 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ studiuje na zagranicznej uczelni 
+<Event desc="*" type="pronounce" extent="begin"/>
+to
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ na podstawie 
+<Event desc="babble" type="noise" extent="end"/>
+ legitymacji 
+<Event desc="en" type="language" extent="begin"/>
+ ISIC 
+<Event desc="en" type="language" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wydanej na dany rok kalendarzowy przys
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+uguje ulga czterdzieści osiem procen
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.041" endTime="20.437">
+<Sync time="20.041"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.437" endTime="20.895">
+<Sync time="20.437"/>
+z tym że
+</Turn>
+<Turn speaker="spk1 spk2" startTime="20.895" endTime="21.537">
+<Sync time="20.895"/>
+<Who nb="1"/>
+nie dłuż
+<Event desc="~" type="lexical" extent="begin"/>
+ej
+<Event desc="~" type="lexical" extent="end"/>
+
+<Who nb="2"/>
+musi być
+</Turn>
+<Turn speaker="spk1" startTime="21.537" endTime="21.962">
+<Sync time="21.537"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tak
+</Turn>
+<Turn speaker="spk2" startTime="21.962" endTime="23.567">
+<Sync time="21.962"/>
+
+<Event desc="en" type="language" extent="begin"/>
+oke
+<Event desc="~" type="lexical" extent="begin"/>
+y
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="en" type="language" extent="end"/>
+ to musi być 
+<Event desc="en" type="language" extent="begin"/>
+ ISIC 
+<Event desc="en" type="language" extent="end"/>
+ ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="23.567" endTime="23.707">
+<Sync time="23.567"/>
+tak
+</Turn>
+<Turn speaker="spk1 spk2" startTime="23.707" endTime="24.405">
+<Sync time="23.707"/>
+<Who nb="1"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.405" endTime="29.151">
+<Sync time="24.405"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+to
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ musi być 
+<Event desc="babble" type="noise" extent="end"/>
+ tylko i wyłącznie 
+<Event desc="en" type="language" extent="begin"/>
+ ISIC 
+<Event desc="en" type="language" extent="end"/>
+ ale jeszcze nadmienię 
+<Event desc="*" type="pronounce" extent="begin"/>
+że
+<Event desc="*" type="pronounce" extent="end"/>
+ nie dłużej niż do ukończenia dwudziestego szóstego roku życia
+</Turn>
+<Turn speaker="spk2" startTime="29.151" endTime="38.849">
+<Sync time="29.151"/>
+tak to to ja 
+<Event desc="*" type="pronounce" extent="begin"/>
+znam
+<Event desc="*" type="pronounce" extent="end"/>
+ czyli na 
+<Event desc="*" type="pronounce" extent="begin"/>
+przykład
+<Event desc="*" type="pronounce" extent="end"/>
+ no bo nie jestem pewna czy oni mają 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czyli jeżeli na 
+<Event desc="*" type="pronounce" extent="begin"/>
+przykład
+<Event desc="*" type="pronounce" extent="end"/>
+ ma tylko swoją 
+<Event desc="int" type="noise" extent="next"/>
+legitymację 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ ze swego kraju to to się nie liczy
+</Turn>
+<Turn speaker="spk1" startTime="38.849" endTime="40.534">
+<Sync time="38.849"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ niestety nie to 
+<Event desc="babble" type="noise" extent="end"/>
+ tutaj to musi być 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="40.534" endTime="41.094">
+<Sync time="40.534"/>
+<Who nb="1"/>
+
+<Event desc="en" type="language" extent="begin"/>
+ ISIC 
+<Event desc="en" type="language" extent="end"/>
+
+<Who nb="2"/>
+tak samo
+</Turn>
+<Turn speaker="spk2" startTime="41.094" endTime="43.292">
+<Sync time="41.094"/>
+to Euro dwadzieścia 
+<Event desc="*" type="pronounce" extent="begin"/>
+sześć
+<Event desc="*" type="pronounce" extent="end"/>
+ to też 
+<Event desc="*" type="pronounce" extent="begin"/>
+nie
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="43.292" endTime="44.491">
+<Sync time="43.292"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ też niestety nie
+</Turn>
+<Turn speaker="spk2" startTime="44.491" endTime="44.769">
+<Sync time="44.491"/>
+o
+</Turn>
+<Turn speaker="spk2 spk1" startTime="44.769" endTime="46.048">
+<Sync time="44.769"/>
+<Who nb="1"/>
+czyli tylko 
+<Event desc="en" type="language" extent="begin"/>
+ ISIC 
+<Event desc="en" type="language" extent="end"/>
+ a jak nie
+<Who nb="2"/>
+tylko tylko 
+<Event desc="en" type="language" extent="begin"/>
+ ISIC 
+<Event desc="en" type="language" extent="end"/>
+ tak
+</Turn>
+<Turn speaker="spk2" startTime="46.048" endTime="47.609">
+<Sync time="46.048"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to na 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+cały
+<Event desc="*" type="pronounce" extent="end"/>
+ bile
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="47.609" endTime="48.797">
+<Sync time="47.609"/>
+tak to wtedy bilety normaln
+<Event desc="~" type="lexical" extent="begin"/>
+e
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="48.797" endTime="52.526">
+<Sync time="48.797"/>
+dobrze i a orientuje się pan czy tak samo jest w pociągach 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="52.526" endTime="57.296">
+<Sync time="52.526"/>
+oj tutaj to mi ciężko 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ powiedzieć to już musiałbym podać pani 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ numer na informację kolejową 
+</Turn>
+<Turn speaker="spk2" startTime="57.296" endTime="57.987">
+<Sync time="57.296"/>
+nie to ja znam 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="57.987" endTime="59.273">
+<Sync time="57.987"/>
+<Who nb="1"/>
+aha rozumiem
+<Who nb="2"/>
+
+<Event desc="en" type="language" extent="begin"/>
+okey
+<Event desc="en" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="59.273" endTime="60.201">
+<Sync time="59.273"/>
+dobrze to bardzo 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="60.201" endTime="61.02">
+<Sync time="60.201"/>
+<Who nb="1"/>
+dziękuję do widzenia
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="61.02" endTime="61.522">
+<Sync time="61.02"/>
+do widzenia
+</Turn>
+<Turn startTime="61.522" endTime="63.496">
+<Sync time="61.522"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

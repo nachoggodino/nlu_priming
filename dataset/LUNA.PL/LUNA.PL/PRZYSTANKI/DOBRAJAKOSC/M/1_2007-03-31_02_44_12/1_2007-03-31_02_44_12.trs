@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-31_02_44_12" version="4" version_date="070927">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="41.997" topic="to1">
+<Turn startTime="0" endTime="0.754">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.754" endTime="2.627">
+<Sync time="0.754"/>
+xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.627" endTime="2.881">
+<Sync time="2.627"/>
+dobry 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2.881" endTime="3.477">
+<Sync time="2.881"/>
+<Who nb="1"/>
+wieczór
+<Who nb="2"/>
+dobry
+</Turn>
+<Turn speaker="spk1" startTime="3.477" endTime="3.945">
+<Sync time="3.477"/>
+wieczór
+</Turn>
+<Turn speaker="spk2" startTime="3.945" endTime="12.011">
+<Sync time="3.945"/>
+ja mam takie 
+<Event desc="*" type="pronounce" extent="begin"/>
+pytanko
+<Event desc="*" type="pronounce" extent="end"/>
+ autobus linii sześćset siedem jadący do Kabat 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na przystanku Metro 
+<Event desc="*" type="pronounce" extent="begin"/>
+Świętokrzyska
+<Event desc="*" type="pronounce" extent="end"/>
+ zatrzymuje się 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.011" endTime="14.184">
+<Sync time="12.011"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jadący w kierunku Kabat
+</Turn>
+<Turn speaker="spk2 spk1" startTime="14.184" endTime="14.611">
+<Sync time="14.184"/>
+<Who nb="1"/>
+tak
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="14.611" endTime="18.355">
+<Sync time="14.611"/>
+pana 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Metro Politechnika 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="18.355" endTime="20.072">
+<Sync time="18.355"/>
+ale Metro Świętokrzyska się nie zatrzymuje
+</Turn>
+<Turn speaker="spk1" startTime="20.072" endTime="21.901">
+<Sync time="20.072"/>
+nie Metro Świętokrzyska nie
+</Turn>
+<Turn speaker="spk2" startTime="21.901" endTime="24.107">
+<Sync time="21.901"/>
+czyli jedzie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Dworzec Centralny
+</Turn>
+<Turn speaker="spk1" startTime="24.107" endTime="27.449">
+<Sync time="24.107"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ i potem jedzie 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tak 
+<Event desc="babble" type="noise" extent="begin"/>
+ Centrum w prawo skręca 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="27.449" endTime="30.453">
+<Sync time="27.449"/>
+a o której teraz startuje 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Dworca Centralnego 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.453" endTime="35.307">
+<Sync time="30.453"/>
+proszę uprzejmie proszę pana druga czterdzieści pięć czyli 
+<Event desc="babble" type="noise" extent="begin"/>
+ zaraz 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="35.307" endTime="35.597">
+<Sync time="35.307"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.597" endTime="37.755">
+<Sync time="35.597"/>
+i potem piętnaście i 
+<Event desc="babble" type="noise" extent="begin"/>
+ czterdzieści 
+<Event desc="babble" type="noise" extent="end"/>
+ pięć
+</Turn>
+<Turn speaker="spk2" startTime="37.755" endTime="38.736">
+<Sync time="37.755"/>
+dobrze dziękuję bardzo
+</Turn>
+<Turn speaker="spk1" startTime="38.736" endTime="39.532">
+<Sync time="38.736"/>
+dziękuję uprzejmie
+</Turn>
+<Turn speaker="spk1 spk2" startTime="39.532" endTime="40.628">
+<Sync time="39.532"/>
+<Who nb="1"/>
+do 
+<Event desc="*" type="pronounce" extent="begin"/>
+usłyszenia dobranoc
+<Event desc="*" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+dobranoc
+</Turn>
+<Turn startTime="40.628" endTime="41.997">
+<Sync time="40.628"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

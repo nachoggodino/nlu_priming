@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-30_12_59_25" version="5" version_date="080104">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="59.496" topic="to1">
+<Turn startTime="0" endTime="0.622">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.622" endTime="1.988">
+<Sync time="0.622"/>
+dzień dobry xxx w czym mogę
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1.988" endTime="2.509">
+<Sync time="1.988"/>
+<Who nb="1"/>
+pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="2.509" endTime="11.58">
+<Sync time="2.509"/>
+czy może mi pan powiedzieć 
+<Event desc="int" type="noise" extent="next"/>
+czy tramwaj dwadzieścia cztery dojeżdża do ulicy Ciołka 
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy dokładnie potrzebuję Ciołka dwanaście tam jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ jakiś 
+<Event desc="*" type="pronounce" extent="begin"/>
+Instytut
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Żywienia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.58" endTime="12.955">
+<Sync time="11.58"/>
+Ciołka 
+<Event desc="babble" type="noise" extent="begin"/>
+ dwanaście tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="12.955" endTime="19.508">
+<Sync time="12.955"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ aha Instytut jakiś 
+<Event desc="noise" type="noise" extent="end"/>
+ Żywienia zobaczy czy tam tramwaj 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dwadzieścia cztery 
+<Event desc="noise" type="noise" extent="begin"/>
+ gdzieś tam w pobliże 
+<Event desc="noise" type="noise" extent="end"/>
+ się zatrzymuje 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="19.508" endTime="33.046">
+<Sync time="19.508"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ momencik dobrze 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="next"/>
+co wiem tutaj Ciołka dwanaście to będzie bliżej 
+<Event desc="*" type="pronounce" extent="begin"/>
+Górczewskiej
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ tak 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ to byłoby bliżej Górcze
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+skiej proszę pana to tutaj 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do dwadzieścia cztery 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="33.046" endTime="35.481">
+<Sync time="33.046"/>
+cztery tramwaj to gdzie by 
+<Event desc="*" type="pronounce" extent="begin"/>
+tam było
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ wysiąść 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.481" endTime="38.48">
+<Sync time="35.481"/>
+proszę pana to przystanek Dalibora musiałby pan wyjść
+</Turn>
+<Turn speaker="spk2" startTime="38.48" endTime="38.778">
+<Sync time="38.48"/>
+ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.778" endTime="46.597">
+<Sync time="38.778"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i tutaj jak pan wyjdzie na tym przystanku trza w lewo skręcić w ulicę Ciołka i tam już ten odcinek pokonać pieszo no p
+<Event desc="~" type="lexical" extent="begin"/>
+r
+<Event desc="~" type="lexical" extent="end"/>
+aktycznie ten numer dwanaście jes
+<Event desc="~" type="lexical" extent="begin"/>
+t w
+<Event desc="~" type="lexical" extent="end"/>
+ połowie tej ulicy więc 
+</Turn>
+<Turn speaker="spk2" startTime="46.597" endTime="47.201">
+<Sync time="46.597"/>
+aha
+</Turn>
+<Turn speaker="spk1" startTime="47.201" endTime="47.597">
+<Sync time="47.201"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+szczerze
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="47.597" endTime="48.009">
+<Sync time="47.597"/>
+<Who nb="1"/>
+mówiąc 
+<Who nb="2"/>
+czyli
+</Turn>
+<Turn speaker="spk2" startTime="48.009" endTime="51.569">
+<Sync time="48.009"/>
+Dalibora przystanek się nazywa wysiąść i iść po prostu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="51.569" endTime="52.036">
+<Sync time="51.569"/>
+<Who nb="1"/>
+Ciołka
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="52.036" endTime="54.741">
+<Sync time="52.036"/>
+i iść wzdłuż Ciołka już no tutaj 
+<Event desc="babble" type="noise" extent="begin"/>
+ innego 
+<Event desc="babble" type="noise" extent="end"/>
+ wyjścia teraz nie ma 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="54.741" endTime="55.404">
+<Sync time="54.741"/>
+<Who nb="1"/>
+niestety
+<Who nb="2"/>
+dobrze
+</Turn>
+<Turn speaker="spk2" startTime="55.404" endTime="56.584">
+<Sync time="55.404"/>
+bardzo 
+<Event desc="noise" type="noise" extent="begin"/>
+ dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="56.584" endTime="57.198">
+<Sync time="56.584"/>
+<Who nb="1"/>
+proszę bardzo
+<Who nb="2"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="57.198" endTime="57.672">
+<Sync time="57.198"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ do 
+<Event desc="babble" type="noise" extent="end"/>
+ widzenia
+</Turn>
+<Turn startTime="57.672" endTime="59.496">
+<Sync time="57.672"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

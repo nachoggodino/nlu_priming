@@ -1,0 +1,23 @@
+<Frames>
+  <Set id="1" subset="1" span="word_19" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_14,word_15" concept_id="5,6" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_20" concept_id="9" name="GOODS" />
+    <Frame fe="3" span="word_22" concept_id="10" name="PLACE" />
+  </Set>
+  <Set id="2" subset="1" span="word_31" frame="COMMERCE_BUY" head="kupić">
+    <Frame fe="1" span="word_30" concept_id="12" name="PURPOSE" />
+    <Frame fe="2" span="word_32" concept_id="14" name="GOODS" />
+  </Set>
+  <Set id="3" subset="1" span="word_39" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_40..word_41" concept_id="16" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="4" subset="1" span="word_58" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_51..word_53" concept_id="18" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_57" concept_id="19" name="CIRCUMSTANCES" />
+    <Frame fe="3" span="word_59" concept_id="21" name="GOODS" />
+  </Set>
+  <Set id="5" subset="1" span="word_76" frame="BECOMING" head="ukończyć">
+    <Frame fe="1" span="word_75" concept_id="25" name="ENTITY" />
+    <Frame fe="2" span="word_77..word_78" concept_id="27" name="FINAL_CATEGORY" />
+  </Set>
+</Frames>

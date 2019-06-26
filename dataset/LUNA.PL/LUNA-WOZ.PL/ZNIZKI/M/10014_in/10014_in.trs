@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="10014_in;10014_out" version="3" version_date="080724">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="wizard" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="58.752" topic="to1">
+<Turn startTime="0" endTime="0.615">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.615" endTime="8.191">
+<Sync time="0.615"/>
+
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ witaj w automatycznym systemie informacji telefonicznej 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+Z T M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ kim jest osoba ubiegająca się o zniżkę
+</Turn>
+<Turn speaker="spk2" startTime="8.191" endTime="12.792">
+<Sync time="8.191"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ o co tu chodzi w ogóle
+</Turn>
+<Turn speaker="spk1" startTime="12.792" endTime="14.8">
+<Sync time="12.792"/>
+przepraszam nie zrozumiałam
+</Turn>
+<Turn speaker="spk2" startTime="14.8" endTime="16.762">
+<Sync time="14.8"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.762" endTime="24.637">
+<Sync time="16.762"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ będę wdzięczna jeśli będziesz mówić głośno i wyraźnie
+</Turn>
+<Turn speaker="spk2" startTime="24.637" endTime="30.874">
+<Sync time="24.637"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ no 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ja studiuję sobie
+</Turn>
+<Turn speaker="spk1" startTime="30.874" endTime="35.729">
+<Sync time="30.874"/>
+studentem czy osoba jest studentem uczelni polskiej czy zagranicznej
+</Turn>
+<Turn speaker="spk2" startTime="35.729" endTime="37.571">
+<Sync time="35.729"/>
+na politechnice studiuję
+</Turn>
+<Turn speaker="spk1" startTime="37.571" endTime="50.962">
+<Sync time="37.571"/>
+polskiej do przejazdów ze zniżką pięćdziesiąt procent uprawnieni są bez ograniczeń wiekowych studenci studiów pierwszego i drugiego stopnia na uczelniach polskich na podstawie ważnej legitymacji czy powtórzyć informacje
+</Turn>
+<Turn speaker="spk2" startTime="50.962" endTime="51.887">
+<Sync time="50.962"/>
+nie powtarzaj
+</Turn>
+<Turn speaker="spk1" startTime="51.887" endTime="54.088">
+<Sync time="51.887"/>
+czy udzielić jeszcze innych informacji
+</Turn>
+<Turn speaker="spk2" startTime="54.088" endTime="55.483">
+<Sync time="54.088"/>
+nie dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="55.483" endTime="58.447">
+<Sync time="55.483"/>
+dziękuję za rozmowę do usłyszenia
+</Turn>
+<Turn startTime="58.447" endTime="58.752">
+<Sync time="58.447"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,25 @@
+<Frames>
+  <Set id="1" subset="1" span="word_24" frame="BECOMING" head="kończyć">
+    <Frame fe="1" span="word_25..word_26" concept_id="5" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="2" subset="1" span="word_29..word_32" frame="ENTITLED" head="jeździć">
+    <Frame fe="1" span="word_33..word_34" concept_id="9" name="CIRCUMSTANCES" />
+    <Frame fe="2" span="word_35..word_36" concept_id="10" name="PRIVILEGE" />
+  </Set>
+  <Set id="3" subset="1" span="word_78" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_75..word_76" concept_id="19" name="TITLE" />
+  </Set>
+  <Set id="4" subset="1" span="word_92" frame="ARRIVING" head="wejść">
+    <Frame fe="1" span="word_93..word_94" concept_id="25" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_105" frame="MOTION_DIRECTIONAL" head="zjechać">
+    <Frame fe="1" span="word_106" concept_id="29" name="CARRIER" />
+  </Set>
+  <Set id="6" subset="1" span="word_108" frame="GETTING" head="pobrać">
+    <Frame fe="1" span="word_110..word_113" concept_id="32" name="THEME" />
+  </Set>
+  <Set id="7" subset="1" span="word_123" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_121" concept_id="35" name="LOCATION" />
+    <Frame fe="2" span="word_122" concept_id="36" name="THEME" />
+  </Set>
+</Frames>

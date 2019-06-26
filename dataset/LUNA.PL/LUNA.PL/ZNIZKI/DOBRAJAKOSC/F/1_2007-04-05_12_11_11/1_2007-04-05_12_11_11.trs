@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-05_12_11_11" version="2" version_date="071001">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="43.997" topic="to1">
+<Turn startTime="0" endTime="1.32">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.32" endTime="3.727">
+<Sync time="1.32"/>
+dzień dobry<Event desc="int" type="noise" extent="previous"/> xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="3.727" endTime="13.56">
+<Sync time="3.727"/>
+ <Event desc="filler" type="lexical" extent="instantaneous"/> dzień dobry proszę pani <Event desc="filler" type="lexical" extent="instantaneous"/> czy emeryt oczywiście cudzoziemiec Ukraina <Event desc="filler" type="lexical" extent="instantaneous"/> może jeździć bezpłatnie <Event desc="silence" type="noise" extent="instantaneous"/> <Event desc="int" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2 spk1" startTime="13.56" endTime="14.474">
+<Sync time="13.56"/>
+<Who nb="1"/>
+w Warszawie
+<Who nb="2"/>
+jeżeli
+</Turn>
+<Turn speaker="spk1" startTime="14.474" endTime="17.357">
+<Sync time="14.474"/>
+ukończył siedemdziesiąty rok życia to tak
+</Turn>
+<Turn speaker="spk2" startTime="17.357" endTime="18.188">
+<Sync time="17.357"/>
+ile <Event desc="?" type="lexical" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="18.188" endTime="19.653">
+<Sync time="18.188"/>
+siedemdziesiąty rok życia
+</Turn>
+<Turn speaker="spk2" startTime="19.653" endTime="21.172">
+<Sync time="19.653"/>
+tak tak <Event desc="silence" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="21.172" endTime="23.163">
+<Sync time="21.172"/>
+to w takim razie tak na podstawie
+</Turn>
+<Turn speaker="spk2" startTime="23.163" endTime="23.822">
+<Sync time="23.163"/>
+<Event desc="babble" type="noise" extent="begin"/> dowodu <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="23.822" endTime="33.633">
+<Sync time="23.822"/>
+<Event desc="~" type="lexical" extent="begin"/>osobis<Event desc="~" type="lexical" extent="end"/>tego albo paszportu biletu <Event desc="filler" type="lexical" extent="instantaneous"/> na którym <Event desc="*" type="pronounce" extent="begin"/>znaczy<Event desc="*" type="pronounce" extent="end"/> dokumentu w którym jest umieszczona data urodzenia oraz zdjęcie
+</Turn>
+<Turn speaker="spk2" startTime="33.633" endTime="36.806">
+<Sync time="33.633"/>
+dobrze dobrze czyli jakiś dokument paszport <Event desc="unintelligible" type="pronounce" extent="instantaneous"/> lub 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="36.806" endTime="37.714">
+<Sync time="36.806"/>
+<Who nb="1"/>
+dowód
+<Who nb="2"/>
+na przykład
+</Turn>
+<Turn speaker="spk2" startTime="37.714" endTime="40.516">
+<Sync time="37.714"/>
+<Event desc="babble" type="noise" extent="begin"/> dobrze <Event desc="babble" type="noise" extent="end"/> dobrze  dziękuję pani uprzejmie
+</Turn>
+<Turn speaker="spk1" startTime="40.516" endTime="41.993">
+<Sync time="40.516"/>
+proszę bardzo do usłyszenia
+</Turn>
+<Turn startTime="41.993" endTime="43.997">
+<Sync time="41.993"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

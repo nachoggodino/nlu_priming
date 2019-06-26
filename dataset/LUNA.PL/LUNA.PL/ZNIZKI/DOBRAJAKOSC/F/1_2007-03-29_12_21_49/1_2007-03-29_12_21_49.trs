@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-29_12_21_49" version="4" version_date="080418">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="46.497" topic="to1">
+<Turn startTime="0" endTime="0.531">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.531" endTime="2.337">
+<Sync time="0.531"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.337" endTime="4.208">
+<Sync time="2.337"/>
+a dzień dobry jedno pytanko
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4.208" endTime="4.554">
+<Sync time="4.208"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="4.554" endTime="12.78">
+<Sync time="4.554"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ czy matka z dzieckiem jak wchodzi do 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z wózkiem wchodzi do tramwaju czy autobusu czy płaci bilet 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ jak to jest 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.78" endTime="17.972">
+<Sync time="12.78"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to znaczy jeżeli chodzi o dziecko które nie jeszcze nie chodzi do 
+<Event desc="babble" type="noise" extent="begin"/>
+ pierwszej klasy 
+<Event desc="babble" type="noise" extent="end"/>
+ to jeździ bezpłatnie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.972" endTime="20.026">
+<Sync time="17.972"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+no
+<Event desc="*" type="pronounce" extent="end"/>
+ dobrze ale w wózku w głębokim wózku
+</Turn>
+<Turn speaker="spk1" startTime="20.026" endTime="22.789">
+<Sync time="20.026"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to wózek jako bagaż 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ nie podlega opła
+<Event desc="~" type="lexical" extent="begin"/>
+cie
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="22.789" endTime="23.422">
+<Sync time="22.789"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ nie podlega 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="23.422" endTime="23.713">
+<Sync time="23.422"/>
+<Who nb="1"/>
+nie
+<Who nb="2"/>
+a
+</Turn>
+<Turn speaker="spk2" startTime="23.713" endTime="24.413">
+<Sync time="23.713"/>
+matka 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.413" endTime="28.58">
+<Sync time="24.413"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no tutaj jeże
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+i nie ma żadnych praw do ulg 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to niestety ale bilety normalne wtedy
+</Turn>
+<Turn speaker="spk2" startTime="28.58" endTime="31.492">
+<Sync time="28.58"/>
+aha nie ma tam że też 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ trza płacić po prostu no
+<Event desc="~" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="31.492" endTime="31.863">
+<Sync time="31.492"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ tak 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="31.863" endTime="32.508">
+<Sync time="31.863"/>
+bilety
+</Turn>
+<Turn speaker="spk1" startTime="32.508" endTime="32.837">
+<Sync time="32.508"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="32.837" endTime="36.28">
+<Sync time="32.837"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+a
+<Event desc="~" type="lexical" extent="end"/>
+ha 
+<Event desc="noise" type="noise" extent="begin"/>
+ no właśnie się zapytać czy to też jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ ulga jakaś
+<Event desc="int" type="noise" extent="previous"/>
+ czy 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="36.28" endTime="36.659">
+<Sync time="36.28"/>
+<Who nb="1"/>
+nie
+<Who nb="2"/>
+nie
+</Turn>
+<Turn speaker="spk2" startTime="36.659" endTime="37.905">
+<Sync time="36.659"/>
+nie tutaj w tym przypadku nie
+</Turn>
+<Turn speaker="spk2" startTime="37.905" endTime="41.829">
+<Sync time="37.905"/>
+to ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko wózek 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ z dzieckiem 
+<Event desc="*" type="pronounce" extent="begin"/>
+ewentualnie
+<Event desc="*" type="pronounce" extent="end"/>
+ a matka to płaci 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="41.829" endTime="42.797">
+<Sync time="41.829"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ dokładnie 
+<Event desc="babble" type="noise" extent="end"/>
+ tak
+</Turn>
+<Turn speaker="spk2" startTime="42.797" endTime="43.918">
+<Sync time="42.797"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha no to dziękuję 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="43.918" endTime="44.538">
+<Sync time="43.918"/>
+<Who nb="1"/>
+proszę bardzo
+<Who nb="2"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="44.538" endTime="44.988">
+<Sync time="44.538"/>
+do widzenia
+</Turn>
+<Turn startTime="44.988" endTime="46.497">
+<Sync time="44.988"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

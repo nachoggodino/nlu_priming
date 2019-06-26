@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-14_11_01_13" version="3" version_date="080113">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="37.998" topic="to1">
+<Turn startTime="0" endTime="1.203">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.203" endTime="3.026">
+<Sync time="1.203"/>
+xxx dzień dobry
+</Turn>
+<Turn speaker="spk2" startTime="3.026" endTime="7.778">
+<Sync time="3.026"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ proszę pana ja jestem w Warszawie ale jestem z Rzeszowa 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="7.778" endTime="8.495">
+<Sync time="7.778"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="8.495" endTime="16.585">
+<Sync time="8.495"/>
+i 
+<Event desc="babble" type="noise" extent="begin"/>
+ chcia
+<Event desc="~" type="lexical" extent="begin"/>
+łe
+<Event desc="~" type="lexical" extent="end"/>
+m się zapytać czy 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tutaj jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ uchwała samorządu że ponad siedemdziesiąt lat można korzystać z komunikacji bez biletu czy nie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.585" endTime="21.365">
+<Sync time="16.585"/>
+tak jak pan ma siedemdziesiąt lat ukończone i ma pan dowód osobisty bo to na podstawie dowodu się jeździ wtedy
+</Turn>
+<Turn speaker="spk2" startTime="21.365" endTime="23.471">
+<Sync time="21.365"/>
+jak mam siedemdziesiąt lat to mogę
+</Turn>
+<Turn speaker="spk2 spk1" startTime="23.471" endTime="23.813">
+<Sync time="23.471"/>
+<Who nb="1"/>
+tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+może
+</Turn>
+<Turn speaker="spk1" startTime="23.813" endTime="26.248">
+<Sync time="23.813"/>
+pan bezpłatnie po Warszawie komunikacją jeździć tak
+</Turn>
+<Turn speaker="spk2" startTime="26.248" endTime="28.151">
+<Sync time="26.248"/>
+a proszę pana czy metrem także 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="28.151" endTime="33.608">
+<Sync time="28.151"/>
+metrem także tylko wtedy żeby zjechać do metra no to musi pan z windy korzystać 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="33.608" endTime="34.422">
+<Sync time="33.608"/>
+dobrze dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="34.422" endTime="34.975">
+<Sync time="34.422"/>
+dziękuję
+</Turn>
+<Turn startTime="34.975" endTime="37.998">
+<Sync time="34.975"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

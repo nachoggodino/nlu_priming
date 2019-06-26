@@ -1,0 +1,43 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_7" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_9..word_10" attribute="CONNECTION_F" value="Shortest" />
+  <concept id="6" span="word_11..word_14" attribute="SOURCE_STR" value="Rondo de Gaullea" />
+  <concept id="7" span="word_15..word_17" attribute="GOAL_STR" value="Długa" />
+  <concept id="8" span="word_19" attribute="ACTION" value="ToHave" />
+  <concept id="9" span="word_21" attribute="STREET_NUMB" value="General" />
+  <concept id="10" span="word_22..word_23" attribute="STREET" value="Długa" />
+  <concept id="11" span="word_28" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="12" span="word_29..word_31" attribute="SOURCE_DIRECTION_STR" value="Plac Bankowy" />
+  <concept id="13" span="word_32" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="14" span="word_33..word_34" attribute="SOURCE_DIRECTION_STR" value="Krakowskie Przedmieście" />
+  <concept id="15" span="word_36" attribute="ACTION" value="Concern" />
+  <concept id="16" span="word_38..word_39" attribute="SOURCE_DIRECTION_AREA" value="cmentarz" />
+  <concept id="17" span="word_40" attribute="Q_CONF" value="IsIt" />
+  <concept id="18" span="word_42" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="19" span="word_43" attribute="SOURCE_DIRECTION_BLD" value="kościół" />
+  <concept id="20" span="word_45" attribute="LOCATION_REL" value="There" />
+  <concept id="21" span="word_46" attribute="ACTION" value="ToBe" />
+  <concept id="22" span="word_49..word_50" attribute="SOURCE_DIRECTION_BLD" value="kościół" />
+  <concept id="23" span="word_53" attribute="ACTION" value="GetIn" />
+  <concept id="24" span="word_54" attribute="LOCATION_REL" value="There" />
+  <concept id="25" span="word_56..word_58" attribute="LOCATION_STR" value="Nowy Świat" />
+  <concept id="26" span="word_59..word_60" attribute="LOCATION_STR" value="Foksal" />
+  <concept id="27" span="word_62..word_64" attribute="BUS" value="116" />
+  <concept id="28" span="word_65..word_67" attribute="BUS" value="122" />
+  <concept id="29" span="word_68..word_69" attribute="BUS" value="180" />
+  <concept id="30" span="word_70" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="31" span="word_71..word_73" attribute="BUS" value="195" />
+  <concept id="32" span="word_74..word_75" attribute="BUS" value="116" />
+  <concept id="33" span="word_76..word_78" attribute="BUS" value="122" />
+  <concept id="34" span="word_79..word_80" attribute="BUS" value="180" />
+  <concept id="35" span="word_82..word_84" attribute="BUS" value="195" />
+  <concept id="36" span="word_87" attribute="ACTION" value="Approach" />
+  <concept id="37" span="word_88..word_91" attribute="GOAL_STP" value="Plac Krasińskich" />
+  <concept id="38" span="word_94" attribute="ACTION" value="ToBe" />
+  <concept id="39" span="word_95..word_98" attribute="LOCATION_CROSSROADS" value="CROSS  Długa" />
+  <concept id="40" span="word_102..word_103" attribute="CONV_FORM" value="BYE" />
+  <concept id="41" span="word_104..word_105" attribute="CONV_FORM" value="BYE" />
+</concepts>

@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-18_18_57_02" version="8" version_date="080226">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="81.495" topic="to1">
+<Turn startTime="0" endTime="0.775">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.775" endTime="3.005">
+<Sync time="0.775"/>
+xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3.005" endTime="12.948">
+<Sync time="3.005"/>
+dzień dobry proszę pana interesuje mnie 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ taka informacja czym mógłbym się dostać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ państwa środkami do Piastowa do miejscowości Piastów tu w Warszawie
+</Turn>
+<Turn speaker="spk1" startTime="12.948" endTime="14.762">
+<Sync time="12.948"/>
+a skąd będzie pan jechał 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="14.762" endTime="18.052">
+<Sync time="14.762"/>
+ano to właśnie o to mi chodzi że z skąd autobusy odjeżdżają do Piastowa
+</Turn>
+<Turn speaker="spk1" startTime="18.052" endTime="32.167">
+<Sync time="18.052"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana siedemset szesnaście z 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Cmentarza Wolskiego 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ siedemset siedemnaście z Dworca Zachodniego oraz Szybka Kolej 
+<Event desc="*" type="pronounce" extent="begin"/>
+Miejska
+<Event desc="*" type="pronounce" extent="end"/>
+ z Dworca Śródmieście 
+<Event desc="*" type="pronounce" extent="begin"/>
+bądź
+<Event desc="*" type="pronounce" extent="end"/>
+ Dworca Zachodniego 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ bądź 
+<Event desc="babble" type="noise" extent="begin"/>
+ Dworca Wschodniego 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="32.167" endTime="34.472">
+<Sync time="32.167"/>
+ale to Szybka Kolej Miejska w Piastowie 
+<Event desc="*" type="pronounce" extent="begin"/>
+się
+<Event desc="*" type="pronounce" extent="end"/>
+ zatrzymuje 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="34.472" endTime="36.356">
+<Sync time="34.472"/>
+tak jak najbardziej 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="36.356" endTime="36.651">
+<Sync time="36.356"/>
+
+<Event desc="filler+" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.651" endTime="40.777">
+<Sync time="36.651"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+S K M
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ ta
+<Event desc="~" type="lexical" extent="begin"/>
+m
+<Event desc="~" type="lexical" extent="end"/>
+ w kierunku Pruszkowa jak najbardziej
+</Turn>
+<Turn speaker="spk2" startTime="40.777" endTime="47.07">
+<Sync time="40.777"/>
+bo ja to 
+<Event desc="*" type="pronounce" extent="begin"/>
+myślałem
+<Event desc="*" type="pronounce" extent="end"/>
+ że to 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+W K
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+
+<Event desc="~" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+W K D
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ biegnie 
+<Event desc="noise" type="noise" extent="begin"/>
+ przez 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ Michałowic tamtędy 
+<Event desc="noise" type="noise" extent="end"/>
+ ale do Piastowa nie 
+<Event desc="*" type="pronounce" extent="begin"/>
+wiedziałem
+<Event desc="*" type="pronounce" extent="end"/>
+ że jest 
+<Event desc="*" type="pronounce" extent="begin"/>
+tam
+<Event desc="*" type="pronounce" extent="end"/>
+ jakiś
+</Turn>
+<Turn speaker="spk2 spk1" startTime="47.07" endTime="47.56">
+<Sync time="47.07"/>
+<Who nb="1"/>
+połączenie
+<Who nb="2"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to
+</Turn>
+<Turn speaker="spk1" startTime="47.56" endTime="62.383">
+<Sync time="47.56"/>
+proszę pana 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+W K D
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ to jedzie do do 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ do Michałowic i i i dalej do Grodziska 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a Szybka Kolej Miejska jedzie z 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Sulejówka do Pruszkowa i ma 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ pośrednią stację 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przedostatnią w kierunku Pruszkowa Piastów 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="62.383" endTime="63.657">
+<Sync time="62.383"/>
+aha aha
+</Turn>
+<Turn speaker="spk1" startTime="63.657" endTime="65.683">
+<Sync time="63.657"/>
+i z 
+<Event desc="babble" type="noise" extent="begin"/>
+ Warszawy Śródmieście 
+<Event desc="babble" type="noise" extent="end"/>
+ można dojechać
+</Turn>
+<Turn speaker="spk2" startTime="65.683" endTime="68.566">
+<Sync time="65.683"/>
+a i z Dworca Zachodniego mówi pan jaki 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ jaki 
+<Event desc="*" type="pronounce" extent="begin"/>
+ten
+<Event desc="*" type="pronounce" extent="end"/>
+ autobus 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="68.566" endTime="69.857">
+<Sync time="68.566"/>
+siedemset siedemnaście 
+</Turn>
+<Turn speaker="spk2" startTime="69.857" endTime="74.926">
+<Sync time="69.857"/>
+aha siedemset siedemnaście dobrze a to 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z Dworca Śródmieście odjeżdża tam 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ta Szybka Kolej Miejska tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="74.926" endTime="76.43">
+<Sync time="74.926"/>
+tak oczywiście 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="76.43" endTime="77.097">
+<Sync time="76.43"/>
+a to dziękuję 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="77.097" endTime="77.891">
+<Sync time="77.097"/>
+<Who nb="1"/>
+bardzo 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="77.891" endTime="78.575">
+<Sync time="77.891"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ do usłyszenia
+</Turn>
+<Turn startTime="78.575" endTime="81.495">
+<Sync time="78.575"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

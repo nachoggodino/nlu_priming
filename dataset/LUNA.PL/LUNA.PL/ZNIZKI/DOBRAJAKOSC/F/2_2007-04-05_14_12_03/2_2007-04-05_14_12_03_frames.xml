@@ -1,0 +1,13 @@
+<Frames>
+  <Set id="1" subset="1" span="word_27..word_28" frame="ENTITLED" head="być">
+    <Frame fe="1" span="word_25" concept_id="8" name="BENEFICIARY" />
+    <Frame fe="2" span="word_32..word_33" concept_id="10" name="PRIVILEGE" />
+  </Set>
+  <Set id="2" subset="1" span="word_34" frame="BECOMING" head="ukończyć">
+    <Frame fe="1" span="word_35..word_36" concept_id="12" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="3" subset="1" span="word_39" frame="TOPIC" head="dotyczyć">
+    <Frame fe="1" span="word_40..word_41" concept_id="15" name="TOPIC" />
+    <Frame fe="2" span="word_44" concept_id="16" name="TOPIC" />
+  </Set>
+</Frames>

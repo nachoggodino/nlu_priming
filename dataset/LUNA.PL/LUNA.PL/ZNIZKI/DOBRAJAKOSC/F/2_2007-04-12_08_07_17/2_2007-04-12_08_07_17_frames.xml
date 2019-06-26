@@ -1,0 +1,17 @@
+<Frames>
+  <Set id="1" subset="1" span="word_27" frame="BECOMING" head="skończyć">
+    <Frame fe="1" span="word_26" concept_id="9" name="ENTITY" />
+    <Frame fe="2" span="word_28..word_29" concept_id="11" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="2" subset="1" span="word_34" frame="COMMERCE_PAY" head="płacić">
+    <Frame fe="1" span="word_36" concept_id="16" name="GOODS" />
+  </Set>
+  <Set id="3" subset="1" span="word_45" frame="BECOMING" head="ukończyć">
+    <Frame fe="1" span="word_43" concept_id="19" name="ENTITY" />
+    <Frame fe="2" span="word_46..word_48" concept_id="21" name="FINAL_CATEGORY" />
+  </Set>
+  <Set id="4" subset="2" span="word_49" frame="ENTITLED" head="mieć">
+    <Frame fe="1" span="word_50..word_51" concept_id="23" name="PRIVILEGE" />
+    <Frame fe="2" span="word_53" concept_id="24" name="CIRCUMSTANCES" />
+  </Set>
+</Frames>

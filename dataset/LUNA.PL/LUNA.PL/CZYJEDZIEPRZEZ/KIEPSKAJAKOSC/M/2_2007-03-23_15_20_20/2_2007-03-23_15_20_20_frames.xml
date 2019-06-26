@@ -1,0 +1,46 @@
+<Frames>
+  <Set id="1" subset="2" span="word_19" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_17" concept_id="8" name="SELF_MOVER" />
+    <Frame fe="2" span="word_21..word_22" concept_id="10" name="SOURCE" />
+    <Frame fe="3" span="word_24..word_25" concept_id="11" name="GOAL" />
+    <Frame fe="4" span="word_26..word_27" concept_id="12" name="SELF_MOVER" />
+  </Set>
+  <Set id="2" subset="1" span="word_31" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_29" concept_id="14" name="SELF_MOVER" />
+  </Set>
+  <Set id="3" subset="2" span="word_46" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_44" concept_id="18" name="SELF_MOVER" />
+    <Frame fe="2" span="word_47..word_49" concept_id="20" name="SOURCE" />
+  </Set>
+  <Set id="4" subset="1" span="word_53" frame="ARRIVING" head="dojeżdżać">
+    <Frame fe="1" span="word_54" concept_id="23" name="GOAL" />
+    <Frame fe="2" span="word_57,word_58" concept_id="24,25" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_71" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_67..word_68" concept_id="29" name="TIME" />
+    <Frame fe="2" span="word_70" concept_id="30" name="SELF_MOVER" />
+    <Frame fe="3" span="word_72..word_73" concept_id="32" name="SOURCE" />
+  </Set>
+  <Set id="6" subset="1" span="word_77" frame="DEPARTING" head="ruszać">
+    <Frame fe="1" span="word_78..word_80" concept_id="34" name="SOURCE" />
+  </Set>
+  <Set id="7" subset="1" span="word_86" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_82..word_84,word_85" concept_id="36,37" name="LOCATION" />
+    <Frame fe="2" span="word_89" concept_id="39" name="THEME" />
+  </Set>
+  <Set id="8" subset="1" span="word_94" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_95..word_96" concept_id="41" name="PATH" />
+  </Set>
+  <Set id="9" subset="1" span="word_97" frame="CHANGE_DIRECTION" head="skręcać">
+    <Frame fe="1" span="word_98..word_99" concept_id="43" name="DIRECTION" />
+    <Frame fe="2" span="word_100..word_101" concept_id="44" name="GOAL" />
+  </Set>
+  <Set id="10" subset="1" span="word_102" frame="ARRIVING" head="dojeżdżać">
+    <Frame fe="1" span="word_104..word_106" concept_id="46" name="GOAL" />
+  </Set>
+  <Set id="11" subset="1" span="word_112" frame="SELF_MOTION" head="jeździć">
+    <Frame fe="1" span="word_110" concept_id="48" name="SELF_MOVER" />
+    <Frame fe="2" span="word_113" concept_id="50" name="PLACE" />
+    <Frame fe="3" span="word_114..word_117" concept_id="51" name="PATH" />
+  </Set>
+</Frames>

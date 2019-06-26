@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-23_13_36_34" version="5" version_date="100912">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="30.498" topic="to1">
+<Turn startTime="0" endTime="0.441">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.441" endTime="2.509">
+<Sync time="0.441"/>
+dzień dobry xxx w czym mogę pomóc 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.509" endTime="12.919">
+<Sync time="2.509"/>
+
+<Event desc="int" type="noise" extent="next"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry ja mam pytanie takiej treści mianowicie czterysta osiem kierunek Osiedle Górczewska tak gdzieś koło trzynastej 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ przystanek Plac Na Rozdrożu
+</Turn>
+<Turn speaker="spk1" startTime="12.919" endTime="15.994">
+<Sync time="12.919"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dobrze 
+<Event desc="noise" type="noise" extent="end"/>
+ koło godziny 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.994" endTime="17.963">
+<Sync time="15.994"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ trzynasta czternasta
+</Turn>
+<Turn speaker="spk1" startTime="17.963" endTime="23.439">
+<Sync time="17.963"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana 
+<Event desc="~" type="lexical" extent="begin"/>
+tu
+<Event desc="~" type="lexical" extent="end"/>
+taj pierwszy odjazd z Placu Na Rozdrożu w kierunku Górczewskiej 
+<Event desc="~" type="lexical" extent="begin"/>
+j
+<Event desc="~" type="lexical" extent="end"/>
+est o trzynastej pięćdziesiąt jeden
+</Turn>
+<Turn speaker="spk2" startTime="23.439" endTime="24.271">
+<Sync time="23.439"/>
+pięćdziesiąt jeden 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="24.271" endTime="24.754">
+<Sync time="24.271"/>
+<Who nb="1"/>
+dobra
+<Who nb="2"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="24.754" endTime="25.299">
+<Sync time="24.754"/>
+dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="25.299" endTime="25.994">
+<Sync time="25.299"/>
+proszę bardzo
+</Turn>
+<Turn speaker="spk2" startTime="25.994" endTime="26.51">
+<Sync time="25.994"/>
+do widzenia
+</Turn>
+<Turn speaker="spk1" startTime="26.51" endTime="27.022">
+<Sync time="26.51"/>
+do usłyszenia
+</Turn>
+<Turn startTime="27.022" endTime="30.498">
+<Sync time="27.022"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

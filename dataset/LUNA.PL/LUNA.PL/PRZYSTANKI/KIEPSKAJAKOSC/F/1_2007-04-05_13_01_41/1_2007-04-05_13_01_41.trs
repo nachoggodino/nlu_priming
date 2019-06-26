@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-04-05_13_01_41" version="4" version_date="071001">
+<Topics>
+<Topic id="to1" desc="female user, low recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="52.497" topic="to1">
+<Turn startTime="0" endTime="1.567">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.567" endTime="4.609">
+<Sync time="1.567"/>
+<Event desc="noise" type="noise" extent="begin"/> dzień dobry<Event desc="int" type="noise" extent="previous"/> xxx w czym mogę pomóc <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="4.609" endTime="8.21">
+<Sync time="4.609"/>
+<Event desc="noise" type="noise" extent="begin"/> dzień dobry proszę pani jestem na Centralnym <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="8.21" endTime="8.483">
+<Sync time="8.21"/>
+<Event desc="noise" type="noise" extent="begin"/> ta<Event desc="~" type="lexical" extent="begin"/>k<Event desc="~" type="lexical" extent="end"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="8.483" endTime="17.344">
+<Sync time="8.483"/>
+<Event desc="noise" type="noise" extent="begin"/> i zawsze stąd miałam autobus linii pięćset na Bródno na Podgrodzie ale nie widzę teraz przystanku ja nie wiem czy on nadal jest ten autobus pięćset czy wycofany <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="17.344" endTime="20.15">
+<Sync time="17.344"/>
+<Event desc="noise" type="noise" extent="begin"/> jest ten autobus cały czas <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="20.15" endTime="20.993">
+<Sync time="20.15"/>
+<Event desc="noise" type="noise" extent="begin"/> s<Event desc="~" type="lexical" extent="begin"/>ł<Event desc="~" type="lexical" extent="end"/>ucham <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="20.993" endTime="23.061">
+<Sync time="20.993"/>
+<Event desc="noise" type="noise" extent="begin"/> cały czas jeździ ten autobus <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="23.061" endTime="29.262">
+<Sync time="23.061"/>
+<Event desc="noise" type="noise" extent="begin"/> cały czas jeździ tak <Event desc="?" type="lexical" extent="instantaneous"/>  i tu gdzieś musi być z Centralnego tak i gdzieś musi tu być <Event desc="filler" type="lexical" extent="instantaneous"/> jego przystanek <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="29.262" endTime="30.318">
+<Sync time="29.262"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="babble" type="noise" extent="begin"/> on ma przysta<Event desc="~" type="lexical" extent="begin"/>nek<Event desc="~" type="lexical" extent="end"/> <Event desc="babble" type="noise" extent="end"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="30.318" endTime="31.58">
+<Sync time="30.318"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="babble" type="noise" extent="begin"/> czy on ma pętlę tu <Event desc="?" type="lexical" extent="instantaneous"/> <Event desc="babble" type="noise" extent="end"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="31.58" endTime="35.123">
+<Sync time="31.58"/>
+<Event desc="noise" type="noise" extent="begin"/> <Event desc="~" type="lexical" extent="begin"/>Cen<Event desc="~" type="lexical" extent="end"/>tralny tak przy Emilii Plater <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="35.123" endTime="37.328">
+<Sync time="35.123"/>
+<Event desc="noise" type="noise" extent="begin"/> aha przystanek ma <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="37.328" endTime="38.946">
+<Sync time="37.328"/>
+<Event desc="noise" type="noise" extent="begin"/> przy Emilii Plater pę<Event desc="~" type="lexical" extent="begin"/>tla<Event desc="~" type="lexical" extent="end"/> <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="38.946" endTime="42.744">
+<Sync time="38.946"/>
+<Event desc="noise" type="noise" extent="begin"/> aha na Emilii Plater a nie tutaj gdzie ja jestem na <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1 spk2" startTime="42.744" endTime="43.456">
+<Sync time="42.744"/>
+<Who nb="1"/>
+to jest to jest przy
+<Who nb="2"/>
+Dworcu Centralnym aha
+</Turn>
+<Turn speaker="spk2" startTime="43.456" endTime="49.26">
+<Sync time="43.456"/>
+<Event desc="noise" type="noise" extent="begin"/> przy <Event desc="babble" type="noise" extent="begin"/> Emilii Plater <Event desc="babble" type="noise" extent="end"/> dobrze dobrze dziękuję bardzo to już to już wiem którędy <Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="49.26" endTime="50.035">
+<Sync time="49.26"/>
+<Event desc="noise" type="noise" extent="begin"/> proszę bardzo do usłyszenia<Event desc="noise" type="noise" extent="end"/>
+</Turn>
+<Turn startTime="50.035" endTime="52.497">
+<Sync time="50.035"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

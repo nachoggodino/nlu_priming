@@ -1,0 +1,23 @@
+<Frames>
+  <Set id="1" subset="2" span="word_15" frame="ESCAPING" head="wysiąść">
+    <Frame fe="1" span="word_11..word_13" concept_id="6" name="PLACE" />
+  </Set>
+  <Set id="2" subset="2" span="word_16" frame="RIDE_VEHICLE" head="jechać">
+    <Frame fe="1" span="word_17" concept_id="9" name="VEHICLE" />
+  </Set>
+  <Set id="3" subset="1" span="word_26" frame="GET" head="trafić">
+    <Frame fe="1" span="word_24..word_25" concept_id="11" name="GOAL" />
+  </Set>
+  <Set id="4" subset="1" span="word_52" frame="SELF_MOTION" head="przejść">
+    <Frame fe="1" span="word_46..word_48,word_49" concept_id="21,22" name="GOAL" />
+  </Set>
+  <Set id="5" subset="1" span="word_57" frame="BEING_LOCATED" head="być">
+    <Frame fe="1" span="word_64" concept_id="25" name="THEME" />
+  </Set>
+  <Set id="6" subset="3" span="word_68" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_69" concept_id="28" name="ENTITY" />
+  </Set>
+  <Set id="7" subset="2" span="word_71" frame="EXISTENCE" head="być">
+    <Frame fe="1" span="word_73..word_74" concept_id="30" name="ENTITY" />
+  </Set>
+</Frames>

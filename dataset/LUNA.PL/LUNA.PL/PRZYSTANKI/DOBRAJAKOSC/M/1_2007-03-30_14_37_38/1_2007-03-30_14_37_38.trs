@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-30_14_37_38" version="4" version_date="080418">
+<Topics>
+<Topic id="to1" desc="male user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="63.996" topic="to1">
+<Turn startTime="0" endTime="0.271">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.271" endTime="1.696">
+<Sync time="0.271"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ xxx dzień 
+<Event desc="noise" type="noise" extent="end"/>
+ dobry
+</Turn>
+<Turn speaker="spk2" startTime="1.696" endTime="10.406">
+<Sync time="1.696"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień dobry proszę pana 
+<Event desc="*" type="pronounce" extent="begin"/>
+ja mam
+<Event desc="*" type="pronounce" extent="end"/>
+ o której 
+<Event desc="*" type="pronounce" extent="begin"/>
+będzie
+<Event desc="*" type="pronounce" extent="end"/>
+ sto czterdzieści trzy będzie najbliższy 
+<Event desc="*" type="pronounce" extent="begin"/>
+z
+<Event desc="*" type="pronounce" extent="end"/>
+ Alei 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ Alei Witosa w stronę Gocławia 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="10.406" endTime="12.717">
+<Sync time="10.406"/>
+z tego przystanku 
+<Event desc="fr" type="language" extent="begin"/>
+vis-a-vis
+<Event desc="fr" type="language" extent="end"/>
+ ZUSu ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="12.717" endTime="22.32">
+<Sync time="12.717"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ no nie nie tam 
+<Event desc="fr" type="language" extent="begin"/>
+vis-a-vis
+<Event desc="fr" type="language" extent="end"/>
+ Panoramy 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ przez Siekierko
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+ski tam w stronę Gocławia 
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="22.32" endTime="24.964">
+<Sync time="22.32"/>
+ale to nie z tego przystanku Aleja Witosa 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="24.964" endTime="25.706">
+<Sync time="24.964"/>
+no to 
+<Event desc="~" type="lexical" extent="begin"/>
+j
+<Event desc="~" type="lexical" extent="end"/>
+est 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.706" endTime="28.132">
+<Sync time="25.706"/>
+czy 
+<Event desc="babble" type="noise" extent="begin"/>
+ Bartoszka 
+<Event desc="babble" type="noise" extent="end"/>
+ na żądanie 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="28.132" endTime="34.355">
+<Sync time="28.132"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wie pan gdzie jest się zaczyna Most Siekierkowski tam w stronę 
+<Event desc="int" type="noise" extent="next"/>
+Gocławia gdzie ma 
+<Event desc="~" type="lexical" extent="begin"/>
+on
+<Event desc="~" type="lexical" extent="end"/>
+ przystanek pierwszy sto czterdzieści trzy
+</Turn>
+<Turn speaker="spk1" startTime="34.355" endTime="38.972">
+<Sync time="34.355"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy tak naprawdę Most Siekierkowski to się zaczyna za Siekierki Sanktuarium
+</Turn>
+<Turn speaker="spk2" startTime="38.972" endTime="42.501">
+<Sync time="38.972"/>
+no w
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+aśnie przed tym przed tym przystanek o której 
+<Event desc="*" type="pronounce" extent="begin"/>
+jest
+<Event desc="*" type="pronounce" extent="end"/>
+ sto 
+<Event desc="*" type="pronounce" extent="begin"/>
+czterdzieści trzy
+<Event desc="*" type="pronounce" extent="end"/>
+ najbliższy
+</Turn>
+<Turn speaker="spk1" startTime="42.501" endTime="45.262">
+<Sync time="42.501"/>
+aha czyli to 
+<Event desc="noise" type="noise" extent="begin"/>
+ wtedy 
+<Event desc="noise" type="noise" extent="end"/>
+ przystanek Małe Siekierki ale to nie jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="45.262" endTime="46.63">
+<Sync time="45.262"/>
+<Who nb="1"/>
+tak tak tak tak
+<Who nb="2"/>
+na wysokości Panoramy
+</Turn>
+<Turn speaker="spk2" startTime="46.63" endTime="47.938">
+<Sync time="46.63"/>
+
+<Event desc="int" type="noise" extent="instantaneous"/>
+ aha
+</Turn>
+<Turn speaker="spk1" startTime="47.938" endTime="60.854">
+<Sync time="47.938"/>
+dobrze 
+<Event desc="noise" type="noise" extent="begin"/>
+ najbliższy już chwileczkę 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ czternasta czterdzieści sześ
+<Event desc="~" type="lexical" extent="begin"/>
+ć
+<Event desc="~" type="lexical" extent="end"/>
+ piętnasta zero jeden 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="60.854" endTime="62.177">
+<Sync time="60.854"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+aha no dobrze
+<Event desc="*" type="pronounce" extent="end"/>
+ dzięku
+<Event desc="~" type="lexical" extent="begin"/>
+ję
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="62.177" endTime="62.667">
+<Sync time="62.177"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ do widzenia 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="62.667" endTime="63.996">
+<Sync time="62.667"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

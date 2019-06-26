@@ -1,0 +1,52 @@
+<concepts>
+  <concept id="1" span="word_1..word_2" attribute="CONV_FORM" value="HELLO" />
+  <concept id="2" span="word_3" attribute="PERSON_NAME" value="xxx" />
+  <concept id="3" span="word_9..word_10" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_13..word_15" attribute="AROUND_HOUR" value="9 : 00" />
+  <concept id="5" span="word_16" attribute="REACTION" value="Confirmation" />
+  <concept id="6" span="word_17..word_19" attribute="SOURCE_STP" value="Muranów" />
+  <concept id="7" span="word_20..word_22" attribute="GOAL_DIRECTION_TD" value="Mokotów" />
+  <concept id="8" span="word_23" attribute="TRAM" value="18" />
+  <concept id="9" span="word_24" attribute="CONJUNCTION" value="Alternative" />
+  <concept id="10" span="word_25..word_26" attribute="TRAM" value="36" />
+  <concept id="11" span="word_28" attribute="ACTION" value="Check" />
+  <concept id="12" span="word_29..word_30" attribute="AROUND_HOUR" value="9 : 00" />
+  <concept id="13" span="word_31" attribute="Q_CONF" value="IsIt" />
+  <concept id="14" span="word_35" attribute="TRAM" value="18" />
+  <concept id="15" span="word_36" attribute="ACTION" value="ToBe" />
+  <concept id="16" span="word_38..word_40" attribute="AT_HOUR" value="8 : 32" />
+  <concept id="17" span="word_42" attribute="ACTION" value="ToBe" />
+  <concept id="18" span="word_43" attribute="DEPARTURE" value="Last" />
+  <concept id="19" span="word_44..word_45" attribute="GOAL_TD" value="Mokotów" />
+  <concept id="20" span="word_46..word_47" attribute="GOAL_STR" value="Woronicza" />
+  <concept id="21" span="word_48" attribute="REACTION" value="Negation" />
+  <concept id="22" span="word_50" attribute="TIME_REL" value="Later" />
+  <concept id="23" span="word_52" attribute="ACTION" value="Concern" />
+  <concept id="24" span="word_55" attribute="AT_HOUR" value="9 : 00" />
+  <concept id="25" span="word_56" attribute="REACTION" value="Confirmation" />
+  <concept id="26" span="word_57" attribute="REACTION" value="Confirmation" />
+  <concept id="27" span="word_61" attribute="REACTION" value="Confirmation" />
+  <concept id="28" span="word_62..word_64" attribute="AT_HOUR" value="8 : 55" />
+  <concept id="29" span="word_65..word_66" attribute="AT_HOUR_MINPART" value="55" />
+  <concept id="30" span="word_67" attribute="REACTION" value="Confirmation" />
+  <concept id="31" span="word_68..word_69" attribute="AT_HOUR" value="9 : 10" />
+  <concept id="32" span="word_70" attribute="REACTION" value="Confirmation" />
+  <concept id="33" span="word_73" attribute="NUMB_SEQ" value="2." />
+  <concept id="34" span="word_74..word_75" attribute="TRAM" value="36" />
+  <concept id="35" span="word_80..word_82" attribute="AT_HOUR" value="8 : 53" />
+  <concept id="36" span="word_83" attribute="REACTION" value="Confirmation" />
+  <concept id="37" span="word_84..word_86" attribute="AT_HOUR" value="8 : 58" />
+  <concept id="38" span="word_88" attribute="AT_HOUR_PART" value="8 : 00" />
+  <concept id="39" span="word_89..word_90" attribute="TRANSPORT_RATE_REL" value="Freq" />
+  <concept id="40" span="word_96" attribute="TIME_REL" value="Later" />
+  <concept id="41" span="word_98..word_99" attribute="AT_HOUR" value="9 : 00" />
+  <concept id="42" span="word_100" attribute="ACTION" value="ToBe" />
+  <concept id="43" span="word_101" attribute="TRANSPORT_RATE_REL" value="LessFreq" />
+  <concept id="44" span="word_103..word_104" attribute="AT_HOUR_MINPART" value="58" />
+  <concept id="45" span="word_105" attribute="REACTION" value="Confirmation" />
+  <concept id="46" span="word_106..word_107" attribute="Q_DEPARTURE" value="Next" />
+  <concept id="47" span="word_109..word_110" attribute="AT_HOUR" value="9 : 05" />
+  <concept id="48" span="word_111" attribute="REACTION" value="Confirmation" />
+  <concept id="49" span="word_121..word_122" attribute="CONV_FORM" value="BYE" />
+  <concept id="50" span="word_123..word_124" attribute="CONV_FORM" value="BYE" />
+</concepts>

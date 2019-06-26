@@ -1,0 +1,11 @@
+<Anaphoras>
+  <anaphora id="1" concept_id="9">
+    <target concept_id="10" />
+  </anaphora>
+  <anaphora id="2" concept_id="14">
+    <target concept_id="13" />
+  </anaphora>
+  <anaphora id="3" concept_id="23">
+    <target concept_id="24" />
+  </anaphora>
+</Anaphoras>

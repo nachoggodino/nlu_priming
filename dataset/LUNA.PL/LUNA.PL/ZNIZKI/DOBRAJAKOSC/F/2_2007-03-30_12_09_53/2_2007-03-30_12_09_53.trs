@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="2_2007-03-30_12_09_53" version="4" version_date="070927">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="165.990" topic="to1">
+<Turn startTime="0" endTime="1.415">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.415" endTime="3.174">
+<Sync time="1.415"/>
+dzień dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="3.174" endTime="11.463">
+<Sync time="3.174"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ dzień dobry panu 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ proszę pana ja z takim 
+<Event desc="*" type="pronounce" extent="begin"/>
+pytaniem
+<Event desc="*" type="pronounce" extent="end"/>
+ skończyłam pięćdziesiąt pięć lat jestem na wcześniejszej emeryturze czy mnie przysługuje 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ ulgowy bilet 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.463" endTime="15.221">
+<Sync time="11.463"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ no 
+<Event desc="babble" type="noise" extent="end"/>
+to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ już pełna emerytura nie jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ to emerytura tak zwana pomostowa 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.221" endTime="17.868">
+<Sync time="15.221"/>
+tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ to znaczy należy mi się
+</Turn>
+<Turn speaker="spk1" startTime="17.868" endTime="20.06">
+<Sync time="17.868"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ ale 
+<Event desc="babble" type="noise" extent="end"/>
+ ten to znaczy pełna 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="20.06" endTime="21.561">
+<Sync time="20.06"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ to znaczy jak pełna 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="21.561" endTime="26.213">
+<Sync time="21.561"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy no pytam czy jest to emerytura pomostowa czy już normalne świadczenie 
+<Event desc="babble" type="noise" extent="begin"/>
+ emerytal
+<Event desc="~" type="lexical" extent="begin"/>
+ne
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="26.213" endTime="47.981">
+<Sync time="26.213"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to 
+<Event desc="babble" type="noise" extent="end"/>
+ znaczy jeszcze nie dostałam skończy
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am 
+<Event desc="noise" type="noise" extent="begin"/>
+ we wrześniu pięćdziesiąt pięć lat 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i nic nie dosta
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am nie wiem czy ja mam pójść do ZUSu czy czy oni 
+<Event desc="babble" type="noise" extent="begin"/>
+ sami to 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ robią pojęcia nie mam tak że 
+<Event desc="babble" type="noise" extent="begin"/>
+ żadnej wiadomości nie 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ dosta
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am 
+<Event desc="noise" type="noise" extent="begin"/>
+ ty
+<Event desc="~" type="lexical" extent="begin"/>
+l
+<Event desc="~" type="lexical" extent="end"/>
+ko 
+<Event desc="noise" type="noise" extent="end"/>
+ słyszę od różnych znajomych że 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="begin"/>
+ jak skończą pięćdziesiąt pięć lat 
+<Event desc="noise" type="noise" extent="begin"/>
+ to 
+<Event desc="babble" type="noise" extent="end"/>
+ już 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ można no 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ korzystać 
+<Event desc="babble" type="noise" extent="begin"/>
+ z ulgowego biletu 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="47.981" endTime="50.602">
+<Sync time="47.981"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę
+<Event desc="*" type="pronounce" extent="end"/>
+ pani nie to nie jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ na podstawie wieku
+</Turn>
+<Turn speaker="spk2" startTime="50.602" endTime="50.933">
+<Sync time="50.602"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="50.933" endTime="63.359">
+<Sync time="50.933"/>
+tylko to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ na podstawie właśnie jeżeli osoba ma już świadczenia 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ emerytalne pełne na podstawie legitymacji emeryta albo 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ odcinka 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ emerytury 
+</Turn>
+<Turn speaker="spk2" startTime="63.359" endTime="68.994">
+<Sync time="63.359"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy odcinki dostawa
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am 
+<Event desc="noise" type="noise" extent="begin"/>
+ dopóki przy przysyłali teraz od jakiegoś czasu nie przysyłają 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="68.994" endTime="70.979">
+<Sync time="68.994"/>
+a ma pani już legitymację emeryta 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="70.979" endTime="75.384">
+<Sync time="70.979"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ nie mam 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ nie mam 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="75.384" endTime="76.031">
+<Sync time="75.384"/>
+proszę pani 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="76.031" endTime="78.828">
+<Sync time="76.031"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ miałam 
+<Event desc="babble" type="noise" extent="end"/>
+ tylko odcinki dopóki przysyłały 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="78.828" endTime="80.3078195842">
+<Sync time="78.828"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha 
+<Event desc="noise" type="noise" extent="end"/>
+ a teraz 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="80.3078195842" endTime="80.651">
+<Sync time="80.3078195842"/>
+
+<Sync time="80.457"/>
+<Who nb="1"/>
+pani
+<Who nb="2"/>
+decyzję
+</Turn>
+<Turn speaker="spk2" startTime="80.651" endTime="81.586">
+<Sync time="80.651"/>
+oczywiście no
+</Turn>
+<Turn speaker="spk1" startTime="81.586" endTime="83.516">
+<Sync time="81.586"/>
+teraz pani pieniążki na konto przychodzą 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="83.516" endTime="85.218">
+<Sync time="83.516"/>
+tak tak bo musia
+<Event desc="~" type="lexical" extent="begin"/>
+ł
+<Event desc="~" type="lexical" extent="end"/>
+am
+</Turn>
+<Turn speaker="spk1" startTime="85.218" endTime="95.672">
+<Sync time="85.218"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+proszę pani
+<Event desc="*" type="pronounce" extent="end"/>
+ w takim razie na podstawie wyciągu bankowego o pobieraniu świadczenia 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wraz z dokumentem tożsamości ma pani uprawnienia do czterdziestoośmioprocentowej ulgi 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="95.672" endTime="96.787">
+<Sync time="95.672"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ aha 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="96.787" endTime="103.617">
+<Sync time="96.787"/>
+a jak będzie pani miała legitymację emeryta z ZUSu taka zieloną plastikową to na podstawie tej legitymacji 
+<Event desc="noise" type="noise" extent="begin"/>
+wraz z dokumentem tożsamości 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="103.617" endTime="106.093">
+<Sync time="103.617"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a to powinnam się zgłosić jednak to znaczy 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="106.093" endTime="111.159">
+<Sync time="106.093"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tego to ja nie wiem czy trzeba się zgłaszać czy oni sami 
+<Event desc="babble" type="noise" extent="begin"/>
+ przysyłają ale chyba 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ powinni sami przysłać 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="111.159" endTime="116.45">
+<Sync time="111.159"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ no właśnie tak bo wiem że 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ ci znajomi to mają właśnie taką zieloną legitymację o której pan mówi 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="116.45" endTime="116.834">
+<Sync time="116.45"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="116.834" endTime="120.015">
+<Sync time="116.834"/>
+ja nie mam no mam tylko te stare odcinki do do 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ już nie
+</Turn>
+<Turn speaker="spk1" startTime="120.015" endTime="126.816">
+<Sync time="120.015"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ to ewentualnie 
+<Event desc="babble" type="noise" extent="end"/>
+ się musi pani zapytać kiedy kiedy pani przyślą czy może już wysłali 
+<Event desc="noise" type="noise" extent="begin"/>
+ czy czy czy 
+<Event desc="noise" type="noise" extent="end"/>
+ ale to już musi się pani w ZUSie pytać
+</Turn>
+<Turn speaker="spk2" startTime="126.816" endTime="133.625">
+<Sync time="126.816"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ ale czy pan uważa że w tej chwili jak 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ wezmę z konta emeryturę i z wyciągiem 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z konta i 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="133.625" endTime="137.901">
+<Sync time="133.625"/>
+tak no tak jak pani mówię bo pani jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ już na na normalnej pełnej emeryturze tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="137.901" endTime="140.565">
+<Sync time="137.901"/>
+to znaczy nie no razie nic nie dostałam wiadomości 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="140.565" endTime="140.892">
+<Sync time="140.565"/>
+<Who nb="1"/>
+ ale
+<Who nb="2"/>
+żadnej
+</Turn>
+<Turn speaker="spk1" startTime="140.892" endTime="142.823">
+<Sync time="140.892"/>
+co jest na decyzji napisane 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="142.823" endTime="144.318">
+<Sync time="142.823"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="144.318" endTime="149.811">
+<Sync time="144.318"/>
+co napisali pani na decyzji że jest to emerytura 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ czy jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ to emerytura pomostowa wie pani o co chodzi
+</Turn>
+<Turn speaker="spk1 spk2" startTime="149.811" endTime="150.617">
+<Sync time="149.811"/>
+<Who nb="1"/>
+z tymi 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+rozumiem
+</Turn>
+<Turn speaker="spk2" startTime="150.617" endTime="150.828">
+<Sync time="150.617"/>
+tak
+</Turn>
+<Turn speaker="spk1" startTime="150.828" endTime="159.338">
+<Sync time="150.828"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ 
+<Event desc="~" type="lexical" extent="begin"/>
+e
+<Event desc="~" type="lexical" extent="end"/>
+meryturami pomostowymi 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ bo jeżeli to jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ emerytura pomostowa to nie ma żadnej ulgi jeżeli jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ to już pełna emerytura no to ma pani czterdzieści osiem procent ulgi
+</Turn>
+<Turn speaker="spk2" startTime="159.338" endTime="161.579">
+<Sync time="159.338"/>
+
+<Event desc="noise" type="noise" extent="begin"/>
+ rozumiem 
+<Event desc="noise" type="noise" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ rozumiem dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="161.579" endTime="161.939">
+<Sync time="161.579"/>
+<Who nb="1"/>
+panu
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk1" startTime="161.939" endTime="162.391">
+<Sync time="161.939"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ uprzejmie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="162.391" endTime="163.167">
+<Sync time="162.391"/>
+<Who nb="1"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+dzi
+<Event desc="~" type="lexical" extent="end"/>
+ękuję
+<Who nb="2"/>
+dziękuję
+</Turn>
+<Turn speaker="spk1" startTime="163.167" endTime="163.667">
+<Sync time="163.167"/>
+do usłyszenia
+</Turn>
+<Turn startTime="163.667" endTime="165.990">
+<Sync time="163.667"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

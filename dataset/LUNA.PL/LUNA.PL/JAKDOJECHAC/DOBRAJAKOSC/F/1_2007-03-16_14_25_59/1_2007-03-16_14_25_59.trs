@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-16_14_25_59" version="6" version_date="071205">
+<Topics>
+<Topic id="to1" desc="female user, mid recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="109.993" topic="to1">
+<Turn startTime="0" endTime="0.968">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.968" endTime="2.650">
+<Sync time="0.968"/>
+dzień dobry xxx słucham
+</Turn>
+<Turn speaker="spk2" startTime="2.650" endTime="15.508">
+<Sync time="2.650"/>
+
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dzień
+<Event desc="int" type="noise" extent="previous"/>
+ dobry proszę pana ja nie wiem czy ja się dobrze 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ dodzwoniłam chciał
+<Event desc="~" type="lexical" extent="begin"/>
+a
+<Event desc="~" type="lexical" extent="end"/>
+bym prosić o informację jak można 
+<Event desc="babble" type="noise" extent="begin"/>
+ dojechać na ulicę Braci Załuskich z Metra Wilanowska 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ z tym że 
+<Event desc="babble" type="noise" extent="end"/>
+ właśnie od strony Włościańskiej 
+<Event desc="babble" type="noise" extent="begin"/>
+ czy jest jakieś połączenie 
+<Event desc="babble" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="15.508" endTime="56.526">
+<Sync time="15.508"/>
+proszę chwileczkę zaczekać już szukam 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="jingle" type="noise" extent="instantaneous"/>
+ proszę pani z Metra Wilanowska dojedzie pani tramwajem dziewiętnastką 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="56.526" endTime="57.167">
+<Sync time="56.526"/>
+dziewiętnastką 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="57.167" endTime="58.386">
+<Sync time="57.167"/>
+<Who nb="1"/>
+bezpośrednio dojadę 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+<Who nb="2"/>
+tak tak tak
+</Turn>
+<Turn speaker="spk1" startTime="58.386" endTime="59.534">
+<Sync time="58.386"/>
+bezpośrednio
+</Turn>
+<Turn speaker="spk2" startTime="59.534" endTime="63.258">
+<Sync time="59.534"/>
+a to pewnie z godzinę potrwa co 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="begin"/>
+ jak pan myśli 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="63.258" endTime="64.085">
+<Sync time="63.258"/>
+słucham 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="64.085" endTime="66.769">
+<Sync time="64.085"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ to pewnie przypuszczam że około godziny potrwa 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="66.769" endTime="67.86">
+<Sync time="66.769"/>
+nie
+</Turn>
+<Turn speaker="spk2" startTime="67.86" endTime="70.806">
+<Sync time="67.86"/>
+taka podróż nie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="70.806" endTime="72.569">
+<Sync time="70.806"/>
+czterdzieści minut
+</Turn>
+<Turn speaker="spk2" startTime="72.569" endTime="90.127">
+<Sync time="72.569"/>
+aha 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ a jeszcze
+<Event desc="int" type="noise" extent="previous"/>
+ ewentualnie od Placu 
+<Event desc="en" type="language" extent="begin"/>
+Wilson
+<Event desc="en" type="language" extent="end"/>
+a 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ jest 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ jakaś 
+<Event desc="babble" type="noise" extent="begin"/>
+ możliwość 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="int" type="noise" extent="instantaneous"/>
+ bo 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="90.127" endTime="95.68">
+<Sync time="90.127"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ Placu Wilsona 
+<Event desc="babble" type="noise" extent="end"/>
+ sto dwadzieścia jeden sto trzydzieści dwa pięćset dwadzieścia 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="95.68" endTime="99.986">
+<Sync time="95.68"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ i ona się zatrzymuje tutaj od strony Armii Krajowej właśnie 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+ czy na czy
+</Turn>
+<Turn speaker="spk1" startTime="99.986" endTime="103.649">
+<Sync time="99.986"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ od Broniewskiego one jadą Broniewskiego 
+<Event desc="babble" type="noise" extent="end"/>
+ tak 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="103.649" endTime="104.552">
+<Sync time="103.649"/>
+okey dobra to dziękuję
+<Event desc="int" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="104.552" endTime="106.711">
+<Sync time="104.552"/>
+<Who nb="1"/>
+ślicznie do usłyszenia
+<Who nb="2"/>
+bardzo proszę do usłyszenia
+</Turn>
+<Turn startTime="106.711" endTime="109.993">
+<Sync time="106.711"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

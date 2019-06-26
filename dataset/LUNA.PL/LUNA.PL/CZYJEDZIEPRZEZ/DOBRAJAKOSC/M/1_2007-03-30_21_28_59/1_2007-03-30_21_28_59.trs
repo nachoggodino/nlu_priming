@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="RG" audio_filename="1_2007-03-30_21_28_59" version="6" version_date="100914">
+<Topics>
+<Topic id="to1" desc="male user, good recording quality"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="operator" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="user" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="69.496" topic="to1">
+<Turn startTime="0" endTime="0.425">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.425" endTime="1.957">
+<Sync time="0.425"/>
+xxx dobry wieczór 
+<Event desc="int" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1.957" endTime="9.945">
+<Sync time="1.957"/>
+
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ dobry wieczór ja chcia
+<Event desc="~" type="lexical" extent="begin"/>
+łe
+<Event desc="~" type="lexical" extent="end"/>
+m się zapytać 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ na Rakowiec 
+<Event desc="filler" type="lexical" extent="instantaneous"/>
+ tam na ten przystanek to nocne 
+<Event desc="noise" type="noise" extent="begin"/>
+ sześćset 
+<Event desc="noise" type="noise" extent="end"/>
+ pięć chodzi czy sześćset jedenaś
+<Event desc="~" type="lexical" extent="begin"/>
+cie
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.945" endTime="10.988">
+<Sync time="9.945"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ sześćset 
+<Event desc="babble" type="noise" extent="end"/>
+ jedenaście
+</Turn>
+<Turn speaker="spk2" startTime="10.988" endTime="12.116">
+<Sync time="10.988"/>
+sześćset jedenaście tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.116" endTime="12.905">
+<Sync time="12.116"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+tak
+<Event desc="*" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="12.905" endTime="14.879">
+<Sync time="12.905"/>
+i on Aleją Krakowską leci 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.879" endTime="17.161">
+<Sync time="14.879"/>
+
+<Event desc="~" type="lexical" extent="begin"/>
+z
+<Event desc="~" type="lexical" extent="end"/>
+naczy on jedzie Żwirki i Wigury
+</Turn>
+<Turn speaker="spk2" startTime="17.161" endTime="17.748">
+<Sync time="17.161"/>
+aha 
+</Turn>
+<Turn speaker="spk1" startTime="17.748" endTime="20.293">
+<Sync time="17.748"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ bo jes
+<Event desc="~" type="lexical" extent="begin"/>
+t
+<Event desc="~" type="lexical" extent="end"/>
+ przystanek 
+<Event desc="babble" type="noise" extent="end"/>
+ Rakowiec i 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+P K P
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ Rakowiec
+</Turn>
+<Turn speaker="spk2" startTime="20.293" endTime="21.831">
+<Sync time="20.293"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ aha 
+<Event desc="babble" type="noise" extent="end"/>
+ 
+<Event desc="*" type="pronounce" extent="begin"/>
+znaczy
+<Event desc="*" type="pronounce" extent="end"/>
+ 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+P K P
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ Rakowiec
+</Turn>
+<Turn speaker="spk2 spk1" startTime="21.831" endTime="23.417">
+<Sync time="21.831"/>
+<Who nb="1"/>
+chodzi tam gdzie tramwaj chodzi
+<Who nb="2"/>
+
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+ tutaj nad
+</Turn>
+<Turn speaker="spk1" startTime="23.417" endTime="24.544">
+<Sync time="23.417"/>
+Krako
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+ską
+</Turn>
+<Turn speaker="spk2" startTime="24.544" endTime="24.926">
+<Sync time="24.544"/>
+tak ta
+<Event desc="~" type="lexical" extent="begin"/>
+k
+<Event desc="~" type="lexical" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="24.926" endTime="25.975">
+<Sync time="24.926"/>
+
+<Event desc="babble" type="noise" extent="begin"/>
+ co ten 
+<Event desc="babble" type="noise" extent="end"/>
+ wiadukt jest 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.975" endTime="26.606">
+<Sync time="25.975"/>
+tak tak
+</Turn>
+<Turn speaker="spk1" startTime="26.606" endTime="58.953">
+<Sync time="26.606"/>
+a to zaraz sprawdzę 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ 
+<Event desc="noise" type="noise" extent="instantaneous"/>
+ na przystanku 
+<Event desc="SPELLED" type="pronounce" extent="begin"/>
+P K P
+<Event desc="SPELLED" type="pronounce" extent="end"/>
+ Rakowiec się nie zatrzymuje żaden 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="58.953" endTime="59.999">
+<Sync time="58.953"/>
+no to tam gdzieś w 
+<Event desc="unintelligible" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="59.999" endTime="60.632">
+<Sync time="59.999"/>
+<Who nb="1"/>
+w pobliżu
+<Who nb="2"/>
+to to
+</Turn>
+<Turn speaker="spk1" startTime="60.632" endTime="61.967">
+<Sync time="60.632"/>
+wtedy sześćset pięć
+</Turn>
+<Turn speaker="spk1 spk2" startTime="61.967" endTime="62.468">
+<Sync time="61.967"/>
+<Who nb="1"/>
+autobu
+<Event desc="~" type="lexical" extent="begin"/>
+s
+<Event desc="~" type="lexical" extent="end"/>
+
+<Who nb="2"/>
+sześćset
+</Turn>
+<Turn speaker="spk2" startTime="62.468" endTime="64.356">
+<Sync time="62.468"/>
+pięć i on jedzie Aleją Krako
+<Event desc="~" type="lexical" extent="begin"/>
+w
+<Event desc="~" type="lexical" extent="end"/>
+ską tak 
+<Event desc="?" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="64.356" endTime="64.986">
+<Sync time="64.356"/>
+tak
+</Turn>
+<Turn speaker="spk2" startTime="64.986" endTime="66.72">
+<Sync time="64.986"/>
+aha dobrze a dziękuję
+</Turn>
+<Turn speaker="spk2 spk1" startTime="66.72" endTime="67.121">
+<Sync time="66.72"/>
+<Who nb="1"/>
+
+<Event desc="*" type="pronounce" extent="begin"/>
+dobranoc
+<Event desc="*" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+proszę
+</Turn>
+<Turn speaker="spk2" startTime="67.121" endTime="67.464">
+<Sync time="67.121"/>
+bardzo
+</Turn>
+<Turn startTime="67.464" endTime="69.496">
+<Sync time="67.464"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

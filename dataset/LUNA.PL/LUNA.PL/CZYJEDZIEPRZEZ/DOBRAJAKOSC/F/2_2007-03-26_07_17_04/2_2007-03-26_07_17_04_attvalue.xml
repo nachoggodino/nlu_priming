@@ -1,0 +1,52 @@
+<concepts>
+  <concept id="1" span="word_1" attribute="PERSON_NAME" value="xxx" />
+  <concept id="2" span="word_2..word_3" attribute="CONV_FORM" value="HELLO" />
+  <concept id="3" span="word_4..word_5" attribute="CONV_FORM" value="HELLO" />
+  <concept id="4" span="word_8" attribute="ACTION" value="Request" />
+  <concept id="5" span="word_9" attribute="ACTION" value="ToAsk" />
+  <concept id="6" span="word_10" attribute="Q_CONF" value="YesNoQuestion" />
+  <concept id="7" span="word_11..word_12" attribute="TRAM" value="15" />
+  <concept id="8" span="word_14" attribute="TRAM" value="6" />
+  <concept id="9" span="word_15" attribute="REACTION" value="Confirmation" />
+  <concept id="10" span="word_16..word_18" attribute="SOURCE_STR" value="Plac Wilsona" />
+  <concept id="11" span="word_19" attribute="ACTION" value="Go" />
+  <concept id="12" span="word_20..word_21" attribute="GOAL_BLD" value="UKSW" />
+  <concept id="13" span="word_23" attribute="REACTION" value="Negation" />
+  <concept id="14" span="word_24" attribute="REACTION" value="Negation" />
+  <concept id="15" span="word_25" attribute="ACTION" value="Go" />
+  <concept id="16" span="word_26..word_28" attribute="TIME_REL" value="Now" />
+  <concept id="17" span="word_29" attribute="ACTION" value="Go" />
+  <concept id="18" span="word_30" attribute="ROUTE_COMP" value="Different" />
+  <concept id="19" span="word_32" attribute="REACTION" value="Negation" />
+  <concept id="20" span="word_33" attribute="REACTION" value="Negation" />
+  <concept id="21" span="word_34" attribute="ACTION" value="Go" />
+  <concept id="22" span="word_36" attribute="PATH_STR" value="Słowackiego" />
+  <concept id="23" span="word_38" attribute="TRAM" value="General" />
+  <concept id="24" span="word_39" attribute="REACTION" value="Confirmation" />
+  <concept id="25" span="word_47..word_49" attribute="Q_WHAT_STP" value="General" />
+  <concept id="26" span="word_52" attribute="ACTION" value="GoBack" />
+  <concept id="27" span="word_54" attribute="ACTION" value="Approach" />
+  <concept id="28" span="word_56..word_58" attribute="SOURCE_STR" value="Plac Wilsona" />
+  <concept id="29" span="word_59..word_60" attribute="GOAL_BLD" value="UKSW" />
+  <concept id="30" span="word_64" attribute="ACTION" value="GetIn" />
+  <concept id="31" span="word_66" attribute="BUS" value="General" />
+  <concept id="32" span="word_67..word_68" attribute="Q_WHAT_TRM" value="Bus" />
+  <concept id="33" span="word_70..word_72" attribute="BUS" value="181" />
+  <concept id="34" span="word_73..word_75" attribute="BUS" value="181" />
+  <concept id="35" span="word_80" attribute="ACTION" value="Tell" />
+  <concept id="36" span="word_81" attribute="Q_WHAT_TIME" value="General" />
+  <concept id="37" span="word_82" attribute="ACTION" value="ToBe" />
+  <concept id="38" span="word_83" attribute="DEPARTURE" value="Nearest" />
+  <concept id="39" span="word_86" attribute="ACTION" value="Check" />
+  <concept id="40" span="word_87" attribute="DEPARTURE" value="Nearest" />
+  <concept id="41" span="word_88" attribute="ACTION" value="ToBe" />
+  <concept id="42" span="word_89..word_90" attribute="AT_HOUR" value="7 : 20" />
+  <concept id="43" span="word_92..word_94" attribute="TRANSPORT_RATE" value="10 min" />
+  <concept id="44" span="word_95" attribute="ACTION" value="Go" />
+  <concept id="45" span="word_96..word_98" attribute="TRANSPORT_RATE" value="10 min" />
+  <concept id="46" span="word_102" attribute="BUS" value="General" />
+  <concept id="47" span="word_104" attribute="REACTION" value="Confirmation" />
+  <concept id="48" span="word_105" attribute="REACTION" value="Confirmation" />
+  <concept id="49" span="word_108..word_109" attribute="CONV_FORM" value="BYE" />
+  <concept id="50" span="word_112..word_113" attribute="CONV_FORM" value="BYE" />
+</concepts>

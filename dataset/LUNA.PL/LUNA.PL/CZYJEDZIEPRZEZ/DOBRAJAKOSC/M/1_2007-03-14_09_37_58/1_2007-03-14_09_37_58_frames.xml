@@ -1,0 +1,18 @@
+<Frames>
+  <Set id="1" subset="1" span="word_10" frame="TOPIC" head="zapytać">
+    <Frame fe="1" span="word_12..word_13" concept_id="6" name="TOPIC" />
+  </Set>
+  <Set id="2" subset="1" span="word_14" frame="MOTION" head="iść">
+    <Frame fe="1" span="word_15..word_16" concept_id="8" name="GOAL" />
+  </Set>
+  <Set id="3" subset="1" span="word_28" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_26" concept_id="15" name="PATH" />
+    <Frame fe="2" span="word_27" concept_id="16" name="SELF_MOVER" />
+    <Frame fe="3" span="word_29..word_30" concept_id="18" name="SOURCE" />
+  </Set>
+  <Set id="4" subset="1" span="word_32" frame="SELF_MOTION" head="jechać">
+    <Frame fe="1" span="word_31" concept_id="19" name="SELF_MOVER" />
+    <Frame fe="2" span="word_33..word_34" concept_id="21" name="PATH" />
+    <Frame fe="3" span="word_35..word_36" concept_id="22" name="PATH" />
+  </Set>
+</Frames>
